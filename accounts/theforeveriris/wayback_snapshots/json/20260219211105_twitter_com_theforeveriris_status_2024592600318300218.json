@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2024523103439900763",
+    "created_at": "2026-02-19T21:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T22:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024592600318300218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933059068144594944",
+          "start": 0,
+          "username": "Pont082179"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024592600318300218",
+    "in_reply_to_user_id": "1933059068144594944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024523103439900763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pont082179 没有力(&gt;﹏&lt;)昨晚应该熬个夜的）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2024523091116961792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiNBmWaMAAHVj7.jpg",
+        "width": 648
+      },
+      {
+        "height": 1964,
+        "media_key": "3_2024523091125424130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiNBmYbUAI42wd.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2024523103439900763",
+        "created_at": "2026-02-19T21:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T22:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024592600318300218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933059068144594944",
+              "start": 0,
+              "username": "Pont082179"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024592600318300218",
+        "in_reply_to_user_id": "1933059068144594944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024523103439900763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pont082179 没有力(&gt;﹏&lt;)昨晚应该熬个夜的）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024523091116961792",
+            "3_2024523091125424130"
+          ]
+        },
+        "author_id": "1933059068144594944",
+        "conversation_id": "2024523103439900763",
+        "created_at": "2026-02-19T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024523103439900763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6SwFsw9sQ",
+              "end": 123,
+              "expanded_url": "https://x.com/Pont082179/status/2024523103439900763/photo/1",
+              "media_key": "3_2024523091116961792",
+              "start": 100,
+              "url": "https://t.co/z6SwFsw9sQ"
+            },
+            {
+              "display_url": "pic.x.com/z6SwFsw9sQ",
+              "end": 123,
+              "expanded_url": "https://x.com/Pont082179/status/2024523103439900763/photo/1",
+              "media_key": "3_2024523091125424130",
+              "start": 100,
+              "url": "https://t.co/z6SwFsw9sQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024523103439900763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1864,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍞的解密红包好有意思，我也要玩！一共四道题，除了问题3之外，其他问题都没有太强的专业壁垒（虽然学过离散数学的可能一下就能答出来吧）。其中有一道题可能AI也会答错，需要问两次才能得到答案，来玩一下吧🥺 https://t.co/z6SwFsw9sQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 428,
+          "like_count": 11127,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2838
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T07:09:42.000Z",
+        "description": "A cyber drifter | 可以叫我ptr或小特 | 🌈 | 纸片人正态控 | 随缘互fo | 鉴证🚫 | 会清三无账号fo | 当朋友圈发 | 认出我请不要说出去 | 生活号没有涩涩看黄号不要关注我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pont83280",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pont83280",
+                "start": 0,
+                "url": "https://t.co/ySY6nU4iNA"
+              }
+            ]
+          }
+        },
+        "id": "1933059068144594944",
+        "location": "绒宝的萨米雪景球",
+        "name": "PTR.指针小特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014060694917009408/2-3E1eQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 156,
+          "like_count": 1504,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/ySY6nU4iNA",
+        "username": "Pont082179",
+        "verified": false
+      }
+    ]
+  }
+}

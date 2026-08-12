@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2070349880531538033",
+    "created_at": "2026-06-26T12:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070480108797022507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "981057178214612992",
+          "start": 0,
+          "username": "noobnooc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070480108797022507",
+    "in_reply_to_user_id": "981057178214612992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070349880531538033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noobnooc - 局部样式用在全局上\n- CSS类名混乱，内联样式泛滥\n- 简单的边缘功能库库 npm install 需要业内公认的模块功能自己瞎写轮子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2070349880531538033",
+        "created_at": "2026-06-26T12:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070480108797022507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "981057178214612992",
+              "start": 0,
+              "username": "noobnooc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070480108797022507",
+        "in_reply_to_user_id": "981057178214612992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070349880531538033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noobnooc - 局部样式用在全局上\n- CSS类名混乱，内联样式泛滥\n- 简单的边缘功能库库 npm install 需要业内公认的模块功能自己瞎写轮子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981057178214612992",
+        "conversation_id": "2070349880531538033",
+        "created_at": "2026-06-26T03:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070349880531538033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070349880531538033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1679,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Codex 写前端三宗罪：\n\n- 把思考和要求直接当文案写在 UI 上\n- 所有功能平铺，完全没有层级\n- 界面上的层级一层套一层，最终效果像俄罗斯套娃\n\n你们有补充的吗 😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 447,
+          "like_count": 16923,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 3757
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-03T06:33:53.000Z",
+        "description": "人类；AI 记忆卡学习 https://t.co/M4uyG85O8M / Webhook、邮件电话提醒 https://t.co/DqZWORlijO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dippod.com",
+                "end": 35,
+                "expanded_url": "http://dippod.com",
+                "start": 12,
+                "url": "https://t.co/M4uyG85O8M"
+              },
+              {
+                "display_url": "echobell.one",
+                "end": 76,
+                "expanded_url": "http://echobell.one",
+                "start": 53,
+                "url": "https://t.co/DqZWORlijO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nooc.me",
+                "end": 23,
+                "expanded_url": "https://nooc.me",
+                "start": 0,
+                "url": "https://t.co/GPIkoZWqYS"
+              }
+            ]
+          }
+        },
+        "id": "981057178214612992",
+        "location": "无人深空",
+        "name": "Nooc",
+        "pinned_tweet_id": "2001125698883461438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021934578051809280/Ge5gLGwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6615,
+          "following_count": 511,
+          "like_count": 8255,
+          "listed_count": 74,
+          "media_count": 1654,
+          "tweet_count": 8597
+        },
+        "url": "https://t.co/GPIkoZWqYS",
+        "username": "noobnooc",
+        "verified": true
+      }
+    ]
+  }
+}

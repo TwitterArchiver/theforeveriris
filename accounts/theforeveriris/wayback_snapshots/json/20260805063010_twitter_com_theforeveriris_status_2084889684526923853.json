@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084888202993885308",
+    "created_at": "2026-08-05T06:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084889684526923853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084889684526923853",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084888505977643104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 详细说说为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084888202993885308",
+        "created_at": "2026-08-05T06:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084889684526923853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084889684526923853",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084888505977643104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 详细说说为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2084888202993885308",
+        "created_at": "2026-08-05T06:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084888505977643104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 58,
+              "expanded_url": "https://x.com/theforeveriris/status/2083929369370906721",
+              "start": 35,
+              "url": "https://t.co/PujQ2cjPRg"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 94,
+              "expanded_url": "https://x.com/theforeveriris/status/2084615258765930498",
+              "start": 71,
+              "url": "https://t.co/M4FeWVGBto"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 129,
+              "expanded_url": "https://x.com/theforeveriris/status/2084584441918505303",
+              "start": 106,
+              "url": "https://t.co/FZlbtk3rbK"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 165,
+              "expanded_url": "https://x.com/theforeveriris/status/2079004835530293607",
+              "start": 142,
+              "url": "https://t.co/lapNnU6wqd"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 200,
+              "expanded_url": "https://x.com/theforeveriris/status/2083160896751521994",
+              "start": 177,
+              "url": "https://t.co/6CxH9EjYoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084888505977643104",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/theforeveriris…",
+                "end": 42,
+                "expanded_url": "https://x.com/theforeveriris/status/2083929369370906721",
+                "start": 19,
+                "url": "https://t.co/Sv3ZLcwkCZ"
+              },
+              {
+                "display_url": "x.com/theforeveriris…",
+                "end": 78,
+                "expanded_url": "https://x.com/theforeveriris/status/2084615258765930498",
+                "start": 55,
+                "url": "https://t.co/dCK9mnP7wT"
+              },
+              {
+                "display_url": "x.com/theforeveriris…",
+                "end": 113,
+                "expanded_url": "https://x.com/theforeveriris/status/2084584441918505303",
+                "start": 90,
+                "url": "https://t.co/YbpbaJ4AaU"
+              },
+              {
+                "display_url": "x.com/theforeveriris…",
+                "end": 149,
+                "expanded_url": "https://x.com/theforeveriris/status/2079004835530293607",
+                "start": 126,
+                "url": "https://t.co/OCwaNyEymj"
+              },
+              {
+                "display_url": "x.com/theforeveriris…",
+                "end": 184,
+                "expanded_url": "https://x.com/theforeveriris/status/2083160896751521994",
+                "start": 161,
+                "url": "https://t.co/dBeOZgHq4N"
+              },
+              {
+                "display_url": "x.com/theforeveriris…",
+                "end": 234,
+                "expanded_url": "https://x.com/theforeveriris/status/2084709194108973474",
+                "start": 211,
+                "url": "https://t.co/X3ypkba7QJ"
+              }
+            ]
+          },
+          "text": "最恶心：把血液滴进杯子凝固成果冻那条\nhttps://t.co/Sv3ZLcwkCZ\n\n最不恶心：沙箱活了！\nhttps://t.co/dCK9mnP7wT\n\n最无聊：单纯一个？\nhttps://t.co/YbpbaJ4AaU\n\n最有趣：微软大战代码\nhttps://t.co/OCwaNyEymj\n\n最没有价值：好好好\nhttps://t.co/dBeOZgHq4N\n\n最有价值：详细拆解contactin诈骗站点那条\nhttps://t.co/X3ypkba7QJ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083160896751521994",
+            "type": "quoted"
+          },
+          {
+            "id": "2084888202993885308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 最恶心：把血液滴进杯子凝固成果冻那条\nhttps://t.co/PujQ2cjPRg\n\n最不恶心：沙箱活了！\nhttps://t.co/M4FeWVGBto\n\n最无聊：单纯一个？\nhttps://t.co/FZlbtk3rbK\n\n最有趣：微软大战代码\nhttps://t.co/lapNnU6wqd\n\n最没有价值：好好好\nhttps://t.co/6CxH9EjYoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 460,
+          "like_count": 18861,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 4141
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8913631,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7268,
+          "media_count": 9221695,
+          "tweet_count": 134109905
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

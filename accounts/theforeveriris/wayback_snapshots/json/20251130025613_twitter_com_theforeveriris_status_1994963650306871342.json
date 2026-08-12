@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1994752359122309314",
+    "created_at": "2025-11-30T02:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T03:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994963650306871342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994963650306871342",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994752359122309314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 廣闊天地 大有可為"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1994752359122309314",
+        "created_at": "2025-11-30T02:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T03:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994963650306871342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994963650306871342",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994752359122309314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 廣闊天地 大有可為"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1994752359122309314",
+        "created_at": "2025-11-29T12:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994752359122309314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994752359122309314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 212363,
+          "like_count": 1105,
+          "quote_count": 6,
+          "reply_count": 215,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "中国人妈的，韩国不推荐去，日本不推荐去，台湾去不了，俄罗斯打仗去不了，中亚不推荐去，缅甸柬埔寨诈骗不推荐去，印度不推荐去。\n\n一个国家整个她妈的一圈推荐去关系好的只有一个泰国。去干嘛？变性吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 397,
+          "like_count": 6053,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2178
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21799,
+          "following_count": 200,
+          "like_count": 683,
+          "listed_count": 75,
+          "media_count": 95,
+          "tweet_count": 21453
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

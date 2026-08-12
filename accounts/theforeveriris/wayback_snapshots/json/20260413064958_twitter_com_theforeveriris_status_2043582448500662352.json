@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2043561219140022740",
+    "created_at": "2026-04-13T06:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043582448500662352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043582448500662352",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043561219140022740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 感觉新版的底栏没有原来的圆角悬浮底栏适配主题了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1002,
+        "media_key": "3_2043559554882187264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwuloIbsAA4URr.jpg",
+        "width": 616
+      },
+      {
+        "height": 952,
+        "media_key": "3_2043561206456410113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwwFwuaYAECriH.jpg",
+        "width": 517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2043561219140022740",
+        "created_at": "2026-04-13T06:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043582448500662352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043582448500662352",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043561219140022740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 感觉新版的底栏没有原来的圆角悬浮底栏适配主题了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043559554882187264",
+            "3_2043561206456410113"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2043561219140022740",
+        "created_at": "2026-04-13T05:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043561219140022740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt.mahiro.uk",
+              "end": 36,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "start": 13,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/thW0wJpqxz"
+            },
+            {
+              "display_url": "pic.x.com/mvqyNmWSUk",
+              "end": 183,
+              "expanded_url": "https://x.com/smiroyama/status/2043561219140022740/photo/1",
+              "media_key": "3_2043559554882187264",
+              "start": 160,
+              "url": "https://t.co/mvqyNmWSUk"
+            },
+            {
+              "display_url": "pic.x.com/mvqyNmWSUk",
+              "end": 183,
+              "expanded_url": "https://x.com/smiroyama/status/2043561219140022740/photo/1",
+              "media_key": "3_2043561206456410113",
+              "start": 160,
+              "url": "https://t.co/mvqyNmWSUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043561219140022740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 36,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 13,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "text": "最近这两天，我一直在调整 https://t.co/pJ9VtduSxe 的 UI 界面，说实在话，我从一开始到现在都对这个网页应用程序的 UI 不满意。\n\n修 UI 最重要的三点（我自己编的），一是要让用户快捷使用应用程序的功能，二是要让文字和各个控件变得排版好看，三是要让用户在使用应用程序的过程中感到舒服，不会掉 san，说实在话，这三点一直都没有做到，我承认这是我的问题qwq"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近这两天，我一直在调整 https://t.co/thW0wJpqxz 的 UI 界面，说实在话，我从一开始到现在都对这个网页应用程序的 UI 不满意。\n\n修 UI 最重要的三点（我自己编的），一是要让用户快捷使用应用程序的功能，二是要让文字和各个控件变得排版好看，三是要让用户在使用应用程序的过程中感到舒服，不会掉 https://t.co/mvqyNmWSUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 454,
+          "like_count": 13523,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3177
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 1836,
+          "like_count": 7530,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 4632
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

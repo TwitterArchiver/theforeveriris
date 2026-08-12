@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061692978822005196",
+    "created_at": "2026-06-03T01:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061989641528762615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1053619569363869696",
+          "start": 0,
+          "username": "mizumaruP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061989641528762615",
+    "in_reply_to_user_id": "1053619569363869696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061692978822005196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizumaruP 反代出来卖给别人你不炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061692978822005196",
+        "created_at": "2026-06-03T01:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061989641528762615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1053619569363869696",
+              "start": 0,
+              "username": "mizumaruP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061989641528762615",
+        "in_reply_to_user_id": "1053619569363869696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061692978822005196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizumaruP 反代出来卖给别人你不炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053619569363869696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2061692978822005196",
+        "created_at": "2026-06-02T06:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061692978822005196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061692978822005196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 748140,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "ゲーム開発やVRchatワールド開発を\nAIで効率化しませんか？\n\n累計2000DL突破\nゲーム開発やワールド、シェーダー作成など様々なことに対応\nBoothにて大好評販売中です！ ¥9900"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 459,
+          "like_count": 16056,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 3636
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-20T12:10:55.000Z",
+        "description": "Composer/Vocaloid producer/Mix 「遺書を書くつもりでした。」 SwipeMusicとかKawaii AgentとかSynaptic AIとか作りました。mail:mizumarurun1@gmail.com i:@nimlenu skeb:https://t.co/s6Eg46Wgml",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 121,
+                "username": "nimlenu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mizumaruP",
+                "end": 158,
+                "expanded_url": "http://skeb.jp/@mizumaruP",
+                "start": 135,
+                "url": "https://t.co/s6Eg46Wgml"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCbuuO…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCbuuOD7pP4lYzhb2r0mvSew",
+                "start": 0,
+                "url": "https://t.co/oGMhd1s9IE"
+              }
+            ]
+          }
+        },
+        "id": "1053619569363869696",
+        "location": "saitama",
+        "name": "mizumaru@作曲依頼等募集中",
+        "pinned_tweet_id": "2038926139683688631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583804736507383810/8sI20Jv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 226,
+          "like_count": 59479,
+          "listed_count": 34,
+          "media_count": 212,
+          "tweet_count": 4419
+        },
+        "url": "https://t.co/oGMhd1s9IE",
+        "username": "mizumaruP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2022127586009395294",
+    "created_at": "2026-02-13T03:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022145879524962401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "Fayoubaike000"
+        },
+        {
+          "end": 25,
+          "id": "1773934439414018048",
+          "start": 15,
+          "username": "liki24003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022145879524962401",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022127586009395294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayoubaike000 @liki24003 已经开始反胃了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10007,
+        "height": 960,
+        "media_key": "7_2022127562693263360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022127562693263360/pu/img/RijmfgLXhRNBWETB.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022127562693263360/pu/vid/avc1/320x426/T57ptE2VdABhVp__.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022127562693263360/pu/vid/avc1/480x640/lwxDUCO8f6ECL8hS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022127562693263360/pu/vid/avc1/720x960/bJL2QHY49HzDcjJ9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022127562693263360/pu/pl/uFWQ_PYTdSTduF_W.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2022127586009395294",
+        "created_at": "2026-02-13T03:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022145879524962401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "Fayoubaike000"
+            },
+            {
+              "end": 25,
+              "id": "1773934439414018048",
+              "start": 15,
+              "username": "liki24003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022145879524962401",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022127586009395294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayoubaike000 @liki24003 已经开始反胃了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022127562693263360"
+          ]
+        },
+        "author_id": "2008181604360003584",
+        "conversation_id": "2022127586009395294",
+        "created_at": "2026-02-13T01:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T02:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022127586009395294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AxFhyFAPM",
+              "end": 23,
+              "expanded_url": "https://x.com/Fayoubaike000/status/2022127586009395294/video/1",
+              "media_key": "7_2022127562693263360",
+              "start": 0,
+              "url": "https://t.co/6AxFhyFAPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022127586009395294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6AxFhyFAPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 422,
+          "like_count": 10745,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 2750
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n交流群：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 54,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 31,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 84,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 61,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom",
+                "start": 0,
+                "url": "https://t.co/AAUURL4h0r"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2019732708784775304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019730982350516224/BtvjrHz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 99,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/AAUURL4h0r",
+        "username": "Fayoubaike000",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T04:45:15.000Z",
+        "description": "海鸥鸥，这里是海鸥鸥，非常温柔的一枚大龄mtf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liki240003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liki240003",
+                "start": 0,
+                "url": "https://t.co/zcBBVJJ8sO"
+              }
+            ]
+          }
+        },
+        "id": "1773934439414018048",
+        "location": "木卫六-冰川上狂奔",
+        "name": "海鸥鸥欧欧🍊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863038364779261952/IjUxzCXz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 1765,
+          "like_count": 8910,
+          "listed_count": 6,
+          "media_count": 138,
+          "tweet_count": 3115
+        },
+        "url": "https://t.co/zcBBVJJ8sO",
+        "username": "liki24003",
+        "verified": false
+      }
+    ]
+  }
+}

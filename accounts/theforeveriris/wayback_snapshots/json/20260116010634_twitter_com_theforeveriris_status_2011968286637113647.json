@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2011860935691117028",
+    "created_at": "2026-01-16T01:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T02:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011968286637113647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011968286637113647",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011860935691117028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 物資匱乏年代可以用新鮮尿液（？）在貝爺荒野求生裡面看到過"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 573,
+        "media_key": "3_2008053162574594048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94JtlVbwAAQBhC.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2011860935691117028",
+        "created_at": "2026-01-16T01:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T02:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011968286637113647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011968286637113647",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011860935691117028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 物資匱乏年代可以用新鮮尿液（？）在貝爺荒野求生裡面看到過"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008053162574594048"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2011860935691117028",
+        "created_at": "2026-01-15T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011860935691117028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fx65bEJ8Y",
+              "end": 41,
+              "expanded_url": "https://x.com/BI3BXI/status/2011860935691117028/photo/1",
+              "media_key": "3_2008053162574594048",
+              "start": 18,
+              "url": "https://t.co/4fx65bEJ8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011860935691117028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 41057,
+          "like_count": 310,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可以 物资缺乏时代就是这样消毒的。 https://t.co/4fx65bEJ8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 401,
+          "like_count": 6550,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2333
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@snowfairy011026所属｜前世17kfollowers @ryq59｜本体@yqua_｜除了梗图外 时不时发一些有价值的内容｜点击“查看更多”可以了解我～｜400一年X Premium可以私信我｜杂鱼@cy79p｜浔姐姐@tonghua245｜🌟😠@long_long99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "username": "ryq59"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "username": "yqua_"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "username": "cy79p"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "tonghua245"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "long_long99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPBAmp"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6115,
+          "following_count": 3246,
+          "like_count": 29868,
+          "listed_count": 16,
+          "media_count": 1127,
+          "tweet_count": 5336
+        },
+        "url": "https://t.co/9ZD7jPBAmp",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

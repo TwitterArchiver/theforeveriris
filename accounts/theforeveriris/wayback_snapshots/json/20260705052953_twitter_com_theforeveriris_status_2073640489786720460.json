@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073640479313600512",
+        "3_2073640485613404160"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2073640489786720460",
+    "created_at": "2026-07-05T05:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073640489786720460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/07o4rZZd9u",
+          "end": 118,
+          "expanded_url": "https://x.com/theforeveriris/status/2073640489786720460/photo/1",
+          "media_key": "3_2073640479313600512",
+          "start": 95,
+          "url": "https://t.co/07o4rZZd9u"
+        },
+        {
+          "display_url": "pic.x.com/07o4rZZd9u",
+          "end": 118,
+          "expanded_url": "https://x.com/theforeveriris/status/2073640489786720460/photo/1",
+          "media_key": "3_2073640485613404160",
+          "start": 95,
+          "url": "https://t.co/07o4rZZd9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073640489786720460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "据悉 mihoyo 旗下游戏原神将与 中国本土大模型 kimi 展开联动，在 11.4 版本后所有角色对话和剧情走向将全部使用大模型生成。目前“霜月”地图已出现联动预热彩蛋地图“月之暗面” https://t.co/07o4rZZd9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073640479313600512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcNB4FboAAaPP-.jpg",
+        "width": 1535
+      },
+      {
+        "height": 504,
+        "media_key": "3_2073640485613404160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcNCPjbAAAxLmz.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073640479313600512",
+            "3_2073640485613404160"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2073640489786720460",
+        "created_at": "2026-07-05T05:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073640489786720460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/07o4rZZd9u",
+              "end": 118,
+              "expanded_url": "https://x.com/theforeveriris/status/2073640489786720460/photo/1",
+              "media_key": "3_2073640479313600512",
+              "start": 95,
+              "url": "https://t.co/07o4rZZd9u"
+            },
+            {
+              "display_url": "pic.x.com/07o4rZZd9u",
+              "end": 118,
+              "expanded_url": "https://x.com/theforeveriris/status/2073640489786720460/photo/1",
+              "media_key": "3_2073640485613404160",
+              "start": 95,
+              "url": "https://t.co/07o4rZZd9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073640489786720460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据悉 mihoyo 旗下游戏原神将与 中国本土大模型 kimi 展开联动，在 11.4 版本后所有角色对话和剧情走向将全部使用大模型生成。目前“霜月”地图已出现联动预热彩蛋地图“月之暗面” https://t.co/07o4rZZd9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 447,
+          "like_count": 17004,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3786
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

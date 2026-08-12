@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2056660143056556059",
+    "created_at": "2026-07-16T00:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077553082821705763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823987651655127040",
+          "start": 0,
+          "username": "ookoukibob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077553082821705763",
+    "in_reply_to_user_id": "1823987651655127040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056660143056556059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ookoukibob 神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056660134374305792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq5ft0WcAAq_YR.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056660135997505536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq5fz3WgAA09VG.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056660135682985984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq5fysXUAAYdlE.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056660135271870464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq5fxKWMAAFF-a.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056660143056556059",
+        "created_at": "2026-07-16T00:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077553082821705763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823987651655127040",
+              "start": 0,
+              "username": "ookoukibob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077553082821705763",
+        "in_reply_to_user_id": "1823987651655127040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056660143056556059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ookoukibob 神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056660134374305792",
+            "3_2056660135997505536",
+            "3_2056660135682985984",
+            "3_2056660135271870464"
+          ]
+        },
+        "author_id": "1823987651655127040",
+        "conversation_id": "2056660143056556059",
+        "created_at": "2026-05-19T08:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056660143056556059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuQc9xrOht",
+              "end": 38,
+              "expanded_url": "https://x.com/ookoukibob/status/2056660143056556059/photo/1",
+              "media_key": "3_2056660134374305792",
+              "start": 15,
+              "url": "https://t.co/ZuQc9xrOht"
+            },
+            {
+              "display_url": "pic.x.com/ZuQc9xrOht",
+              "end": 38,
+              "expanded_url": "https://x.com/ookoukibob/status/2056660143056556059/photo/1",
+              "media_key": "3_2056660135997505536",
+              "start": 15,
+              "url": "https://t.co/ZuQc9xrOht"
+            },
+            {
+              "display_url": "pic.x.com/ZuQc9xrOht",
+              "end": 38,
+              "expanded_url": "https://x.com/ookoukibob/status/2056660143056556059/photo/1",
+              "media_key": "3_2056660135682985984",
+              "start": 15,
+              "url": "https://t.co/ZuQc9xrOht"
+            },
+            {
+              "display_url": "pic.x.com/ZuQc9xrOht",
+              "end": 38,
+              "expanded_url": "https://x.com/ookoukibob/status/2056660143056556059/photo/1",
+              "media_key": "3_2056660135271870464",
+              "start": 15,
+              "url": "https://t.co/ZuQc9xrOht"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2056660143056556059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13301,
+          "like_count": 59,
+          "quote_count": 11,
+          "reply_count": 28,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官和欧迪🐔哥の禁断之恋 https://t.co/ZuQc9xrOht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 454,
+          "like_count": 17740,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3931
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T07:38:48.000Z",
+        "description": "伪娘享受者｜PDW现役编辑｜狂热の日麻雀士\nBass🎸&Drum🥁&Winds🪈\n27fall🇦🇺 English/中文OK  \n查成分互fo LGBTQ+Friendly🏳️‍⚧️🏳️‍🌈\nTelegram频道https://t.co/hCjhUdZOZv\n站点链接🔗https://t.co/msb6Dyz0O4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ookoukibobchan…",
+                "end": 129,
+                "expanded_url": "https://t.me/ookoukibobchannel",
+                "start": 106,
+                "url": "https://t.co/hCjhUdZOZv"
+              },
+              {
+                "display_url": "psydrugs.org",
+                "end": 158,
+                "expanded_url": "http://psydrugs.org",
+                "start": 135,
+                "url": "https://t.co/msb6Dyz0O4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ookoukibob57851",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ookoukibob57851",
+                "start": 0,
+                "url": "https://t.co/e3w2WOHwQw"
+              }
+            ]
+          }
+        },
+        "id": "1823987651655127040",
+        "location": "Toshima-ku, Tokyo",
+        "name": "OokoukiBob",
+        "pinned_tweet_id": "1971912857026547937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010081830209241089/w8z8AzRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 739,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/e3w2WOHwQw",
+        "username": "ookoukibob",
+        "verified": false
+      }
+    ]
+  }
+}

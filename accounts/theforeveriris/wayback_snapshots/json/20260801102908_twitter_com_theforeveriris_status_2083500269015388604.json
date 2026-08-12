@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083491176188096890",
+    "created_at": "2026-08-01T10:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083500269015388604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083500269015388604",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083491176188096890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 给你骄傲的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083491176188096890",
+        "created_at": "2026-08-01T10:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083500269015388604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083500269015388604",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083491176188096890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 给你骄傲的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2083491176188096890",
+        "created_at": "2026-08-01T09:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083491176188096890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "-, 视频播放量 48162、弹幕量 63、点赞数 2084、投硬币枚数 39、收藏人数 398、转发人数 600, 视频作者 小阿峰世间万物, 作者简介 厚德载物 天道酬勤，相关视频：峰哥解答:“通常啥样的人会被骗去缅北？”，峰哥刮胡子2，峰哥被河南大妈极致羞辱，笑死我了！，峰哥老婆出轨了！峰哥无能为力，只能看着装不知道。，明粉不认清朝，怒喷峰哥老祖宗投降，峰哥红温怒骂！！，帝师见过龙，峰哥:“我也见过龙！！”，峰哥怒喷周星驰《少林女足》：“闹剧电影，周星驰几十岁的人，能拍点正常电影吗！！”，峰哥锐评广东：宗族派系大于家国法律，东方维京人，峰哥：“普通人想成为有钱人，all in股票！！”，【峰哥臭骂世间b友25年2季度精彩合集】本季度峰哥臭骂普通b友人数15+，学生b友人数8+，舰长若干。本视频带你了解峰哥的另一面",
+              "display_url": "bilibili.com/video/BV1TeTC6…",
+              "end": 49,
+              "expanded_url": "https://www.bilibili.com/video/BV1TeTC6sEv8?vd_source=73244e7a044de242613889bba05070c0",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2083491182878113792/ewSCSoFH?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083491182878113792/ewSCSoFH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "峰哥：中国最后一个太监_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1TeTC6sEv8/?vd_source=73244e7a044de242613889bba05070c0",
+              "url": "https://t.co/gKqzp0bvk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083491176188096890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上电视了！！！！！！\n\n【峰哥：中国最后一个太监】https://t.co/gKqzp0bvk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 450,
+          "like_count": 18287,
+          "listed_count": 6,
+          "media_count": 382,
+          "tweet_count": 4023
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2083438750978429349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 93,
+          "like_count": 184,
+          "listed_count": 5,
+          "media_count": 611,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

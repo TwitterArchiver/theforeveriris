@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2050497126107623470",
+    "created_at": "2026-05-17T17:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056065740592283989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050086726711058432",
+          "start": 0,
+          "username": "liciiyanan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056065740592283989",
+    "in_reply_to_user_id": "2050086726711058432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050497126107623470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liciiyanan 我就是我近期（半年）合计 4 次非居住地出行，4 次遭遇下雨，下雨概率 100%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2050497126107623470",
+        "created_at": "2026-05-17T17:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056065740592283989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050086726711058432",
+              "start": 0,
+              "username": "liciiyanan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056065740592283989",
+        "in_reply_to_user_id": "2050086726711058432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050497126107623470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liciiyanan 我就是我近期（半年）合计 4 次非居住地出行，4 次遭遇下雨，下雨概率 100%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050086726711058432",
+        "conversation_id": "2050497126107623470",
+        "created_at": "2026-05-02T08:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050497126107623470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050497126107623470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以为什么让咱一个几乎不出门的人一出门就下雨呢.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 455,
+          "like_count": 14125,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3438
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T05:36:04.000Z",
+        "description": "只是个人而已哦？|ZH|三代目| ^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shiiruresena.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://shiiruresena.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/MRX3tBgvvY"
+              }
+            ]
+          }
+        },
+        "id": "2050086726711058432",
+        "name": "Liĉiiyanan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050106449343426560/InpklE5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 76,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/MRX3tBgvvY",
+        "username": "liciiyanan",
+        "verified": false
+      }
+    ]
+  }
+}

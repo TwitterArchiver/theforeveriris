@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1978866094459740269",
+    "created_at": "2025-10-18T03:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T04:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979382296437567743"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Linux",
+          "probability": 0.8811,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 84,
+          "normalized_text": "ubuntu",
+          "probability": 0.6378,
+          "start": 79,
+          "type": "Other"
+        },
+        {
+          "end": 89,
+          "normalized_text": "kali",
+          "probability": 0.467,
+          "start": 86,
+          "type": "Other"
+        },
+        {
+          "end": 180,
+          "normalized_text": "KDE",
+          "probability": 0.6794,
+          "start": 178,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1395728146146627589",
+          "start": 0,
+          "username": "yuki_yang0202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979382296437567743",
+    "in_reply_to_user_id": "1395728146146627589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978866094459740269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki_yang0202 I v never used pure Linux development. My main machine is win10+ubuntu/kali/win xp/win7 virtual machine (for penetration test), and my notebook is Win11+kali(with KDE)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1978866094459740269",
+        "created_at": "2025-10-18T03:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979382296437567743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Linux",
+              "probability": 0.8811,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "ubuntu",
+              "probability": 0.6378,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "kali",
+              "probability": 0.467,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 180,
+              "normalized_text": "KDE",
+              "probability": 0.6794,
+              "start": 178,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1395728146146627589",
+              "start": 0,
+              "username": "yuki_yang0202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979382296437567743",
+        "in_reply_to_user_id": "1395728146146627589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978866094459740269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki_yang0202 I v never used pure Linux development. My main machine is win10+ubuntu/kali/win xp/win7 virtual machine (for penetration test), and my notebook is Win11+kali(with KDE)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395728146146627589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1978866094459740269",
+        "created_at": "2025-10-16T16:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T17:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978866094459740269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/manateelazycat/status/1978746731832430692",
+              "start": 152,
+              "url": "https://t.co/l6Y7ateoIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978866094459740269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 25868,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978746731832430692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学四年+工作两年 Ubuntu 经验。\n说几个反对意见：\n1. UI 不好看、适配做的也不好，bug 比较多；\n2. 需要折腾一遍中文输入法（后期终于学会 Rime）；\n3. 很多软件没有或者适配不好，尤其是国产办公软件；\n4. 有一次被人催 DDL 了，更新系统把环境搞坏了。\n\n目前 MacOS… https://t.co/l6Y7ateoIC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 367,
+          "like_count": 6003,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2286
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T13:08:31.000Z",
+        "description": "🛠 堆栈溢出工程师 | 🐞 BUG Master\n🧑‍💻 代码主理人 | 🔮 算法占卜师\n☕️ 咖啡成瘾患者 | 🤡 杂耍架构师\n🍽️ 知食分子 | 🫓 鉴饼大师\n🇨🇳 水里的中国人 | 🍪 叫我饼干就行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yuki-node",
+                "end": 23,
+                "expanded_url": "https://github.com/yuki-node",
+                "start": 0,
+                "url": "https://t.co/pJkvw3NKvR"
+              }
+            ]
+          }
+        },
+        "id": "1395728146146627589",
+        "name": "Yuki_Yang",
+        "pinned_tweet_id": "1961327527089299856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497822047317426183/zfAm5vVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 397,
+          "like_count": 2184,
+          "listed_count": 7,
+          "media_count": 225,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/pJkvw3NKvR",
+        "username": "yuki_yang0202",
+        "verified": true
+      }
+    ]
+  }
+}

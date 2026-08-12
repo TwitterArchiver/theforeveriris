@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085592800847126528"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085592809575461165",
+    "created_at": "2026-08-07T05:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085592809575461165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ux2waXwOTR",
+          "end": 169,
+          "expanded_url": "https://x.com/theforeveriris/status/2085592809575461165/photo/1",
+          "media_key": "3_2085592800847126528",
+          "start": 146,
+          "url": "https://t.co/ux2waXwOTR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085592809575461165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来挺唏嘘的，今天和家人聊天。我一个上高中的弟弟得了抑郁症，家人对他的评价是“喜怒无常、只能哄不能凶、行为常人无法理解”，说他成绩也不好，社交也不行，出了社会都不知道该怎么办？\n只是一个抑郁症....就好像这个号练废了一样\n---\n当时没来得及录音，这是后面的录音。另外猜猜臭皮蛋是什么药 https://t.co/ux2waXwOTR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3248,
+        "media_key": "3_2085592800847126528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGDmjia4AAVlw9.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085592800847126528"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085592809575461165",
+        "created_at": "2026-08-07T05:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085592809575461165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ux2waXwOTR",
+              "end": 169,
+              "expanded_url": "https://x.com/theforeveriris/status/2085592809575461165/photo/1",
+              "media_key": "3_2085592800847126528",
+              "start": 146,
+              "url": "https://t.co/ux2waXwOTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085592809575461165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来挺唏嘘的，今天和家人聊天。我一个上高中的弟弟得了抑郁症，家人对他的评价是“喜怒无常、只能哄不能凶、行为常人无法理解”，说他成绩也不好，社交也不行，出了社会都不知道该怎么办？\n只是一个抑郁症....就好像这个号练废了一样\n---\n当时没来得及录音，这是后面的录音。另外猜猜臭皮蛋是什么药 https://t.co/ux2waXwOTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 459,
+          "like_count": 19308,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 4213
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

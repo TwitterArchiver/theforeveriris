@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978829755538644992",
+        "3_1978829756209807360",
+        "3_1978829757635780608"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1978829770923168126",
+    "created_at": "2025-10-16T14:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T15:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978829770923168126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gxGPGhwjh1",
+          "end": 158,
+          "expanded_url": "https://x.com/theforeveriris/status/1978829770923168126/photo/1",
+          "media_key": "3_1978829755538644992",
+          "start": 135,
+          "url": "https://t.co/gxGPGhwjh1"
+        },
+        {
+          "display_url": "pic.x.com/gxGPGhwjh1",
+          "end": 158,
+          "expanded_url": "https://x.com/theforeveriris/status/1978829770923168126/photo/1",
+          "media_key": "3_1978829756209807360",
+          "start": 135,
+          "url": "https://t.co/gxGPGhwjh1"
+        },
+        {
+          "display_url": "pic.x.com/gxGPGhwjh1",
+          "end": 158,
+          "expanded_url": "https://x.com/theforeveriris/status/1978829770923168126/photo/1",
+          "media_key": "3_1978829757635780608",
+          "start": 135,
+          "url": "https://t.co/gxGPGhwjh1"
+        },
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 182,
+          "expanded_url": "https://twitter.com/theforeveriris/status/1978630856647270649",
+          "start": 159,
+          "url": "https://t.co/Y3HLilgVk0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978829770923168126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978630856647270649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚上吃了烧烤(P1)，朋友请了蛋糕🎂(P2)，老板送了一碗长寿面🍜(P3)\nI ate barbecue in the ev, my fr invited a cake🍰, and the boss gv m a bowl of longevity noodles🍜. https://t.co/gxGPGhwjh1 https://t.co/Y3HLilgVk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_1978829755538644992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Y3LanaoAACmHH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1619,
+        "media_key": "3_1978829756209807360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Y3LdHbwAAtsIV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1253,
+        "media_key": "3_1978829757635780608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Y3LibaYAASlwj.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978829755538644992",
+            "3_1978829756209807360",
+            "3_1978829757635780608"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978829770923168126",
+        "created_at": "2025-10-16T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978829770923168126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxGPGhwjh1",
+              "end": 158,
+              "expanded_url": "https://x.com/theforeveriris/status/1978829770923168126/photo/1",
+              "media_key": "3_1978829755538644992",
+              "start": 135,
+              "url": "https://t.co/gxGPGhwjh1"
+            },
+            {
+              "display_url": "pic.x.com/gxGPGhwjh1",
+              "end": 158,
+              "expanded_url": "https://x.com/theforeveriris/status/1978829770923168126/photo/1",
+              "media_key": "3_1978829756209807360",
+              "start": 135,
+              "url": "https://t.co/gxGPGhwjh1"
+            },
+            {
+              "display_url": "pic.x.com/gxGPGhwjh1",
+              "end": 158,
+              "expanded_url": "https://x.com/theforeveriris/status/1978829770923168126/photo/1",
+              "media_key": "3_1978829757635780608",
+              "start": 135,
+              "url": "https://t.co/gxGPGhwjh1"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/theforeveriris/status/1978630856647270649",
+              "start": 159,
+              "url": "https://t.co/Y3HLilgVk0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978829770923168126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978630856647270649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚上吃了烧烤(P1)，朋友请了蛋糕🎂(P2)，老板送了一碗长寿面🍜(P3)\nI ate barbecue in the ev, my fr invited a cake🍰, and the boss gv m a bowl of longevity noodles🍜. https://t.co/gxGPGhwjh1 https://t.co/Y3HLilgVk0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978630856647270649",
+        "created_at": "2025-10-16T01:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978630856647270649"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978630856647270649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday?My life's balance has been reduced by another year.🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 365,
+          "like_count": 6015,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2280
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

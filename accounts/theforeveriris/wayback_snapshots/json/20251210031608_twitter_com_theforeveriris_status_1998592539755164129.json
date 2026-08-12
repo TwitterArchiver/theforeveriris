@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1998234219055833548",
+    "created_at": "2025-12-10T03:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T04:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998592539755164129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678963794943549441",
+          "start": 0,
+          "username": "ldn433467433602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998592539755164129",
+    "in_reply_to_user_id": "1678963794943549441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998234219055833548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ldn433467433602 杜撰的。根本不符合甲骨文字形風格"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_1998234209589354496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7snbTCbYAAzs2N.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1998234219055833548",
+        "created_at": "2025-12-10T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998592539755164129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678963794943549441",
+              "start": 0,
+              "username": "ldn433467433602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998592539755164129",
+        "in_reply_to_user_id": "1678963794943549441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998234219055833548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ldn433467433602 杜撰的。根本不符合甲骨文字形風格"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998234209589354496"
+          ]
+        },
+        "author_id": "1678963794943549441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998234219055833548",
+        "created_at": "2025-12-09T03:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T04:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998234219055833548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxtAskCbt5",
+              "end": 68,
+              "expanded_url": "https://x.com/ldn433467433602/status/1998234219055833548/photo/1",
+              "media_key": "3_1998234209589354496",
+              "start": 45,
+              "url": "https://t.co/LxtAskCbt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998234219055833548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 242559,
+          "like_count": 262,
+          "quote_count": 2,
+          "reply_count": 115,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我盯着这个甲骨文看了老半天，眼睛都快瞧花了，可就是认不出到底是啥字，实在是有点摸不着头脑 https://t.co/LxtAskCbt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 399,
+          "like_count": 6254,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2235
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T03:05:52.000Z",
+        "description": "nihao",
+        "id": "1678963794943549441",
+        "name": "李丹 互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678963989945147393/7mJu4UUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19702,
+          "following_count": 13349,
+          "like_count": 807,
+          "listed_count": 28,
+          "media_count": 10458,
+          "tweet_count": 10510
+        },
+        "username": "ldn433467433602",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079829749854322688"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079829758402338968",
+    "created_at": "2026-07-22T07:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079829758402338968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/33JF4WgtOV",
+          "end": 30,
+          "expanded_url": "https://x.com/theforeveriris/status/2079829758402338968/photo/1",
+          "media_key": "3_2079829749854322688",
+          "start": 7,
+          "url": "https://t.co/33JF4WgtOV"
+        },
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2079828844035604771",
+          "start": 31,
+          "url": "https://t.co/acym6xfvXm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079829758402338968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079828844035604771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的主页样式 https://t.co/33JF4WgtOV https://t.co/acym6xfvXm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2079829749854322688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0KI1lbQAAltFq.jpg",
+        "width": 1894
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2079828836041314304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0JTpXbUAA7WD8.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079829749854322688"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079829758402338968",
+        "created_at": "2026-07-22T07:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079829758402338968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33JF4WgtOV",
+              "end": 30,
+              "expanded_url": "https://x.com/theforeveriris/status/2079829758402338968/photo/1",
+              "media_key": "3_2079829749854322688",
+              "start": 7,
+              "url": "https://t.co/33JF4WgtOV"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2079828844035604771",
+              "start": 31,
+              "url": "https://t.co/acym6xfvXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079829758402338968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079828844035604771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的主页样式 https://t.co/33JF4WgtOV https://t.co/acym6xfvXm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079828836041314304"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2079828844035604771",
+        "created_at": "2026-07-22T07:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079828844035604771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "从 Pixabay 庞大的免版税素材图片、视频和音乐库中免费下载此法院教堂 宫 夜晚的photo。",
+              "display_url": "pixabay.com/zh/photos/cour…",
+              "end": 45,
+              "expanded_url": "https://pixabay.com/zh/photos/court-church-palace-night-lights-5823672/",
+              "images": [
+                {
+                  "height": 406,
+                  "url": "https://pbs.twimg.com/news_img/2079828844652179457/9tXItriC?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079828844652179457/9tXItriC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "法院教堂 宫 夜晚 - Pixabay上的免费照片",
+              "unwound_url": "https://pixabay.com/zh/photos/court-church-palace-night-lights-5823672/",
+              "url": "https://t.co/RuNNotb67F"
+            },
+            {
+              "display_url": "pic.x.com/TwVBH8PNNX",
+              "end": 69,
+              "expanded_url": "https://x.com/theforeveriris/status/2079828844035604771/photo/1",
+              "media_key": "3_2079828836041314304",
+              "start": 46,
+              "url": "https://t.co/TwVBH8PNNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079828844035604771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一张无版税图片，用于一个浏览器插件的测试https://t.co/RuNNotb67F https://t.co/TwVBH8PNNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 457,
+          "like_count": 18061,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 4022
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

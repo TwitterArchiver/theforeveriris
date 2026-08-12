@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2018743547197792489",
+    "created_at": "2026-02-04T00:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T01:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018845675530981477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018845675530981477",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018743547197792489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 他說的是誰🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2018743547197792489",
+        "created_at": "2026-02-04T00:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018845675530981477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018845675530981477",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018743547197792489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 他說的是誰🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2018743547197792489",
+        "created_at": "2026-02-03T17:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018743547197792489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nek9kuro/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/nek9kuro/status/2018470542819631136",
+              "start": 54,
+              "url": "https://t.co/PP6keZ3Lgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018743547197792489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018470542819631136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "约饭，约炮，约妆，我都见过\n谁家好人约死啊\n要是有人和我约\n我就答应他\n然后拿第一手消息炒作，此乃人间正道 https://t.co/PP6keZ3Lgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 400,
+          "like_count": 8886,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2561
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "玩网只为博君一笑",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2018552923828240414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018364510457749504/B0j0ySjd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 420,
+          "like_count": 2239,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 474
+        },
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

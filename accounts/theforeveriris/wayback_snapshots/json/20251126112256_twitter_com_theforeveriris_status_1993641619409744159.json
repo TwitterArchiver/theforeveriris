@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1993364503451578568",
+    "created_at": "2025-11-26T11:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T12:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993641619409744159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993641619409744159",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993364503451578568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 第一反應是畫極坐標hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_1993364203651186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6naLpKbwAAI9hw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1993364232826765319",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6naNV2bwAcXIoQ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1993364503451578568",
+        "created_at": "2025-11-26T11:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993641619409744159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993641619409744159",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993364503451578568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 第一反應是畫極坐標hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993364203651186688",
+            "3_1993364232826765319"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1993364503451578568",
+        "created_at": "2025-11-25T17:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993364503451578568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vk7IVmC3KU",
+              "end": 45,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993364503451578568/photo/1",
+              "media_key": "3_1993364203651186688",
+              "start": 22,
+              "url": "https://t.co/Vk7IVmC3KU"
+            },
+            {
+              "display_url": "pic.x.com/Vk7IVmC3KU",
+              "end": 45,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1993364503451578568/photo/1",
+              "media_key": "3_1993364232826765319",
+              "start": 22,
+              "url": "https://t.co/Vk7IVmC3KU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993364503451578568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7139,
+          "like_count": 123,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "不要发神秘问卷给痛苦的学生做，特别是wmc https://t.co/Vk7IVmC3KU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 397,
+          "like_count": 6021,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2167
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9492,
+          "following_count": 7799,
+          "like_count": 27435,
+          "listed_count": 23,
+          "media_count": 6513,
+          "tweet_count": 41557
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

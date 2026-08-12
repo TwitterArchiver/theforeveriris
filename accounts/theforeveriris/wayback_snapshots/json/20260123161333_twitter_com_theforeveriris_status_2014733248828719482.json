@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2014336610704470264",
+    "created_at": "2026-01-23T16:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T17:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014733248828719482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014733248828719482",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014336610704470264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 牙齿，作为“捕食/言说”双重象征的骨之花，其剥落暗示着心理能量从外放的攻击与辩辞中退潮，转向更隐秘的幽谷：对衰老、对失语、对形象被退化的焦虑，实则是心灵召唤你去认领被长期投射在外的脆弱。（以上来自 ai 的解梦）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "3_2014336606996692993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RceL4agAEdgof.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2014336610704470264",
+        "created_at": "2026-01-23T16:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014733248828719482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014733248828719482",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014336610704470264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 牙齿，作为“捕食/言说”双重象征的骨之花，其剥落暗示着心理能量从外放的攻击与辩辞中退潮，转向更隐秘的幽谷：对衰老、对失语、对形象被退化的焦虑，实则是心灵召唤你去认领被长期投射在外的脆弱。（以上来自 ai 的解梦）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014336606996692993"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2014336610704470264",
+        "created_at": "2026-01-22T13:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014336610704470264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgeaEAbhrJ",
+              "end": 37,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2014336610704470264/photo/1",
+              "media_key": "3_2014336606996692993",
+              "start": 14,
+              "url": "https://t.co/TgeaEAbhrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014336610704470264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近老是梦到自己牙齿掉光光 https://t.co/TgeaEAbhrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 387,
+          "like_count": 7113,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2393
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手) ｜「止まない雨はなく、明けない夜はない。」｜小猫🐱@ThirteenYizuka｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3Dk6EN"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒（暖冬限定☃️ ver.）",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005122410107076609/enNVWZW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 1233,
+          "like_count": 38141,
+          "listed_count": 5,
+          "media_count": 1436,
+          "tweet_count": 22920
+        },
+        "url": "https://t.co/cXoz3Dk6EN",
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

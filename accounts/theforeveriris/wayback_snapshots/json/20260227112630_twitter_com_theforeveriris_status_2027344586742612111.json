@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027326831943405650",
+    "created_at": "2026-02-27T11:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027344586742612111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991445291825000451",
+          "start": 0,
+          "username": "FreeEastAsia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027344586742612111",
+    "in_reply_to_user_id": "1991445291825000451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027344401824154029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeEastAsia 星穹铁道（bushi）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-27T11:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027344586742612111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991445291825000451",
+              "start": 0,
+              "username": "FreeEastAsia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027344586742612111",
+        "in_reply_to_user_id": "1991445291825000451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027344401824154029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeEastAsia 星穹铁道（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445291825000451",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-27T11:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027344401824154029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027344401824154029",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027326831943405650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 哇，星际铁路🌌🚇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 437,
+          "like_count": 11507,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 2962
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:55:43.000Z",
+        "description": "苍山负雪，明烛天南。",
+        "id": "1991445291825000451",
+        "name": "💐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026515025406603264/oslTGLFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 112,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 165
+        },
+        "username": "FreeEastAsia",
+        "verified": false
+      }
+    ]
+  }
+}

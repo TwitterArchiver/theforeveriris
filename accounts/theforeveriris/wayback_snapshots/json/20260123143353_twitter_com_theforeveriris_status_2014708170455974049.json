@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2014367182260715707",
+    "created_at": "2026-01-23T14:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T15:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014708170455974049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679060089007742977",
+          "start": 0,
+          "username": "wo4wendidegou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014708170455974049",
+    "in_reply_to_user_id": "1679060089007742977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014367182260715707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo4wendidegou 写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2014367182260715707",
+        "created_at": "2026-01-23T14:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014708170455974049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679060089007742977",
+              "start": 0,
+              "username": "wo4wendidegou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014708170455974049",
+        "in_reply_to_user_id": "1679060089007742977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014367182260715707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo4wendidegou 写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679060089007742977",
+        "conversation_id": "2014367182260715707",
+        "created_at": "2026-01-22T15:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014367182260715707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014367182260715707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1492,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想写随笔。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 380,
+          "like_count": 7075,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2382
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T09:28:26.000Z",
+        "description": "左派青年/尊重LGBTQ+/反中修/馬克思主義者/不是键政魔怔人/170cm 52±2kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/有时R18/在和心理疾病自由搏击ing/我喜歡你們 歡迎互fo捏～",
+        "id": "1679060089007742977",
+        "location": "半人马座",
+        "name": "化学菜鸡",
+        "pinned_tweet_id": "2004079983782965616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976982635965820928/pxRPYl9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 981,
+          "like_count": 16300,
+          "listed_count": 1,
+          "media_count": 338,
+          "tweet_count": 6403
+        },
+        "username": "wo4wendidegou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2086103750520049772",
+    "created_at": "2026-08-08T14:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T15:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086104139181044035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086104139181044035",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086103750520049772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 这个措辞不一眼假吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2086103733738536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNUSw4aAAAT2sT.jpg",
+        "width": 4080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086103744845107201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNUTaQa0AE5Bqm.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086103750520049772",
+        "created_at": "2026-08-08T14:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086104139181044035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086104139181044035",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086103750520049772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 这个措辞不一眼假吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086103733738536960",
+            "3_2086103744845107201"
+          ]
+        },
+        "author_id": "2065198058443620353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086103750520049772",
+        "created_at": "2026-08-08T14:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T15:41:27.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086100481986748846",
+          "2086103299040931891",
+          "2086103750520049772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPkgiSjNbL",
+              "end": 132,
+              "expanded_url": "https://x.com/Autonomous667/status/2086103750520049772/photo/1",
+              "media_key": "3_2086103733738536960",
+              "start": 109,
+              "url": "https://t.co/rPkgiSjNbL"
+            },
+            {
+              "display_url": "pic.x.com/rPkgiSjNbL",
+              "end": 132,
+              "expanded_url": "https://x.com/Autonomous667/status/2086103750520049772/photo/1",
+              "media_key": "3_2086103744845107201",
+              "start": 109,
+              "url": "https://t.co/rPkgiSjNbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086103750520049772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哪位纯小子用纸飞机当头像，，，，哇原来是聊天记录啊不得不信，，，\n\n我一上来就发现了两个问题：\n\n1.为什么这两张图片的身份证模糊位都是一样的，，，\n\n2.为什么当天办理银行卡当天社工库就能查询到相关银行卡信息，，，\n\n让绝顶聪明的autonomous来替恁解答一下吧：身份证模糊位都一样是因为清正这人非常懒，随便编了几位就往上写，，，至于那个神人社工库，也大大概率是余奇奇小朋友按照泛滥不知道8e库改编得来，，，"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位纯小子用纸飞机当头像，，，，哇原来是聊天记录啊不得不信，，，\n\n我一上来就发现了两个问题：\n\n1.为什么这两张图片的身份证模糊位都是一样的，，，\n\n2.为什么当天办理银行卡当天社工库就能查询到相关银行卡信息，，， https://t.co/rPkgiSjNbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 470,
+          "like_count": 19602,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 4268
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "qqqxx，，，清正协会频道：https://t.co/qHS5pY5zmK  欢迎大家踊跃参与  下面那个lol网站是我的论坛，大家可以放开玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qingzhengxh",
+                "end": 38,
+                "expanded_url": "http://t.me/qingzhengxh",
+                "start": 15,
+                "url": "https://t.co/qHS5pY5zmK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2079907481405587714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085933731429380096/SkO3fZqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 144,
+          "like_count": 1520,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

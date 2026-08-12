@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077814931727265792"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077814939969110363",
+    "created_at": "2026-07-16T17:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077814939969110363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/colY8tVl8p",
+          "end": 32,
+          "expanded_url": "https://x.com/theforeveriris/status/2077814939969110363/photo/1",
+          "media_key": "3_2077814931727265792",
+          "start": 9,
+          "url": "https://t.co/colY8tVl8p"
+        },
+        {
+          "display_url": "x.com/HaigeSenmokko/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/HaigeSenmokko/status/2077765720788574306",
+          "start": 33,
+          "url": "https://t.co/HzdGLC9psH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077814939969110363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077765720788574306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是怎么做到的？ https://t.co/colY8tVl8p https://t.co/HzdGLC9psH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1806,
+        "media_key": "3_2077814931727265792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXhq_KbMAALRZI.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2077765716569161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNW06SaXAAAv_nh.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077814931727265792"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077814939969110363",
+        "created_at": "2026-07-16T17:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077814939969110363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/colY8tVl8p",
+              "end": 32,
+              "expanded_url": "https://x.com/theforeveriris/status/2077814939969110363/photo/1",
+              "media_key": "3_2077814931727265792",
+              "start": 9,
+              "url": "https://t.co/colY8tVl8p"
+            },
+            {
+              "display_url": "x.com/HaigeSenmokko/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/HaigeSenmokko/status/2077765720788574306",
+              "start": 33,
+              "url": "https://t.co/HzdGLC9psH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077814939969110363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077765720788574306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是怎么做到的？ https://t.co/colY8tVl8p https://t.co/HzdGLC9psH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077765716569161728"
+          ]
+        },
+        "author_id": "1242079997981937664",
+        "conversation_id": "2077765720788574306",
+        "created_at": "2026-07-16T14:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077765720788574306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmmI4ua5QJ",
+              "end": 56,
+              "expanded_url": "https://x.com/HaigeSenmokko/status/2077765720788574306/photo/1",
+              "media_key": "3_2077765716569161728",
+              "start": 33,
+              "url": "https://t.co/nmmI4ua5QJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077765720788574306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 529,
+          "like_count": 8,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你看到这个图之后再打开拼多多，你的推荐列表里一定会出现遐蝶手办 https://t.co/nmmI4ua5QJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 454,
+          "like_count": 17762,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 3935
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:25:33.000Z",
+        "description": "许献臣佥事说，盎吉剌日不落，只一道黑气遮日，煮羊膊熟，日又出也。保定刘敬之往任断事官，亲见之。此亦符《唐史》骨利干国事，但地名又不同，或有沿革。观此，则日月不出入乎地中，绕北极之下以为昼夜，信而有证。刘梦得、苏子瞻皆有《罗浮夜半见日》诗，恐此山正与彼对，但不知相去几千万里也。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@haigesenmokko",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@haigesenmokko",
+                "start": 0,
+                "url": "https://t.co/FUEZpwUVhA"
+              }
+            ]
+          }
+        },
+        "id": "1242079997981937664",
+        "location": "云香组",
+        "name": "灰毛川木香",
+        "pinned_tweet_id": "2077592694872821840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074093810263506944/WjkTx6bf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1623,
+          "like_count": 2013,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 2611
+        },
+        "url": "https://t.co/FUEZpwUVhA",
+        "username": "HaigeSenmokko",
+        "verified": true
+      }
+    ]
+  }
+}

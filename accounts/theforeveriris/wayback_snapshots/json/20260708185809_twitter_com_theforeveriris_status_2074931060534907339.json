@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2074931060534907339",
+    "created_at": "2026-07-08T18:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074931060534907339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noah_carte9807…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/noah_carte9807/status/2074891171034460208",
+          "start": 144,
+          "url": "https://t.co/x8WlmvrdHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074931060534907339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074891171034460208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "暴论：e 语言是一个老旧、封闭、缺乏软件工程支持的语言。它的发展也只依托中国PC游戏爆发和编程教育空白期，因不用懂英文的极低学习门槛成为了游戏玩家、学生快速上手的入门语言。我是零零后，小的时候也用过 e 语言的脚本，我的印象就是简陋、全网到处复制粘贴以及杀软报毒，我的刻板印象也来自于此 https://t.co/x8WlmvrdHz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2074931060534907339",
+        "created_at": "2026-07-08T18:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074931060534907339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noah_carte9807…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/noah_carte9807/status/2074891171034460208",
+              "start": 144,
+              "url": "https://t.co/x8WlmvrdHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074931060534907339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074891171034460208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暴论：e 语言是一个老旧、封闭、缺乏软件工程支持的语言。它的发展也只依托中国PC游戏爆发和编程教育空白期，因不用懂英文的极低学习门槛成为了游戏玩家、学生快速上手的入门语言。我是零零后，小的时候也用过 e 语言的脚本，我的印象就是简陋、全网到处复制粘贴以及杀软报毒，我的刻板印象也来自于此 https://t.co/x8WlmvrdHz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685156863552143360",
+        "conversation_id": "2074711876651696572",
+        "created_at": "2026-07-08T16:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074891171034460208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 29,
+              "id": "1545801302617116672",
+              "start": 16,
+              "username": "Minecraftxfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074891171034460208",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074767787105677597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris @Minecraftxfj 我就算你是90后吧，网络辅助爆发的时间段，有多少人用c/c++ lua等写辅助、脚本，这一现象持续了很长时间，至少那个时候中文论坛，开发的辅助90%以上是用e语言发的（保守的说），网络讨论的破解板块，比如葫芦侠，酷安，吾爱等等等论坛，发的e模块，辅助源码，成品比其他语言开发的多得多，网络教程同理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 445,
+          "like_count": 17213,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 3824
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T05:14:49.000Z",
+        "description": "让我们一起消灭共产党叭，嘻嘻",
+        "id": "1685156863552143360",
+        "name": "自由国度暴论哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057250773625630721/QMbLjw4e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 24,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "noah_carte9807",
+        "verified": false
+      }
+    ]
+  }
+}

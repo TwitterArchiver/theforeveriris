@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2023435570694050041",
+    "created_at": "2026-02-16T20:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T21:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023489973056606621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        },
+        {
+          "end": 21,
+          "id": "1879979432489938945",
+          "start": 10,
+          "username": "linmontfur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023489973056606621",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023474757010886888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt @linmontfur 这一块给我气笑了，有密码不给我输，我甚至想到了是不是在特定目录下面才能切换用户"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2023435570694050041",
+        "created_at": "2026-02-16T20:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023489973056606621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 21,
+              "id": "1879979432489938945",
+              "start": 10,
+              "username": "linmontfur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023489973056606621",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023474757010886888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @linmontfur 这一块给我气笑了，有密码不给我输，我甚至想到了是不是在特定目录下面才能切换用户"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2023435570694050041",
+        "created_at": "2026-02-16T19:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023474757010886888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879979432489938945",
+              "start": 0,
+              "username": "linmontfur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023474757010886888",
+        "in_reply_to_user_id": "1879979432489938945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023463863950495867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmontfur 但是实际上不能su user passwd\n可以 echo passwd | sudo -S \"cmd\"\n这里应该是简化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 429,
+          "like_count": 11031,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2822
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Former Dev @levimc_org | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "levimc_org"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 ❄🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 860,
+          "like_count": 58253,
+          "listed_count": 13,
+          "media_count": 1208,
+          "tweet_count": 14284
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T19:50:13.000Z",
+        "description": "黄色可疑爬行鼬子/典型的INTP-T思维/全能发展/Telegram频道：https://t.co/Tdg5Za1ktW /拒绝政治/成分堪比添加剂就别看了/小凛莫喜欢您来",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lmfur",
+                "end": 60,
+                "expanded_url": "http://t.me/lmfur",
+                "start": 37,
+                "url": "https://t.co/Tdg5Za1ktW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.furry.blue",
+                "end": 23,
+                "expanded_url": "https://about.furry.blue",
+                "start": 0,
+                "url": "https://t.co/3yH9K5r8uj"
+              }
+            ]
+          }
+        },
+        "id": "1879979432489938945",
+        "location": "在一个人烟稀少的地方",
+        "name": "小凛莫🔜学校",
+        "pinned_tweet_id": "2009640399623876917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020839554060787712/_A9Nct9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 317,
+          "like_count": 37,
+          "listed_count": 2,
+          "media_count": 688,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/3yH9K5r8uj",
+        "username": "linmontfur",
+        "verified": false
+      }
+    ]
+  }
+}

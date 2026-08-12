@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083976594109140992",
+        "3_2083976604078989312"
+      ],
+      "media_source_tweet_id": [
+        "2083976612757082517",
+        "2083976612757082517"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083976640909181439",
+    "created_at": "2026-08-02T18:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083976640909181439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721714145480114176",
+          "start": 3,
+          "username": "theforeveriris"
+        },
+        {
+          "end": 34,
+          "id": "2079365089334112256",
+          "start": 20,
+          "username": "Kiyoshiaufzju"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l8xVPPpWN9",
+          "end": 93,
+          "expanded_url": "https://x.com/theforeveriris/status/2083976612757082517/photo/1",
+          "media_key": "3_2083976594109140992",
+          "start": 70,
+          "url": "https://t.co/l8xVPPpWN9"
+        },
+        {
+          "display_url": "pic.x.com/l8xVPPpWN9",
+          "end": 93,
+          "expanded_url": "https://x.com/theforeveriris/status/2083976612757082517/photo/1",
+          "media_key": "3_2083976604078989312",
+          "start": 70,
+          "url": "https://t.co/l8xVPPpWN9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083976640909181439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083976612757082517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theforeveriris: @Kiyoshiaufzju 宝宝我教你怎么炒作，咱伪造一下短信记录吧，别用自己手机给自己发短信了 https://t.co/l8xVPPpWN9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3885,
+        "media_key": "3_2083976594109140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvFq8QakAAf-e1.jpg",
+        "width": 1843
+      },
+      {
+        "height": 1948,
+        "media_key": "3_2083976604078989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvFrhZaYAABV4R.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083976594109140992",
+            "3_2083976604078989312"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083372809770983558",
+        "created_at": "2026-08-02T18:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083976612757082517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079365089334112256",
+              "start": 0,
+              "username": "Kiyoshiaufzju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8xVPPpWN9",
+              "end": 73,
+              "expanded_url": "https://x.com/theforeveriris/status/2083976612757082517/photo/1",
+              "media_key": "3_2083976594109140992",
+              "start": 50,
+              "url": "https://t.co/l8xVPPpWN9"
+            },
+            {
+              "display_url": "pic.x.com/l8xVPPpWN9",
+              "end": 73,
+              "expanded_url": "https://x.com/theforeveriris/status/2083976612757082517/photo/1",
+              "media_key": "3_2083976604078989312",
+              "start": 50,
+              "url": "https://t.co/l8xVPPpWN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083976612757082517",
+        "in_reply_to_user_id": "2079365089334112256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083372809770983558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiaufzju 宝宝我教你怎么炒作，咱伪造一下短信记录吧，别用自己手机给自己发短信了 https://t.co/l8xVPPpWN9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083976594109140992",
+            "3_2083976604078989312"
+          ],
+          "media_source_tweet_id": [
+            "2083976612757082517",
+            "2083976612757082517"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083976640909181439",
+        "created_at": "2026-08-02T18:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083976640909181439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721714145480114176",
+              "start": 3,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 34,
+              "id": "2079365089334112256",
+              "start": 20,
+              "username": "Kiyoshiaufzju"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8xVPPpWN9",
+              "end": 93,
+              "expanded_url": "https://x.com/theforeveriris/status/2083976612757082517/photo/1",
+              "media_key": "3_2083976594109140992",
+              "start": 70,
+              "url": "https://t.co/l8xVPPpWN9"
+            },
+            {
+              "display_url": "pic.x.com/l8xVPPpWN9",
+              "end": 93,
+              "expanded_url": "https://x.com/theforeveriris/status/2083976612757082517/photo/1",
+              "media_key": "3_2083976604078989312",
+              "start": 70,
+              "url": "https://t.co/l8xVPPpWN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083976640909181439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083976612757082517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theforeveriris: @Kiyoshiaufzju 宝宝我教你怎么炒作，咱伪造一下短信记录吧，别用自己手机给自己发短信了 https://t.co/l8xVPPpWN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 452,
+          "like_count": 18531,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4084
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 148,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}

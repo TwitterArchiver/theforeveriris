@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978522437177200793",
+    "created_at": "2025-10-16T02:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978644041618366734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978644041618366734",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978522437177200793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoZheFanQie I rarely see such an entertaining individual."
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978522437177200793",
+        "created_at": "2025-10-16T02:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978644041618366734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978644041618366734",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978522437177200793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie I rarely see such an entertaining individual."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756909109788753920",
+        "conversation_id": "1978522437177200793",
+        "created_at": "2025-10-15T18:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T19:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978522437177200793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "老资历tv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1978454436373561638",
+              "start": 26,
+              "url": "https://t.co/3O98b9T8wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978522437177200793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978454436373561638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#老资历tv 之跨性别的存在能把胸罩变成中性的服装 https://t.co/3O98b9T8wr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 364,
+          "like_count": 5984,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2261
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。友跨友双友同，偶尔发癫\n推内包含 大a/美股/币圈/跨子/🌈/涩涩🥵/抽象🐘/对线\n若感到生理不适可随时取关，本人投资仅供参考，盈亏自负",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "大牛牛/88r🚪",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "1978302657476325566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977324843269033984/gAl4FWvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 2389,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 381,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2019913893582368925",
+    "created_at": "2026-02-07T01:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019947415676301576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019100298808291333",
+          "start": 0,
+          "username": "YuwenT233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019947415676301576",
+    "in_reply_to_user_id": "2019100298808291333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019913893582368925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenT233 不是糯老师辟谣了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2019913893582368925",
+        "created_at": "2026-02-07T01:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019947415676301576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019100298808291333",
+              "start": 0,
+              "username": "YuwenT233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019947415676301576",
+        "in_reply_to_user_id": "2019100298808291333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019913893582368925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenT233 不是糯老师辟谣了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019100298808291333",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377937",
+              "name": "Coca-Cola - Coke Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377937",
+              "name": "Coca-Cola - Coke Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377937",
+              "name": "Coca-Cola - Coke Zero"
+            }
+          }
+        ],
+        "conversation_id": "2019913893582368925",
+        "created_at": "2026-02-06T23:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T00:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019913893582368925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaohuihuih/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/xiaohuihuih/status/2019907707642548592",
+              "start": 40,
+              "url": "https://t.co/BMi3yciRvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019913893582368925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019907707642548592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界真是个畜生\n求求你了，不要再带走我的朋友\n我真的哭了\n我什么办法都没有 https://t.co/BMi3yciRvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 400,
+          "like_count": 9913,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2629
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T17:27:46.000Z",
+        "description": "MTF｜Hrt：2025.6.30｜已净身｜对象@shaoxiancao1314 ｜观点过激｜NSFW｜墨尔本阻止自杀援助｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          }
+        },
+        "id": "2019100298808291333",
+        "name": "唐毓文🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2019102145350713415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019100686353620992/mWizXHmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 40,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 146
+        },
+        "username": "YuwenT233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062364145841008981",
+    "created_at": "2026-06-04T03:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062376902258778541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062376902258778541",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062364145841008981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 我觉得最简式不是一个绝对的概念，还是一个严重依赖上下文的偏序关系。我要对一个表达式求积分的时候，它的展开式就是最简的；我想要记录一个表达式，书写字符最少的就是最简的；我想要求零点，那么类似于因式分解最后结果的式子就是最简的；在某个数学领域里面规定了一个范式，那这个范式就是最简的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062364145841008981",
+        "created_at": "2026-06-04T03:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062376902258778541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062376902258778541",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062364145841008981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我觉得最简式不是一个绝对的概念，还是一个严重依赖上下文的偏序关系。我要对一个表达式求积分的时候，它的展开式就是最简的；我想要记录一个表达式，书写字符最少的就是最简的；我想要求零点，那么类似于因式分解最后结果的式子就是最简的；在某个数学领域里面规定了一个范式，那这个范式就是最简的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2062364145841008981",
+        "created_at": "2026-06-04T02:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062364145841008981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062364145841008981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来, 上学的时候各种化简做了这么多, 从来没有人告诉过我简到底是什么, 也没有过形式化的定义.\n\n---\n\n\"那 (x+1)² 更优还是 x²+2x+1 更优\"\n\"或者说 (x+1)⁹⁹⁸²⁴⁴³⁵³ 更优还是...更优\""
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 16192,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3653
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 229,
+          "like_count": 8899,
+          "listed_count": 9,
+          "media_count": 200,
+          "tweet_count": 2181
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1977946119759077845",
+    "created_at": "2025-10-15T05:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978335266537451900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527959105792405509",
+          "start": 0,
+          "username": "usrbinmix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978335266537451900",
+    "in_reply_to_user_id": "1527959105792405509",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977946119759077845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usrbinmix The most interesting one in the same template."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1977946119759077845",
+        "created_at": "2025-10-15T05:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978335266537451900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527959105792405509",
+              "start": 0,
+              "username": "usrbinmix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978335266537451900",
+        "in_reply_to_user_id": "1527959105792405509",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977946119759077845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usrbinmix The most interesting one in the same template."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527959105792405509",
+        "conversation_id": "1977946119759077845",
+        "created_at": "2025-10-14T03:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T04:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977946119759077845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977946119759077845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5794,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你有什么资历？我公元前就在玩 CTF 了，当时还没有什么 DEFCON。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看 @凯撒，只不过后面被蛮夷拿下了话语权，CTF 就变成线上赛事了，结果你们这些新生代连真假 Flag 都分不出来，一天到晚问闲鱼上买的 Flag 能不能交。我只是在感叹你们悲惨的结局而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 356,
+          "like_count": 5936,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2206
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T10:27:50.000Z",
+        "description": "Naïve software developer, FOSS enthusiast, anime fan, CTF player for fun and undergraduate in cryptography. | 开源恐怖分子，傻卵二次元，编程苦手。| CN/EN (B1)/DE (A1) 本當下手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mnixry",
+                "end": 23,
+                "expanded_url": "https://github.com/mnixry",
+                "start": 0,
+                "url": "https://t.co/jlNEzwLLDj"
+              }
+            ]
+          }
+        },
+        "id": "1527959105792405509",
+        "location": "fe80::1",
+        "name": "dmesg -w | grep mixdev",
+        "pinned_tweet_id": "1756744927554474444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728430619133104128/xm0C7lhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 337,
+          "like_count": 15114,
+          "listed_count": 9,
+          "media_count": 404,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/jlNEzwLLDj",
+        "username": "usrbinmix",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2015959356203008287",
+    "created_at": "2026-01-27T01:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T02:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015959356203008287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830084770598174722",
+          "start": 3,
+          "username": "kusuri_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015959356203008287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015845282576269478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kusuri_desu: 優績主義只能製造空心人。如果一直靠外界標準來審視、評價和定位自己，那不管做得多好、多完美，早晚有一天會坍塌。優績主義需要不停地比較、獲得別人的認可，才能感受到自己的價值和幸福，那不管做什麼都很難真正感到快樂和滿足。最終人還是要直面自己的內心和性…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2015959356203008287",
+        "created_at": "2026-01-27T01:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015959356203008287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830084770598174722",
+              "start": 3,
+              "username": "kusuri_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015959356203008287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015845282576269478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kusuri_desu: 優績主義只能製造空心人。如果一直靠外界標準來審視、評價和定位自己，那不管做得多好、多完美，早晚有一天會坍塌。優績主義需要不停地比較、獲得別人的認可，才能感受到自己的價值和幸福，那不管做什麼都很難真正感到快樂和滿足。最終人還是要直面自己的內心和性…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830084770598174722",
+        "conversation_id": "2015845282576269478",
+        "created_at": "2026-01-26T17:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015845282576269478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015845282576269478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "優績主義只能製造空心人。如果一直靠外界標準來審視、評價和定位自己，那不管做得多好、多完美，早晚有一天會坍塌。優績主義需要不停地比較、獲得別人的認可，才能感受到自己的價值和幸福，那不管做什麼都很難真正感到快樂和滿足。最終人還是要直面自己的內心和性格，並認識到與人比較是一生悲劇的開始"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 405,
+          "like_count": 7521,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2449
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T03:26:42.000Z",
+        "description": "=kusuri 藥神or小藥神｜NO GAME NO LIFE｜maimai player ｜『東方Project』｜galgame｜ENG/中/日本語OK｜ESTJ｜不🈷️｜無性戀",
+        "id": "1830084770598174722",
+        "name": "薬",
+        "pinned_tweet_id": "1934288597227581697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948841880923635713/wLHuPJzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 277,
+          "like_count": 2820,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 681
+        },
+        "username": "kusuri_desu",
+        "verified": false
+      }
+    ]
+  }
+}

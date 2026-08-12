@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2012116010594419115",
+    "created_at": "2026-01-16T13:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T14:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012154218879287450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "Yanluo_W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012154218879287450",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012116010594419115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo_W 要不你炸一下再吃吧(っ˘ڡ˘ς)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2012116010594419115",
+        "created_at": "2026-01-16T13:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012154218879287450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "Yanluo_W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012154218879287450",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012116010594419115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo_W 要不你炸一下再吃吧(っ˘ڡ˘ς)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973585079852257280",
+        "conversation_id": "2012116010594419115",
+        "created_at": "2026-01-16T10:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012116010594419115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012116010594419115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "预告一下 明天生吃嘎瓦 cos爱吃蛋\n以后请叫我蛋神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 401,
+          "like_count": 6559,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2335
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "MTF｜家暴党｜努力改正性格 ing｜友跨｜心情不好不互关｜ENFT- P｜次要病症是抑郁焦虑 主要是人傻逼｜自私个人主义外加强迫症和焦虑症的王炸组合｜拆🥚大师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxrYD"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2002527312512970850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1955,
+          "following_count": 66,
+          "like_count": 82,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 2407
+        },
+        "url": "https://t.co/vfGe2FxrYD",
+        "username": "Yanluo_W",
+        "verified": false
+      }
+    ]
+  }
+}

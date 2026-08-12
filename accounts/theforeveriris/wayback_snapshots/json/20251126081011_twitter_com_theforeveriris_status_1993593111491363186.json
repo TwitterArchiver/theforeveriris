@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1993550125168574587",
+    "created_at": "2025-11-26T08:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993593111491363186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993593111491363186",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993550125168574587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 她真好看（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1277,
+        "media_key": "3_1993550110652080128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qDQ2tboAAzZjC.jpg",
+        "width": 2002
+      },
+      {
+        "height": 1277,
+        "media_key": "3_1993550110970855428",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qDQ35bwAQRcQl.jpg",
+        "width": 2002
+      },
+      {
+        "height": 1277,
+        "media_key": "3_1993550111713247238",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qDQ6qbwAYL-f5.jpg",
+        "width": 2002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1993550125168574587",
+        "created_at": "2025-11-26T08:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993593111491363186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993593111491363186",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993550125168574587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 她真好看（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993550110652080128",
+            "3_1993550110970855428",
+            "3_1993550111713247238"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993550125168574587",
+        "created_at": "2025-11-26T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993550125168574587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKSiwhJFJl",
+              "end": 23,
+              "expanded_url": "https://x.com/huahuojiang_/status/1993550125168574587/photo/1",
+              "media_key": "3_1993550110652080128",
+              "start": 0,
+              "url": "https://t.co/SKSiwhJFJl"
+            },
+            {
+              "display_url": "pic.x.com/SKSiwhJFJl",
+              "end": 23,
+              "expanded_url": "https://x.com/huahuojiang_/status/1993550125168574587/photo/1",
+              "media_key": "3_1993550110970855428",
+              "start": 0,
+              "url": "https://t.co/SKSiwhJFJl"
+            },
+            {
+              "display_url": "pic.x.com/SKSiwhJFJl",
+              "end": 23,
+              "expanded_url": "https://x.com/huahuojiang_/status/1993550125168574587/photo/1",
+              "media_key": "3_1993550111713247238",
+              "start": 0,
+              "url": "https://t.co/SKSiwhJFJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993550125168574587",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SKSiwhJFJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 397,
+          "like_count": 6018,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2166
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1991154110759121103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6801,
+          "following_count": 3647,
+          "like_count": 97053,
+          "listed_count": 19,
+          "media_count": 6125,
+          "tweet_count": 86427
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

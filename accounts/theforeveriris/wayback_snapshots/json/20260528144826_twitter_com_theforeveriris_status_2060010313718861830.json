@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059901247264637030",
+    "created_at": "2026-05-28T14:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060010313718861830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2050276668066111488",
+          "start": 0,
+          "username": "4x6xa"
+        },
+        {
+          "end": 23,
+          "id": "1281152556832456704",
+          "start": 7,
+          "username": "luxiaocheng6661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060010313718861830",
+    "in_reply_to_user_id": "2050276668066111488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059965009153974373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4x6xa @luxiaocheng6661 来着中国的神秘恶魔果实，拥有让人脸部建模变成史蒂夫和患有口腔癌的魔力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059901247264637030",
+        "created_at": "2026-05-28T14:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060010313718861830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2050276668066111488",
+              "start": 0,
+              "username": "4x6xa"
+            },
+            {
+              "end": 23,
+              "id": "1281152556832456704",
+              "start": 7,
+              "username": "luxiaocheng6661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060010313718861830",
+        "in_reply_to_user_id": "2050276668066111488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059965009153974373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4x6xa @luxiaocheng6661 来着中国的神秘恶魔果实，拥有让人脸部建模变成史蒂夫和患有口腔癌的魔力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050276668066111488",
+        "conversation_id": "2059901247264637030",
+        "created_at": "2026-05-28T11:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059965009153974373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1281152556832456704",
+              "start": 0,
+              "username": "luxiaocheng6661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059965009153974373",
+        "in_reply_to_user_id": "1281152556832456704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 983,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059901247264637030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luxiaocheng6661 なんだこれ！初めて見た！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 458,
+          "like_count": 15410,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 3584
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T18:11:08.000Z",
+        "description": "大学2年生",
+        "id": "2050276668066111488",
+        "name": "浪たりー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058648090790494208/uQz_FsT5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 374,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 370
+        },
+        "username": "4x6xa",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-09T09:07:34.000Z",
+        "description": "趣味で日本語を独学し始めた。JLPT N4だけ持っています。日本語は難しいけど頑張ります。何か変な表現があったら、指摘してください、日本人の友達を作りたい。スペア用ツイッターアカウント #日本語間違えてたら教えて@yaoyongmei13578｜line: luwengong825",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 93,
+                "tag": "日本語間違えてたら教えて"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 106,
+                "username": "yaoyongmei13578"
+              }
+            ]
+          }
+        },
+        "id": "1281152556832456704",
+        "location": "浦东",
+        "name": "陆文公🇨🇳日本語の初心者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969752475428167680/hIwZCAZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1373,
+          "like_count": 11019,
+          "listed_count": 25,
+          "media_count": 3046,
+          "tweet_count": 19436
+        },
+        "username": "luxiaocheng6661",
+        "verified": false
+      }
+    ]
+  }
+}

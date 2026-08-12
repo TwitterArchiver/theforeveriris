@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1998061857895305534",
+    "created_at": "2025-12-09T01:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T02:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998198660103016850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "M0ry_Wh1sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998198660103016850",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998061857895305534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M0ry_Wh1sp 客戶端過久或者網絡環境異常"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 991,
+        "media_key": "3_1998059049502535680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qIHo3acAAxe5K.jpg",
+        "width": 1428
+      },
+      {
+        "height": 1293,
+        "media_key": "3_1998060651781177344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qJk50aQAAhn00.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1998060651756097537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qJk5ubkAE7liE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1998061857895305534",
+        "created_at": "2025-12-09T01:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T02:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998198660103016850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "M0ry_Wh1sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998198660103016850",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998061857895305534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M0ry_Wh1sp 客戶端過久或者網絡環境異常"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998059049502535680",
+            "3_1998060651781177344",
+            "3_1998060651756097537"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998061857895305534",
+        "created_at": "2025-12-08T16:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998061857895305534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCJwWh7pqO",
+              "end": 149,
+              "expanded_url": "https://x.com/M0ry_Wh1sp/status/1998061857895305534/photo/1",
+              "media_key": "3_1998059049502535680",
+              "start": 126,
+              "url": "https://t.co/oCJwWh7pqO"
+            },
+            {
+              "display_url": "pic.x.com/oCJwWh7pqO",
+              "end": 149,
+              "expanded_url": "https://x.com/M0ry_Wh1sp/status/1998061857895305534/photo/1",
+              "media_key": "3_1998060651781177344",
+              "start": 126,
+              "url": "https://t.co/oCJwWh7pqO"
+            },
+            {
+              "display_url": "pic.x.com/oCJwWh7pqO",
+              "end": 149,
+              "expanded_url": "https://x.com/M0ry_Wh1sp/status/1998061857895305534/photo/1",
+              "media_key": "3_1998060651756097537",
+              "start": 126,
+              "url": "https://t.co/oCJwWh7pqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998061857895305534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1738,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近我的账号不知道是出了什么问题，用X的APP端和网页端均无法登录，只有用电脑端换成校园网才有概率登上。面对这个情况我也只能无奈淡推了，毕竟我也不能冒着被抓的风险刷推。各位如需要联系我可以看我置顶二维码，那么，在接下来很长的一段时间里，暂时说再见了~ https://t.co/oCJwWh7pqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 397,
+          "like_count": 6212,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 2222
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "臭打游戏的，机器人别来        B站账号↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "1978733668748132464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063773794611200/F2JFRyXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1548,
+          "like_count": 84938,
+          "listed_count": 8,
+          "media_count": 468,
+          "tweet_count": 6149
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "M0ry_Wh1sp",
+        "verified": false
+      }
+    ]
+  }
+}

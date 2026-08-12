@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062757206383268022",
+    "created_at": "2026-06-05T07:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062805985618706717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062805985618706717",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062757206383268022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062757190851493888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBivHKWAAA43xa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062757206383268022",
+        "created_at": "2026-06-05T07:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062805985618706717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062805985618706717",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062757206383268022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062757190851493888"
+          ]
+        },
+        "author_id": "1884536290005368832",
+        "conversation_id": "2062757206383268022",
+        "created_at": "2026-06-05T04:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062757206383268022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkhnJ0Un11",
+              "end": 38,
+              "expanded_url": "https://x.com/FGfr_218/status/2062757206383268022/photo/1",
+              "media_key": "3_2062757190851493888",
+              "start": 15,
+              "url": "https://t.co/bkhnJ0Un11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062757206383268022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "备考备考下午去考场再拍一张😋 https://t.co/bkhnJ0Un11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 459,
+          "like_count": 16537,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3660
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/mtf/持证含糖/二次元/coser/身高177/体重64/目标赚够手术费/戒od中/加油加油gogogo/坐标河南郑州 /大家每天都要加油哇//好好活着不要死哦 主包快饿死了赞助点生活费吧😭🥺",
+        "id": "1884536290005368832",
+        "location": "舞萌国",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002048759090618369/6udX6sKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 457,
+          "like_count": 2304,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 1676
+        },
+        "username": "FGfr_218",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978351821820223649",
+    "created_at": "2025-10-15T07:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978367684564705445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978367684564705445",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978367510509457888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 Overall, it is not difficult to buy, but it tests the economic ability of the buyer."
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978351821820223649",
+        "created_at": "2025-10-15T07:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978367684564705445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978367684564705445",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978367510509457888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 Overall, it is not difficult to buy, but it tests the economic ability of the buyer."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978351821820223649",
+        "created_at": "2025-10-15T07:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978367510509457888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978367510509457888",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978351821820223649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 Intravenous injections for human use are difficult to buy, and most people need to go through smuggling to get them."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 356,
+          "like_count": 5947,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2225
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 2445,
+          "like_count": 6575,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 1939
+        },
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

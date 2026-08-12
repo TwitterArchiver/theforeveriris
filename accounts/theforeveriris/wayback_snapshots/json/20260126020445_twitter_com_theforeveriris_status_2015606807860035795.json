@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2015382901748101216",
+    "created_at": "2026-01-26T02:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015606807860035795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916434358917033984",
+          "start": 0,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015606807860035795",
+    "in_reply_to_user_id": "1916434358917033984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015382901748101216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackTrapTrip 可是我觉得很神圣啊）bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2015382901748101216",
+        "created_at": "2026-01-26T02:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015606807860035795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015606807860035795",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015382901748101216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 可是我觉得很神圣啊）bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2015382901748101216",
+        "created_at": "2026-01-25T11:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T12:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015382901748101216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015382901748101216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我大部分时候其实不觉得我的自残照片是带有性意味的，自残的时候我觉得胸什么的只是一个器官而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 399,
+          "like_count": 7345,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2419
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜同类互fo欢迎｜泛性恋｜支持大麻合法化｜#WeAreNotaVirus｜uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 30,
+                "tag": "WeAreNotaVirus"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "shtwt"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱／STONED",
+        "pinned_tweet_id": "2007652695445057657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984880790535061504/JtQebCAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 136,
+          "like_count": 915,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1441
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074704735928774730",
+    "created_at": "2026-07-08T03:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074704909778427913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074704909778427913",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074704735928774730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了安全起见，不公开钓鱼链接的具体 url"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1268,
+        "media_key": "3_2074704728588791808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrU9VlbsAAlSDo.jpg",
+        "width": 1260
+      },
+      {
+        "height": 820,
+        "media_key": "3_2074704728513265664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrU9VTbQAAPQ9_.jpg",
+        "width": 840
+      },
+      {
+        "height": 903,
+        "media_key": "3_2074704729960337408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrU9asb0AA_pMd.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074704735928774730",
+        "created_at": "2026-07-08T03:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074704909778427913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074704909778427913",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074704735928774730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了安全起见，不公开钓鱼链接的具体 url"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074704728588791808",
+            "3_2074704728513265664",
+            "3_2074704729960337408"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2074704735928774730",
+        "created_at": "2026-07-08T03:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074704735928774730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xxx.cichubugonkai.com",
+              "end": 129,
+              "expanded_url": "http://xxx.cichubugonkai.com",
+              "start": 106,
+              "unwound_url": "http://xxx.cichubugonkai.com",
+              "url": "https://t.co/oKsLVjkveh"
+            },
+            {
+              "display_url": "pic.x.com/HHkID8KiNh",
+              "end": 194,
+              "expanded_url": "https://x.com/theforeveriris/status/2074704735928774730/photo/1",
+              "media_key": "3_2074704728588791808",
+              "start": 171,
+              "url": "https://t.co/HHkID8KiNh"
+            },
+            {
+              "display_url": "pic.x.com/HHkID8KiNh",
+              "end": 194,
+              "expanded_url": "https://x.com/theforeveriris/status/2074704735928774730/photo/1",
+              "media_key": "3_2074704728513265664",
+              "start": 171,
+              "url": "https://t.co/HHkID8KiNh"
+            },
+            {
+              "display_url": "pic.x.com/HHkID8KiNh",
+              "end": 194,
+              "expanded_url": "https://x.com/theforeveriris/status/2074704735928774730/photo/1",
+              "media_key": "3_2074704729960337408",
+              "start": 171,
+              "url": "https://t.co/HHkID8KiNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074704735928774730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然知道是钓鱼链接，但看见 google 还是迟疑了一下🤔。详细看了一下链接是把谷歌广告点击追踪链接做壳子，使用adurl参数重定向到 vk 的 away.php 跳板转到 32 位 hash 为 3 级域名的 https://t.co/oKsLVjkveh。载荷里通过 base64嵌入了我头像的链接，钓鱼链接沙箱打不开，盲猜是伪登录页。 https://t.co/HHkID8KiNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 446,
+          "like_count": 17099,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 3811
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

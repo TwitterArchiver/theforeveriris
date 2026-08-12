@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2063584855238275490",
+    "created_at": "2026-06-07T11:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063584855238275490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2063583923490423065",
+          "start": 27,
+          "url": "https://t.co/GEk03boHnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063584855238275490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063583923490423065",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好遗憾啊我还想看看有啥阴呢，有没有成功的人给我看看👀 https://t.co/GEk03boHnL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1722,
+        "media_key": "3_2063583913017257984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNSorOasAAxsc7.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063584855238275490",
+        "created_at": "2026-06-07T11:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063584855238275490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2063583923490423065",
+              "start": 27,
+              "url": "https://t.co/GEk03boHnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063584855238275490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063583923490423065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好遗憾啊我还想看看有啥阴呢，有没有成功的人给我看看👀 https://t.co/GEk03boHnL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063583913017257984"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063583923490423065",
+        "created_at": "2026-06-07T11:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063583923490423065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hW6hiU1HA",
+              "end": 32,
+              "expanded_url": "https://x.com/theforeveriris/status/2063583923490423065/photo/1",
+              "media_key": "3_2063583913017257984",
+              "start": 9,
+              "url": "https://t.co/3hW6hiU1HA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063583923490423065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oai 疑似拉闸 https://t.co/3hW6hiU1HA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 463,
+          "like_count": 16588,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 3685
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

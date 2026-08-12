@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061642984349917184"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2061518182431727625",
+    "created_at": "2026-06-02T02:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061642992948257258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "831495289441628160",
+          "start": 0,
+          "username": "changwei1006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YBdK2mpDO7",
+          "end": 207,
+          "expanded_url": "https://x.com/theforeveriris/status/2061642992948257258/photo/1",
+          "media_key": "3_2061642984349917184",
+          "start": 184,
+          "url": "https://t.co/YBdK2mpDO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061642992948257258",
+    "in_reply_to_user_id": "831495289441628160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061518182431727625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changwei1006 并非 bug。\nWindows 保留设备名冲突 + 跨平台 Shell 混用导致的。 在 Linux 中，丢弃输出通常写向/dev/null。在Windows中，有些代码或配置文件为了达到同样的效果，被错误地硬编码为写入名为 nul 的路径。因为名字是保留字，Windows 资源管理器（图形界面）在处理它时会发生混淆，导致无法直接删除。 https://t.co/YBdK2mpDO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2233,
+        "media_key": "3_2061642984349917184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxtXwfaYAAYa8M.jpg",
+        "width": 1260
+      },
+      {
+        "height": 426,
+        "media_key": "3_2061517887660281856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJv7mLAa0AAPgRt.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061642984349917184"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2061518182431727625",
+        "created_at": "2026-06-02T02:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061642992948257258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBdK2mpDO7",
+              "end": 207,
+              "expanded_url": "https://x.com/theforeveriris/status/2061642992948257258/photo/1",
+              "media_key": "3_2061642984349917184",
+              "start": 184,
+              "url": "https://t.co/YBdK2mpDO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061642992948257258",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061518182431727625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 并非 bug。\nWindows 保留设备名冲突 + 跨平台 Shell 混用导致的。 在 Linux 中，丢弃输出通常写向/dev/null。在Windows中，有些代码或配置文件为了达到同样的效果，被错误地硬编码为写入名为 nul 的路径。因为名字是保留字，Windows 资源管理器（图形界面）在处理它时会发生混淆，导致无法直接删除。 https://t.co/YBdK2mpDO7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061517887660281856"
+          ]
+        },
+        "author_id": "831495289441628160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2061518182431727625",
+        "created_at": "2026-06-01T18:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061518182431727625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqjTimTjUD",
+              "end": 184,
+              "expanded_url": "https://x.com/changwei1006/status/2061518182431727625/photo/1",
+              "media_key": "3_2061517887660281856",
+              "start": 161,
+              "url": "https://t.co/RqjTimTjUD"
+            },
+            {
+              "display_url": "x.com/changwei1006/s…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/changwei1006/status/2061366186772943328",
+              "start": 185,
+              "url": "https://t.co/tunKDZfxmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061518182431727625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 833,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061366186772943328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前用OpenCode遇到的BUG\n经常会莫名其妙自动创建一个名为nul的文件，然后这个文件内容都是一些奇奇怪怪的报错\n而且因为这个文件的存在，会导致turbopack无法正确打包\n还无法用普通方式删除，需要在特定编辑器或者用命令行删除\n暂时还不太清楚产生原因是什么，改天我去发起或者寻找OpenCode的issue看看 https://t.co/RqjTimTjUD https://t.co/tunKDZfxmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 15828,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 3618
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "PhD student, Dept of Adult & Continuing Education, National Taiwan Normal University.\nFormerly studied ECE & CSIE.\nInterned at @PingCAP & @RisingWaveLabs as FE.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "PingCAP"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "RisingWaveLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "https://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/d6BXAYKIG3"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18833,
+          "following_count": 5212,
+          "like_count": 148674,
+          "listed_count": 142,
+          "media_count": 5920,
+          "tweet_count": 19002
+        },
+        "url": "https://t.co/d6BXAYKIG3",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

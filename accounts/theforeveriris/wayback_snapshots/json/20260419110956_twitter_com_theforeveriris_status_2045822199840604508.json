@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2045811618370732404",
+    "created_at": "2026-04-19T11:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045822199840604508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045822199840604508",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045811618370732404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 挺好的黑客松原神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_2045811596862320640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQuzuRacAANpUW.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2045811618370732404",
+        "created_at": "2026-04-19T11:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045822199840604508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045822199840604508",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045811618370732404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 挺好的黑客松原神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045811596862320640"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2045811618370732404",
+        "created_at": "2026-04-19T10:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045811618370732404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4JF6Uy7eh",
+              "end": 173,
+              "expanded_url": "https://x.com/tangeorange/status/2045811618370732404/photo/1",
+              "media_key": "3_2045811596862320640",
+              "start": 150,
+              "url": "https://t.co/S4JF6Uy7eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045811618370732404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你说的对，但是 AdventureX 是由一群05后高中生自主研发的一款中国最大青年黑客松活动。活动发生在一个被称作「杭州」的创造乌托邦，在这里，被创造热情选中的人将被授予「黑客松入场券」，导引代码之力、设计之力与营销之力。你将扮演一位名为「创造者」的神秘角色，在5天120小时的极限创造中邂逅来自 https://t.co/S4JF6Uy7eh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 454,
+          "like_count": 13589,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 3195
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "你说的对",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "orange",
+        "name": "橙子",
+        "pinned_tweet_id": "2042262899113304372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044322047334203393/Um9K3s-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 2049,
+          "like_count": 7275,
+          "listed_count": 2,
+          "media_count": 936,
+          "tweet_count": 6441
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": false
+      }
+    ]
+  }
+}

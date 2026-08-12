@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2021614468078227475",
+    "created_at": "2026-02-13T15:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022337409439211846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1118652652089376768",
+          "start": 0,
+          "username": "GaulesMundinho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022337409439211846",
+    "in_reply_to_user_id": "1118652652089376768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021614468078227475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GaulesMundinho 他好燦爛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29467,
+        "height": 720,
+        "media_key": "7_2021614423933415424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2021614423933415424/pu/img/Yx6LBpL4HiydkAUo.jpg",
+        "public_metrics": {
+          "view_count": 4674936
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021614423933415424/pu/vid/avc1/270x270/ByY_5LeXDZwFMwZN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021614423933415424/pu/vid/avc1/362x360/44ZCob5QOtZpyuOz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2021614423933415424/pu/vid/avc1/724x720/efDZ1c8ymC7rZlvS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2021614423933415424/pu/pl/rZg13xruRhQgxjCy.m3u8?tag=12"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2021614468078227475",
+        "created_at": "2026-02-13T15:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022337409439211846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1118652652089376768",
+              "start": 0,
+              "username": "GaulesMundinho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022337409439211846",
+        "in_reply_to_user_id": "1118652652089376768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021614468078227475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GaulesMundinho 他好燦爛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2021614423933415424"
+          ]
+        },
+        "author_id": "1118652652089376768",
+        "conversation_id": "2021614468078227475",
+        "created_at": "2026-02-11T15:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021614468078227475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OULby1BaO",
+              "end": 23,
+              "expanded_url": "https://x.com/GaulesMundinho/status/2021614468078227475/video/1",
+              "media_key": "7_2021614423933415424",
+              "start": 0,
+              "url": "https://t.co/9OULby1BaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021614468078227475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9797,
+          "impression_count": 5470535,
+          "like_count": 40760,
+          "quote_count": 197,
+          "reply_count": 629,
+          "retweet_count": 2556
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9OULby1BaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 422,
+          "like_count": 10820,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 2776
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-17T23:09:10.000Z",
+        "description": "conta automatizada com uso de IA",
+        "id": "1118652652089376768",
+        "location": "dust 2",
+        "name": "mundinho gaules rebaixado",
+        "pinned_tweet_id": "2008941980110176766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939774166137196544/O5ne4gms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37069,
+          "following_count": 1066,
+          "like_count": 157321,
+          "listed_count": 78,
+          "media_count": 19874,
+          "tweet_count": 182570
+        },
+        "username": "GaulesMundinho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2015780538259550210",
+    "created_at": "2026-01-26T13:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015781270920569037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014703939044958208",
+          "start": 0,
+          "username": "Jahseh14138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015781270920569037",
+    "in_reply_to_user_id": "2014703939044958208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015780538259550210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jahseh14138 檸檬...配...水餃？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2015780523788894208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l9tNGWgAA7EqA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2015780538259550210",
+        "created_at": "2026-01-26T13:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015781270920569037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014703939044958208",
+              "start": 0,
+              "username": "Jahseh14138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015781270920569037",
+        "in_reply_to_user_id": "2014703939044958208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015780538259550210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jahseh14138 檸檬...配...水餃？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015780523788894208"
+          ]
+        },
+        "author_id": "2014703939044958208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015780538259550210",
+        "created_at": "2026-01-26T13:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015780538259550210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrlDywOc4g",
+              "end": 33,
+              "expanded_url": "https://x.com/Jahseh14138/status/2015780538259550210/photo/1",
+              "media_key": "3_2015780523788894208",
+              "start": 10,
+              "url": "https://t.co/jrlDywOc4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015780538259550210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂这个组合的快乐 https://t.co/jrlDywOc4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 405,
+          "like_count": 7440,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2436
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T14:18:10.000Z",
+        "description": "路过人生顺手嗑药。",
+        "id": "2014703939044958208",
+        "name": "Jahseh（2.0）",
+        "pinned_tweet_id": "2014738622873010246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014704307682328576/_t2UFr2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 55,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "username": "Jahseh14138",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2063845230378717477",
+    "created_at": "2026-06-08T06:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063868642257969294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063868642257969294",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063845230378717477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww Local Love Master 本地爱情大师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_2063845219515392000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRAStyaYAAAWdH.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063845230378717477",
+        "created_at": "2026-06-08T06:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063868642257969294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063868642257969294",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063845230378717477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww Local Love Master 本地爱情大师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063845219515392000"
+          ]
+        },
+        "author_id": "1482030767358496768",
+        "conversation_id": "2063845230378717477",
+        "created_at": "2026-06-08T04:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063845230378717477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khJsCoVJ1V",
+              "end": 77,
+              "expanded_url": "https://x.com/tcdwww/status/2063845230378717477/photo/1",
+              "media_key": "3_2063845219515392000",
+              "start": 54,
+              "url": "https://t.co/khJsCoVJ1V"
+            },
+            {
+              "display_url": "x.com/Xizhuangmob/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Xizhuangmob/status/2063658719976767920",
+              "start": 78,
+              "url": "https://t.co/etfewqjDLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063845230378717477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063658719976767920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "- 我还纳闷我圈子真有人不知道 LLM 是什么的吗\n- 看了看 follow 的都是什么人\n- 懂了，走好 https://t.co/khJsCoVJ1V https://t.co/etfewqjDLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 463,
+          "like_count": 16593,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 3689
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王 | 关注 ≠ 完全赞同其立场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuriDi"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2048626808141275142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 496,
+          "like_count": 95112,
+          "listed_count": 11,
+          "media_count": 1128,
+          "tweet_count": 12812
+        },
+        "url": "https://t.co/IJpduuriDi",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

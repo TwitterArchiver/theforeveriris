@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2022342557548925095",
+    "created_at": "2026-02-13T16:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022342557548925095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDaquaforever/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/DDaquaforever/status/2022006056868884520",
+          "start": 7,
+          "url": "https://t.co/GJouhpCRlT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022342557548925095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022006056868884520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "圣诞节快乐🎉 https://t.co/GJouhpCRlT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2022342557548925095",
+        "created_at": "2026-02-13T16:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022342557548925095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/2022006056868884520",
+              "start": 7,
+              "url": "https://t.co/GJouhpCRlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022342557548925095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022006056868884520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "圣诞节快乐🎉 https://t.co/GJouhpCRlT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999007250829230080",
+        "conversation_id": "2022006056868884520",
+        "created_at": "2026-02-12T17:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022006056868884520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022006056868884520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20966,
+          "like_count": 610,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "2月14号不是什么情人节，是我们伟大神明丰川祥子的生日，支持2月14号改为神人节的扣1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 422,
+          "like_count": 10834,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 2785
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 3129,
+          "like_count": 4398,
+          "listed_count": 9,
+          "media_count": 1596,
+          "tweet_count": 7188
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

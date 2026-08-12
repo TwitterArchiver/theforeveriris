@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013635176920744045",
+    "created_at": "2026-01-20T16:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013648318568583534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013648318568583534",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013635176920744045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 請神 n55 上身左手力氣大右手大力氣直接扯下魔丸 cos 唐毓文扔到教官臉上（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13483,
+        "height": 1280,
+        "media_key": "7_2013635115008548864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013635115008548864/pu/img/AG00b0ssjL-NuYdJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013635115008548864/pu/vid/avc1/320x568/XXcqBDilMHaXvAEP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013635115008548864/pu/vid/avc1/480x852/LyeLGDe9uBI195Jh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013635115008548864/pu/vid/avc1/720x1280/VsFSF3WrCegdvqHo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013635115008548864/pu/pl/J0hhEYBBKOJb2ryJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-20T16:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013648318568583534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013648318568583534",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013635176920744045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 請神 n55 上身左手力氣大右手大力氣直接扯下魔丸 cos 唐毓文扔到教官臉上（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013635115008548864"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-20T15:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013635176920744045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbpWc9odTd",
+              "end": 168,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2013635176920744045/video/1",
+              "media_key": "7_2013635115008548864",
+              "start": 145,
+              "url": "https://t.co/bbpWc9odTd"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2013132880046932387",
+              "start": 169,
+              "url": "https://t.co/5RwQ2VQIms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013635176920744045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013132880046932387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想想得了真跟退役武警交上手的时候就药娘那体格，三拳打不昏都算教官炸单\n且有暴力倾向会被家长提前通知学校按需佩戴防刺服以及腿甲\n家伙事带的比你全\n一人裸绞脖子一个抬着你腿\n缺氧缺血直接就昏了\n从进屋到上车两分钟都不用\n每个被扭转前的人都会心存侥幸又或幻想直到一拳砸到他们脸上\n:下附绑架视频 https://t.co/bbpWc9odTd https://t.co/5RwQ2VQIms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 374,
+          "like_count": 6889,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2358
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 1629,
+          "like_count": 1371,
+          "listed_count": 9,
+          "media_count": 315,
+          "tweet_count": 1916
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

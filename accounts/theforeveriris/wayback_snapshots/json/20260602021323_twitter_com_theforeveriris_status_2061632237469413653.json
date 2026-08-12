@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061631815514001463",
+    "created_at": "2026-06-02T02:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061632237469413653"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061632237469413653",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061631815514001463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特对含有中文的 url 解析有点问题，可以在左侧导航栏进入：Some-life-experiences/medication-use/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061631815514001463",
+        "created_at": "2026-06-02T02:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061632237469413653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061632237469413653",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061631815514001463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特对含有中文的 url 解析有点问题，可以在左侧导航栏进入：Some-life-experiences/medication-use/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061631815514001463",
+        "created_at": "2026-06-02T02:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061631815514001463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个简洁优雅的 Markdown 文档预览站点，支持多种渲染功能",
+              "display_url": "theforeveriris.github.io/irisy-r4ta/#/S…",
+              "end": 82,
+              "expanded_url": "https://theforeveriris.github.io/irisy-r4ta/#/Some-life-experiences/medication-use/",
+              "start": 59,
+              "status": 200,
+              "title": "Markdown Preview",
+              "unwound_url": "https://theforeveriris.github.io/irisy-r4ta/#/Some-life-experiences/medication-use/",
+              "url": "https://t.co/cKVHycUYSh"
+            },
+            {
+              "display_url": "x.com/lyjjlch/status…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/lyjjlch/status/2061486687579193399",
+              "start": 93,
+              "url": "https://t.co/GdRZtgMhYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061631815514001463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061486687579193399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上兽雌的危害确实很大，建议攒点或者借点钱买凝胶去做过渡。\n---\n下面是我的一些总结，希望对抉择中的你有所帮助：\nhttps://t.co/cKVHycUYSh兽雌我该使用吗.md https://t.co/GdRZtgMhYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 457,
+          "like_count": 15795,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3615
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

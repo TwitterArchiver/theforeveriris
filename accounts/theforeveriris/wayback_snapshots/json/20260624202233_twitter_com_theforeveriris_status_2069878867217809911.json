@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2069409142251409910",
+    "created_at": "2026-06-24T20:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T21:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069878867217809911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897694186100686849",
+          "start": 0,
+          "username": "YesooEasy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069878867217809911",
+    "in_reply_to_user_id": "1897694186100686849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069409142251409910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesooEasy 以前的电脑是电话线拨号上网的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_2069409139755778048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgEpf4XAAA-BEi.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2069409142251409910",
+        "created_at": "2026-06-24T20:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T21:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069878867217809911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897694186100686849",
+              "start": 0,
+              "username": "YesooEasy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069878867217809911",
+        "in_reply_to_user_id": "1897694186100686849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069409142251409910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesooEasy 以前的电脑是电话线拨号上网的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069409139755778048"
+          ]
+        },
+        "author_id": "1897694186100686849",
+        "conversation_id": "2069409142251409910",
+        "created_at": "2026-06-23T13:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069409142251409910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Htgv2c6lxJ",
+              "end": 36,
+              "expanded_url": "https://x.com/YesooEasy/status/2069409142251409910/photo/1",
+              "media_key": "3_2069409139755778048",
+              "start": 13,
+              "url": "https://t.co/Htgv2c6lxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069409142251409910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 812554,
+          "like_count": 1109,
+          "quote_count": 10,
+          "reply_count": 385,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "原来电脑也可以打电话吗？ https://t.co/Htgv2c6lxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 448,
+          "like_count": 16854,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 3750
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T17:03:55.000Z",
+        "description": "我们究竟在追求什么…",
+        "id": "1897694186100686849",
+        "location": " ",
+        "name": "Yesoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054129656832630784/uwLMcxxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 253,
+          "like_count": 9186,
+          "listed_count": 4,
+          "media_count": 484,
+          "tweet_count": 3364
+        },
+        "url": "",
+        "username": "YesooEasy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985517295037530114"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "1984621450834198867",
+    "created_at": "2025-11-04T01:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T02:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985517303547736153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412998764701249542",
+          "start": 0,
+          "username": "honkaistarrail"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5K4JZJLFF",
+          "end": 46,
+          "expanded_url": "https://x.com/theforeveriris/status/1985517303547736153/photo/1",
+          "media_key": "3_1985517295037530114",
+          "start": 23,
+          "url": "https://t.co/o5K4JZJLFF"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1985517303547736153",
+    "in_reply_to_user_id": "1412998764701249542",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984621450834198867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honkaistarrail circle https://t.co/o5K4JZJLFF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_1985517295037530114",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G435dcobQAIRAv1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "16_1984324496774266881",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4m8nc1WAAEYfFO.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4m8nc1WAAEYfFO.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985517295037530114"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "1984621450834198867",
+        "created_at": "2025-11-04T01:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985517303547736153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412998764701249542",
+              "start": 0,
+              "username": "honkaistarrail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5K4JZJLFF",
+              "end": 46,
+              "expanded_url": "https://x.com/theforeveriris/status/1985517303547736153/photo/1",
+              "media_key": "3_1985517295037530114",
+              "start": 23,
+              "url": "https://t.co/o5K4JZJLFF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1985517303547736153",
+        "in_reply_to_user_id": "1412998764701249542",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984621450834198867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honkaistarrail circle https://t.co/o5K4JZJLFF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1984324496774266881"
+          ]
+        },
+        "author_id": "1412998764701249542",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1984621450834198867",
+        "created_at": "2025-11-01T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984621450834198867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 156,
+              "normalized_text": "HonkaiStarRail",
+              "probability": 0.5607,
+              "start": 143,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 142,
+              "tag": "HonkaiStarRail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/71BAMJjWZ6",
+              "end": 181,
+              "expanded_url": "https://x.com/honkaistarrail/status/1984621450834198867/photo/1",
+              "media_key": "16_1984324496774266881",
+              "start": 158,
+              "url": "https://t.co/71BAMJjWZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984621450834198867",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2043,
+          "impression_count": 2802300,
+          "like_count": 25191,
+          "quote_count": 709,
+          "reply_count": 989,
+          "retweet_count": 2662
+        },
+        "reply_settings": "everyone",
+        "text": "✨💖Pink Energy Charging💖✨\n■■■■■□□□□□\nTrailblazers, Amphoreus needs your help! \nTell us which pink hero you'd call on to help save the world!\n \n#HonkaiStarRail https://t.co/71BAMJjWZ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 379,
+          "like_count": 6051,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2342
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T04:56:10.000Z",
+        "description": "Honkai: Star Rail, a HoYoverse space fantasy RPG #HonkaiStarRail YouTube: https://t.co/aQZpKkQks5 Instagram: https://t.co/784j2AUkBl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 49,
+                "tag": "HonkaiStarRail"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@honkaistarrail",
+                "end": 97,
+                "expanded_url": "http://youtube.com/@honkaistarrail",
+                "start": 74,
+                "url": "https://t.co/aQZpKkQks5"
+              },
+              {
+                "display_url": "instagram.com/honkaistarrail/",
+                "end": 132,
+                "expanded_url": "http://instagram.com/honkaistarrail/",
+                "start": 109,
+                "url": "https://t.co/784j2AUkBl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/e9RkFKAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/e9RkFKAL",
+                "start": 0,
+                "url": "https://t.co/3ImSEu0UT6"
+              }
+            ]
+          }
+        },
+        "id": "1412998764701249542",
+        "name": "Honkai: Star Rail",
+        "pinned_tweet_id": "1984832844028338543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970672377597165568/y9HvvsbC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023549,
+          "following_count": 12,
+          "like_count": 12,
+          "listed_count": 2401,
+          "media_count": 2621,
+          "tweet_count": 3251
+        },
+        "url": "https://t.co/3ImSEu0UT6",
+        "username": "honkaistarrail",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1998532218701152343",
+    "created_at": "2025-12-10T02:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T03:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998576313343570153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998576313343570153",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998532218701152343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS QQ 郵箱綁定推特嗎🤔妳真牛大了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1998532216398426119",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7w2dk6aMAcFRn_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1998532218701152343",
+        "created_at": "2025-12-10T02:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998576313343570153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998576313343570153",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998532218701152343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS QQ 郵箱綁定推特嗎🤔妳真牛大了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998532216398426119"
+          ]
+        },
+        "author_id": "1896061942785310720",
+        "conversation_id": "1998532218701152343",
+        "created_at": "2025-12-09T23:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998532218701152343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTGCeHuh2m",
+              "end": 109,
+              "expanded_url": "https://x.com/notThujaS/status/1998532218701152343/photo/1",
+              "media_key": "3_1998532216398426119",
+              "start": 86,
+              "url": "https://t.co/uTGCeHuh2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998532218701152343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看来确实是急了，这么想玩死我。\n没关系，这个号死了我完全可以再建。但听不得好赖话的死了不一定能活。\n我肯定得死号，各位对我大号感兴趣就关注吧。给我一个月时间，我会回来的。 https://t.co/uTGCeHuh2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 399,
+          "like_count": 6254,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2234
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳纯种劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        随机回关//2000粉堵桥∞延期😭///有瞎骂支黑拿我照片建我仿号骚扰女生，请认准唯一大号@iamThujaS///遇到神人请@我，感激不尽",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "iamThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生鸟鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1998532218701152343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989280532107313152/-jA_2_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4333,
+          "following_count": 895,
+          "like_count": 8701,
+          "listed_count": 11,
+          "media_count": 453,
+          "tweet_count": 4336
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2026288549310697895",
+    "created_at": "2026-02-24T13:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026294105844900168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        },
+        {
+          "end": 22,
+          "id": "1965393379224944645",
+          "start": 10,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026294105844900168",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026288549310697895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn @hagishigure 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2026288539462447104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7SsN8asAAVV3W.jpg",
+        "width": 1206
+      },
+      {
+        "height": 790,
+        "media_key": "3_2026288539470876672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7SsN-bUAAi7sO.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2026288549310697895",
+        "created_at": "2026-02-24T13:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026294105844900168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            },
+            {
+              "end": 22,
+              "id": "1965393379224944645",
+              "start": 10,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026294105844900168",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026288549310697895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn @hagishigure 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026288539462447104",
+            "3_2026288539470876672"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026288549310697895",
+        "created_at": "2026-02-24T13:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026288549310697895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 29,
+              "id": "1965393379224944645",
+              "start": 17,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2ewszqW75",
+              "end": 55,
+              "expanded_url": "https://x.com/kuukiwfn/status/2026288549310697895/photo/1",
+              "media_key": "3_2026288539462447104",
+              "start": 32,
+              "url": "https://t.co/i2ewszqW75"
+            },
+            {
+              "display_url": "pic.x.com/i2ewszqW75",
+              "end": 55,
+              "expanded_url": "https://x.com/kuukiwfn/status/2026288549310697895/photo/1",
+              "media_key": "3_2026288539470876672",
+              "start": 32,
+              "url": "https://t.co/i2ewszqW75"
+            },
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/hagishigure/status/2025915207030087738",
+              "start": 56,
+              "url": "https://t.co/IsbHX2c4li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026288549310697895",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025915207030087738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris  @hagishigure ( https://t.co/i2ewszqW75 https://t.co/IsbHX2c4li"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 436,
+          "like_count": 11365,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2913
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤 💊overdose lover 🩸喜欢非主流  ❤️ rebzyyx ,kets4eki..scenecore ..💉 互fo可以dm😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998044038981877760/Qb8G_aQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 525,
+          "like_count": 25807,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 1504
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 137,
+          "like_count": 21983,
+          "listed_count": 2,
+          "media_count": 621,
+          "tweet_count": 5407
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

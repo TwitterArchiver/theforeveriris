@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2048004611735515622",
+    "created_at": "2026-04-26T09:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048327917042848233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674333652711362560",
+          "start": 0,
+          "username": "LaiOwencom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048327917042848233",
+    "in_reply_to_user_id": "1674333652711362560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048004611735515622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaiOwencom 我现在就是新加坡人（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2048004599072886784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGv5VQIbEAAjK6C.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2048004611735515622",
+        "created_at": "2026-04-26T09:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048327917042848233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674333652711362560",
+              "start": 0,
+              "username": "LaiOwencom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048327917042848233",
+        "in_reply_to_user_id": "1674333652711362560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048004611735515622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaiOwencom 我现在就是新加坡人（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048004599072886784"
+          ]
+        },
+        "author_id": "1674333652711362560",
+        "conversation_id": "2048004611735515622",
+        "created_at": "2026-04-25T11:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048004611735515622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWiPXUjfbD",
+              "end": 65,
+              "expanded_url": "https://x.com/LaiOwencom/status/2048004611735515622/photo/1",
+              "media_key": "3_2048004599072886784",
+              "start": 42,
+              "url": "https://t.co/sWiPXUjfbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048004611735515622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 176777,
+          "like_count": 596,
+          "quote_count": 20,
+          "reply_count": 264,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "新加坡人太热爱 AI 了\n\nClaude 消耗排名全球第一！\n\n这样的国家太可怕！ https://t.co/sWiPXUjfbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 457,
+          "like_count": 13641,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 3219
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T08:27:13.000Z",
+        "description": "🛜 前运营商基建开荒牛➡️过气互联网运营老牛马\n🎒 职场三无技能普通人⭕️正在用 AI 实践翻身 \n 🔧 0 代码基础知识🌊搭建 web 项目出海中\n📖 X 评论流量乞讨📊按时活跃深度用户\n🌄 日常生活无用知识多能手",
+        "id": "1674333652711362560",
+        "location": "广州",
+        "name": "来一下|Owen",
+        "pinned_tweet_id": "2031718787377234245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040997796841730048/CEScOnSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 952,
+          "like_count": 1369,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 6181
+        },
+        "username": "LaiOwencom",
+        "verified": true
+      }
+    ]
+  }
+}

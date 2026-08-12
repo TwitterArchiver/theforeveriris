@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2001641576431603832",
+    "created_at": "2025-12-19T02:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T03:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001848567674343872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "831495289441628160",
+          "start": 0,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001848567674343872",
+    "in_reply_to_user_id": "831495289441628160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001641576431603832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changwei1006 這種題目沒有任何價值。掃一眼過去我還以為印刷錯誤呢，誰正常人考跨行註釋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2001641576431603832",
+        "created_at": "2025-12-19T02:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001848567674343872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001848567674343872",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001641576431603832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 這種題目沒有任何價值。掃一眼過去我還以為印刷錯誤呢，誰正常人考跨行註釋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831495289441628160",
+        "conversation_id": "2001641576431603832",
+        "created_at": "2025-12-18T13:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001641576431603832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086/status/2001570011979321748",
+              "start": 10,
+              "url": "https://t.co/xAX6eeGUzj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "2001641576431603832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10228,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001570011979321748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這出題人是個lyb https://t.co/xAX6eeGUzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 400,
+          "like_count": 6420,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 2283
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "PhD student, Dept of Adult & Continuing Education, National Taiwan Normal University.\nFormerly studied ECE & CSIE.\nInterned at @PingCAP & @RisingWaveLabs as FE.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "PingCAP"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "RisingWaveLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "https://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/d6BXAYKIG3"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18463,
+          "following_count": 4931,
+          "like_count": 129640,
+          "listed_count": 138,
+          "media_count": 5684,
+          "tweet_count": 18145
+        },
+        "url": "https://t.co/d6BXAYKIG3",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

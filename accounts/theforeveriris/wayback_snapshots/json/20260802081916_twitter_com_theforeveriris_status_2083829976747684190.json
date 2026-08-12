@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083829976747684190",
+    "created_at": "2026-08-02T08:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083829976747684190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoya_toboso_01…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/aoya_toboso_01/status/2025058968935252246",
+          "start": 5,
+          "url": "https://t.co/qjoKfAGWGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083829976747684190",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025058968935252246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有望全占 https://t.co/qjoKfAGWGh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083829976747684190",
+        "created_at": "2026-08-02T08:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083829976747684190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoya_toboso_01…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/aoya_toboso_01/status/2025058968935252246",
+              "start": 5,
+              "url": "https://t.co/qjoKfAGWGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083829976747684190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025058968935252246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有望全占 https://t.co/qjoKfAGWGh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "2025058968935252246",
+        "created_at": "2026-02-21T04:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025058968935252246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025058968935252246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 74588,
+          "like_count": 846,
+          "quote_count": 29,
+          "reply_count": 63,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "如果你家里没钱还占了这些，那么在中国相当于慢性死亡☠️:\n-精神发育障碍(asd、adhd）\n-性少数\n-中性打扮(长发男和铁t)\n-婚恋观不符大众(丁克、不婚)\n-打扮不符合大众审美(亚文化)\n占了两个以上还能在这片土地活过25岁的，有这个毅力干什么都会成功👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 452,
+          "like_count": 18399,
+          "listed_count": 6,
+          "media_count": 385,
+          "tweet_count": 4044
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "都来喜欢葵矢枢",
+        "id": "1902297181157257218",
+        "location": "南方县城穷蛆",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "2082334556414218461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 75,
+          "like_count": 12141,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 994
+        },
+        "url": "",
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

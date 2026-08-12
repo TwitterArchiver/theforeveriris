@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978457472789536845",
+    "created_at": "2025-10-16T05:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978700293626868200"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 140,
+          "normalized_text": "Ecclesiastes",
+          "probability": 0.851,
+          "start": 129,
+          "type": "Other"
+        },
+        {
+          "end": 150,
+          "normalized_text": "NIV",
+          "probability": 0.4548,
+          "start": 148,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1485689970593468416",
+          "start": 0,
+          "username": "TheRabbitHole84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978700293626868200",
+    "in_reply_to_user_id": "1485689970593468416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978457472789536845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheRabbitHole84 When the sentence for a crime is not quickly carried out, people’s hearts are filled with schemes to do wrong. (Ecclesiastes 8:11, NIV)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_1978457361728835584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3TkfPkakAAgsJy.png",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978457472789536845",
+        "created_at": "2025-10-16T05:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978700293626868200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 140,
+              "normalized_text": "Ecclesiastes",
+              "probability": 0.851,
+              "start": 129,
+              "type": "Other"
+            },
+            {
+              "end": 150,
+              "normalized_text": "NIV",
+              "probability": 0.4548,
+              "start": 148,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1485689970593468416",
+              "start": 0,
+              "username": "TheRabbitHole84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978700293626868200",
+        "in_reply_to_user_id": "1485689970593468416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978457472789536845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheRabbitHole84 When the sentence for a crime is not quickly carried out, people’s hearts are filled with schemes to do wrong. (Ecclesiastes 8:11, NIV)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978457361728835584"
+          ]
+        },
+        "author_id": "1485689970593468416",
+        "conversation_id": "1978457472789536845",
+        "created_at": "2025-10-15T13:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T14:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978457472789536845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YG9gh7nMpC",
+              "end": 105,
+              "expanded_url": "https://x.com/TheRabbitHole84/status/1978457472789536845/photo/1",
+              "media_key": "3_1978457361728835584",
+              "start": 82,
+              "url": "https://t.co/YG9gh7nMpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978457472789536845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 714181,
+          "like_count": 3172,
+          "quote_count": 49,
+          "reply_count": 166,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "Soft-on-crime means you can assault someone and get off with a slap on the wrist. https://t.co/YG9gh7nMpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 365,
+          "like_count": 5991,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2270
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T19:05:23.000Z",
+        "description": "Navigating the discourse",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "therabbithole84.substack.com",
+                "end": 23,
+                "expanded_url": "https://therabbithole84.substack.com/",
+                "start": 0,
+                "url": "https://t.co/Y5aSDpz7f9"
+              }
+            ]
+          }
+        },
+        "id": "1485689970593468416",
+        "location": "Mars, PA",
+        "name": "The Rabbit Hole",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522017422550528001/6AceRKJQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063021,
+          "following_count": 1600,
+          "like_count": 85983,
+          "listed_count": 2989,
+          "media_count": 11153,
+          "tweet_count": 61853
+        },
+        "url": "https://t.co/Y5aSDpz7f9",
+        "username": "TheRabbitHole84",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2053655428563939818",
+    "created_at": "2026-05-11T17:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T18:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053889182637170981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991045969371361280",
+          "start": 0,
+          "username": "Russell3402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053889182637170981",
+    "in_reply_to_user_id": "1991045969371361280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053655428563939818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russell3402 可以做酱香饼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2053655428563939818",
+        "created_at": "2026-05-11T17:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053889182637170981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991045969371361280",
+              "start": 0,
+              "username": "Russell3402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053889182637170981",
+        "in_reply_to_user_id": "1991045969371361280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053655428563939818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russell3402 可以做酱香饼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991045969371361280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2053655428563939818",
+        "created_at": "2026-05-11T01:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T02:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053655428563939818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053655428563939818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 15104,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "程序员转行的可靠方向：\n\n1. 做自媒体\n2.转产品岗\n3. 务农\n4. 打粉\n5. 写小说\n6. 画漫画\n7. Java烧烤\n9. 干教培\n10. 考公考编"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 448,
+          "like_count": 14017,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 3381
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:28:56.000Z",
+        "description": "05年大学生\n用AI赚到人生第123456789桶金\nAI玩咖 | 独立开发者 | 连续创业\n利他是最好的商业模式 坚信文字的力量\n做流量，AI咨询+vx：zzr9552",
+        "id": "1991045969371361280",
+        "name": "Russell",
+        "pinned_tweet_id": "2048246207659880627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027629616744304640/7fyIwFFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 140,
+          "like_count": 5303,
+          "listed_count": 10,
+          "media_count": 189,
+          "tweet_count": 2338
+        },
+        "username": "Russell3402",
+        "verified": true
+      }
+    ]
+  }
+}

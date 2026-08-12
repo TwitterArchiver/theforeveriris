@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2019815500092698756",
+    "created_at": "2026-02-07T02:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T03:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019961423812853947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019961423812853947",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019815500092698756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 錯誤的，男娘會折騰 Arch)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2019815446627905536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfTcoAacAAEMcx.png",
+        "width": 388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2019815500092698756",
+        "created_at": "2026-02-07T02:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019961423812853947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019961423812853947",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019815500092698756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 錯誤的，男娘會折騰 Arch)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019815446627905536"
+          ]
+        },
+        "author_id": "3889037112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019815500092698756",
+        "created_at": "2026-02-06T16:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019815500092698756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQKf8MGh88",
+              "end": 45,
+              "expanded_url": "https://x.com/ntfuko/status/2019815500092698756/photo/1",
+              "media_key": "3_2019815446627905536",
+              "start": 22,
+              "url": "https://t.co/MQKf8MGh88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019815500092698756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "claude跟我說喜歡折騰的人才用Arch https://t.co/MQKf8MGh88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 400,
+          "like_count": 9942,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2635
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "原帳號 @ringochichidim 已經遺失了。\n謝謝你找到我看到我、また見つけてくれてありがとう。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "ringochichidim"
+              }
+            ]
+          }
+        },
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 209,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 369
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

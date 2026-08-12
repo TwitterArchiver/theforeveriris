@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085058828199174218",
+    "created_at": "2026-08-05T17:42:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:42:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085058828199174218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一个简洁优雅的 Markdown 文档预览站点，支持多种渲染功能",
+          "display_url": "theforeveriris.github.io/irisy-r4ta/#/A…",
+          "end": 104,
+          "expanded_url": "https://theforeveriris.github.io/irisy-r4ta/#/About-me/found/skatole-biochemical-attribution-and-male-odor-refutation.md",
+          "start": 81,
+          "status": 200,
+          "title": "Markdown Preview",
+          "unwound_url": "https://theforeveriris.github.io/irisy-r4ta/#/About-me/found/skatole-biochemical-attribution-and-male-odor-refutation.md",
+          "url": "https://t.co/28ZrSOcxuO"
+        },
+        {
+          "display_url": "x.com/toukorina/stat…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/toukorina/status/2084780299595153546",
+          "start": 105,
+          "url": "https://t.co/5KHhxBJciu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085058828199174218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084780299595153546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经过一番研究：我发现“我发现男人的肉和没切蛋的公猪一样吃起来会是臭的，因为雄性激素让里面充满粪臭素，不信可以自己去查”漏洞百出，不信可以自己去查。\n---\n论证：https://t.co/28ZrSOcxuO https://t.co/5KHhxBJciu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085058828199174218",
+        "created_at": "2026-08-05T17:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085058828199174218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个简洁优雅的 Markdown 文档预览站点，支持多种渲染功能",
+              "display_url": "theforeveriris.github.io/irisy-r4ta/#/A…",
+              "end": 104,
+              "expanded_url": "https://theforeveriris.github.io/irisy-r4ta/#/About-me/found/skatole-biochemical-attribution-and-male-odor-refutation.md",
+              "start": 81,
+              "status": 200,
+              "title": "Markdown Preview",
+              "unwound_url": "https://theforeveriris.github.io/irisy-r4ta/#/About-me/found/skatole-biochemical-attribution-and-male-odor-refutation.md",
+              "url": "https://t.co/28ZrSOcxuO"
+            },
+            {
+              "display_url": "x.com/toukorina/stat…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/toukorina/status/2084780299595153546",
+              "start": 105,
+              "url": "https://t.co/5KHhxBJciu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085058828199174218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084780299595153546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过一番研究：我发现“我发现男人的肉和没切蛋的公猪一样吃起来会是臭的，因为雄性激素让里面充满粪臭素，不信可以自己去查”漏洞百出，不信可以自己去查。\n---\n论证：https://t.co/28ZrSOcxuO https://t.co/5KHhxBJciu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2084780299595153546",
+        "created_at": "2026-08-04T23:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084780299595153546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084780299595153546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4001,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "经过一番研究 我发现男人的肉和没切蛋的公猪一样吃起来会是臭的 因为雄性激素让里面充满粪臭素 不信可以自己去查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 0,
+          "like_count": 19096,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 4177
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7362,
+          "following_count": 968,
+          "like_count": 176211,
+          "listed_count": 18,
+          "media_count": 1529,
+          "tweet_count": 44593
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

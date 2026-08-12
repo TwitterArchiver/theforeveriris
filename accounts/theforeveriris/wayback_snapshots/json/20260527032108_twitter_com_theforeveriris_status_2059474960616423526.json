@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2055386920583385240",
+    "created_at": "2026-05-27T03:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059474960616423526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059474960616423526",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055386920583385240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 实际上字节的 trae 很早之前就有这个功能了）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_2055386793005215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYzZfka8AA3Zcp.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2055386920583385240",
+        "created_at": "2026-05-27T03:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059474960616423526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059474960616423526",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055386920583385240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 实际上字节的 trae 很早之前就有这个功能了）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055386793005215744"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2055386920583385240",
+        "created_at": "2026-05-15T20:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T21:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055386920583385240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Yet another innovative way to turn your dream true, or get inspired during prototyping.",
+              "display_url": "Guii.AI",
+              "end": 23,
+              "expanded_url": "http://Guii.AI",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://guii.ai/",
+              "url": "https://t.co/vE3el8hZfv"
+            },
+            {
+              "display_url": "pic.x.com/KnuOExEZ9b",
+              "end": 90,
+              "expanded_url": "https://x.com/luoling8192/status/2055386920583385240/photo/1",
+              "media_key": "3_2055386793005215744",
+              "start": 67,
+              "url": "https://t.co/KnuOExEZ9b"
+            },
+            {
+              "display_url": "x.com/luoling8192/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/luoling8192/status/1843536508936204637",
+              "start": 91,
+              "url": "https://t.co/m1RDeBxBBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055386920583385240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5354,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843536508936204637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vE3el8hZfv 还是太超前了😭\n现在 VSCode 里面内置了浏览器可以选择元素给 Agent 看了 https://t.co/KnuOExEZ9b https://t.co/m1RDeBxBBY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 466,
+          "like_count": 15057,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 3561
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "👩‍💻 数字游民 / 独立开发者 / 生活 & 技术分享 / 努力成为 Vibe code cleanup specialist 😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6252,
+          "following_count": 1047,
+          "like_count": 9727,
+          "listed_count": 45,
+          "media_count": 524,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

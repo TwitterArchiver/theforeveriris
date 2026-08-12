@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061255073569866078",
+    "created_at": "2026-06-01T01:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061255073569866078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Misaka1042/sta…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/Misaka1042/status/2061051380907782602",
+          "start": 136,
+          "url": "https://t.co/aSKYvwHtDu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061255073569866078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061051380907782602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我听说每个跨性别女生在小时候都会对路由器交换机感兴趣，而且我听说对 Cisco 更感兴趣的跨女长大后会嫁给男人，对华三更感兴趣的跨女会变成女同。\n什么，你作为变性女人，但是连什么是 OSI 七层模型都不知道。\n那你明白「跨性别女性小时候都喜欢 XXX」的言论有多蠢了吧？ https://t.co/aSKYvwHtDu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061255073569866078",
+        "created_at": "2026-06-01T01:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061255073569866078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Misaka1042/sta…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/Misaka1042/status/2061051380907782602",
+              "start": 136,
+              "url": "https://t.co/aSKYvwHtDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061255073569866078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061051380907782602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听说每个跨性别女生在小时候都会对路由器交换机感兴趣，而且我听说对 Cisco 更感兴趣的跨女长大后会嫁给男人，对华三更感兴趣的跨女会变成女同。\n什么，你作为变性女人，但是连什么是 OSI 七层模型都不知道。\n那你明白「跨性别女性小时候都喜欢 XXX」的言论有多蠢了吧？ https://t.co/aSKYvwHtDu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446002090237513731",
+        "conversation_id": "2061051380907782602",
+        "created_at": "2026-05-31T11:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:44:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061051213341131017",
+          "2061051380907782602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061051380907782602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3548,
+          "like_count": 57,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我听说每个跨性别女生在小时候都会对嵌入式感兴趣，而且我听说对Espressif更感兴趣的跨女长大后会嫁给男人，对STM32更感兴趣的跨女会变成女同。\n什么，你作为变性女人，但是连什么是上升沿和下降沿都不知道？\n那你明白“跨性别女性小时侯都喜欢XXX”的言论有多蠢了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 458,
+          "like_count": 15712,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3603
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025/ENFP-T/ADHD?",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762,
+          "following_count": 1225,
+          "like_count": 2921,
+          "listed_count": 15,
+          "media_count": 299,
+          "tweet_count": 1714
+        },
+        "username": "Misaka1042",
+        "verified": true
+      }
+    ]
+  }
+}

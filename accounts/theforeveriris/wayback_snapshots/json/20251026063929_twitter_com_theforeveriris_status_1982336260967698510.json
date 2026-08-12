@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1982121107500175769",
+    "created_at": "2025-10-26T06:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982336260967698510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1982336260967698510",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982121107500175769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll When I saw his life has surpassed 90% of his peers, and someone sent him thousands of remittances (under the circumstances) through the receipt code hanging on his home page, I knew that this man was evil to the point where there was no margin."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1982121039527133185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4HolW7XwAEBE7B.jpg",
+        "width": 1357
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1982121107500175769",
+        "created_at": "2025-10-26T06:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982336260967698510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1982336260967698510",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982121107500175769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll When I saw his life has surpassed 90% of his peers, and someone sent him thousands of remittances (under the circumstances) through the receipt code hanging on his home page, I knew that this man was evil to the point where there was no margin."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982121039527133185"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982121107500175769",
+        "created_at": "2025-10-25T16:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982121107500175769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5z4fW8iDB",
+              "end": 167,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982121107500175769/photo/1",
+              "media_key": "3_1982121039527133185",
+              "start": 144,
+              "url": "https://t.co/o5z4fW8iDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982121107500175769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "猫卷初识池鱼时，你还是个14岁的青涩少女，意气风发，在推特以及qq群里风生水起。如今你已经15岁了，我很遗憾地看到你的智力和道德不进反退，猫卷寄予厚望的一颗种子并没有茁壮成长。之前你发自杀解密时，我的很多朋友仅仅看了一眼就把你B了，我的对象也提前告知我，你可能有问题。只有我，坚定地相信认识几个月的你，向朋友保证你不是博同情，直到你被曝出骗钱，我心目中的完美少女才就此陨落。然而你没有吸取那次的教训，那之后你去了西安，并且花上数周的时间研究如何把责任甩给远在新加坡的晚柠和猫卷。橘生淮南则为橘，橘生淮北则为枳。不知道远在西安的你，和hyiko过得还好吗，有好好发挥利用自己的人设吗。\n很遗憾，你从来没有发给过我你的照片，我只能通过PLC全国人口信息库得知你的样子，不能在零点准时送给你这个大头照。时过境迁，物是人非，我认识你时，距离现在已经过去半年的时间。我衷心的希望你，在即将到来的2026年里，好好成长，坚定自己所走的路。如果能在百忙之中抽空看一眼你的老推友发给你的推文，我想必会受宠若惊。\n凛冬将至，我的池鱼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 48508,
+          "like_count": 230,
+          "quote_count": 13,
+          "reply_count": 52,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "猫卷初识池鱼时，你还是个14岁的青涩少女，意气风发，在推特以及qq群里风生水起。如今你已经15岁了，我很遗憾地看到你的智力和道德不进反退，猫卷寄予厚望的一颗种子并没有茁壮成长。之前你发自杀解密时，我的很多朋友仅仅看了一眼就把你B了，我的对象也提前告知我，你可能有问题。只有我，坚定地相信 https://t.co/o5z4fW8iDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 369,
+          "like_count": 6052,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2307
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "传送门 @Chiyuyu520 如果能在百忙之中抽空看一眼你的老朋友发给你的推文，我想必会受宠若惊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "成都/Singapore",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 747,
+          "like_count": 583,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1499
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

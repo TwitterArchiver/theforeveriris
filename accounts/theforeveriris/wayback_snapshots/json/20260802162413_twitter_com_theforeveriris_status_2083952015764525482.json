@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2072307519050178984",
+    "created_at": "2026-08-02T16:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083952015764525482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058054366356230144",
+          "start": 0,
+          "username": "afuseai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083952015764525482",
+    "in_reply_to_user_id": "2058054366356230144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072307519050178984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuseai 啥子垃圾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2072307259955437569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJQeS8bYAEVX83.jpg",
+        "width": 1992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2072307519050178984",
+        "created_at": "2026-08-02T16:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083952015764525482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058054366356230144",
+              "start": 0,
+              "username": "afuseai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083952015764525482",
+        "in_reply_to_user_id": "2058054366356230144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072307519050178984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuseai 啥子垃圾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072307259955437569"
+          ]
+        },
+        "author_id": "2058054366356230144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072307519050178984",
+        "created_at": "2026-07-01T13:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072307519050178984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Codex 启动器，自动写好配置，一键启动 Codex 客户端。",
+              "display_url": "codex.fusecode.ai",
+              "end": 61,
+              "expanded_url": "https://codex.fusecode.ai/",
+              "start": 38,
+              "status": 200,
+              "title": "Codex 启动器 - 下载",
+              "unwound_url": "https://codex.fusecode.ai/",
+              "url": "https://t.co/RsXZcro7iM"
+            },
+            {
+              "display_url": "pic.x.com/eFdIHVGSuW",
+              "end": 85,
+              "expanded_url": "https://x.com/afuseai/status/2072307519050178984/photo/1",
+              "media_key": "3_2072307259955437569",
+              "start": 62,
+              "url": "https://t.co/eFdIHVGSuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072307519050178984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 1001767,
+          "like_count": 277,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "使用 Codex 启动器，无需海外信用卡，无需配置直接启动 Codex\n👉 https://t.co/RsXZcro7iM https://t.co/eFdIHVGSuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 452,
+          "like_count": 18499,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 4068
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T05:38:08.000Z",
+        "description": "building https://t.co/Hr5EZM60ov",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fusecode.ai",
+                "end": 32,
+                "expanded_url": "https://fusecode.ai/",
+                "start": 9,
+                "url": "https://t.co/Hr5EZM60ov"
+              }
+            ]
+          }
+        },
+        "id": "2058054366356230144",
+        "name": "FuseAI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058060644138795008/Zi8fMHDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 15,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "afuseai",
+        "verified": true
+      }
+    ]
+  }
+}

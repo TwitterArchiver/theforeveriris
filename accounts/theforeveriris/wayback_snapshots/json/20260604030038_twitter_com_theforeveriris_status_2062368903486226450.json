@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062368893616988160"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062173535758602523",
+    "created_at": "2026-06-04T03:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062368903486226450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1833491107503869956",
+          "start": 0,
+          "username": "lyjjlch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MNx4h7iZUb",
+          "end": 158,
+          "expanded_url": "https://x.com/theforeveriris/status/2062368903486226450/photo/1",
+          "media_key": "3_2062368893616988160",
+          "start": 135,
+          "url": "https://t.co/MNx4h7iZUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062368903486226450",
+    "in_reply_to_user_id": "1833491107503869956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062173535758602523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyjjlch 并非。GMP 事实上反应不了产品是否安全，只能证明流程可控和产物正确。人药还有  ICH Q3A/B/D 规范杂质成分和中间溶剂残留检测。而且我不觉得兽药在不一定有 CSV、ALCOA+、CPV 的情况下可以自发地监管。下附一张真实的兽雌产品杂质图片 https://t.co/MNx4h7iZUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "红色线条圈中部分为安瓿瓶内侧杂质",
+        "height": 2048,
+        "media_key": "3_2062368893616988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8BlPPbIAAa0Ie.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1156,
+        "media_key": "3_2062171106648489984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5NshXbgAAtAiZ.jpg",
+        "width": 975
+      },
+      {
+        "height": 937,
+        "media_key": "3_2062171250554961920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5N05daAAAihGM.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062368893616988160"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062173535758602523",
+        "created_at": "2026-06-04T03:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062368903486226450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833491107503869956",
+              "start": 0,
+              "username": "lyjjlch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MNx4h7iZUb",
+              "end": 158,
+              "expanded_url": "https://x.com/theforeveriris/status/2062368903486226450/photo/1",
+              "media_key": "3_2062368893616988160",
+              "start": 135,
+              "url": "https://t.co/MNx4h7iZUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062368903486226450",
+        "in_reply_to_user_id": "1833491107503869956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062173535758602523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyjjlch 并非。GMP 事实上反应不了产品是否安全，只能证明流程可控和产物正确。人药还有  ICH Q3A/B/D 规范杂质成分和中间溶剂残留检测。而且我不觉得兽药在不一定有 CSV、ALCOA+、CPV 的情况下可以自发地监管。下附一张真实的兽雌产品杂质图片 https://t.co/MNx4h7iZUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062171106648489984",
+            "3_2062171250554961920"
+          ]
+        },
+        "author_id": "1833491107503869956",
+        "conversation_id": "2062173535758602523",
+        "created_at": "2026-06-03T14:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062173535758602523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZUcUIgTXsa",
+              "end": 153,
+              "expanded_url": "https://x.com/lyjjlch/status/2062173535758602523/photo/1",
+              "media_key": "3_2062171106648489984",
+              "start": 130,
+              "url": "https://t.co/ZUcUIgTXsa"
+            },
+            {
+              "display_url": "pic.x.com/ZUcUIgTXsa",
+              "end": 153,
+              "expanded_url": "https://x.com/lyjjlch/status/2062173535758602523/photo/1",
+              "media_key": "3_2062171250554961920",
+              "start": 130,
+              "url": "https://t.co/ZUcUIgTXsa"
+            },
+            {
+              "display_url": "x.com/lyjjlch/status…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/lyjjlch/status/2061486687579193399",
+              "start": 154,
+              "url": "https://t.co/5GDcF14H0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062173535758602523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061486687579193399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我注意到，兽用苯甲酸雌二醇注射液和人用苯甲酸雌二醇注射液在药典上的检验方法和标准几乎完全相同。\n同时，兽药GMP验收标准和人用药GMP验收标准采用几乎完全相同的框架，有极高重合度。\n那么，是否意味着，只要一切按照规定执行，那么注射剂品质上讲，二者并无明显差异 https://t.co/ZUcUIgTXsa https://t.co/5GDcF14H0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 16178,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3647
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T13:02:09.000Z",
+        "description": "Open-source software developer\nFood lover\n我永远深爱着我的祖国♥️\n关爱心理健康，拒绝OD/自残/自切/自杀！\n让我们拥抱更美好的明天\n对药物感兴趣但仅限理论！\n自杀干预初学者\n混沌善良\n感性\n喜欢贴贴，贴贴好耶！\n另外，这是我对象！\n@xiuli202641791",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 139,
+                "username": "xiuli202641791"
+              }
+            ]
+          }
+        },
+        "id": "1833491107503869956",
+        "name": "某人",
+        "pinned_tweet_id": "2059686768765747322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010216087665967104/XmGGooWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 88,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 215
+        },
+        "username": "lyjjlch",
+        "verified": false
+      }
+    ]
+  }
+}

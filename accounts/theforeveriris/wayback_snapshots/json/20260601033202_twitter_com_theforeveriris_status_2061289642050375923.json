@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2060959075438100841",
+    "created_at": "2026-06-01T03:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061289642050375923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015262397678993408",
+          "start": 0,
+          "username": "wishtcday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061289642050375923",
+    "in_reply_to_user_id": "2015262397678993408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060959075438100841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wishtcday ？黑话在哪。以偏概全这一块，你们老登那一辈就没有电脑盲吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2060958043664449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJn-a9magAAvLzT.png",
+        "width": 411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2060959075438100841",
+        "created_at": "2026-06-01T03:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061289642050375923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015262397678993408",
+              "start": 0,
+              "username": "wishtcday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061289642050375923",
+        "in_reply_to_user_id": "2015262397678993408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060959075438100841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wishtcday ？黑话在哪。以偏概全这一块，你们老登那一辈就没有电脑盲吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060958043664449536"
+          ]
+        },
+        "author_id": "2015262397678993408",
+        "conversation_id": "2060959075438100841",
+        "created_at": "2026-05-31T05:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060959075438100841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEpZ9eyfjm",
+              "end": 160,
+              "expanded_url": "https://x.com/wishtcday/status/2060959075438100841/photo/1",
+              "media_key": "3_2060958043664449536",
+              "start": 137,
+              "url": "https://t.co/kEpZ9eyfjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060959075438100841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6965,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一个大学生问：“电脑咋录屏”\n\n让我突然意识到一个反直觉的事实：\n\n00后对电脑的了解，远远落后于90后\n\n他们是移动互联网原住民，不是PC原住民\n\n磁链、种子、注册表、hosts文件——这些90后的基本素养，对00后来说是上古黑话\n\n智能手机解决了一切，也阉割了一切🫠🫠 https://t.co/kEpZ9eyfjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 458,
+          "like_count": 15719,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3604
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T03:16:29.000Z",
+        "description": "家父马斯克，ma天ma地ma空气，唯独钟爱ma daddy，\n咸鱼梦想家，中推赵子龙，单日千万获奖者\n同胞兄弟：@ListenerEight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ListenerEight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhongwentwitter",
+                "end": 23,
+                "expanded_url": "http://t.me/zhongwentwitter",
+                "start": 0,
+                "url": "https://t.co/Acn9qoIpSU"
+              }
+            ]
+          }
+        },
+        "id": "2015262397678993408",
+        "location": "Mars",
+        "name": "𝑅𝑜𝑟𝑠𝑐ℎ𝑎𝑐ℎ丶罗夏",
+        "pinned_tweet_id": "2038922618020192469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019344705507737600/dA70UEw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7542,
+          "following_count": 898,
+          "like_count": 11292,
+          "listed_count": 21,
+          "media_count": 726,
+          "tweet_count": 10056
+        },
+        "url": "https://t.co/Acn9qoIpSU",
+        "username": "wishtcday",
+        "verified": true
+      }
+    ]
+  }
+}

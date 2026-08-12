@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2012533918197538992",
+    "created_at": "2026-01-17T15:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012550456409788813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919581833421000704",
+          "start": 0,
+          "username": "xynruirui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012550456409788813",
+    "in_reply_to_user_id": "1919581833421000704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012533918197538992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynruirui 抱抱你哦，遠方的陌生人。就像妳自己說過的「做自己开心的事情就好了喵，不要后悔」一樣，請儘管去成為自己想要成為的樣子吧。這一段旅途的走法，我沒有辦法告訴妳，但請忘記辜負妳的人，反擊傷害妳的人，在親情關係裡更漠然一些，堅定地做好自己，每天好好吃飯好好睡覺，做感到愉快的事情😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2012533918197538992",
+        "created_at": "2026-01-17T15:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012550456409788813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919581833421000704",
+              "start": 0,
+              "username": "xynruirui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012550456409788813",
+        "in_reply_to_user_id": "1919581833421000704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012533918197538992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynruirui 抱抱你哦，遠方的陌生人。就像妳自己說過的「做自己开心的事情就好了喵，不要后悔」一樣，請儘管去成為自己想要成為的樣子吧。這一段旅途的走法，我沒有辦法告訴妳，但請忘記辜負妳的人，反擊傷害妳的人，在親情關係裡更漠然一些，堅定地做好自己，每天好好吃飯好好睡覺，做感到愉快的事情😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919581833421000704",
+        "conversation_id": "2012533918197538992",
+        "created_at": "2026-01-17T14:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012533918197538992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012533918197538992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好想……好想有个人能理解我……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 360,
+          "like_count": 6642,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2370
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T02:36:15.000Z",
+        "description": "异空间的流浪魔法师，存在于第五维度的不可名状之物，霍格沃兹魔法学院的编外人员，龙虎山道家精神观摩者，王者荣耀峡谷第一混子，三角洲贪吃的彤是也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xynrui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xynrui",
+                "start": 0,
+                "url": "https://t.co/EJGSWGiXGI"
+              }
+            ]
+          }
+        },
+        "id": "1919581833421000704",
+        "location": "喵喵星球",
+        "name": "彤蕊",
+        "pinned_tweet_id": "2010355114809442398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011794720041902080/DXtZ0ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 111,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/EJGSWGiXGI",
+        "username": "xynruirui",
+        "verified": false
+      }
+    ]
+  }
+}

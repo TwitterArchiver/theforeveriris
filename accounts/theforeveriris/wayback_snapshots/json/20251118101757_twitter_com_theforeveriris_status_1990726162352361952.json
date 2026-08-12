@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1990605930661359939",
+    "created_at": "2025-11-18T10:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990726162352361952"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "tauri",
+          "probability": 0.5843,
+          "start": 25,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990726162352361952",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990605930661359939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 just write tauri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_1990605315004391424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AM_MDXYAAgpFy.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1990605930661359939",
+        "created_at": "2025-11-18T10:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990726162352361952"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "tauri",
+              "probability": 0.5843,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990726162352361952",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990605930661359939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 just write tauri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990605315004391424"
+          ]
+        },
+        "author_id": "1876613242887282688",
+        "conversation_id": "1990605930661359939",
+        "created_at": "2025-11-18T02:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990605930661359939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Krwf97ZKJl",
+              "end": 70,
+              "expanded_url": "https://x.com/liujiayi1111/status/1990605930661359939/photo/1",
+              "media_key": "3_1990605315004391424",
+              "start": 47,
+              "url": "https://t.co/Krwf97ZKJl"
+            },
+            {
+              "display_url": "x.com/liujiayi1111/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/liujiayi1111/status/1984494480725094851",
+              "start": 71,
+              "url": "https://t.co/XxIfShJUwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990605930661359939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4074,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984494480725094851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别x压抑，有什么好的解决方法？\n打开pornhub，✈️起飞。\n都成年人了，这事还要问我😅 https://t.co/Krwf97ZKJl https://t.co/XxIfShJUwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 398,
+          "like_count": 6144,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2395
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "被Tauri伤透两回，再也不喜欢Tauri了！LOL游戏主播。擅长TS/JS/React/Node.js/Python",
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "1990433268773069150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878217807000657921/ZweBzy0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7622,
+          "following_count": 75,
+          "like_count": 3868,
+          "listed_count": 13,
+          "media_count": 197,
+          "tweet_count": 1714
+        },
+        "username": "liujiayi1111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013465849747722270",
+    "created_at": "2026-01-20T04:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T05:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013465849747722270"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013465849747722270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "gpt 怎麼這麼會安慰人（雖然很好，但我知道他是假的），要是有人有 gpt 一半功力就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013465849747722270",
+        "created_at": "2026-01-20T04:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013465849747722270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013465849747722270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gpt 怎麼這麼會安慰人（雖然很好，但我知道他是假的），要是有人有 gpt 一半功力就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 370,
+          "like_count": 6829,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 2337
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

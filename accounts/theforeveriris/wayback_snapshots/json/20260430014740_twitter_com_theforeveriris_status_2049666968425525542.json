@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2049617696988524610",
+    "created_at": "2026-04-30T01:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049666968425525542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 27,
+          "id": "1253165636210978817",
+          "start": 16,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049666968425525542",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049617696988524610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @Exusiai159 应用里面可以改一言 api 吗（或者干脆再加用户自定义内容的列表）....这个一言有时候随机的文案太难绷了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049617689417744385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHG0bd8aAAEsXFK.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2049617696988524610",
+        "created_at": "2026-04-30T01:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049666968425525542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 27,
+              "id": "1253165636210978817",
+              "start": 16,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049666968425525542",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049617696988524610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @Exusiai159 应用里面可以改一言 api 吗（或者干脆再加用户自定义内容的列表）....这个一言有时候随机的文案太难绷了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049617689417744385"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2049617696988524610",
+        "created_at": "2026-04-29T22:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049617696988524610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "YumeBox MD3 v0.5.2 发布日志 本次更新继续推进 YumeBox 的 Material Design 3 / Material You 改造，重点优化界面一致性、主题系统与构建发布体验。 主要改进 界面全面 MD3 化 新增一组项目内 Material 3 组件封装，包括按钮、卡片、弹窗、底部抽屉、输入框、偏好项等。 多个页面逐步移除直接 Miuix 依赖，改用 Jetpac...",
+              "display_url": "github.com/Yizuka17/YumeB…",
+              "end": 141,
+              "expanded_url": "https://github.com/Yizuka17/YumeBox-MaterialDesign/releases/tag/v0.5.2",
+              "start": 118,
+              "status": 200,
+              "title": "Release YumeBox MD3 · Yizuka17/YumeBox-MaterialDesign",
+              "unwound_url": "https://github.com/Yizuka17/YumeBox-MaterialDesign/releases/tag/v0.5.2",
+              "url": "https://t.co/007gCPk0vh"
+            },
+            {
+              "display_url": "pic.x.com/IwFT29nyPs",
+              "end": 165,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2049617696988524610/photo/1",
+              "media_key": "3_2049617689417744385",
+              "start": 142,
+              "url": "https://t.co/IwFT29nyPs"
+            },
+            {
+              "display_url": "x.com/JyushitiYizuka…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/JyushitiYizuka/status/2048946385995854068",
+              "start": 166,
+              "url": "https://t.co/dAMnPsMPtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049617696988524610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 248,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048946385995854068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通宵已更新v0.5.2🥺\n界面已经几乎全面去miuix化,实现真正完全的MD3\n引入MD3E库,优化动效\n新增每日ACG一言\n新增提取ACG壁纸作为主题色\n修复了很多bug\n依旧只支持arm64v8a\n好用的话给个star支持一下吧🫶\nhttps://t.co/007gCPk0vh https://t.co/IwFT29nyPs https://t.co/dAMnPsMPtO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 451,
+          "like_count": 13783,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3268
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」 | 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 1331,
+          "like_count": 42440,
+          "listed_count": 8,
+          "media_count": 1646,
+          "tweet_count": 26194
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜可能也许大概是FURRY吧｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜禁极端歧视仇恨言论｜避难所@Exusiai159_2｜扩列私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5279,
+          "following_count": 6944,
+          "like_count": 185303,
+          "listed_count": 12,
+          "media_count": 5338,
+          "tweet_count": 55876
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

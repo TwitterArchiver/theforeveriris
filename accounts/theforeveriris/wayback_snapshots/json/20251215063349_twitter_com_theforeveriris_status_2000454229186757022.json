@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1999921394868785436",
+    "created_at": "2025-12-15T06:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T07:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000454229186757022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1621762399056560128",
+          "start": 0,
+          "username": "SEEMsec"
+        },
+        {
+          "end": 25,
+          "id": "1581738468547301376",
+          "start": 9,
+          "username": "ProbiusOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000454229186757022",
+    "in_reply_to_user_id": "1621762399056560128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999929998850056629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEEMsec @ProbiusOfficial 加入另一個標榜 ai coding 的團隊，什麼也不幹，幫他們對 vibe 出的代碼改錯。這對一名開發者增長編程和設計水平大有裨益。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1999921394868785436",
+        "created_at": "2025-12-15T06:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000454229186757022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1621762399056560128",
+              "start": 0,
+              "username": "SEEMsec"
+            },
+            {
+              "end": 25,
+              "id": "1581738468547301376",
+              "start": 9,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000454229186757022",
+        "in_reply_to_user_id": "1621762399056560128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999929998850056629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEEMsec @ProbiusOfficial 加入另一個標榜 ai coding 的團隊，什麼也不幹，幫他們對 vibe 出的代碼改錯。這對一名開發者增長編程和設計水平大有裨益。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621762399056560128",
+        "conversation_id": "1999921394868785436",
+        "created_at": "2025-12-13T19:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999929998850056629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999929998850056629",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999921394868785436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial 所以我其实很反对国内的青少年黑客松，都让ai做mvp出来展示，确实是增强了青少年的创造性，但是他们还能静得下心来从头学习写代码吗。比如我现在已经学不进前端了🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 396,
+          "like_count": 6323,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 2260
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:48:07.000Z",
+        "description": "我们做了一个最好玩的CTF靶场 @cyclens_tech|hacker|web3|DJ|发泄与倾诉的自留地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "cyclens_tech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyclens.tech",
+                "end": 23,
+                "expanded_url": "https://cyclens.tech/",
+                "start": 0,
+                "url": "https://t.co/boPyP757Pa"
+              }
+            ]
+          }
+        },
+        "id": "1621762399056560128",
+        "name": "SEEM@cyclens",
+        "pinned_tweet_id": "1908776863859957904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993461623986831360/OzeIzYVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5875,
+          "following_count": 778,
+          "like_count": 46786,
+          "listed_count": 33,
+          "media_count": 82,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/boPyP757Pa",
+        "username": "SEEMsec",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "location": "Koprulu Sector Aiur",
+        "name": "探姬 | Hello-CTF 🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8187,
+          "following_count": 497,
+          "like_count": 14082,
+          "listed_count": 47,
+          "media_count": 1847,
+          "tweet_count": 12088
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

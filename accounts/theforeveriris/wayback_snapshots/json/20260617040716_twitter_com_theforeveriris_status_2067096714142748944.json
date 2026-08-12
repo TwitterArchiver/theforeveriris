@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2067059142758478314",
+    "created_at": "2026-06-17T04:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067096714142748944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "936609800598597633",
+          "start": 0,
+          "username": "Jason_Young1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067096714142748944",
+    "in_reply_to_user_id": "936609800598597633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067059142758478314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason_Young1231 他家的 codingplan 有点奇异搞笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2067059142758478314",
+        "created_at": "2026-06-17T04:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067096714142748944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "936609800598597633",
+              "start": 0,
+              "username": "Jason_Young1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067096714142748944",
+        "in_reply_to_user_id": "936609800598597633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067059142758478314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason_Young1231 他家的 codingplan 有点奇异搞笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936609800598597633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2067059142758478314",
+        "created_at": "2026-06-17T01:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:37:39.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067059064450797810",
+          "2067059142758478314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "volcengine.com/activity/codin…",
+              "end": 102,
+              "expanded_url": "https://www.volcengine.com/activity/codingplan?ac=MMAP8JTTCAQ2&rc=6J6FV5N2&utm_campaign=hw&utm_content=ccswitch&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=ccswitch",
+              "start": 79,
+              "status": 200,
+              "unwound_url": "https://www.volcengine.com/activity/codingplan?ac=MMAP8JTTCAQ2&rc=6J6FV5N2&utm_campaign=hw&utm_content=ccswitch&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=ccswitch",
+              "url": "https://t.co/f5QRZhOyhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067059142758478314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 12002,
+          "like_count": 36,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "火山方舟 Coding Plan 也第一时间上线了 GLM 5.2，抢不到官方订阅套餐的朋友可以试一试，通过 CC Switch 的邀请链接订阅有95折优惠 https://t.co/f5QRZhOyhe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 452,
+          "like_count": 16816,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 3717
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Building CC Switch — open-source tooling for AI coding workflows across Claude Code, Codex, OpenClaw, Hermes and more: https://t.co/gpx1V4wBKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ccswitch.io",
+                "end": 142,
+                "expanded_url": "https://www.ccswitch.io",
+                "start": 119,
+                "url": "https://t.co/gpx1V4wBKk"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2050969805721874786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17444,
+          "following_count": 644,
+          "like_count": 27564,
+          "listed_count": 149,
+          "media_count": 498,
+          "tweet_count": 8405
+        },
+        "username": "Jason_Young1231",
+        "verified": true
+      }
+    ]
+  }
+}

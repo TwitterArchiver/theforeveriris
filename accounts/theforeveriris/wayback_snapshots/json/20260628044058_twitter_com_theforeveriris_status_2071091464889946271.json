@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071091455591174144"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2070802718646808735",
+    "created_at": "2026-06-28T04:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071091464889946271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yuxFV2C2cQ",
+          "end": 47,
+          "expanded_url": "https://x.com/theforeveriris/status/2071091464889946271/photo/1",
+          "media_key": "3_2071091455591174144",
+          "start": 24,
+          "url": "https://t.co/yuxFV2C2cQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071091464889946271",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070802718646808735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 为什么你没有「通行密钥」选项 https://t.co/yuxFV2C2cQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_2071091455591174144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3-tKvb0AAP8BS.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1277,
+        "media_key": "3_2070802715966681088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz4GT0bsAAWppy.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071091455591174144"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2070802718646808735",
+        "created_at": "2026-06-28T04:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071091464889946271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuxFV2C2cQ",
+              "end": 47,
+              "expanded_url": "https://x.com/theforeveriris/status/2071091464889946271/photo/1",
+              "media_key": "3_2071091455591174144",
+              "start": 24,
+              "url": "https://t.co/yuxFV2C2cQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071091464889946271",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070802718646808735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 为什么你没有「通行密钥」选项 https://t.co/yuxFV2C2cQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070802715966681088"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2070802718646808735",
+        "created_at": "2026-06-27T09:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070802718646808735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcrRoRoB8p",
+              "end": 47,
+              "expanded_url": "https://x.com/aaarjkk/status/2070802718646808735/photo/1",
+              "media_key": "3_2070802715966681088",
+              "start": 24,
+              "url": "https://t.co/IcrRoRoB8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070802718646808735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 725,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些tg号是绑不了邮箱的\ngemini说是风控 https://t.co/IcrRoRoB8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 447,
+          "like_count": 16936,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 3759
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯52.8kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "location": "粤",
+        "name": "貓貓貓貓喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 924,
+          "like_count": 19174,
+          "listed_count": 3,
+          "media_count": 411,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2086556740154503325",
+    "created_at": "2026-08-10T05:46:16.000Z",
+    "display_text_range": [
+      15,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086690572912443838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2086689408074576249",
+          "start": 65,
+          "url": "https://t.co/TcuKLMu3tj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086690572912443838",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086689408074576249",
+        "type": "quoted"
+      },
+      {
+        "id": "2086556740154503325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 我也在思考除了基频外还能用什么判断声音的男女特征？加了一点共振峰和音色特征（似乎也没有太大的进步） https://t.co/TcuKLMu3tj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3926,
+        "media_key": "3_2086689384515158016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVo8ICawAAwbJC.jpg",
+        "width": 1843
+      },
+      {
+        "height": 3680,
+        "media_key": "3_2086689396838055936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVo818bQAAMG-g.jpg",
+        "width": 1843
+      },
+      {
+        "height": 1785,
+        "media_key": "3_2086556733305245696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTwSzxb0AA9dhM.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086556740154503325",
+        "created_at": "2026-08-10T05:46:16.000Z",
+        "display_text_range": [
+          15,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086690572912443838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2086689408074576249",
+              "start": 65,
+              "url": "https://t.co/TcuKLMu3tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086690572912443838",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086689408074576249",
+            "type": "quoted"
+          },
+          {
+            "id": "2086556740154503325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 我也在思考除了基频外还能用什么判断声音的男女特征？加了一点共振峰和音色特征（似乎也没有太大的进步） https://t.co/TcuKLMu3tj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086689384515158016",
+            "3_2086689396838055936"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086689408074576249",
+        "created_at": "2026-08-10T05:41:38.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086689408074576249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "iris_pi_telegram"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcfb8EeXk3",
+              "end": 104,
+              "expanded_url": "https://x.com/theforeveriris/status/2086689408074576249/photo/1",
+              "media_key": "3_2086689384515158016",
+              "start": 81,
+              "url": "https://t.co/tcfb8EeXk3"
+            },
+            {
+              "display_url": "pic.x.com/tcfb8EeXk3",
+              "end": 104,
+              "expanded_url": "https://x.com/theforeveriris/status/2086689408074576249/photo/1",
+              "media_key": "3_2086689396838055936",
+              "start": 81,
+              "url": "https://t.co/tcfb8EeXk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086689408074576249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086689384515158016"
+          },
+          {
+            "media_key": "3_2086689396838055936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#iris_pi_telegram 接入声学分析功能（并提供原始数据和历史给agent分析）\n\n/声音里的老年音来自于饱受感冒摧残的声带\n/iris没有伪音经验 https://t.co/tcfb8EeXk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086556733305245696"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086556740154503325",
+        "created_at": "2026-08-09T20:54:27.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086556740154503325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgaEHwPb7E",
+              "end": 78,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2086556740154503325/photo/1",
+              "media_key": "3_2086556733305245696",
+              "start": 55,
+              "url": "https://t.co/FgaEHwPb7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086556740154503325",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086556733305245696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 519,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我见过全世界最不准的声音测试软件了\n这是比声音大小吗难道\n我的声音绝对不是测出来的这个样子，这是偶发事件 https://t.co/FgaEHwPb7E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2086690572912443838",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 470,
+          "like_count": 18691,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2086686204427415765",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5757,
+          "following_count": 1002,
+          "like_count": 275,
+          "listed_count": 23,
+          "media_count": 3535,
+          "tweet_count": 16066
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

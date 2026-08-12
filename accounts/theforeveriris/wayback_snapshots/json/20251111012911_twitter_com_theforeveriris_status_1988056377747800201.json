@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+          "id": "917863840343191552",
+          "name": "Dietary Supplements"
+        }
+      }
+    ],
+    "conversation_id": "1987916373214056464",
+    "created_at": "2025-11-11T01:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T02:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988056377747800201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760607995300585472",
+          "start": 0,
+          "username": "xiaoeiQAQ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1988056377747800201",
+    "in_reply_to_user_id": "1760607995300585472",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987916373214056464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoeiQAQ Don't care too much. At least it taught u sth about where to hide things. For example, put a whole board of medicine cut off in a small bottle of vitamins. It is better to use 丰巢to store things in an emergency."
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Conversations about dietary supplements e.g. vitamins, protein powder",
+              "id": "917863840343191552",
+              "name": "Dietary Supplements"
+            }
+          }
+        ],
+        "conversation_id": "1987916373214056464",
+        "created_at": "2025-11-11T01:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T02:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988056377747800201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760607995300585472",
+              "start": 0,
+              "username": "xiaoeiQAQ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1988056377747800201",
+        "in_reply_to_user_id": "1760607995300585472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987916373214056464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoeiQAQ Don't care too much. At least it taught u sth about where to hide things. For example, put a whole board of medicine cut off in a small bottle of vitamins. It is better to use 丰巢to store things in an emergency."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760607995300585472",
+        "conversation_id": "1987916373214056464",
+        "created_at": "2025-11-10T16:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T17:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987916373214056464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987916373214056464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9271,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备自杀……\n1.周六学校通知大检查，害怕糖被查到带回家了，放在了床底下JK盒子里拿JK盖住（我妈知道那个盒子我以为不会翻）\n2.今天大检查结果就是骗人的，就是几个老师进教室看一眼，今天晚上回来拿糖结果被翻了……没了\n断糖了不想活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 400,
+          "like_count": 6079,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2365
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T10:10:39.000Z",
+        "description": "咲苡：15岁mtf，想念姐姐呜呜呜 ，疯狂熬夜哩 165cm/95斤 @WuYueMeow 的小迷妹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "WuYueMeow"
+              }
+            ]
+          }
+        },
+        "id": "1760607995300585472",
+        "location": "济宁",
+        "name": "王咲桃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974655164452925440/2oc_H0Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 533,
+          "like_count": 1523,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 1482
+        },
+        "username": "xiaoeiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

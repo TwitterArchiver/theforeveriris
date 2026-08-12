@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2020509877383393497",
+    "created_at": "2026-02-08T14:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020512001668100529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827053984521318400",
+          "start": 0,
+          "username": "C_baba_66ccff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020512001668100529",
+    "in_reply_to_user_id": "1827053984521318400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020509877383393497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_baba_66ccff 我来力（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020509866675384320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApLBMRbsAAmQDq.jpg",
+        "width": 590
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2020509866650226688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApLBMLb0AAF_6-.jpg",
+        "width": 597
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2020509866683691008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApLBMTacAAUlTe.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2020509866687926272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApLBMUbEAAKRIm.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2020509877383393497",
+        "created_at": "2026-02-08T14:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020512001668100529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827053984521318400",
+              "start": 0,
+              "username": "C_baba_66ccff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020512001668100529",
+        "in_reply_to_user_id": "1827053984521318400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020509877383393497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_baba_66ccff 我来力（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020509866675384320",
+            "3_2020509866650226688",
+            "3_2020509866683691008",
+            "3_2020509866687926272"
+          ]
+        },
+        "author_id": "1827053984521318400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020509877383393497",
+        "created_at": "2026-02-08T14:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020509877383393497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzbQIN8e43",
+              "end": 72,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/2020509877383393497/photo/1",
+              "media_key": "3_2020509866675384320",
+              "start": 49,
+              "url": "https://t.co/IzbQIN8e43"
+            },
+            {
+              "display_url": "pic.x.com/IzbQIN8e43",
+              "end": 72,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/2020509877383393497/photo/1",
+              "media_key": "3_2020509866650226688",
+              "start": 49,
+              "url": "https://t.co/IzbQIN8e43"
+            },
+            {
+              "display_url": "pic.x.com/IzbQIN8e43",
+              "end": 72,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/2020509877383393497/photo/1",
+              "media_key": "3_2020509866683691008",
+              "start": 49,
+              "url": "https://t.co/IzbQIN8e43"
+            },
+            {
+              "display_url": "pic.x.com/IzbQIN8e43",
+              "end": 72,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/2020509877383393497/photo/1",
+              "media_key": "3_2020509866687926272",
+              "start": 49,
+              "url": "https://t.co/IzbQIN8e43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020509877383393497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵……小群没有人所以只能挂置顶了ww\n欢迎来玩！\n以下这是我的自我介绍，谢谢你们喵\n呜呜呜求投喂 https://t.co/IzbQIN8e43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 417,
+          "like_count": 10318,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2693
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "MtF🏳️‍⚧️｜小证含糖｜hrt 2025.8.30🍥｜家长党｜小猫｜ISFP｜重抑重焦｜wota藝初心者｜锦依卫｜洛天依｜听歌ing｜最好的闺蜜@hongjiu_armin｜小号@C_baba_tianyi｜可爱猫猫对象@AGeSang2008喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "hongjiu_armin"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "C_baba_tianyi"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c_baba1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c_baba1",
+                "start": 0,
+                "url": "https://t.co/2HjL95Q6fy"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1999822506786693454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004745444769828864/6JWhaSvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 790,
+          "like_count": 19020,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/2HjL95Q6fy",
+        "username": "C_baba_66ccff",
+        "verified": false
+      }
+    ]
+  }
+}

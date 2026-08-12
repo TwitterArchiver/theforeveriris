@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2068295173852070155",
+    "created_at": "2026-06-20T12:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068308331199177078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "345437084",
+          "start": 0,
+          "username": "iamcheyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068308331199177078",
+    "in_reply_to_user_id": "345437084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068295173852070155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamcheyan mimo 确实不好用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1886,
+        "media_key": "3_2068292649564729344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQNNNzbcAA8PKa.jpg",
+        "width": 3020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2068295173852070155",
+        "created_at": "2026-06-20T12:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068308331199177078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345437084",
+              "start": 0,
+              "username": "iamcheyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068308331199177078",
+        "in_reply_to_user_id": "345437084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068295173852070155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamcheyan mimo 确实不好用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068292649564729344"
+          ]
+        },
+        "author_id": "345437084",
+        "conversation_id": "2068295173852070155",
+        "created_at": "2026-06-20T11:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:22:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068293519916294512",
+          "2068295173852070155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UW11DmorCu",
+              "end": 129,
+              "expanded_url": "https://x.com/iamcheyan/status/2068295173852070155/photo/1",
+              "media_key": "3_2068292649564729344",
+              "start": 106,
+              "url": "https://t.co/UW11DmorCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068295173852070155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "订阅了opencode go，已经彻底不想使用mimo了，笨不是重点，本来大模型也是抽卡，不满意大不了多抽几次，关键真的太慢了，常常跑一个任务，就一直看mimo发呆，等他发呆结束，我都忘记我一开始找他做什么了。 https://t.co/UW11DmorCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 451,
+          "like_count": 16843,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 3732
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-30T16:05:20.000Z",
+        "description": "程序员・作家・编剧 / 東京在住 🗼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamcheyan.com",
+                "end": 23,
+                "expanded_url": "http://iamcheyan.com",
+                "start": 0,
+                "url": "https://t.co/IoKuPng256"
+              }
+            ]
+          }
+        },
+        "id": "345437084",
+        "location": "東京 墨田区",
+        "name": "徹言",
+        "pinned_tweet_id": "1431803902769332224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752946036358909952/o_vVoTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44125,
+          "following_count": 7353,
+          "like_count": 126585,
+          "listed_count": 211,
+          "media_count": 3357,
+          "tweet_count": 17857
+        },
+        "url": "https://t.co/IoKuPng256",
+        "username": "iamcheyan",
+        "verified": true
+      }
+    ]
+  }
+}

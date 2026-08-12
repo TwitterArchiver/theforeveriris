@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2033908746821505189",
+    "created_at": "2026-03-17T23:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T00:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034053906330964388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "294677881",
+          "start": 0,
+          "username": "lenscn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034053906330964388",
+    "in_reply_to_user_id": "294677881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033908746821505189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lenscn 10xmr 是看票费，不是全部购买价格"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 549,
+        "media_key": "3_2033902390802591744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnfcsebMAA_12c.png",
+        "width": 574
+      },
+      {
+        "height": 585,
+        "media_key": "3_2033902788024147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnfz0PbIAAXLwN.png",
+        "width": 587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2033908746821505189",
+        "created_at": "2026-03-17T23:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T00:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034053906330964388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "294677881",
+              "start": 0,
+              "username": "lenscn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034053906330964388",
+        "in_reply_to_user_id": "294677881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033908746821505189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lenscn 10xmr 是看票费，不是全部购买价格"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033902390802591744",
+            "3_2033902788024147968"
+          ]
+        },
+        "author_id": "294677881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139199174212063232",
+              "name": "Monero cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139199174212063232",
+              "name": "Monero cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1139199174212063232",
+              "name": "Monero cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          }
+        ],
+        "conversation_id": "2033908746821505189",
+        "created_at": "2026-03-17T14:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:37:07.000Z",
+          "edits_remaining": 0,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033900441483022722",
+          "2033900883965317359",
+          "2033902795729055789",
+          "2033908067985985866",
+          "2033908578323714280",
+          "2033908746821505189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZHe3Vm7Ok",
+              "end": 134,
+              "expanded_url": "https://x.com/lenscn/status/2033908746821505189/photo/1",
+              "media_key": "3_2033902390802591744",
+              "start": 111,
+              "url": "https://t.co/EZHe3Vm7Ok"
+            },
+            {
+              "display_url": "pic.x.com/EZHe3Vm7Ok",
+              "end": 134,
+              "expanded_url": "https://x.com/lenscn/status/2033908746821505189/photo/1",
+              "media_key": "3_2033902788024147968",
+              "start": 111,
+              "url": "https://t.co/EZHe3Vm7Ok"
+            },
+            {
+              "display_url": "x.com/NetAskari/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/NetAskari/status/2023044109833810006",
+              "start": 135,
+              "url": "https://t.co/4D49kTSGDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033908746821505189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国超算中心遭遇史无前例安全风暴，10PB核心科研数据疑遭泄露，贱卖。中国政府一个半月保持沉默。\n中国规模最大、影响力最广的国家级超算中心（NSCC）位于天津，连接着30多个省市，服务于1,600多家核心机构，军工国企。\n它不仅部署了首台排名世界第一的超级计算机\"天河一号\"，更是中国科研与工业数字化心脏。这个中心的数据安全性直接关系到中国核心技术命脉与国家安全。\n\n2026年2月初，一名使用 @sparrowstrike1 账号的黑客在暗网著名论坛 Breach Forums 发帖，宣称已成功突破该中心的防御系统，窃取了总量超过 10PB（约 10,000TB，占1万个1T硬盘）的核心数据。黑客目前正以 10枚门罗币（XMR）的价格公开贱卖这些敏感资产。（注：截至2026年3月17日，1枚门罗币约合370美元，10枚合计仅约3,700美元。）\n\n此次疑似泄露的数据并非普通个人信息，而是中国顶尖科研实力的结晶。数据涵盖航空航天工程（涉及中航工业AVIC、中国商飞COMAC）、军事武器研究（涉及国防科技大学NUDT、西北工业大学NWPU）以及核聚变模拟和生物医学等高度敏感领域。\n\n10PB的数据量意味着该中心存储的绝大部分战略级仿真模拟和工程计算结果可能已全部落入他人之手。这不仅导致数万名研究人员多年的心血面临被逆向工程的风险，更可能让竞争对手直接获取我国在尖端科技领域的底层参数，抹平技术领先优势。作为中国最大的超算中心，NSCC承载着大量涉及国防安全的绝密运算任务，此类核心平台的数据失守，等同于国家科研基础设施的\"数字大坝\"出现溃决，其潜在损失无法用金钱衡量。\n\n部分数据样本曾短暂在GitHub流传，但随即消失。\n下面的英文推文已经转发了部分中国军工设施的核心资料为证。\n\n图1翻译：\n“不过，样本数据中确实存在几份极具价值的文件。其中一份标注为\"保密期限10年\"的文件，记载了一项针对装甲目标群的武器系统毁伤模拟研究，涉及的打击对象包括海马斯（HIMARS）多管火箭炮系统、航空母舰，以及二战时期的混凝土掩体工事。”(4/7)\n\n图2翻译\n\"该研究的目的，似乎是测试某型高穿透性武器对特定装甲形式及目标的打击效能，具体包括：最优打击部位的选取、不同密度装甲材料的抗打击差异对比等内容。(5/7)\"\n\n事件已曝光一个多月了，但是国家超级计算天津中心及相关职能部门未对此事发表官方确认或辟谣声明。\n作为中国最顶级的算力枢纽，此次事件已引起全球网络安全领域的高度关注。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 924,
+          "impression_count": 442531,
+          "like_count": 1230,
+          "quote_count": 28,
+          "reply_count": 96,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023044109833810006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国超算中心遭遇史无前例安全风暴，10PB核心科研数据疑遭泄露，贱卖。中国政府一个半月保持沉默。\n中国规模最大、影响力最广的国家级超算中心（NSCC）位于天津，连接着30多个省市，服务于1,600多家核心机构，军工国企。 https://t.co/EZHe3Vm7Ok https://t.co/4D49kTSGDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 476,
+          "like_count": 13050,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3130
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-07T15:32:59.000Z",
+        "description": "Naked truths for a dressed-up world.\n透视世界，拆解荒诞",
+        "id": "294677881",
+        "location": "Singapore",
+        "name": "Lens on World",
+        "pinned_tweet_id": "1864618354516087025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798814431750799360/kqTQJU4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57432,
+          "following_count": 1044,
+          "like_count": 18945,
+          "listed_count": 311,
+          "media_count": 10979,
+          "tweet_count": 30100
+        },
+        "username": "lenscn",
+        "verified": true
+      }
+    ]
+  }
+}

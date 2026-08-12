@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2075500359829864869",
+    "created_at": "2026-07-10T12:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075552685227741566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1422919666305888264",
+          "start": 0,
+          "username": "0x88FFA357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075552685227741566",
+    "in_reply_to_user_id": "1422919666305888264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075500359829864869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@0x88FFA357 如果是假的，我希望是真的。如果是真的，请送我 ultra 或 pro（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2075500323230371840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2ojCla0AAIyQO.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2075500359829864869",
+        "created_at": "2026-07-10T12:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075552685227741566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422919666305888264",
+              "start": 0,
+              "username": "0x88FFA357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075552685227741566",
+        "in_reply_to_user_id": "1422919666305888264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075500359829864869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@0x88FFA357 如果是假的，我希望是真的。如果是真的，请送我 ultra 或 pro（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075500323230371840"
+          ]
+        },
+        "author_id": "1422919666305888264",
+        "conversation_id": "2075500359829864869",
+        "created_at": "2026-07-10T08:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075500359829864869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcZ6MKlNdr",
+              "end": 35,
+              "expanded_url": "https://x.com/0x88FFA357/status/2075500359829864869/photo/1",
+              "media_key": "3_2075500323230371840",
+              "start": 12,
+              "url": "https://t.co/qcZ6MKlNdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075500359829864869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这是什么cursor（ https://t.co/qcZ6MKlNdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 446,
+          "like_count": 17295,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 3839
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T13:57:51.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvme0n1p.dev",
+                "end": 23,
+                "expanded_url": "http://nvme0n1p.dev",
+                "start": 0,
+                "url": "https://t.co/M3EWZGYw8X"
+              }
+            ]
+          }
+        },
+        "id": "1422919666305888264",
+        "location": "__start + 0x15",
+        "name": "溴化锂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021872110176808960/XIhhunlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 1407,
+          "like_count": 169468,
+          "listed_count": 11,
+          "media_count": 68,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/M3EWZGYw8X",
+        "username": "0x88FFA357",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2021237065594130560",
+    "created_at": "2026-02-11T08:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021501673760489584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "260195379",
+          "start": 0,
+          "username": "ava_wolf"
+        },
+        {
+          "end": 18,
+          "id": "1998006140286935041",
+          "start": 10,
+          "username": "QingQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021501673760489584",
+    "in_reply_to_user_id": "260195379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021442854527381555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ava_wolf @QingQ77 就是滥用，很早之前 就看到过一款这样的应用，会封号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2021237065594130560",
+        "created_at": "2026-02-11T08:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021501673760489584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "260195379",
+              "start": 0,
+              "username": "ava_wolf"
+            },
+            {
+              "end": 18,
+              "id": "1998006140286935041",
+              "start": 10,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021501673760489584",
+        "in_reply_to_user_id": "260195379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021442854527381555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ava_wolf @QingQ77 就是滥用，很早之前 就看到过一款这样的应用，会封号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260195379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2021237065594130560",
+        "created_at": "2026-02-11T04:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021442854527381555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998006140286935041",
+              "start": 0,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021442854527381555",
+        "in_reply_to_user_id": "1998006140286935041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021237065594130560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingQ77 这算滥用吗？跟把GitHub当网盘的有什么区别？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 420,
+          "like_count": 10584,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2727
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-03T11:51:33.000Z",
+        "description": "I am i",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/ava_wolf",
+                "end": 22,
+                "expanded_url": "https://twitter.com/ava_wolf",
+                "start": 0,
+                "url": "http://t.co/s4ueefFXKt"
+              }
+            ]
+          }
+        },
+        "id": "260195379",
+        "location": "山东青岛",
+        "name": "哲哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000338326268/8aa0d35162583de5a407e14dd4d80f37_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 111,
+          "like_count": 231,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 146
+        },
+        "url": "http://t.co/s4ueefFXKt",
+        "username": "ava_wolf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨不要等待 | 🌱持续创作 | 👨‍💻分享互动 | 🔋快版Geek |",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5279,
+          "following_count": 483,
+          "like_count": 322,
+          "listed_count": 42,
+          "media_count": 495,
+          "tweet_count": 770
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}

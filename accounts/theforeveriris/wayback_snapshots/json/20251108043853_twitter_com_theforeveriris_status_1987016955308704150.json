@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1986782853603155970",
+    "created_at": "2025-11-08T04:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987016955308704150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1987016955308704150",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986782853603155970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 物理画板和逻辑电路画板基本可以放弃了....实现起来的难度比前面所有功能加在一起都要大。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1986782423070523392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J4Fl0bwAAOoQD.jpg",
+        "width": 2900
+      },
+      {
+        "height": 1476,
+        "media_key": "3_1986782546462720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J4MxfbQAAj8TG.jpg",
+        "width": 2620
+      },
+      {
+        "height": 1512,
+        "media_key": "3_1986782618701176832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J4Q-maoAArShC.jpg",
+        "width": 2892
+      },
+      {
+        "height": 1522,
+        "media_key": "3_1986782800201314304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J4biva8AAIPKA.jpg",
+        "width": 2898
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1986782853603155970",
+        "created_at": "2025-11-08T04:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987016955308704150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1987016955308704150",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986782853603155970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 物理画板和逻辑电路画板基本可以放弃了....实现起来的难度比前面所有功能加在一起都要大。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986782423070523392",
+            "3_1986782546462720000",
+            "3_1986782618701176832",
+            "3_1986782800201314304"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1986782853603155970",
+        "created_at": "2025-11-07T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986782853603155970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDwEAJvO9Q",
+              "end": 182,
+              "expanded_url": "https://x.com/AcboxLiu/status/1986782853603155970/photo/1",
+              "media_key": "3_1986782423070523392",
+              "start": 159,
+              "url": "https://t.co/xDwEAJvO9Q"
+            },
+            {
+              "display_url": "pic.x.com/xDwEAJvO9Q",
+              "end": 182,
+              "expanded_url": "https://x.com/AcboxLiu/status/1986782853603155970/photo/1",
+              "media_key": "3_1986782546462720000",
+              "start": 159,
+              "url": "https://t.co/xDwEAJvO9Q"
+            },
+            {
+              "display_url": "pic.x.com/xDwEAJvO9Q",
+              "end": 182,
+              "expanded_url": "https://x.com/AcboxLiu/status/1986782853603155970/photo/1",
+              "media_key": "3_1986782618701176832",
+              "start": 159,
+              "url": "https://t.co/xDwEAJvO9Q"
+            },
+            {
+              "display_url": "pic.x.com/xDwEAJvO9Q",
+              "end": 182,
+              "expanded_url": "https://x.com/AcboxLiu/status/1986782853603155970/photo/1",
+              "media_key": "3_1986782800201314304",
+              "start": 159,
+              "url": "https://t.co/xDwEAJvO9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986782853603155970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 307,
+                "start": 302,
+                "tag": "AI教育"
+              },
+              {
+                "end": 313,
+                "start": 308,
+                "tag": "开源项目"
+              },
+              {
+                "end": 324,
+                "start": 314,
+                "tag": "ChatTutor"
+              },
+              {
+                "end": 331,
+                "start": 325,
+                "tag": "可视化教学"
+              },
+              {
+                "end": 339,
+                "start": 332,
+                "tag": "STEM教育"
+              },
+              {
+                "end": 345,
+                "start": 340,
+                "tag": "创新教学"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646/C…",
+                "end": 301,
+                "expanded_url": "https://github.com/sheepbox8646/ChatTutor",
+                "start": 278,
+                "url": "https://t.co/AiV0y6mRGo"
+              }
+            ]
+          },
+          "text": "介绍一下我的新项目——ChatTutor。这是一个突破性的「可视化交互式 AI 教师」，不仅能够通过文字与你对话，更能使用电子白板进行直观教学\n\n与传统聊天机器人不同，ChatTutor 将真实课堂中的教学工具——黑板、几何绘图、函数图像、思维导图等——全部带到了数字世界。AI 真正拥有了\"动手教学\"的能力，让学习 STEM 科目变得更直观和高效\n\n在计划中的功能：\n数学画板 - 动态绘制函数图像、几何图形\n代码页面 - 编程教学与实时执行\n思维导图 - 知识结构可视化\n物理画板 - 实验现象模拟\n数字逻辑画板 - 逻辑电路演示\nGitHub 地址：https://t.co/AiV0y6mRGo\n#AI教育 #开源项目 #ChatTutor #可视化教学 #STEM教育 #创新教学"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 30181,
+          "like_count": 349,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "介绍一下我的新项目——ChatTutor。这是一个突破性的「可视化交互式 AI 教师」，不仅能够通过文字与你对话，更能使用电子白板进行直观教学\n\n与传统聊天机器人不同，ChatTutor 将真实课堂中的教学工具——黑板、几何绘图、函数图像、思维导图等——全部带到了数字世界。AI 真正拥有了\"动手教学\"的能力，让学习 https://t.co/xDwEAJvO9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 399,
+          "like_count": 6064,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2355
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8744,
+          "following_count": 2987,
+          "like_count": 2867,
+          "listed_count": 32,
+          "media_count": 1099,
+          "tweet_count": 5606
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

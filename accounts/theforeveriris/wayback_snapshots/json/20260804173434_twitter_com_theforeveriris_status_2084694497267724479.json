@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084534325975163062",
+    "created_at": "2026-08-04T17:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084694497267724479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084694497267724479",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084534325975163062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery K3 好贵，逆向的时候头脑风暴 一不小心就会消耗特别多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2698,
+        "media_key": "3_2084534280085278720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3A4iabkAAOPjY.jpg",
+        "width": 3634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084534325975163062",
+        "created_at": "2026-08-04T17:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084694497267724479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084694497267724479",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084534325975163062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery K3 好贵，逆向的时候头脑风暴 一不小心就会消耗特别多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084534280085278720"
+          ]
+        },
+        "author_id": "2721275622",
+        "conversation_id": "2084534325975163062",
+        "created_at": "2026-08-04T06:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084534325975163062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsU0V7D0Le",
+              "end": 47,
+              "expanded_url": "https://x.com/__oQuery/status/2084534325975163062/photo/1",
+              "media_key": "3_2084534280085278720",
+              "start": 24,
+              "url": "https://t.co/hsU0V7D0Le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084534325975163062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 14451,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找到了 kimi k3 的用途，就是去逆向。 https://t.co/hsU0V7D0Le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 459,
+          "like_count": 18792,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 4129
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "Orchestrating ideas with Code & AI | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innei.in",
+                "end": 23,
+                "expanded_url": "https://innei.in",
+                "start": 0,
+                "url": "https://t.co/HHCCtwk4dL"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.max-fast",
+        "pinned_tweet_id": "2082425429693198622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078173856595148800/2EKDMJED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10942,
+          "following_count": 1014,
+          "like_count": 12783,
+          "listed_count": 91,
+          "media_count": 1356,
+          "tweet_count": 10416
+        },
+        "url": "https://t.co/HHCCtwk4dL",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

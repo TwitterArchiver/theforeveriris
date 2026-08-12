@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052221096225910785"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2052195783269847283",
+    "created_at": "2026-05-07T02:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052221104455049609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786479809647869952",
+          "start": 0,
+          "username": "skywind3000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yufEtqLaBP",
+          "end": 61,
+          "expanded_url": "https://x.com/theforeveriris/status/2052221104455049609/photo/1",
+          "media_key": "3_2052221096225910785",
+          "start": 38,
+          "url": "https://t.co/yufEtqLaBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052221104455049609",
+    "in_reply_to_user_id": "786479809647869952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052195783269847283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywind3000 这种文件记忆系统我也做过，其实还是相当有局限性的 https://t.co/yufEtqLaBP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052221096225910785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr0NsEbsAEB69O.jpg",
+        "width": 1068
+      },
+      {
+        "height": 1459,
+        "media_key": "3_2052194827299917824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrcUosbEAAgupi.jpg",
+        "width": 1507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052221096225910785"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2052195783269847283",
+        "created_at": "2026-05-07T02:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052221104455049609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yufEtqLaBP",
+              "end": 61,
+              "expanded_url": "https://x.com/theforeveriris/status/2052221104455049609/photo/1",
+              "media_key": "3_2052221096225910785",
+              "start": 38,
+              "url": "https://t.co/yufEtqLaBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052221104455049609",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052195783269847283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 这种文件记忆系统我也做过，其实还是相当有局限性的 https://t.co/yufEtqLaBP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052194827299917824"
+          ]
+        },
+        "author_id": "786479809647869952",
+        "conversation_id": "2052195783269847283",
+        "created_at": "2026-05-07T01:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:15:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052195589727858702",
+          "2052195783269847283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mwZXuSbJ7",
+              "end": 138,
+              "expanded_url": "https://x.com/skywind3000/status/2052195783269847283/photo/1",
+              "media_key": "3_2052194827299917824",
+              "start": 115,
+              "url": "https://t.co/9mwZXuSbJ7"
+            },
+            {
+              "display_url": "x.com/skywind3000/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/skywind3000/status/2041498935391592748",
+              "start": 139,
+              "url": "https://t.co/Io884EeYGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052195783269847283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 2321,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041498935391592748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享下我的手工记忆系统：更好的同 AI 讨论问题，记忆不依赖 agent，而是全部记录在 git 上，同一个话题随便新开会话继续讨论，换机器，换 agent 软件都没问题，最终形成个人长期知识库；规则 AGENTS.md 如下： https://t.co/9mwZXuSbJ7 https://t.co/Io884EeYGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 449,
+          "like_count": 14018,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 3357
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27524,
+          "following_count": 341,
+          "like_count": 8020,
+          "listed_count": 218,
+          "media_count": 1224,
+          "tweet_count": 9326
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

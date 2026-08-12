@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1989242082771497071",
+    "created_at": "2025-11-14T08:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989242082771497071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MoonAtCloud/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/MoonAtCloud/status/1989052970793935101",
+          "start": 61,
+          "url": "https://t.co/I3E3KxY4ov"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1989242082771497071",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989052970793935101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Psycho? Boring, useless and ungraceful ai-generated articles https://t.co/I3E3KxY4ov"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1989242082771497071",
+        "created_at": "2025-11-14T08:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989242082771497071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoonAtCloud/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/MoonAtCloud/status/1989052970793935101",
+              "start": 61,
+              "url": "https://t.co/I3E3KxY4ov"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1989242082771497071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989052970793935101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Psycho? Boring, useless and ungraceful ai-generated articles https://t.co/I3E3KxY4ov"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545502277946880000",
+        "conversation_id": "1989052970793935101",
+        "created_at": "2025-11-13T19:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T20:22:16.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989051204782158049",
+          "1989051940542804477",
+          "1989052382844690510",
+          "1989052970793935101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989052970793935101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个计算机系研究生的特别作业\n\n导师说自己讨厌自然数的负号“-”\n\n几十年前，我读研第二年的一个下午，导师把我叫到办公室，没有寒暄，直接布置了一个看似荒唐的任务。\n\n他没有递给我任何教材或论文，只是看着我的眼睛，说：\n\n“设计一个自然数体系的数字表达方式。在这个系统里，永远看不到负号。”\n\n那是我第一次被要求“从头重写数学”。我意识到，数学并非刻在石碑上的神圣经文，而像一台精密的机器，可以被拆开、理解，甚至重新组装。\n\n既然目标是让负号消失，我只能回到最熟悉的起点；十进制，把它彻底拆开，看看它究竟是如何运作的。\n\n一、拆解十进制：位权，隐藏的引擎\n\n我们称之为“十进制”的系统，其真正的学术名称是“十进位制”。它的成立，只依赖于两个简单的核心结构：\n\n基数：就是“逢十进一”的那个“十”。\n\n位权：每个数字位置代表的权重不同。从个位开始，权重是1；向左移动一位，权重就是前一位的十倍（1 × 10）；再向左，就是百倍（10 × 10）……以此类推。\n\n所以，当我们写下符号“178”时，它真正的含义是：\n1 × 100 + 7 × 10 + 8 × 1\n\n二、负号从何而来？位权全是正数的“缺陷”\n\n问题浮出水面：当我们进行“3 - 8”这样的运算时，结果为-5。这个负号从何而来？\n\n究其根源，是因为在我们的系统中，所有权重都是正数。\n\n当较小的数字需要减去较大的数字时，这套纯正的权重系统无能为力，只能额外引入一个负号“-”作为补救。\n\n我盯着这个“缺陷”，灵感一闪：\n“如果……让位权自己带上负号呢？能不能把这个刺眼的‘-’，直接吸收到数字结构的内部分？”\n\n导师没有给我答案，但路径已经清晰：要想根除负号，必须动摇它的根基：改变基数。\n\n三、核心改造：将基数从 +10 变为 -10\n\n我的方案是：将基数从10改为-10。\n\n这个简单的改动，引发了一场静默的革命。位权序列随之变为：\n…, (-10)³, (-10)², (-10)¹, (-10)⁰ → …, -1000, 100, -10, 1\n\n看，位权像心跳般正负交替，自己承担了翻身的任务。\n\n现在，同一串数字“178”的意义彻底改变了：\n1 × 100 + 7 × (-10) + 8 × 1 = 100 - 70 + 8 = 38\n\n而数字“12”则意味着：\n1 × (-10) + 2 × 1 = -10 + 2 = -8\n\n写法上全是正的数字，含义却可正可负。 \n\n导师深恶痛绝的负号，不是被禁止了，而是被“做掉”了——它的功能，完全由交替正负的位权代劳。\n\n我把这个系统称为“基为-10的系统”。\n\n在这个新世界里，所有整数都被映射成了没有负号的正整数串：\n\n普通十进制 基为-10的系统\n123 283\n-456 1664\n7890 13910\n-13579 194581\n24680 36720\n\n一眼望去，你无法从长相判断一个数的正负。所有整数，都穿上了一件“正整数”的外衣。\n\n四、数学完备性：一个不漏，一个不重\n\n这层“外衣”穿得完美吗？需要回答两个问题：\n\n1. 是否单射？ 不同的整数，会有不同的编码吗？（会不会撞衫？）\n2. 是否满射？ 所有正整数，都对应着某个唯一的整数吗？（衣服够不够穿？）\n\n答案是肯定的。可以严格证明，这个表示法是一一对应的，一个不漏，一个不重。\n\n五、新世界的运算法则：进位与借位的“翻身”\n\n改变基数后，最反直觉的是运算法则的重塑。在基为-10的系统里，每一次进位和借位，都意味着一次符号的翻转。\n\n加法规则：\n\n1. 个位照常相加。\n2. 向前进位时，进位的数值需要乘以-1（即翻转符号）。\n3. 若某位相加后 ≥ 10，写下 (结果 - 10)，并向高位进一个翻身后的值（即-1）。\n4. 若某位相加后 < 0，写下 (结果 + 10)，并向高位进一个翻身后的值（即+1）。\n\n例：计算 178 + 86\n\n  · 个位：8 + 6 = 14 → 写4，向十位进 -1 (因为 1 × (-1) = -1)\n  · 十位：7 + 8 + (-1) = 14 → 写4，向百位进 -1\n  · 百位：1 + 0 + (-1) = 0 → 写0\n  · 结果是 044，也就是 44。\n\n这背后发生了什么？ 在基为-10的系统里，178 代表 38，86 代表 -74。所以 178 + 86 实际是在计算 38 + (-74) = -36。而 -36 在这个系统中，正是 44（读者可自行验证）。计算自洽！\n\n减法规则同理，借位也需要翻身，过程对称，确保负号永不现身。\n\n最终，位权默默承担了所有原本需要负号来做的工作。\n\n六、尾声与启示\n\n我把所有推导和规则整理好，交给了导师。\n\n他静静地看了五分钟，合上稿子，嘴角露出一丝难以察觉的笑意。\n\n“你知道吗？”他说，“你其实重新发现了计算机的补码系统。二进制计算机表示负数，用的就是类似的‘负二进制’思想。”\n\n原来如此！计算机的Byte中没有什么bit比其它bit更特殊，哪怕是符号位的那个bit。\n\n说完，他笑了笑。这门特别的数学作业，就此结束。\n\n把基数从 +10 改成 -10，不只是让一个符号消失，而是让整个数字宇宙翻了个面。\n\n它揭示了一个真相：那些我们习以为常的数学结构，看似简单直白，其实都建立在精妙而隐秘的约定之上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 17385,
+          "like_count": 121,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "一个计算机系研究生的特别作业\n\n导师说自己讨厌自然数的负号“-”\n\n几十年前，我读研第二年的一个下午，导师把我叫到办公室，没有寒暄，直接布置了一个看似荒唐的任务。\n\n他没有递给我任何教材或论文，只是看着我的眼睛，说：\n\n“设计一个自然数体系的数字表达方式。在这个系统里，永远看不到负号。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 395,
+          "like_count": 6116,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2389
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T20:17:18.000Z",
+        "description": "",
+        "id": "1545502277946880000",
+        "location": "San Jose, CA",
+        "name": "云中月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966352454645366784/qd4vGbvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25617,
+          "following_count": 951,
+          "like_count": 396,
+          "listed_count": 198,
+          "media_count": 691,
+          "tweet_count": 3200
+        },
+        "username": "MoonAtCloud",
+        "verified": true
+      }
+    ]
+  }
+}

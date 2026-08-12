@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084111435429487000",
+    "created_at": "2026-08-03T04:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084136748611993630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 52,
+          "expanded_url": "https://x.com/theforeveriris/status/2083995844030894404?s=20",
+          "start": 29,
+          "url": "https://t.co/dbjEvB7L4D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084136748611993630",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083995844030894404",
+        "type": "quoted"
+      },
+      {
+        "id": "2084111435429487000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 此人也是声名狼藉了（）\nhttps://t.co/dbjEvB7L4D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084111435429487000",
+        "created_at": "2026-08-03T04:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084136748611993630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 52,
+              "expanded_url": "https://x.com/theforeveriris/status/2083995844030894404?s=20",
+              "start": 29,
+              "url": "https://t.co/dbjEvB7L4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084136748611993630",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083995844030894404",
+            "type": "quoted"
+          },
+          {
+            "id": "2084111435429487000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 此人也是声名狼藉了（）\nhttps://t.co/dbjEvB7L4D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083868403656429743",
+        "created_at": "2026-08-02T19:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083995844030894404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640686898254430209",
+              "start": 0,
+              "username": "ghgiopjkl"
+            },
+            {
+              "end": 70,
+              "id": "1863319222765428736",
+              "start": 60,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083995844030894404",
+        "in_reply_to_user_id": "1640686898254430209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 196,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083868403656429743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghgiopjkl 别急着扩散，这个 inti（现 Vera，原 Patricia）二月中旬那会儿可是出名的很，包括 @Re_ZaoTon 在内的很多人都被他骚扰或攻击过。而且他还有大量支持法轮功邪教的历史言论（推特和 QQ 空间）。\n\n时间久远，我找不到证据截图，有保存的推 u可以在下面贴一下 \n\n还有当事人可以解释一下什么叫病毒实验吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2084111435429487000",
+        "created_at": "2026-08-03T02:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084111435429487000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ghgiopjkl/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ghgiopjkl/status/2083868403656429743",
+              "start": 10,
+              "url": "https://t.co/MZ5wKfwk5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084111435429487000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083868403656429743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fake news https://t.co/MZ5wKfwk5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 455,
+          "like_count": 18591,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 4100
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6827,
+          "following_count": 3360,
+          "like_count": 4196,
+          "listed_count": 19,
+          "media_count": 531,
+          "tweet_count": 3682
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

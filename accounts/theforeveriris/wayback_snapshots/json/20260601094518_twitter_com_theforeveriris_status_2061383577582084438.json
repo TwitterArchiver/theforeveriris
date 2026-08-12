@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061346568167686442",
+    "created_at": "2026-06-01T09:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061383577582084438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1672461374180450305",
+          "start": 0,
+          "username": "6mhzph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061383577582084438",
+    "in_reply_to_user_id": "1672461374180450305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061346568167686442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6mhzph 这啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061346561041580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtfxpnbQAApKH1.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061346568167686442",
+        "created_at": "2026-06-01T09:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061383577582084438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1672461374180450305",
+              "start": 0,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061383577582084438",
+        "in_reply_to_user_id": "1672461374180450305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061346568167686442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6mhzph 这啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061346561041580032"
+          ]
+        },
+        "author_id": "1672461374180450305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061346568167686442",
+        "created_at": "2026-06-01T07:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061346568167686442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGqcb6NHkk",
+              "end": 23,
+              "expanded_url": "https://x.com/6mhzph/status/2061346568167686442/photo/1",
+              "media_key": "3_2061346561041580032",
+              "start": 0,
+              "url": "https://t.co/OGqcb6NHkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061346568167686442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OGqcb6NHkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 458,
+          "like_count": 15755,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3611
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想成为大家的情绪垃圾桶🗑️｜🇮 🇳 🇫 🇵 / 互fo请私 / #树洞 / 精神病人 / 缺爱ing / 大一休学 / 艾拉厨 / ✝️自傷重度依賴✝️｜下面有好玩的喵↓｜卡哇伊森森:@senzhiwu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "树洞"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "senzhiwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO9vMm"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距离520km",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057702761849110528/kih3Yb0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 274,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/U7b6ZO9vMm",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}

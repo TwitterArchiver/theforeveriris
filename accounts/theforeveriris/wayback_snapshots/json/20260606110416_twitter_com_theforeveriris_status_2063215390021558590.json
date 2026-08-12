@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2063133542734021078",
+    "created_at": "2026-06-06T11:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063215390021558590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063215390021558590",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063133542734021078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 还有小程序呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2063133481790832640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKG4-IJbgAAJCMx.jpg",
+        "width": 2548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063133542734021078",
+        "created_at": "2026-06-06T11:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063215390021558590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063215390021558590",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063133542734021078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 还有小程序呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063133481790832640"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2063133542734021078",
+        "created_at": "2026-06-06T05:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063133542734021078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwlVKFkUeA",
+              "end": 70,
+              "expanded_url": "https://x.com/MaxForAI/status/2063133542734021078/photo/1",
+              "media_key": "3_2063133481790832640",
+              "start": 47,
+              "url": "https://t.co/rwlVKFkUeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063133542734021078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7645,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啥玩意？？？\n\n阿里云居然有APP？？\n\n还有Ipad版\n\n这个是不是第一个有App的云啊🤔 https://t.co/rwlVKFkUeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 463,
+          "like_count": 16572,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3676
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容👌\nHead of growth @lobehub\nPrev Marswave、Sapient\n同名小红书4万粉丝，公众号01Founder（长文首发）\n\n观点仅代表个人，更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12825,
+          "following_count": 1925,
+          "like_count": 11328,
+          "listed_count": 123,
+          "media_count": 599,
+          "tweet_count": 4851
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

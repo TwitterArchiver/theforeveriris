@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059928054789763565",
+    "created_at": "2026-05-28T14:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060011337133277319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "215671951",
+          "start": 0,
+          "username": "royxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060011337133277319",
+    "in_reply_to_user_id": "215671951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059928054789763565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@royxy 客户端版本是不是不是最新的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059928054789763565",
+        "created_at": "2026-05-28T14:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060011337133277319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "215671951",
+              "start": 0,
+              "username": "royxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060011337133277319",
+        "in_reply_to_user_id": "215671951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059928054789763565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@royxy 客户端版本是不是不是最新的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "215671951",
+        "conversation_id": "2059928054789763565",
+        "created_at": "2026-05-28T09:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059928054789763565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059928054789763565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19168,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们都有自动翻译，我到现在还要手动点翻译？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 458,
+          "like_count": 15418,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 3585
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-14T16:05:54.000Z",
+        "description": "文化  建筑 历史 风水 审美 键政 游戏 生活 旅行 摄影 书法 抽象 乱七八糟的无用知识分享   有时频道：https://t.co/7ra78DfjcC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@youshi-channel",
+                "end": 79,
+                "expanded_url": "https://www.youtube.com/@youshi-channel",
+                "start": 56,
+                "url": "https://t.co/7ra78DfjcC"
+              }
+            ]
+          }
+        },
+        "id": "215671951",
+        "name": "骆逸",
+        "pinned_tweet_id": "2056743284194893954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696970209498914816/wl-aDvfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46263,
+          "following_count": 1264,
+          "like_count": 9595,
+          "listed_count": 348,
+          "media_count": 3726,
+          "tweet_count": 69056
+        },
+        "username": "royxy",
+        "verified": true
+      }
+    ]
+  }
+}

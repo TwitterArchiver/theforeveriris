@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1998180679998480851",
+    "created_at": "2025-12-09T00:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T01:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998195318849188257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1249894680428285954",
+          "start": 0,
+          "username": "eru_elysion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998195318849188257",
+    "in_reply_to_user_id": "1249894680428285954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998180679998480851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eru_elysion 嘗試申訴？但是據我所知，小紅書的客服服務態度隻能說一般(｡_｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1998180679998480851",
+        "created_at": "2025-12-09T00:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998195318849188257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1249894680428285954",
+              "start": 0,
+              "username": "eru_elysion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998195318849188257",
+        "in_reply_to_user_id": "1249894680428285954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998180679998480851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eru_elysion 嘗試申訴？但是據我所知，小紅書的客服服務態度隻能說一般(｡_｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249894680428285954",
+        "conversation_id": "1998180679998480851",
+        "created_at": "2025-12-08T23:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998180679998480851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998180679998480851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1024,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在，我的红被冻结了\n因为我是外国人，所以没有有效的身份证明文件\n( ´ㅁ` ;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 397,
+          "like_count": 6211,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 2219
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-14T02:58:26.000Z",
+        "description": "cosplay ｜doll ¸dark fantasy｜創作｜白｜衣装制作｜◾︎contact【eruelysion@gmail.com】◾︎online shop【https://t.co/dOV96p3dC8】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "eruelysion.booth.pm",
+                "end": 106,
+                "expanded_url": "https://eruelysion.booth.pm/",
+                "start": 83,
+                "url": "https://t.co/dOV96p3dC8"
+              }
+            ]
+          }
+        },
+        "id": "1249894680428285954",
+        "location": "聖少女十字軍",
+        "name": "𝓮.𝓵.",
+        "pinned_tweet_id": "1791399868696871352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976223897294127104/2lLP93VD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55208,
+          "following_count": 86,
+          "like_count": 13549,
+          "listed_count": 316,
+          "media_count": 453,
+          "tweet_count": 7324
+        },
+        "username": "eru_elysion",
+        "verified": false
+      }
+    ]
+  }
+}

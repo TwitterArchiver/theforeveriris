@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2019253919474724984",
+    "created_at": "2026-02-05T04:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T05:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019271839844037002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775149090881560580",
+          "start": 0,
+          "username": "aparicher_core1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019271839844037002",
+    "in_reply_to_user_id": "1775149090881560580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019253919474724984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aparicher_core1 您是？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019253915674451968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXUvOMXoAAiRSf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2019253919474724984",
+        "created_at": "2026-02-05T04:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019271839844037002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775149090881560580",
+              "start": 0,
+              "username": "aparicher_core1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019271839844037002",
+        "in_reply_to_user_id": "1775149090881560580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019253919474724984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aparicher_core1 您是？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019253915674451968"
+          ]
+        },
+        "author_id": "1775149090881560580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019253919474724984",
+        "created_at": "2026-02-05T03:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019253919474724984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMrQcRNOTO",
+              "end": 49,
+              "expanded_url": "https://x.com/aparicher_core1/status/2019253919474724984/photo/1",
+              "media_key": "3_2019253915674451968",
+              "start": 26,
+              "url": "https://t.co/GMrQcRNOTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019253919474724984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药娘圈四大神人介绍：n55、唐毓文、冰棍、还有本喵 https://t.co/GMrQcRNOTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 409,
+          "like_count": 9486,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 2600
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年/无业/N55粉/无证含糖mtf/身高180体重??/🚪30(同类免费)/pvz/mc/术力口/爱穿JK，不卖不援交不od不割手，qq:2198461644",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "四川成都(暂未到达)",
+        "name": "柠檬味软糖_XYN喵🏳️‍⚧️🍥🍬🍭(N55二世)",
+        "pinned_tweet_id": "1990640830965756028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015393907874353152/OSzjOmqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 334,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "aparicher_core1",
+        "verified": false
+      }
+    ]
+  }
+}

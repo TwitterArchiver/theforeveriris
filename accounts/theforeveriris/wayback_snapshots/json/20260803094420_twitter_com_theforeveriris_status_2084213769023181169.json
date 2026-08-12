@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084167744648630294",
+    "created_at": "2026-08-03T09:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084213769023181169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643990444874006533",
+          "start": 0,
+          "username": "SankuShatun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084213769023181169",
+    "in_reply_to_user_id": "1643990444874006533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084167744648630294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SankuShatun 羡慕家长党"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084167725828685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxzgRZaQAATJFn.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084167744648630294",
+        "created_at": "2026-08-03T09:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084213769023181169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643990444874006533",
+              "start": 0,
+              "username": "SankuShatun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084213769023181169",
+        "in_reply_to_user_id": "1643990444874006533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084167744648630294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SankuShatun 羡慕家长党"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084167725828685824"
+          ]
+        },
+        "author_id": "1643990444874006533",
+        "conversation_id": "2084167744648630294",
+        "created_at": "2026-08-03T06:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084167744648630294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YX5ERfbdhi",
+              "end": 37,
+              "expanded_url": "https://x.com/SankuShatun/status/2084167744648630294/photo/1",
+              "media_key": "3_2084167725828685824",
+              "start": 14,
+              "url": "https://t.co/YX5ERfbdhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084167744648630294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不用再藏着掖着的感觉真好🫠 https://t.co/YX5ERfbdhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 455,
+          "like_count": 18613,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 4109
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T14:54:26.000Z",
+        "description": "愿世上每个人都能变成自己喜欢的样子! /🐧:2794107750/日常/she her🏳️‍⚧️/ISTJ/HRT(23/5/20)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sankuchuari.github.io",
+                "end": 23,
+                "expanded_url": "https://sankuchuari.github.io/",
+                "start": 0,
+                "url": "https://t.co/bauOyPk068"
+              }
+            ]
+          }
+        },
+        "id": "1643990444874006533",
+        "location": "🌍",
+        "name": "Sankuchuari",
+        "pinned_tweet_id": "1804540942999007414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821240684067594240/ILmxT6bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 4224,
+          "like_count": 6707,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/bauOyPk068",
+        "username": "SankuShatun",
+        "verified": true
+      }
+    ]
+  }
+}

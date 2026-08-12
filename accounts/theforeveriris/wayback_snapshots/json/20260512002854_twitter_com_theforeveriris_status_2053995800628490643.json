@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2053392759223181385",
+    "created_at": "2026-05-12T00:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053995800628490643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053995800628490643",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053392759223181385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@aoim33 三千万转（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 935,
+        "media_key": "3_2053392752419999744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8d1DhbEAAt5i4.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2053392759223181385",
+        "created_at": "2026-05-12T00:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053995800628490643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053995800628490643",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053392759223181385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 三千万转（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053392752419999744"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2053392759223181385",
+        "created_at": "2026-05-10T08:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053392759223181385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrLJ98hi2J",
+              "end": 142,
+              "expanded_url": "https://x.com/aoim33/status/2053392759223181385/photo/1",
+              "media_key": "3_2053392752419999744",
+              "start": 119,
+              "url": "https://t.co/xrLJ98hi2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053392759223181385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是一名刚入职茶百道的员工，今天忽然接到了店长的通知，说要和一个叫什么《崩坏：星穹铁道》的游戏联动，开始你不屑一顾，因为你根本没听说过这个游戏。直到联动的那一天看着小山一样的小票，你沉默了，第二天，你离开了茶百道，并跳槽去了隔壁的古茗。\n不久后，古茗又联动了，还是这个熟悉的游戏名字，你下意识想要离职，却听身旁玩这个游戏的同事说这次联动的两个角色都很冷门，你觉得你行了，直到联动的那天，你看着水泄不通的店门和干抽筋的手，再一次陷入了沉默，那个同事幽幽的说：\n“强度冷门，不代表热度冷门啊”\n第二天，你马上离开了古茗，去到了隔壁的瑞幸咖啡，你以为生活会这么平淡下去，但你又接到了通知：还是熟悉的联动，还是熟悉的游戏，这次你说什么也要离职，但你禁不起店长的苦苦哀求：人手不够。你心软了，决定留下来一天，就一天。\n第二天，你拿着店长给的工资，义无反顾的离开了瑞幸，又回到了第一次的那家茶百道，你想着：总不可能联动两次同一个游戏吧？\n直到2026年4月25日……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 253436,
+          "like_count": 1096,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 66
+        },
+        "reply_settings": "other",
+        "text": "你是一名刚入职茶百道的员工，今天忽然接到了店长的通知，说要和一个叫什么《崩坏：星穹铁道》的游戏联动，开始你不屑一顾，因为你根本没听说过这个游戏。直到联动的那一天看着小山一样的小票，你沉默了，第二天，你离开了茶百道，并跳槽去了隔壁的古茗。 https://t.co/xrLJ98hi2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 449,
+          "like_count": 14026,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3385
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ND research / SH HZ metro bot / maimai & arcaea / CN EN JP KR / @supernovaArcaea team member / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2053807063571341466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 2898,
+          "like_count": 48009,
+          "listed_count": 19,
+          "media_count": 2750,
+          "tweet_count": 11935
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

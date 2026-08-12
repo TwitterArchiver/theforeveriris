@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2067219734865830142",
+    "created_at": "2026-06-18T05:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067482416185565312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067482416185565312",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067219734865830142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb 有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067219721968377856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA9YnCbYAA9Hes.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067219721997725696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA9YnJbMAAFbLs.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2067219734865830142",
+        "created_at": "2026-06-18T05:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067482416185565312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067482416185565312",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067219734865830142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb 有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067219721968377856",
+            "3_2067219721997725696"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2067219734865830142",
+        "created_at": "2026-06-17T12:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067219734865830142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nh4y3qzqA5",
+              "end": 37,
+              "expanded_url": "https://x.com/1gdsb/status/2067219734865830142/photo/1",
+              "media_key": "3_2067219721968377856",
+              "start": 14,
+              "url": "https://t.co/Nh4y3qzqA5"
+            },
+            {
+              "display_url": "pic.x.com/Nh4y3qzqA5",
+              "end": 37,
+              "expanded_url": "https://x.com/1gdsb/status/2067219734865830142/photo/1",
+              "media_key": "3_2067219721997725696",
+              "start": 14,
+              "url": "https://t.co/Nh4y3qzqA5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067219734865830142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6057,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的会有人拿兽用给自己打吗 https://t.co/Nh4y3qzqA5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 450,
+          "like_count": 16818,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 3721
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "悲惨的初三生一枚\n出厂日期2011.8.31（开学前一天悲:(\n身高178 59kg\n玩cfm（好老的游戏）mc java版 逆战未来 异环 roblox\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2062541504661610927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024072102131961856/SS2S-_R7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 139,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": false
+      }
+    ]
+  }
+}

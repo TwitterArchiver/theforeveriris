@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2051519219939102838",
+    "created_at": "2026-05-05T04:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051519219939102838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721714145480114176",
+          "start": 3,
+          "username": "theforeveriris"
+        },
+        {
+          "end": 33,
+          "id": "1858777028688039936",
+          "start": 20,
+          "username": "FuSheng_0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051519219939102838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051519056029921716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theforeveriris: @FuSheng_0306 骂你是因为这些吗？使用 newapi 二开拒不承认（p1），点破后恼羞成怒。您既不遵守 agpl3 开放源码和传染协议（p2），也不第一时间通过 copyleft 协议标准申请作者授权（p3，p4）。大多数人骂…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_2051519020063703040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh1rejawAAcrIJ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1196,
+        "media_key": "3_2051519020311195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh1rfebMAAaItq.jpg",
+        "width": 942
+      },
+      {
+        "height": 1664,
+        "media_key": "3_2051519035557519360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh1sYRboAA-3B-.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1011,
+        "media_key": "3_2051519046626287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHh1tBgboAA2vMr.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2051519219939102838",
+        "created_at": "2026-05-05T04:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051519219939102838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721714145480114176",
+              "start": 3,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 33,
+              "id": "1858777028688039936",
+              "start": 20,
+              "username": "FuSheng_0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051519219939102838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051519056029921716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theforeveriris: @FuSheng_0306 骂你是因为这些吗？使用 newapi 二开拒不承认（p1），点破后恼羞成怒。您既不遵守 agpl3 开放源码和传染协议（p2），也不第一时间通过 copyleft 协议标准申请作者授权（p3，p4）。大多数人骂…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051519020063703040",
+            "3_2051519020311195648",
+            "3_2051519035557519360",
+            "3_2051519046626287616"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2051267600307642395",
+        "created_at": "2026-05-05T04:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051519056029921716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858777028688039936",
+              "start": 0,
+              "username": "FuSheng_0306"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0me0vVOocM",
+              "end": 195,
+              "expanded_url": "https://x.com/theforeveriris/status/2051519056029921716/photo/1",
+              "media_key": "3_2051519020063703040",
+              "start": 172,
+              "url": "https://t.co/0me0vVOocM"
+            },
+            {
+              "display_url": "pic.x.com/0me0vVOocM",
+              "end": 195,
+              "expanded_url": "https://x.com/theforeveriris/status/2051519056029921716/photo/1",
+              "media_key": "3_2051519020311195648",
+              "start": 172,
+              "url": "https://t.co/0me0vVOocM"
+            },
+            {
+              "display_url": "pic.x.com/0me0vVOocM",
+              "end": 195,
+              "expanded_url": "https://x.com/theforeveriris/status/2051519056029921716/photo/1",
+              "media_key": "3_2051519035557519360",
+              "start": 172,
+              "url": "https://t.co/0me0vVOocM"
+            },
+            {
+              "display_url": "pic.x.com/0me0vVOocM",
+              "end": 195,
+              "expanded_url": "https://x.com/theforeveriris/status/2051519056029921716/photo/1",
+              "media_key": "3_2051519046626287616",
+              "start": 172,
+              "url": "https://t.co/0me0vVOocM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051519056029921716",
+        "in_reply_to_user_id": "1858777028688039936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051267600307642395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuSheng_0306 骂你是因为这些吗？使用 newapi 二开拒不承认（p1），点破后恼羞成怒。您既不遵守 agpl3 开放源码和传染协议（p2），也不第一时间通过 copyleft 协议标准申请作者授权（p3，p4）。大多数人骂你难道不是因为伦理道德问题吗，你在避重就轻什么？\n在产品发布的时候诚实都做不到，用户凭什么相信你的产品？ https://t.co/0me0vVOocM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 451,
+          "like_count": 14001,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 3351
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T07:39:21.000Z",
+        "description": "猎豹移动董事长兼CEO，猎户星空董事长@orionstar2016 ｜ 生日3月6日，打造了早期的360安全卫士｜TikTok最早期的投资人｜是上市公司CEO，也是陪女儿打游戏的老爸玩家｜ 是连续创业者，也是从220斤爆改到150斤的运动达人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "orionstar2016"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fusheng_Neo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fusheng_Neo",
+                "start": 0,
+                "url": "https://t.co/7DlXKAC13g"
+              }
+            ]
+          }
+        },
+        "id": "1858777028688039936",
+        "location": "San Francisco Bay Area",
+        "name": "傅盛",
+        "pinned_tweet_id": "2047964436959535499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990679395246485506/obc0Ox8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53076,
+          "following_count": 307,
+          "like_count": 1172,
+          "listed_count": 366,
+          "media_count": 930,
+          "tweet_count": 2787
+        },
+        "url": "https://t.co/7DlXKAC13g",
+        "username": "FuSheng_0306",
+        "verified": true
+      }
+    ]
+  }
+}

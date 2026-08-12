@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978484868251304107",
+    "created_at": "2025-10-16T02:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978645623281775050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970138669429489664",
+          "start": 0,
+          "username": "YingLing9999"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978645623281775050",
+    "in_reply_to_user_id": "1970138669429489664",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978484868251304107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YingLing9999 lmao."
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978484868251304107",
+        "created_at": "2025-10-16T02:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978645623281775050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970138669429489664",
+              "start": 0,
+              "username": "YingLing9999"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978645623281775050",
+        "in_reply_to_user_id": "1970138669429489664",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978484868251304107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YingLing9999 lmao."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970138669429489664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1978484868251304107",
+        "created_at": "2025-10-15T15:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978484868251304107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978484868251304107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别再过度美化县城文学了我就是县城妹我能不知道那群人多贱吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 364,
+          "like_count": 5985,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2262
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T14:50:50.000Z",
+        "description": "没米了，金主大人赏点吧，接线下\n🚪88/128/198\n可接线下纯绿半绿非绿\n我哭了，大号封了\n@Tanyavon99999\n另一个号\n@Alicevon99999（已死亡）\n\n🏳️‍⚧️主包大概是伪娘，因为朋友说胸不够大所以先不说自己是MtF了（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Tanyavon99999"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Alicevon99999"
+              }
+            ]
+          }
+        },
+        "id": "1970138669429489664",
+        "location": "玲州",
+        "name": "玲子🏳️‍⚧️",
+        "pinned_tweet_id": "1977247683435020630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970138867711025152/JXHuNkcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 71,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 335
+        },
+        "username": "YingLing9999",
+        "verified": false
+      }
+    ]
+  }
+}

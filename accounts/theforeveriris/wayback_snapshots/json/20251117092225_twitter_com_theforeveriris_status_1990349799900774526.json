@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1990349799900774526",
+    "created_at": "2025-11-17T09:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990349799900774526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545502277946880000",
+          "start": 3,
+          "username": "MoonAtCloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990349799900774526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990148046903255401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoonAtCloud: 一个老程序员看到喉返神经后的感慨\n\n第一次看到喉返神经（recurrent laryngeal nerve，RLN）的解剖图，我怔住了整整半分钟。\n\n那条从脑干发出的神经，本应直抵喉部，却偏要绕道下行，深入胸腔一圈，再折返向上。… https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_1990145468547121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55qwmgawAAgEcy.jpg",
+        "width": 580
+      },
+      {
+        "height": 333,
+        "media_key": "3_1990145468542930944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55qwmfa0AAPT5d.jpg",
+        "width": 500
+      },
+      {
+        "height": 745,
+        "media_key": "3_1990145468559663104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55qwmjaIAADihI.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1990349799900774526",
+        "created_at": "2025-11-17T09:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990349799900774526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545502277946880000",
+              "start": 3,
+              "username": "MoonAtCloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990349799900774526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990148046903255401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoonAtCloud: 一个老程序员看到喉返神经后的感慨\n\n第一次看到喉返神经（recurrent laryngeal nerve，RLN）的解剖图，我怔住了整整半分钟。\n\n那条从脑干发出的神经，本应直抵喉部，却偏要绕道下行，深入胸腔一圈，再折返向上。… https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990145468547121152",
+            "3_1990145468542930944",
+            "3_1990145468559663104"
+          ]
+        },
+        "author_id": "1545502277946880000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990148046903255401",
+        "created_at": "2025-11-16T20:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:50:30.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990145472393273782",
+          "1990146029346586813",
+          "1990146450811215962",
+          "1990147686834876523",
+          "1990148046903255401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZ9Fm1lMJq",
+              "end": 138,
+              "expanded_url": "https://x.com/MoonAtCloud/status/1990148046903255401/photo/1",
+              "media_key": "3_1990145468547121152",
+              "start": 115,
+              "url": "https://t.co/oZ9Fm1lMJq"
+            },
+            {
+              "display_url": "pic.x.com/oZ9Fm1lMJq",
+              "end": 138,
+              "expanded_url": "https://x.com/MoonAtCloud/status/1990148046903255401/photo/1",
+              "media_key": "3_1990145468542930944",
+              "start": 115,
+              "url": "https://t.co/oZ9Fm1lMJq"
+            },
+            {
+              "display_url": "pic.x.com/oZ9Fm1lMJq",
+              "end": 138,
+              "expanded_url": "https://x.com/MoonAtCloud/status/1990148046903255401/photo/1",
+              "media_key": "3_1990145468559663104",
+              "start": 115,
+              "url": "https://t.co/oZ9Fm1lMJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990148046903255401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个老程序员看到喉返神经后的感慨\n\n第一次看到喉返神经（recurrent laryngeal nerve，RLN）的解剖图，我怔住了整整半分钟。\n\n那条从脑干发出的神经，本应直抵喉部，却偏要绕道下行，深入胸腔一圈，再折返向上。\n\n在鱼类身上，这路径顺理成章；到了哺乳动物，却成了一个死结；而到了长颈鹿体内，它竟要绕行五米之远。\n\n脖子越长，绕路越显荒唐，却无法更改。\n\n生物没有“重构子系统”的权力，它只能在旧线路上修修补补。\n\n那一刻，我想到的不是生物学，而是 CS:IP = F000:FFF0。\n\n这是所有Intel电脑永远的“喉返神经”。\n\n今天回顾历史，8086 的设计团队确实非常聪明。他们创造性地重新设计了通用寄存器、真正的堆栈指针、丰富的寻址模式、微码翻译、16 位算术和内部时钟，这是第一次将“现代 CPU”塞进一颗芯片。\n\n只不过，由于当年寻址寄存器只有 16 位，电脑内存地址又想突破 64K，于是他们搞出了一个临时方案：“段左移 4 位 + 偏移”的假扩展。\n\n没人想到，这个错位的 20 位怪胎设计，会将整整一代计算机文明锁死，成为个人电脑的“喉返神经”。\n\n特别是当 IBM PC 采用 8088 之后，一切都被封印了。\n\n1MB 地址空间被切割得支离破碎：0–640K 留给程序，640K–1MB 塞满显存、BIOS、扩展卡和通信端口。\n\n装上 1MB 内存，一半被设备占用；装上 4MB，也得靠 EMS/XMS 驱动像撑大的气球一样勉强塞入。\n\n整个电脑的寻址方式，就像那条喉返神经，被硬塞进早已不合身的躯壳中，却无法重新布线。\n\n一个大程序被拆解成几十个 64K 的小盒子，链接器像搬砖一样辛苦。near/far 指针、C语言的五种编译模式（S、C、M、L、H）折腾得死去活来。\n\n指针多算一步就跨段，call 和 return 仿佛不在一个宇宙；数组超过 64K 就会崩溃；中断向量表卡死在 0x0000；显存固定在 A0000。\n\n我们当年写程序时，还“聪明”地利用这个“寻址魔法”，操纵段寄存器防拷贝、反调试、在ROM 区假写入、改CS偷系统中断向量表，这些“技巧”都依赖对段寄存器的操作，全是沿着那条畸形的“段:偏移”神经做文章。\n\n当年我们依赖结构漏洞生存，而非凭借结构优雅编程。\n\n8086 那套段寄存器本来只是权宜之计，到了 80286 却被推成了彻底的疯狂。\n\n英特尔试图把分段模型扩展成一个庞大的保护体系：整个内存结构被迫围着“分段”这一原始补丁转圈。\n\n最可怕的是，一旦进入 80286 的保护模式就无法返回实模式，整个系统像被封在铁盒里，只有重启电脑才能脱身。\n\n直到80386 出来，强行引入平展寻址和分页机制，“寻址要分段”这条史前时代的畸形定律终于被压到架构底层，程序员第一次获得真正的32位寻址自由。\n\n指针不再区分 near/far，返回地址不再错位，数组不会在 64K 边界自杀。段寄存器从主角沦为透明的影子。\n\n这时，我们以为终于摆脱了祖先的那段绕路，以为 80386 的平展寻址把那条祖先绕路的“喉返神经”终于剪掉了，可事实不是这样。\n\n你二舅还是你二舅，386 仍然是 x86。后来的 80486 还是 x86，哪怕英特尔改名成 Pentium，可它依旧是 x86 的延长线。\n\n哪怕是后来变成 i3、i5、i7、i9，本质还是那一套祖传血统。名字怎么换都行，微架构翻了几十次代也行，但那条最深的印记永远在。\n\n你当然可以把整颗芯片全部现代化，把页表、MMU、总线协议、缓存层级全换一遍，但只要它叫 x86，哪怕做到百核、做到 TB 级内存，启动的第一口气仍然必须像 1978 年的 8086 一样去跑那段古老的实模式流程。\n\n电脑永远逃不掉那个噩梦：上电后，从 F000:FFF0 开始那个1978年的时刻醒来，假装自己还活在 1MB 的史前时代。\n\nBIOS 再怎么换皮，UEFI 再怎么现代，都得先演一遍“古代仪式”：跑过 8086 的实模式，走过那套段模型、1MB 内存地图和 A0000 显存区，然后才缓缓进入保护模式、长模式，最终装载 Windows 11。\n\n那条线路永远无法删除。抽象层越厚，它越像胚胎发育中必须重演的一段祖先结构。\n\n那天，我看着喉返神经的图，再翻翻启动流程，忽然明白：\n\n我们写代码写了这么多年，其实从未走出那个史前时代的影子。\n\n文明再先进，外壳再光鲜，底下总有一条古老的线路，是你永远无法摆脱的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 905,
+          "impression_count": 220190,
+          "like_count": 1413,
+          "quote_count": 18,
+          "reply_count": 101,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "一个老程序员看到喉返神经后的感慨\n\n第一次看到喉返神经（recurrent laryngeal nerve，RLN）的解剖图，我怔住了整整半分钟。\n\n那条从脑干发出的神经，本应直抵喉部，却偏要绕道下行，深入胸腔一圈，再折返向上。 https://t.co/oZ9Fm1lMJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 396,
+          "like_count": 6133,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2392
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T20:17:18.000Z",
+        "description": "",
+        "id": "1545502277946880000",
+        "location": "San Jose, CA",
+        "name": "云中月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966352454645366784/qd4vGbvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26208,
+          "following_count": 952,
+          "like_count": 398,
+          "listed_count": 201,
+          "media_count": 699,
+          "tweet_count": 3223
+        },
+        "username": "MoonAtCloud",
+        "verified": true
+      }
+    ]
+  }
+}

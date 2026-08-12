@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2018322686716596562",
+    "created_at": "2026-02-03T06:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018575555768267235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "454656004",
+          "start": 0,
+          "username": "taikongjile001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018575555768267235",
+    "in_reply_to_user_id": "454656004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018322686716596562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile001 一想到以后各位 wiki 主要把鸡尘写进去我就想笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2018322686716596562",
+        "created_at": "2026-02-03T06:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018575555768267235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "454656004",
+              "start": 0,
+              "username": "taikongjile001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018575555768267235",
+        "in_reply_to_user_id": "454656004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018322686716596562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile001 一想到以后各位 wiki 主要把鸡尘写进去我就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "454656004",
+        "conversation_id": "2018322686716596562",
+        "created_at": "2026-02-02T13:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T14:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018322686716596562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018322686716596562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3114,
+          "like_count": 42,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "准备抽5名粉丝送鸡尘\n转发此推抽粉丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 397,
+          "like_count": 8741,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2547
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-04T07:09:27.000Z",
+        "description": "官网：https://t.co/ahdCIHHRJD\n交流群：https://t.co/0dHnh4NwZx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/ahdCIHHRJD"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 54,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 31,
+                "url": "https://t.co/0dHnh4NwZx"
+              }
+            ]
+          }
+        },
+        "id": "454656004",
+        "location": "memphis, Tn",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2018321670742937818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015596343691972609/3AX9GPcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 56,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "taikongjile001",
+        "verified": false
+      }
+    ]
+  }
+}

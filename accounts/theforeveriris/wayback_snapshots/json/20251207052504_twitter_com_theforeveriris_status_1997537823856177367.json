@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1997489518639992973",
+    "created_at": "2025-12-07T05:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T06:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997537823856177367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "820124419674677249",
+          "start": 0,
+          "username": "Im_Sdog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997537823856177367",
+    "in_reply_to_user_id": "820124419674677249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997489518639992973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Sdog 其實這叫 tf 卡🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_1997489511803318272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7iCILma8AAjz-w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1997489515192287232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7iCIYOagAAdzls.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1997489518639992973",
+        "created_at": "2025-12-07T05:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997537823856177367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "820124419674677249",
+              "start": 0,
+              "username": "Im_Sdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997537823856177367",
+        "in_reply_to_user_id": "820124419674677249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997489518639992973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Sdog 其實這叫 tf 卡🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997489511803318272",
+            "3_1997489515192287232"
+          ]
+        },
+        "author_id": "820124419674677249",
+        "conversation_id": "1997489518639992973",
+        "created_at": "2025-12-07T02:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997489518639992973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elMSP38j6a",
+              "end": 40,
+              "expanded_url": "https://x.com/Im_Sdog/status/1997489518639992973/photo/1",
+              "media_key": "3_1997489511803318272",
+              "start": 17,
+              "url": "https://t.co/elMSP38j6a"
+            },
+            {
+              "display_url": "pic.x.com/elMSP38j6a",
+              "end": 40,
+              "expanded_url": "https://x.com/Im_Sdog/status/1997489518639992973/photo/1",
+              "media_key": "3_1997489515192287232",
+              "start": 17,
+              "url": "https://t.co/elMSP38j6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997489518639992973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1164,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "SD 卡？这一定是外星科 技吧！ https://t.co/elMSP38j6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 394,
+          "like_count": 6156,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2204
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-14T04:24:33.000Z",
+        "description": "https://t.co/OWcnOxROk5 |\n文不识评测，武不能拆机 |\n山景城上单：Pixel，NM（指 Google）什么时候肆啊？ |\n腰间盘突出 | 酒精成瘾 | 肾结石 |\n@ChelseaFC 车路士的男孩 |\n#アズールレーン |\n#メタルマックス |\nfo 满 7500，无法及时回关🥲 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 115,
+                "tag": "アズールレーン"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "メタルマックス"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "ChelseaFC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/sdog",
+                "end": 23,
+                "expanded_url": "http://lit.link/sdog",
+                "start": 0,
+                "url": "https://t.co/OWcnOxROk5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sdog9527/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sdog9527/",
+                "start": 0,
+                "url": "https://t.co/kMNkAoHQ9Y"
+              }
+            ]
+          }
+        },
+        "id": "820124419674677249",
+        "location": "People's Republic of China",
+        "name": "𝕊𝕕𝕠𝕘",
+        "pinned_tweet_id": "1953104018437242925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876546693145210880/KWlA4Q6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 7497,
+          "like_count": 244359,
+          "listed_count": 11,
+          "media_count": 8736,
+          "tweet_count": 33834
+        },
+        "url": "https://t.co/kMNkAoHQ9Y",
+        "username": "Im_Sdog",
+        "verified": false
+      }
+    ]
+  }
+}

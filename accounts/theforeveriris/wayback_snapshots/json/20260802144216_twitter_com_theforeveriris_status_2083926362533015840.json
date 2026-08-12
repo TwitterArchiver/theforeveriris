@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083757107321676246",
+    "created_at": "2026-08-02T14:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083926362533015840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2071453917930754048",
+          "start": 0,
+          "username": "Coffeedpqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083926362533015840",
+    "in_reply_to_user_id": "2071453917930754048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083893772476363131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coffeedpqf 就用这个（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T14:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083926362533015840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2071453917930754048",
+              "start": 0,
+              "username": "Coffeedpqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083926362533015840",
+        "in_reply_to_user_id": "2071453917930754048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083893772476363131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coffeedpqf 就用这个（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071453917930754048",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T12:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083893772476363131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083893772476363131",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083757107321676246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 那你现在用什么发的这条帖子😡😡😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 452,
+          "like_count": 18458,
+          "listed_count": 6,
+          "media_count": 387,
+          "tweet_count": 4059
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-29T04:42:37.000Z",
+        "description": "只接受14+🈷️😭14以下别来🈷️😭我可不想进去，推止于推/坐标山东新泰/找主人",
+        "id": "2071453917930754048",
+        "location": "神秘园",
+        "name": "Coffee🔞🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071454478667304960/M68WkNHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 54,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "Coffeedpqf",
+        "verified": false
+      }
+    ]
+  }
+}

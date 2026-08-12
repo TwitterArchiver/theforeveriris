@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074365170189795523",
+    "created_at": "2026-07-08T06:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074749435112980729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1306143983278551041",
+          "start": 0,
+          "username": "bimohxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074749435112980729",
+    "in_reply_to_user_id": "1306143983278551041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074365170189795523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bimohxh 我实训老师推荐我们用这个胖猫软件（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074365170189795523",
+        "created_at": "2026-07-08T06:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074749435112980729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1306143983278551041",
+              "start": 0,
+              "username": "bimohxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749435112980729",
+        "in_reply_to_user_id": "1306143983278551041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074365170189795523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bimohxh 我实训老师推荐我们用这个胖猫软件（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1306143983278551041",
+        "conversation_id": "2074365170189795523",
+        "created_at": "2026-07-07T05:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074365170189795523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074365170189795523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 78496,
+          "like_count": 151,
+          "quote_count": 3,
+          "reply_count": 81,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "试了一下你们最近吹的 workbuddy\n是我用过最垃圾的AI工具，没有之一\n完全是玩具状态，没一个可用的功能\n你们收了多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 446,
+          "like_count": 17104,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 3813
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T08:12:54.000Z",
+        "description": "🚀 Code is my language, curiosity is my fuel.\nBuilding ideas into reality, one line at a time.\n👨‍💻 Developer | 🧠 Lifelong learner | 🌍 Exploring the edge of",
+        "id": "1306143983278551041",
+        "location": "成都",
+        "name": "比末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048931161779609600/OFlxdW5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1747,
+          "like_count": 774,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1887
+        },
+        "url": "",
+        "username": "bimohxh",
+        "verified": false
+      }
+    ]
+  }
+}

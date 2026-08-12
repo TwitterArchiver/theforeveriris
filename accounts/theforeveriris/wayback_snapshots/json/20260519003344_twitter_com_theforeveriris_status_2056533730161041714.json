@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2056533730161041714",
+    "created_at": "2026-05-19T00:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056533730161041714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721714145480114176",
+          "start": 3,
+          "username": "theforeveriris"
+        },
+        {
+          "end": 33,
+          "id": "1924212425332813824",
+          "start": 20,
+          "username": "Phoenixyin13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056533730161041714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056533307014471978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theforeveriris: @Phoenixyin13 网上说说得了，现实中谁不想在已有邀请码的基础上再写几百字小作文申请入站，然后急头白脸花 600 刀买一个富可敌国限时广告位，看着满屏盲水印和网页偷偷上传浏览器指纹，收获一堆吹水贴和不知名中转站。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056533730161041714",
+        "created_at": "2026-05-19T00:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056533730161041714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721714145480114176",
+              "start": 3,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 33,
+              "id": "1924212425332813824",
+              "start": 20,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056533730161041714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056533307014471978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theforeveriris: @Phoenixyin13 网上说说得了，现实中谁不想在已有邀请码的基础上再写几百字小作文申请入站，然后急头白脸花 600 刀买一个富可敌国限时广告位，看着满屏盲水印和网页偷偷上传浏览器指纹，收获一堆吹水贴和不知名中转站。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056508895850385751",
+        "created_at": "2026-05-19T00:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056533307014471978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924212425332813824",
+              "start": 0,
+              "username": "Phoenixyin13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056533307014471978",
+        "in_reply_to_user_id": "1924212425332813824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056508895850385751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phoenixyin13 网上说说得了，现实中谁不想在已有邀请码的基础上再写几百字小作文申请入站，然后急头白脸花 600 刀买一个富可敌国限时广告位，看着满屏盲水印和网页偷偷上传浏览器指纹，收获一堆吹水贴和不知名中转站。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 453,
+          "like_count": 14177,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3453
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Beverly Hills, CA",
+        "name": "Phoenix Yin",
+        "pinned_tweet_id": "2055877368955175361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4974,
+          "following_count": 1265,
+          "like_count": 5883,
+          "listed_count": 18,
+          "media_count": 393,
+          "tweet_count": 4262
+        },
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1982673571588796789",
+    "created_at": "2025-10-27T07:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982707968543224148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        },
+        {
+          "end": 24,
+          "id": "1817821126640496640",
+          "start": 13,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1982707968543224148",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982673571588796789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll @MTNEKO8964 Like a work of art"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6941,
+        "height": 848,
+        "media_key": "7_1982673550755422208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982673550755422208/pu/img/n21bg5dovR2eRnmn.jpg",
+        "public_metrics": {
+          "view_count": 538
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/320x434/db730pjJXKCFj1nN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/480x652/Olsh69XWkE_C8D2N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/vid/avc1/624x848/I190gV5nXvzEGGq3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982673550755422208/pu/pl/C_KCk485cSULjQUd.m3u8?tag=12"
+          }
+        ],
+        "width": 624
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1982673571588796789",
+        "created_at": "2025-10-27T07:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982707968543224148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            },
+            {
+              "end": 24,
+              "id": "1817821126640496640",
+              "start": 13,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1982707968543224148",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982673571588796789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll @MTNEKO8964 Like a work of art"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1982673550755422208"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982673571588796789",
+        "created_at": "2025-10-27T04:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982673571588796789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRxDAhjlfd",
+              "end": 71,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982673571588796789/video/1",
+              "media_key": "7_1982673550755422208",
+              "start": 48,
+              "url": "https://t.co/IRxDAhjlfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982673571588796789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1300,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "《恭喜发财》 - 池鱼 (吴相泽self cover alternative version) https://t.co/IRxDAhjlfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 371,
+          "like_count": 6053,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2310
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "诉求：@Chiyuyu520 唯一解决方式是自己联系羽毛归还19535元 联系猫卷归还555元。| 长居新加坡, PhD @NTUsg, 休学度假中 | 神秘法系车主 | HRT药物请私信 日雌380泰补190诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 767,
+          "like_count": 598,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1642
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWH1P7｜妈妈@Tim_Pan_5｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 101,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 78,
+                "url": "https://t.co/6TaiTWH1P7"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1979465452196892949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4011,
+          "following_count": 3436,
+          "like_count": 41245,
+          "listed_count": 7,
+          "media_count": 668,
+          "tweet_count": 6518
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

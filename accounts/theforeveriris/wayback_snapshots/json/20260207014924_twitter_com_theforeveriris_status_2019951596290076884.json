@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2019950946084876502",
+    "created_at": "2026-02-07T01:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019951596290076884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1916906286362603520",
+          "start": 0,
+          "username": "8964tv"
+        },
+        {
+          "end": 22,
+          "id": "1916434358917033984",
+          "start": 8,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019951596290076884",
+    "in_reply_to_user_id": "1916906286362603520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019951447153266899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tv @BlackTrapTrip 我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2019950946084876502",
+        "created_at": "2026-02-07T01:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019951596290076884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1916906286362603520",
+              "start": 0,
+              "username": "8964tv"
+            },
+            {
+              "end": 22,
+              "id": "1916434358917033984",
+              "start": 8,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019951596290076884",
+        "in_reply_to_user_id": "1916906286362603520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019951447153266899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tv @BlackTrapTrip 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916906286362603520",
+        "conversation_id": "2019950946084876502",
+        "created_at": "2026-02-07T01:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019951447153266899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019951447153266899",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019950946084876502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 你是西藏人?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 400,
+          "like_count": 9929,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2632
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T17:24:15.000Z",
+        "description": "郭楠巨婴精神病生活不能自理/永恒之物@TRIPPYTRAP1006",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "TRIPPYTRAP1006"
+              }
+            ]
+          }
+        },
+        "id": "1916906286362603520",
+        "name": "唉",
+        "pinned_tweet_id": "1993158464181604816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584307359285248/BTDHuekb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 73,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 433
+        },
+        "username": "8964tv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜同类互fo欢迎｜she/her❗️非常雷男性称呼｜泛性恋｜纯看黄的不要关注我｜Individualist Anarchism但不键政｜uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "shtwt"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "odtwt"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱👁️STONED",
+        "pinned_tweet_id": "2018898278058795017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019241923777642496/7qiWSBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 146,
+          "like_count": 988,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1985507946558853200",
+    "created_at": "2025-11-04T00:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T01:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985507946558853200"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 177,
+          "normalized_text": "IDE",
+          "probability": 0.6595,
+          "start": 175,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tangjinzhou/st…",
+          "end": 251,
+          "expanded_url": "https://twitter.com/tangjinzhou/status/1985184079449665774",
+          "start": 228,
+          "url": "https://t.co/Fa5FoYHAL9"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1985507946558853200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985184079449665774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "From his comment area, w can see a truth about \"vibe coding discussant\". Why is it a person who is clamoring to program a product, can't even use basic tools such as browser, IDE and git, and can't even install the environment? https://t.co/Fa5FoYHAL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_1985182738115387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zJLq-a4AAam3U.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1213,
+        "media_key": "3_1985182757014970368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zJMxYboAAU5h2.jpg",
+        "width": 908
+      },
+      {
+        "height": 840,
+        "media_key": "3_1985182772504502272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zJNrFbIAACsOe.jpg",
+        "width": 921
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1985507946558853200",
+        "created_at": "2025-11-04T00:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T01:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985507946558853200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 177,
+              "normalized_text": "IDE",
+              "probability": 0.6595,
+              "start": 175,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tangjinzhou/st…",
+              "end": 251,
+              "expanded_url": "https://twitter.com/tangjinzhou/status/1985184079449665774",
+              "start": 228,
+              "url": "https://t.co/Fa5FoYHAL9"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1985507946558853200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985184079449665774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "From his comment area, w can see a truth about \"vibe coding discussant\". Why is it a person who is clamoring to program a product, can't even use basic tools such as browser, IDE and git, and can't even install the environment? https://t.co/Fa5FoYHAL9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985182738115387392",
+            "3_1985182757014970368",
+            "3_1985182772504502272"
+          ]
+        },
+        "author_id": "618751087",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1985184079449665774",
+        "created_at": "2025-11-03T03:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985184079449665774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZfJ8O7I5GZ",
+              "end": 196,
+              "expanded_url": "https://x.com/tangjinzhou/status/1985184079449665774/photo/1",
+              "media_key": "3_1985182738115387392",
+              "start": 173,
+              "url": "https://t.co/ZfJ8O7I5GZ"
+            },
+            {
+              "display_url": "pic.x.com/ZfJ8O7I5GZ",
+              "end": 196,
+              "expanded_url": "https://x.com/tangjinzhou/status/1985184079449665774/photo/1",
+              "media_key": "3_1985182757014970368",
+              "start": 173,
+              "url": "https://t.co/ZfJ8O7I5GZ"
+            },
+            {
+              "display_url": "pic.x.com/ZfJ8O7I5GZ",
+              "end": 196,
+              "expanded_url": "https://x.com/tangjinzhou/status/1985184079449665774/photo/1",
+              "media_key": "3_1985182772504502272",
+              "start": 173,
+              "url": "https://t.co/ZfJ8O7I5GZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985184079449665774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我现在是明白了，AI 编程最大的拦路虎是\n\n环境安装、Git、VS Code…\n\n我专门做了一门「零基础 AI 编程入门课」\n\n教你 1 小时跑通第一个 AI 程序 ⚡️\n\n不需要写一行代码，\n\n从安装 → 运行 → 上传 GitHub → 部署上线，\n\n全流程手把手带你搞定。\n\n📘 免费学习，限前 200 名进微信群\n\n领取方式 👇\n\n❤️ 点赞 + 🔁 转推\n\n💬 评论「AI」\n\n👤 关注我（不关注没权限私信）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 905,
+          "impression_count": 141009,
+          "like_count": 1163,
+          "quote_count": 12,
+          "reply_count": 735,
+          "retweet_count": 580
+        },
+        "reply_settings": "everyone",
+        "text": "我现在是明白了，AI 编程最大的拦路虎是\n\n环境安装、Git、VS Code…\n\n我专门做了一门「零基础 AI 编程入门课」\n\n教你 1 小时跑通第一个 AI 程序 ⚡️\n\n不需要写一行代码，\n\n从安装 → 运行 → 上传 GitHub → 部署上线，\n\n全流程手把手带你搞定。\n\n📘 免费学习，限前 200 名进微信群\n\n领取方式 👇\n\n❤️ https://t.co/ZfJ8O7I5GZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 376,
+          "like_count": 6045,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2339
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-26T05:03:46.000Z",
+        "description": "@mentorbook_ai\n\nOpen-source creator (https://t.co/RZwQkvYf58, 21K⭐)\n\nCreator of https://t.co/SNAYqMS8d1\n\nCreator of https://t.co/XaPx3hQDiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "mentorbook_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/vueComponent/a…",
+                "end": 60,
+                "expanded_url": "https://github.com/vueComponent/ant-design-vue",
+                "start": 37,
+                "url": "https://t.co/RZwQkvYf58"
+              },
+              {
+                "display_url": "surelyvue.com",
+                "end": 103,
+                "expanded_url": "https://surelyvue.com",
+                "start": 80,
+                "url": "https://t.co/SNAYqMS8d1"
+              },
+              {
+                "display_url": "mentorbook.ai",
+                "end": 139,
+                "expanded_url": "https://mentorbook.ai",
+                "start": 116,
+                "url": "https://t.co/XaPx3hQDiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mentorbook.ai",
+                "end": 23,
+                "expanded_url": "https://www.mentorbook.ai",
+                "start": 0,
+                "url": "https://t.co/HlN8vpY76o"
+              }
+            ]
+          }
+        },
+        "id": "618751087",
+        "name": "tangjinzhou",
+        "pinned_tweet_id": "1978378395483603371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952273219903508480/WeOr6NmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 532,
+          "like_count": 2180,
+          "listed_count": 45,
+          "media_count": 86,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/HlN8vpY76o",
+        "username": "tangjinzhou",
+        "verified": true
+      }
+    ]
+  }
+}

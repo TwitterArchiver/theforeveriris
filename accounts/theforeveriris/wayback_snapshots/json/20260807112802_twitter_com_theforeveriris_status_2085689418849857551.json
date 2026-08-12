@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085625089920544910",
+    "created_at": "2026-08-07T11:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085689418849857551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069812097274503168",
+          "start": 0,
+          "username": "GL89a64GL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085689418849857551",
+    "in_reply_to_user_id": "2069812097274503168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085681006619791395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GL89a64GL 机器人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2085680997170061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHT0QcaoAAewwn.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085625089920544910",
+        "created_at": "2026-08-07T11:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085689418849857551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069812097274503168",
+              "start": 0,
+              "username": "GL89a64GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085689418849857551",
+        "in_reply_to_user_id": "2069812097274503168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085681006619791395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GL89a64GL 机器人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085680997170061312"
+          ]
+        },
+        "author_id": "2069812097274503168",
+        "conversation_id": "2085625089920544910",
+        "created_at": "2026-08-07T10:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085681006619791395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjjDQSHY3L",
+              "end": 61,
+              "expanded_url": "https://x.com/GL668GL/status/2085681006619791395/photo/1",
+              "media_key": "3_2085680997170061312",
+              "start": 38,
+              "url": "https://t.co/xjjDQSHY3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085681006619791395",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085625089920544910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 应该是知道的，多说一句，怎么全是幽灵消息？ https://t.co/xjjDQSHY3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 461,
+          "like_count": 19341,
+          "listed_count": 6,
+          "media_count": 424,
+          "tweet_count": 4224
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T15:58:15.000Z",
+        "description": "长发巨魔/友跨/同性🏳️‍🌈/中国/HEMA以及冷兵器爱好者",
+        "id": "2069812097274503168",
+        "name": "格林先生🏳️‍🌈",
+        "pinned_tweet_id": "2069976457426997490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820516861251584/UuQoRZ86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 158,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "GL89a64GL",
+        "verified": false
+      }
+    ]
+  }
+}

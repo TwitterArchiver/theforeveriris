@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2060161314920775795",
+    "created_at": "2026-05-29T00:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060161314920775795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060161314920775795",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "هذا اختبار: الأحداث التي قد أواجهها عما أنشر باللغة العربية.\nسأبحث ما إذا كانت التوصيات \"مبنية على الجغرافيا\" تُقدم بشكل أكبر لمناطق الصينية المبسطة، أو \"مبنية على اللغة\" لمناطق اللغة العربية، أو أنها تُقدم لأشخاص من مختلف الدول تحت تأثير خوارزميات غير معروفة."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2060161314920775795",
+        "created_at": "2026-05-29T00:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060161314920775795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060161314920775795",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "هذا اختبار: الأحداث التي قد أواجهها عما أنشر باللغة العربية.\nسأبحث ما إذا كانت التوصيات \"مبنية على الجغرافيا\" تُقدم بشكل أكبر لمناطق الصينية المبسطة، أو \"مبنية على اللغة\" لمناطق اللغة العربية، أو أنها تُقدم لأشخاص من مختلف الدول تحت تأثير خوارزميات غير معروفة."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 458,
+          "like_count": 15520,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3589
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

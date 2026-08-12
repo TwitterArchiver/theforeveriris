@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2082316257085575185",
+    "created_at": "2026-07-31T11:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T12:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083150174516613156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2045473176357056512",
+          "start": 0,
+          "username": "AlanGreenywtn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083150174516613156",
+    "in_reply_to_user_id": "2045473176357056512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082316257085575185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlanGreenywtn 弹的不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 73530,
+        "height": 720,
+        "media_key": "13_2082316003569250304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082316003569250304/img/CGZnov12MenH_IX6.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082316003569250304/vid/avc1/480x270/BBJNZFSIV15uDPPB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082316003569250304/vid/avc1/640x360/f6_v5bQJ2UUCddGx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082316003569250304/vid/avc1/1280x720/fJgxUoEYRUXrEBt2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082316003569250304/pl/lxDb08FGhWpCx8ip.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2082316257085575185",
+        "created_at": "2026-07-31T11:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083150174516613156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2045473176357056512",
+              "start": 0,
+              "username": "AlanGreenywtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083150174516613156",
+        "in_reply_to_user_id": "2045473176357056512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082316257085575185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlanGreenywtn 弹的不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082316003569250304"
+          ]
+        },
+        "author_id": "2045473176357056512",
+        "conversation_id": "2082316257085575185",
+        "created_at": "2026-07-29T04:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082316257085575185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MoBrOhcET4",
+              "end": 34,
+              "expanded_url": "https://x.com/AlanGreenywtn/status/2082316257085575185/video/1",
+              "media_key": "13_2082316003569250304",
+              "start": 11,
+              "url": "https://t.co/MoBrOhcET4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082316257085575185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 154,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞快乐 劳伦斯先生 https://t.co/MoBrOhcET4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 450,
+          "like_count": 18198,
+          "listed_count": 6,
+          "media_count": 379,
+          "tweet_count": 4001
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T12:04:19.000Z",
+        "description": "🏳️‍🌈|高中生|欢迎互关 o(^▽^)o| Jazz 爱好者| 学琴 ing| 梦想是环球旅行✈️ |Python/前端学习中～|ENTP|",
+        "id": "2045473176357056512",
+        "name": "コンベア寿司🍣🍣",
+        "pinned_tweet_id": "2082469469016965427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045473980509982720/t_RnsdV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 437,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "AlanGreenywtn",
+        "verified": false
+      }
+    ]
+  }
+}

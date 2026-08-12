@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013186117441343501",
+    "created_at": "2026-01-19T17:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013296915115397487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        },
+        {
+          "end": 24,
+          "id": "1882563916632666112",
+          "start": 9,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013296915115397487",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013291185386004551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus @hhjnjkoguyunmo 主要是膨化食品的味道，淡淡的類似於蘇打餅乾的香氣，再然後就是調味料和棕櫚油的味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013186117441343501",
+        "created_at": "2026-01-19T17:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013296915115397487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            },
+            {
+              "end": 24,
+              "id": "1882563916632666112",
+              "start": 9,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013296915115397487",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013291185386004551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus @hhjnjkoguyunmo 主要是膨化食品的味道，淡淡的類似於蘇打餅乾的香氣，再然後就是調味料和棕櫚油的味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2013186117441343501",
+        "created_at": "2026-01-19T16:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013291185386004551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013291185386004551",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013186117441343501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 这个啥味啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 369,
+          "like_count": 6802,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2327
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "愿所有人都找到属于自己的永恒站🥨",
+        "id": "1903701047589343232",
+        "name": "小方🥨",
+        "pinned_tweet_id": "2011761601662370010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010350007103483904/YZzbcGg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4222,
+          "following_count": 1648,
+          "like_count": 9579,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 966
+        },
+        "username": "ceobrus",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "我已经不需要用语言去证明我的善良了。🍵😋",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 705,
+          "like_count": 407106,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 34319
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

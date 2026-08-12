@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2020692346745303069",
+    "created_at": "2026-02-09T14:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020871493253574837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966711981622390785",
+          "start": 0,
+          "username": "xynmaomao"
+        },
+        {
+          "end": 23,
+          "id": "1960187829687885824",
+          "start": 11,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020871493253574837",
+    "in_reply_to_user_id": "1966711981622390785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020692346745303069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynmaomao @taikongjile 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 208300,
+        "height": 1036,
+        "media_key": "13_2020692093946179584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020692093946179584/img/AfNhz3mBFwVfbm-x.jpg",
+        "public_metrics": {
+          "view_count": 333
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020692093946179584/vid/avc1/320x690/xMZB7TB0kBp5tnfs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020692093946179584/vid/avc1/480x1036/eKA0TbRQbJ6SK-Yv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020692093946179584/pl/4Ds9d7jtGJOebwYf.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2020692346745303069",
+        "created_at": "2026-02-09T14:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020871493253574837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1966711981622390785",
+              "start": 0,
+              "username": "xynmaomao"
+            },
+            {
+              "end": 23,
+              "id": "1960187829687885824",
+              "start": 11,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020871493253574837",
+        "in_reply_to_user_id": "1966711981622390785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020692346745303069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynmaomao @taikongjile 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020692093946179584"
+          ]
+        },
+        "author_id": "1966711981622390785",
+        "conversation_id": "2020692346745303069",
+        "created_at": "2026-02-09T02:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020692346745303069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5Uk5alOeB",
+              "end": 32,
+              "expanded_url": "https://x.com/xynmaomao/status/2020692346745303069/video/1",
+              "media_key": "13_2020692093946179584",
+              "start": 9,
+              "url": "https://t.co/t5Uk5alOeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020692346745303069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1221,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吉他张做爱视频😈 https://t.co/t5Uk5alOeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 419,
+          "like_count": 10499,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2714
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T03:54:27.000Z",
+        "description": "10后/无证/2024.9.1hrt/🚪50可加QQ 近的话可线下/身高177/体重110左右/可互fo/猫猫好欺负 不要欺负猫猫 会哭的 T^T女儿 @Y6747276299965 /欢迎同类找我聊天哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Y6747276299965"
+              }
+            ]
+          }
+        },
+        "id": "1966711981622390785",
+        "name": "猫猫 🍥",
+        "pinned_tweet_id": "2020182491378905560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011130577395818496/bNqJvzde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 340,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 80
+        },
+        "username": "xynmaomao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/VeEdMA5WjF\n交流群:https://t.co/FvFWw9JRYc\nDC交流群：https://t.co/JtSA2uwIRG\n备用号：@taikongjile003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "taikongjile003"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 28,
+                "expanded_url": "https://taikong.mom/",
+                "start": 5,
+                "url": "https://t.co/VeEdMA5WjF"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwIRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/VeEdMA5WjF"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2020784490113638451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020048291472502785/ZSwT67hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6015,
+          "following_count": 1877,
+          "like_count": 1206,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/VeEdMA5WjF",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

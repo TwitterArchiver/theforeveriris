@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2054185182861881546",
+    "created_at": "2026-05-13T00:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054355224018796973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164388321545449472",
+          "start": 0,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054355224018796973",
+    "in_reply_to_user_id": "1164388321545449472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054185182861881546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwsl90 建议就读德克萨斯。否则亚利桑那州中文简称亚州吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2054185182861881546",
+        "created_at": "2026-05-13T00:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054355224018796973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054355224018796973",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054185182861881546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 建议就读德克萨斯。否则亚利桑那州中文简称亚州吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164388321545449472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2054185182861881546",
+        "created_at": "2026-05-12T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054185182861881546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054185182861881546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6512,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识\n\n在中国大陆的规范语境下，建议优先使用 “得州”来指代美国的 Texas，以区别于中国山东省的 “德州”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 450,
+          "like_count": 14023,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 3393
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXicBvG\n低调魔法：https://t.co/B5SfJ7LTgf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 72,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 49,
+                "url": "https://t.co/qhzcXicBvG"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 101,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 78,
+                "url": "https://t.co/B5SfJ7LTgf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imwsl.com",
+                "end": 23,
+                "expanded_url": "https://imwsl.com",
+                "start": 0,
+                "url": "https://t.co/jkPrQuSVQg"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2053976706239852655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91110,
+          "following_count": 7839,
+          "like_count": 49216,
+          "listed_count": 599,
+          "media_count": 14406,
+          "tweet_count": 78354
+        },
+        "url": "https://t.co/jkPrQuSVQg",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

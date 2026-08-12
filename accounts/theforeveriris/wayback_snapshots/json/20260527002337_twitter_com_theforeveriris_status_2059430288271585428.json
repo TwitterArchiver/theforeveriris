@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059304340800823503",
+    "created_at": "2026-05-27T00:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059430288271585428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059430288271585428",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059304340800823503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 ？强强？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2059304177764126720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQePTAb0AAHipT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059304177785016321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQePTFakAEilMV.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059304177780895744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQePTEbsAAgz1Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059304340800823503",
+        "created_at": "2026-05-27T00:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059430288271585428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059430288271585428",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059304340800823503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 ？强强？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059304177764126720",
+            "3_2059304177785016321",
+            "3_2059304177780895744"
+          ]
+        },
+        "author_id": "1884536290005368832",
+        "conversation_id": "2059304340800823503",
+        "created_at": "2026-05-26T16:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059304340800823503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm3pz51EFF",
+              "end": 151,
+              "expanded_url": "https://x.com/FGfr_218/status/2059304340800823503/photo/1",
+              "media_key": "3_2059304177764126720",
+              "start": 128,
+              "url": "https://t.co/fm3pz51EFF"
+            },
+            {
+              "display_url": "pic.x.com/fm3pz51EFF",
+              "end": 151,
+              "expanded_url": "https://x.com/FGfr_218/status/2059304340800823503/photo/1",
+              "media_key": "3_2059304177785016321",
+              "start": 128,
+              "url": "https://t.co/fm3pz51EFF"
+            },
+            {
+              "display_url": "pic.x.com/fm3pz51EFF",
+              "end": 151,
+              "expanded_url": "https://x.com/FGfr_218/status/2059304340800823503/photo/1",
+              "media_key": "3_2059304177780895744",
+              "start": 128,
+              "url": "https://t.co/fm3pz51EFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059304340800823503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谁他妈的传的跳跳糖文案的，一点用都没有还直接一个后门的葡萄味雷霆渲染，手一摸一股葡萄味，洗也洗不干净。\n不知道p2什么口味的我先塞进去试试\n靠最傻逼的是玩一半我妈推门而入，看到我这边桌子上同时放着小玩具和跳跳糖，宕机了一下跟我说“记得把灯关了”就走了））\n我们仍不知道那天母亲大人怎么想的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1175,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁他妈的传的跳跳糖文案的，一点用都没有还直接一个后门的葡萄味雷霆渲染，手一摸一股葡萄味，洗也洗不干净。\n不知道p2什么口味的我先塞进去试试\n靠最傻逼的是玩一半我妈推门而入，看到我这边桌子上同时放着小玩具和跳跳糖，宕机了一下跟我说“记得把灯关了”就走了）） https://t.co/fm3pz51EFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 465,
+          "like_count": 15020,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 3558
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/mtf/持证含糖/二次元/coser/身高177/体重64/目标赚够手术费/戒od中/加油加油gogogo/坐标河南郑州 /大家每天都要加油哇//好好活着不要死哦 主包快饿死了赞助点生活费吧😭🥺",
+        "id": "1884536290005368832",
+        "location": "舞萌国",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002048759090618369/6udX6sKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 460,
+          "like_count": 2305,
+          "listed_count": 5,
+          "media_count": 151,
+          "tweet_count": 1672
+        },
+        "username": "FGfr_218",
+        "verified": true
+      }
+    ]
+  }
+}

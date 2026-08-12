@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2079182596630884750",
+    "created_at": "2026-07-20T13:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079201547498717651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960876549",
+          "start": 0,
+          "username": "yasuboncom"
+        },
+        {
+          "end": 21,
+          "id": "1913084413942145024",
+          "start": 12,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2079201547498717651",
+    "in_reply_to_user_id": "1960876549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079182864327790705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yasuboncom @Sui_aini 神了"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2079182596630884750",
+        "created_at": "2026-07-20T13:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079201547498717651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960876549",
+              "start": 0,
+              "username": "yasuboncom"
+            },
+            {
+              "end": 21,
+              "id": "1913084413942145024",
+              "start": 12,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2079201547498717651",
+        "in_reply_to_user_id": "1960876549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079182864327790705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yasuboncom @Sui_aini 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960876549",
+        "conversation_id": "2079182596630884750",
+        "created_at": "2026-07-20T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079182864327790705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079182864327790705",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079182596630884750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 拜见穗皇，排面拉满了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 457,
+          "like_count": 17960,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 3987
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-14T15:01:08.000Z",
+        "description": "银狐VPN，先下载，后安心。免费2天，邀请再送1天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/t0BDvqr3dj"
+              }
+            ]
+          }
+        },
+        "id": "1960876549",
+        "name": "银狐VPN电报极速",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078307844328194048/oYQblDu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 94,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/t0BDvqr3dj",
+        "username": "yasuboncom",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2076608935323410586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 826,
+          "like_count": 6080,
+          "listed_count": 4,
+          "media_count": 775,
+          "tweet_count": 6241
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1982529727178084770",
+    "created_at": "2025-10-27T07:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982707574991732796"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 94,
+          "normalized_text": "chiyu",
+          "probability": 0.3436,
+          "start": 90,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982707574991732796",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982529727178084770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll Wow, my consumption in recent five years is even not as high as that of Miss chiyu in only one year."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_1982528512528375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NbLaJWYAArJow.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1346,
+        "media_key": "3_1982528984081444864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Nbm20XMAA4aVB.jpg",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1982529727178084770",
+        "created_at": "2025-10-27T07:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982707574991732796"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "chiyu",
+              "probability": 0.3436,
+              "start": 90,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982707574991732796",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982529727178084770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll Wow, my consumption in recent five years is even not as high as that of Miss chiyu in only one year."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982528512528375808",
+            "3_1982528984081444864"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1982529727178084770",
+        "created_at": "2025-10-26T19:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T20:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982529727178084770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nbL1wo4O0",
+              "end": 180,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982529727178084770/photo/1",
+              "media_key": "3_1982528512528375808",
+              "start": 157,
+              "url": "https://t.co/4nbL1wo4O0"
+            },
+            {
+              "display_url": "pic.x.com/4nbL1wo4O0",
+              "end": 180,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1982529727178084770/photo/1",
+              "media_key": "3_1982528984081444864",
+              "start": 157,
+              "url": "https://t.co/4nbL1wo4O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982529727178084770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 14875,
+          "like_count": 105,
+          "quote_count": 5,
+          "reply_count": 44,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "《少年池鱼的烦恼》（Die Leiden des jungen Chiyu）是一部让吴相泽在中推几乎一夜成名的小说，于2025年秋天面世\nP2：池鱼惊人的消费能力，十个月支出十万元。你们这群上班穷蛆心疼她的话问问自己一个月工资有一万吗\n注：投资理财、信用还款、退款入账、他人代付、本人资金互转，均不计入收入和支出 https://t.co/4nbL1wo4O0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 371,
+          "like_count": 6053,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2309
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "诉求：@Chiyuyu520 唯一解决方式是自己联系羽毛归还19535元 联系猫卷归还555元。| 长居新加坡, PhD @NTUsg, 休学度假中 | 神秘法系车主 | HRT药物请私信 日雌380泰补190诺80 包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 67,
+                "start": 61,
+                "username": "NTUsg"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 767,
+          "like_count": 598,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1642
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

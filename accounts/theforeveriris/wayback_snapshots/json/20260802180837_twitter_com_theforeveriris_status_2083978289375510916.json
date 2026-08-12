@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083757107321676246",
+    "created_at": "2026-08-02T18:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083978289375510916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942803428125577216",
+          "start": 0,
+          "username": "Btah_12739"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2083968694968074417",
+          "start": 16,
+          "url": "https://t.co/u2tKopIDfF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083978289375510916",
+    "in_reply_to_user_id": "1942803428125577216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083968694968074417",
+        "type": "quoted"
+      },
+      {
+        "id": "2083977839528038749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Btah_12739 可以加 https://t.co/u2tKopIDfF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3704,
+        "media_key": "3_2083968681546317824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu-eXqbgAARZAB.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T18:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083978289375510916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942803428125577216",
+              "start": 0,
+              "username": "Btah_12739"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2083968694968074417",
+              "start": 16,
+              "url": "https://t.co/u2tKopIDfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083978289375510916",
+        "in_reply_to_user_id": "1942803428125577216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083968694968074417",
+            "type": "quoted"
+          },
+          {
+            "id": "2083977839528038749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Btah_12739 可以加 https://t.co/u2tKopIDfF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083968681546317824"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2083968694968074417",
+        "created_at": "2026-08-02T17:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083968694968074417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to theforeveriris/dengdengdeng development by creating an account on GitHub.",
+              "display_url": "github.com/theforeveriris…",
+              "end": 127,
+              "expanded_url": "https://github.com/theforeveriris/dengdengdeng",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2083968700638695424/l52EsSLu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083968700638695424/l52EsSLu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "GitHub - theforeveriris/dengdengdeng",
+              "unwound_url": "https://github.com/theforeveriris/dengdengdeng",
+              "url": "https://t.co/4FMegg1l4U"
+            },
+            {
+              "display_url": "pic.x.com/xA60JNuugX",
+              "end": 189,
+              "expanded_url": "https://x.com/theforeveriris/status/2083968694968074417/photo/1",
+              "media_key": "3_2083968681546317824",
+              "start": 166,
+              "url": "https://t.co/xA60JNuugX"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2083757107321676246",
+              "start": 190,
+              "url": "https://t.co/g2iLOJLs3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083968694968074417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083757107321676246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "定义（fake）你主页的登录方式（？\n一个戏仿 𝕏主页并伪造 OAuth icon 的项目（有什么用？或许可以作弄您的朋友 hh）\n---\n- 允许自定义图标和布局（请点击「看看发生了什么」）\n- 仓库地址：https://t.co/4FMegg1l4U\n- &gt;dengdengdeng 的名字来源于脑海里循环播放的琉音小曲 https://t.co/xA60JNuugX https://t.co/g2iLOJLs3v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942803428125577216",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T18:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083977839528038749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083977839528038749",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083757107321676246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 为什么不用鸿蒙系统登录？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 452,
+          "like_count": 18534,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4085
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T04:31:19.000Z",
+        "description": "",
+        "id": "1942803428125577216",
+        "name": "hhsiq aiwu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942803730618810368/GCFg-O2K_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Btah_12739",
+        "verified": false
+      }
+    ]
+  }
+}

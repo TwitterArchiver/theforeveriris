@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083968681546317824"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2083968694968074417",
+    "created_at": "2026-08-02T17:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083968694968074417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Contribute to theforeveriris/dengdengdeng development by creating an account on GitHub.",
+          "display_url": "github.com/theforeveriris…",
+          "end": 127,
+          "expanded_url": "https://github.com/theforeveriris/dengdengdeng",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2083968700638695424/l52EsSLu?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083968700638695424/l52EsSLu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "GitHub - theforeveriris/dengdengdeng",
+          "unwound_url": "https://github.com/theforeveriris/dengdengdeng",
+          "url": "https://t.co/4FMegg1l4U"
+        },
+        {
+          "display_url": "pic.x.com/xA60JNuugX",
+          "end": 189,
+          "expanded_url": "https://x.com/theforeveriris/status/2083968694968074417/photo/1",
+          "media_key": "3_2083968681546317824",
+          "start": 166,
+          "url": "https://t.co/xA60JNuugX"
+        },
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 213,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2083757107321676246",
+          "start": 190,
+          "url": "https://t.co/g2iLOJLs3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083968694968074417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083757107321676246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "定义（fake）你主页的登录方式（？\n一个戏仿 𝕏主页并伪造 OAuth icon 的项目（有什么用？或许可以作弄您的朋友 hh）\n---\n- 允许自定义图标和布局（请点击「看看发生了什么」）\n- 仓库地址：https://t.co/4FMegg1l4U\n- &gt;dengdengdeng 的名字来源于脑海里循环播放的琉音小曲 https://t.co/xA60JNuugX https://t.co/g2iLOJLs3v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3704,
+        "media_key": "3_2083968681546317824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu-eXqbgAARZAB.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2083757100505989120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOr-Cu3bgAAvJ1P.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083968681546317824"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2083968694968074417",
+        "created_at": "2026-08-02T17:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083968694968074417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to theforeveriris/dengdengdeng development by creating an account on GitHub.",
+              "display_url": "github.com/theforeveriris…",
+              "end": 127,
+              "expanded_url": "https://github.com/theforeveriris/dengdengdeng",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2083968700638695424/l52EsSLu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083968700638695424/l52EsSLu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "GitHub - theforeveriris/dengdengdeng",
+              "unwound_url": "https://github.com/theforeveriris/dengdengdeng",
+              "url": "https://t.co/4FMegg1l4U"
+            },
+            {
+              "display_url": "pic.x.com/xA60JNuugX",
+              "end": 189,
+              "expanded_url": "https://x.com/theforeveriris/status/2083968694968074417/photo/1",
+              "media_key": "3_2083968681546317824",
+              "start": 166,
+              "url": "https://t.co/xA60JNuugX"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2083757107321676246",
+              "start": 190,
+              "url": "https://t.co/g2iLOJLs3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083968694968074417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083757107321676246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "定义（fake）你主页的登录方式（？\n一个戏仿 𝕏主页并伪造 OAuth icon 的项目（有什么用？或许可以作弄您的朋友 hh）\n---\n- 允许自定义图标和布局（请点击「看看发生了什么」）\n- 仓库地址：https://t.co/4FMegg1l4U\n- &gt;dengdengdeng 的名字来源于脑海里循环播放的琉音小曲 https://t.co/xA60JNuugX https://t.co/g2iLOJLs3v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083757100505989120"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T03:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083757107321676246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrT2B6yspz",
+              "end": 63,
+              "expanded_url": "https://x.com/theforeveriris/status/2083757107321676246/photo/1",
+              "media_key": "3_2083757100505989120",
+              "start": 40,
+              "url": "https://t.co/GrT2B6yspz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083757107321676246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 93196,
+          "like_count": 236,
+          "quote_count": 2,
+          "reply_count": 202,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚在百度上搜到的 𝕏，试了一下成功用米游社授权登录了，大家知道这是正版吗🤔 https://t.co/GrT2B6yspz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 452,
+          "like_count": 18514,
+          "listed_count": 6,
+          "media_count": 389,
+          "tweet_count": 4071
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2056605785007001951",
+    "created_at": "2026-05-19T10:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056686659757052080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "635941366",
+          "start": 0,
+          "username": "unixzii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056686659757052080",
+    "in_reply_to_user_id": "635941366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056605785007001951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unixzii 哥们串的吗？别把自己也骗了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2056605127050719232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqHd3ka8AAO_b3.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056605785007001951",
+        "created_at": "2026-05-19T10:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056686659757052080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "635941366",
+              "start": 0,
+              "username": "unixzii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056686659757052080",
+        "in_reply_to_user_id": "635941366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056605785007001951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unixzii 哥们串的吗？别把自己也骗了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056605127050719232"
+          ]
+        },
+        "author_id": "635941366",
+        "conversation_id": "2056605785007001951",
+        "created_at": "2026-05-19T05:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056605785007001951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9QldnUWVq",
+              "end": 103,
+              "expanded_url": "https://x.com/unixzii/status/2056605785007001951/photo/1",
+              "media_key": "3_2056605127050719232",
+              "start": 80,
+              "url": "https://t.co/Z9QldnUWVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056605785007001951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 19442,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Vercel 最新的那个 zero 编程语言真的太顶级了，标准库调用在编译器里直接生成对应汇编，感觉碳基文明里应该还没出现过这种做法，建议编译器专家们严肃学习 https://t.co/Z9QldnUWVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 456,
+          "like_count": 14224,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 3465
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "keep curiosity, keep creativity. he/him. opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cy4n.dev",
+                "end": 23,
+                "expanded_url": "https://cy4n.dev",
+                "start": 0,
+                "url": "https://t.co/eqRNBiQ4DD"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "location": "Universe",
+        "name": "Cyandev",
+        "pinned_tweet_id": "2006302911354245624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047230973243510784/0Flt4WBy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16291,
+          "following_count": 200,
+          "like_count": 6117,
+          "listed_count": 126,
+          "media_count": 1260,
+          "tweet_count": 9684
+        },
+        "url": "https://t.co/eqRNBiQ4DD",
+        "username": "unixzii",
+        "verified": false
+      }
+    ]
+  }
+}

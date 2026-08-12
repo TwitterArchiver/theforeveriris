@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072635542907637760"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2072535023471780144",
+    "created_at": "2026-07-02T10:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072635549186466102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BVt6R5VOC0",
+          "end": 72,
+          "expanded_url": "https://x.com/theforeveriris/status/2072635549186466102/photo/1",
+          "media_key": "3_2072635542907637760",
+          "start": 49,
+          "url": "https://t.co/BVt6R5VOC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072635549186466102",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072535023471780144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 试了一下微信可以发出来（总之只要允许剪贴板粘贴图片的都可以发送吧） https://t.co/BVt6R5VOC0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2072635542907637760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMN7C4Pb0AAbhtT.jpg",
+        "width": 1260
+      },
+      {
+        "height": 534,
+        "media_key": "3_2072535018543435776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMfnlzW0AA7yUW.png",
+        "width": 534
+      },
+      {
+        "height": 534,
+        "media_key": "3_2072535020208533504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMfnsAWMAAe2Ta.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072635542907637760"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2072535023471780144",
+        "created_at": "2026-07-02T10:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072635549186466102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BVt6R5VOC0",
+              "end": 72,
+              "expanded_url": "https://x.com/theforeveriris/status/2072635549186466102/photo/1",
+              "media_key": "3_2072635542907637760",
+              "start": 49,
+              "url": "https://t.co/BVt6R5VOC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072635549186466102",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072535023471780144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 试了一下微信可以发出来（总之只要允许剪贴板粘贴图片的都可以发送吧） https://t.co/BVt6R5VOC0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072535018543435776",
+            "3_2072535020208533504"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2072535023471780144",
+        "created_at": "2026-07-02T04:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072535023471780144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCyBGVP0Rb",
+              "end": 53,
+              "expanded_url": "https://x.com/xijinping_bot/status/2072535023471780144/photo/1",
+              "media_key": "3_2072535018543435776",
+              "start": 30,
+              "url": "https://t.co/ZCyBGVP0Rb"
+            },
+            {
+              "display_url": "pic.x.com/ZCyBGVP0Rb",
+              "end": 53,
+              "expanded_url": "https://x.com/xijinping_bot/status/2072535023471780144/photo/1",
+              "media_key": "3_2072535020208533504",
+              "start": 30,
+              "url": "https://t.co/ZCyBGVP0Rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072535023471780144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1467,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来谷歌键盘还有这个功能\n不过这个功能要翻墙才能用也是神了 https://t.co/ZCyBGVP0Rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 447,
+          "like_count": 16982,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 3776
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "没有张雪峰就没有苏维埃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "name": "张雪峰🇮🇷🚩——帮斯大林选过专业",
+        "pinned_tweet_id": "2072276424761671906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072520379847884801/3guW4ZM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 1543,
+          "like_count": 24543,
+          "listed_count": 16,
+          "media_count": 948,
+          "tweet_count": 18955
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2068130360572223580",
+    "created_at": "2026-06-20T12:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068311936039862752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068311936039862752",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068130360572223580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 官网用的还是 llm 一版生成没有 UI 优化 的雷霆 emoji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2042,
+        "media_key": "3_2068130041180135425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLN5UKXbIAEcBHp.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2068130360572223580",
+        "created_at": "2026-06-20T12:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068311936039862752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068311936039862752",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068130360572223580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 官网用的还是 llm 一版生成没有 UI 优化 的雷霆 emoji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068130041180135425"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2068130360572223580",
+        "created_at": "2026-06-20T00:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068130360572223580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIe1uOVQXK",
+              "end": 82,
+              "expanded_url": "https://x.com/realNyarime/status/2068130360572223580/photo/1",
+              "media_key": "3_2068130041180135425",
+              "start": 59,
+              "url": "https://t.co/fIe1uOVQXK"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/realNyarime/status/2067181644264739287",
+              "start": 83,
+              "url": "https://t.co/kmoMGOZsm1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7b02fbddf4d9f2c6"
+        },
+        "id": "2068130360572223580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8452,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067181644264739287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美团LongCat-2.0-Preview第二阶段内测资格，每日最高5M tokens，提交反馈“有机会”额度刷新🤣 https://t.co/fIe1uOVQXK https://t.co/kmoMGOZsm1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 451,
+          "like_count": 16843,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 3736
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2064978196857307613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38069,
+          "following_count": 657,
+          "like_count": 17982,
+          "listed_count": 178,
+          "media_count": 2189,
+          "tweet_count": 14931
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

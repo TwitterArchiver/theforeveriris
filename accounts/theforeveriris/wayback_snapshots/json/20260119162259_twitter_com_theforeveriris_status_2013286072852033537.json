@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013282137324322978",
+    "created_at": "2026-01-19T16:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T17:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013286072852033537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        },
+        {
+          "end": 25,
+          "id": "1748763011140169729",
+          "start": 11,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013286072852033537",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013282191409832307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 @lovelyshuimao 短期變成小紅書是因為逆天推流讓推上到處都是 ai 賣課或者幣圈的藍 v 營銷號，和小紅書如出一轍。後者我理解的是，推特時間長了難免會感覺有變成廁所的趨勢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013282137324322978",
+        "created_at": "2026-01-19T16:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013286072852033537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            },
+            {
+              "end": 25,
+              "id": "1748763011140169729",
+              "start": 11,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013286072852033537",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013282191409832307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 @lovelyshuimao 短期變成小紅書是因為逆天推流讓推上到處都是 ai 賣課或者幣圈的藍 v 營銷號，和小紅書如出一轍。後者我理解的是，推特時間長了難免會感覺有變成廁所的趨勢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "2013282137324322978",
+        "created_at": "2026-01-19T16:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013282191409832307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013282191409832307",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013282137324322978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 为何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 369,
+          "like_count": 6798,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2324
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "永远相信美好的事情即将发生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/6KW1tDwsPt"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Chuo-ku, Tokyo",
+        "name": "Jonathan",
+        "pinned_tweet_id": "2012574839815458908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012918361101942785/t4TA1gIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 262,
+          "like_count": 1200,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 2491
+        },
+        "url": "https://t.co/6KW1tDwsPt",
+        "username": "Tim_Pan_5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 1014,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2738,
+          "tweet_count": 12633
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

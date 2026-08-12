@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2060030082295730438",
+    "created_at": "2026-05-29T01:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060166651656769891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "90397226",
+          "start": 0,
+          "username": "windtrack_QH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060166651656769891",
+    "in_reply_to_user_id": "90397226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060030082295730438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@windtrack_QH 在我的视角下：推荐了好多日语、西语和阿拉伯语的内容，尤其是日语内容格外多。在某种程度上我的 tl 上已经很难刷到我原来群组相关帖子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2060030082295730438",
+        "created_at": "2026-05-29T01:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060166651656769891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90397226",
+              "start": 0,
+              "username": "windtrack_QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060166651656769891",
+        "in_reply_to_user_id": "90397226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060030082295730438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@windtrack_QH 在我的视角下：推荐了好多日语、西语和阿拉伯语的内容，尤其是日语内容格外多。在某种程度上我的 tl 上已经很难刷到我原来群组相关帖子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90397226",
+        "conversation_id": "2060030082295730438",
+        "created_at": "2026-05-28T16:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060030082295730438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060030082295730438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1133,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "X的推送算法是不是又改了？今天多了好多其他语言的内容，而且很多也不是我平时关注的内容分类...究竟是什么原理\n\n尤其是韩语的特别多，我平时几乎很少看韩国相关内容啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 460,
+          "like_count": 15555,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3594
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T13:54:48.000Z",
+        "description": "80后北京胖子，中共党员，爱好吃饭、睡觉、电子游戏、动画、电影、历史、古文。推文以爱好为主，常有政治推。特别喜欢喷人和打脸。",
+        "id": "90397226",
+        "location": "Beijing China",
+        "name": "windtrack",
+        "pinned_tweet_id": "1966492904307777992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/787557292115832832/S3ktKpaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 763,
+          "like_count": 4420,
+          "listed_count": 47,
+          "media_count": 1732,
+          "tweet_count": 30371
+        },
+        "username": "windtrack_QH",
+        "verified": false
+      }
+    ]
+  }
+}

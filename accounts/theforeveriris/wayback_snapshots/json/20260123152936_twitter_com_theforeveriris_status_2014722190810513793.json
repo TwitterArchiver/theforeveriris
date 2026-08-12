@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2014713208876261607",
+    "created_at": "2026-01-23T15:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T16:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014722190810513793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1943804045036019712",
+          "start": 0,
+          "username": "oiyunia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014722190810513793",
+    "in_reply_to_user_id": "1943804045036019712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014713208876261607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oiyunia 唔我也觉得很难忍住在看见黑洞洞的水面时不想纵身一跃跳下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2014713208876261607",
+        "created_at": "2026-01-23T15:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T16:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014722190810513793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1943804045036019712",
+              "start": 0,
+              "username": "oiyunia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014722190810513793",
+        "in_reply_to_user_id": "1943804045036019712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014713208876261607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oiyunia 唔我也觉得很难忍住在看见黑洞洞的水面时不想纵身一跃跳下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943804045036019712",
+        "conversation_id": "2014713208876261607",
+        "created_at": "2026-01-23T14:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014713208876261607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014713208876261607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天下午一直在江边发呆，我好想跳下去，体验一下濒死感，反正会被救起\n可江水太腥臭，我也怕我的好朋医生不给我开安眠药，我怕被网暴说浪费社会资源\n我怕真的死掉了\n我现在不是一直强烈要自杀的时期了\n就是情绪起起伏伏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 381,
+          "like_count": 7082,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2385
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T22:47:05.000Z",
+        "description": "互fo👉请留言and私信 ❗️｜木与俞=榆 ｜双相水仙｜寻安眠药同好｜喜静、喜发呆｜x纯当随手记发，随便监视🤡｜上课忙💢未及时回复，见谅",
+        "id": "1943804045036019712",
+        "name": "木与俞💤",
+        "pinned_tweet_id": "1997515234349928797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998504992681111557/YGN_s6RE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 14,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 319
+        },
+        "username": "oiyunia",
+        "verified": false
+      }
+    ]
+  }
+}

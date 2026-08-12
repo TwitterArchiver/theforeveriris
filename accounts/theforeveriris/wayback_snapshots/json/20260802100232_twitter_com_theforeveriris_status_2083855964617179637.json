@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083757107321676246",
+    "created_at": "2026-08-02T10:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083855964617179637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2083590657256628225",
+          "start": 0,
+          "username": "jxy666233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083855964617179637",
+    "in_reply_to_user_id": "2083590657256628225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083848553433350412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxy666233 谢谢你积极变大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T10:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083855964617179637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2083590657256628225",
+              "start": 0,
+              "username": "jxy666233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083855964617179637",
+        "in_reply_to_user_id": "2083590657256628225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083848553433350412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxy666233 谢谢你积极变大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083590657256628225",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T09:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083848553433350412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083848553433350412",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083757107321676246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 你牛大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 452,
+          "like_count": 18416,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 4050
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-01T16:29:47.000Z",
+        "description": "",
+        "id": "2083590657256628225",
+        "name": "千方百计",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083592427852685312/rRG-IBX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "jxy666233",
+        "verified": false
+      }
+    ]
+  }
+}

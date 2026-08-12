@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2068262674971156979",
+    "created_at": "2026-06-20T12:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068310779150172412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "11782392",
+          "start": 0,
+          "username": "sagacity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068310779150172412",
+    "in_reply_to_user_id": "11782392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068262674971156979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sagacity 哪里的野榜，kimi 2.7 捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2068262453050544128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPxvjBbEAAeihK.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2068262674971156979",
+        "created_at": "2026-06-20T12:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068310779150172412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "11782392",
+              "start": 0,
+              "username": "sagacity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068310779150172412",
+        "in_reply_to_user_id": "11782392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068262674971156979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sagacity 哪里的野榜，kimi 2.7 捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068262453050544128"
+          ]
+        },
+        "author_id": "11782392",
+        "conversation_id": "2068262674971156979",
+        "created_at": "2026-06-20T09:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068262674971156979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2d08qpyvB",
+              "end": 46,
+              "expanded_url": "https://x.com/sagacity/status/2068262674971156979/photo/1",
+              "media_key": "3_2068262453050544128",
+              "start": 23,
+              "url": "https://t.co/J2d08qpyvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068262674971156979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2946,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Agent 的能力前十强 lab，中美五比五 https://t.co/J2d08qpyvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 451,
+          "like_count": 16843,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 3735
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2008-01-03T02:34:36.000Z",
+        "description": "墨问西东创始人，公众号 MacTalk 作者。\n\n产品：https://t.co/WAKvIHBBTT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mowen.cn",
+                "end": 51,
+                "expanded_url": "https://mowen.cn",
+                "start": 28,
+                "url": "https://t.co/WAKvIHBBTT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mowen.cn",
+                "end": 23,
+                "expanded_url": "https://mowen.cn/",
+                "start": 0,
+                "url": "https://t.co/3g78FW7iE1"
+              }
+            ]
+          }
+        },
+        "id": "11782392",
+        "name": "池建强",
+        "pinned_tweet_id": "1982621373290979557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/837956718/_____2010-04-20___10.16.37_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49306,
+          "following_count": 422,
+          "like_count": 161,
+          "listed_count": 443,
+          "media_count": 1053,
+          "tweet_count": 8170
+        },
+        "url": "https://t.co/3g78FW7iE1",
+        "username": "sagacity",
+        "verified": true
+      }
+    ]
+  }
+}

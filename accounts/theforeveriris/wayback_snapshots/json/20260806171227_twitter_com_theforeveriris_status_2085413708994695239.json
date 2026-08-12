@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085413652946116608"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085413708994695239",
+    "created_at": "2026-08-06T17:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085413708994695239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Contribute to theforeveriris/Freyja development by creating an account on GitHub.",
+          "display_url": "github.com/theforeveriris…",
+          "end": 119,
+          "expanded_url": "https://github.com/theforeveriris/Freyja",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2085413715185451008/HTtoWLNN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085413715185451008/HTtoWLNN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 96,
+          "status": 200,
+          "title": "GitHub - theforeveriris/Freyja",
+          "unwound_url": "https://github.com/theforeveriris/Freyja",
+          "url": "https://t.co/sxprA1RKNs"
+        },
+        {
+          "display_url": "pic.x.com/eRgowRUvhs",
+          "end": 183,
+          "expanded_url": "https://x.com/theforeveriris/status/2085413708994695239/photo/1",
+          "media_key": "3_2085413652946116608",
+          "start": 160,
+          "url": "https://t.co/eRgowRUvhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085413708994695239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天晚上睡觉之前让小东西自动完善自己的功能有一种难以形容的幸福感\n---\n预告一下：给它添加了输入语音就可以判断我的声音特征（响度频率音色什么的）还可以对比几次的记录进行分析，爱来自远古仓库 https://t.co/sxprA1RKNs（这个机器人之前就是测这个的(｡-_-｡)），这下加上 LLM 真的什么都不缺了 https://t.co/eRgowRUvhs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3657,
+        "media_key": "3_2085413652946116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDgqxmaYAAOv_1.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085413652946116608"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085413708994695239",
+        "created_at": "2026-08-06T17:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085413708994695239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to theforeveriris/Freyja development by creating an account on GitHub.",
+              "display_url": "github.com/theforeveriris…",
+              "end": 119,
+              "expanded_url": "https://github.com/theforeveriris/Freyja",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2085413715185451008/HTtoWLNN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085413715185451008/HTtoWLNN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "GitHub - theforeveriris/Freyja",
+              "unwound_url": "https://github.com/theforeveriris/Freyja",
+              "url": "https://t.co/sxprA1RKNs"
+            },
+            {
+              "display_url": "pic.x.com/eRgowRUvhs",
+              "end": 183,
+              "expanded_url": "https://x.com/theforeveriris/status/2085413708994695239/photo/1",
+              "media_key": "3_2085413652946116608",
+              "start": 160,
+              "url": "https://t.co/eRgowRUvhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085413708994695239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天晚上睡觉之前让小东西自动完善自己的功能有一种难以形容的幸福感\n---\n预告一下：给它添加了输入语音就可以判断我的声音特征（响度频率音色什么的）还可以对比几次的记录进行分析，爱来自远古仓库 https://t.co/sxprA1RKNs（这个机器人之前就是测这个的(｡-_-｡)），这下加上 LLM 真的什么都不缺了 https://t.co/eRgowRUvhs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 457,
+          "like_count": 19263,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 4201
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

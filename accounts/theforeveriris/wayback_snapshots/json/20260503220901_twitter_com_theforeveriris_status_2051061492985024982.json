@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "TXT (투모로우바이투게더)",
+          "id": "1083397690140971008",
+          "name": "TOMORROW X TOGETHER"
+        }
+      }
+    ],
+    "conversation_id": "2050922390222508223",
+    "created_at": "2026-05-03T22:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T23:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051061492985024982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "936609800598597633",
+          "start": 0,
+          "username": "Jason_Young1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051061492985024982",
+    "in_reply_to_user_id": "936609800598597633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050922390222508223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jason_Young1231 这种也算辛苦费了....我接过帮大学生代做机器学习的期末作业...这货集齐了：使用 txt 打开.py 文件，不知道怎么安装 python，在依赖地狱里折磨我，机房的 win7 不支持原生打开 7z 辱骂我文件只能打开一次（他的笔记本是 win11 可以原生打开 7z）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050922382697897984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZXCnKbIAA6yPW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2050922390222508223",
+        "created_at": "2026-05-03T22:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T23:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051061492985024982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "936609800598597633",
+              "start": 0,
+              "username": "Jason_Young1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051061492985024982",
+        "in_reply_to_user_id": "936609800598597633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050922390222508223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jason_Young1231 这种也算辛苦费了....我接过帮大学生代做机器学习的期末作业...这货集齐了：使用 txt 打开.py 文件，不知道怎么安装 python，在依赖地狱里折磨我，机房的 win7 不支持原生打开 7z 辱骂我文件只能打开一次（他的笔记本是 win11 可以原生打开 7z）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050922382697897984"
+          ]
+        },
+        "author_id": "936609800598597633",
+        "conversation_id": "2050922390222508223",
+        "created_at": "2026-05-03T12:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050922390222508223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrqacOWpH8",
+              "end": 46,
+              "expanded_url": "https://x.com/Jason_Young1231/status/2050922390222508223/photo/1",
+              "media_key": "3_2050922382697897984",
+              "start": 23,
+              "url": "https://t.co/nrqacOWpH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050922390222508223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 28041,
+          "like_count": 136,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这就是神奇的咸鱼吗，比作者本人挣的还多😭😭😭 https://t.co/nrqacOWpH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 452,
+          "like_count": 13960,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 3333
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-01T14:55:52.000Z",
+        "description": "Creator of CC Switch — open-source tooling for AI coding workflows across Claude Code, Codex, OpenClaw, Hermes and more: https://t.co/gpx1V4wBKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ccswitch.io",
+                "end": 144,
+                "expanded_url": "https://www.ccswitch.io",
+                "start": 121,
+                "url": "https://t.co/gpx1V4wBKk"
+              }
+            ]
+          }
+        },
+        "id": "936609800598597633",
+        "name": "Jason Young",
+        "pinned_tweet_id": "2027589395449303306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604123462792249344/9cNRBhXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12012,
+          "following_count": 608,
+          "like_count": 25514,
+          "listed_count": 110,
+          "media_count": 447,
+          "tweet_count": 7571
+        },
+        "username": "Jason_Young1231",
+        "verified": true
+      }
+    ]
+  }
+}

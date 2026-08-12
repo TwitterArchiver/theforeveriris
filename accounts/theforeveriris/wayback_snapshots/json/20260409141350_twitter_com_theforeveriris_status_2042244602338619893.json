@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2042030958849958349",
+    "created_at": "2026-04-09T14:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042244602338619893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "889194065333338112",
+          "start": 0,
+          "username": "wsdd2_fhc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042244602338619893",
+    "in_reply_to_user_id": "889194065333338112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042030958849958349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsdd2_fhc 我现在项目的产品连命令行都不知道是什么但是一个劲的说年轻人要学习 Claude 和小龙虾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 272,
+        "media_key": "3_2042030954466963458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbAVX1a8AIJn2p.jpg",
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2042030958849958349",
+        "created_at": "2026-04-09T14:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042244602338619893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "889194065333338112",
+              "start": 0,
+              "username": "wsdd2_fhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042244602338619893",
+        "in_reply_to_user_id": "889194065333338112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042030958849958349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsdd2_fhc 我现在项目的产品连命令行都不知道是什么但是一个劲的说年轻人要学习 Claude 和小龙虾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042030954466963458"
+          ]
+        },
+        "author_id": "889194065333338112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357506193879486469",
+              "name": "Python"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2042030958849958349",
+        "created_at": "2026-04-09T00:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042030958849958349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UW5JUhvoH3",
+              "end": 98,
+              "expanded_url": "https://x.com/wsdd2_fhc/status/2042030958849958349/photo/1",
+              "media_key": "3_2042030954466963458",
+              "start": 75,
+              "url": "https://t.co/UW5JUhvoH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042030958849958349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7446,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我至今无法理解为什么要有产品经理这个岗位，连Python和Java安装都不会你怎么好意思指挥我写代码的？而且梦到哪里说哪里，你提的需求人类能实现吗？ https://t.co/UW5JUhvoH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 458,
+          "like_count": 13515,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3173
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-23T18:42:40.000Z",
+        "description": "【不接推广&只约娃】永远的猫猫少女心coser/Kiger；she/her；INFJ- T; 重度抖M; 地雷系少女; OOC警告; K圈边缘人; 薄绿喵是世界上最聪明最可爱的猫猫！（注：所有涩涩视频均为表演）",
+        "id": "889194065333338112",
+        "location": "猫猫星球",
+        "name": "蛋蛋喵=w=",
+        "pinned_tweet_id": "1992468162668044410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724831119202455552/zJSWhC6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45961,
+          "following_count": 2849,
+          "like_count": 4550,
+          "listed_count": 177,
+          "media_count": 916,
+          "tweet_count": 2730
+        },
+        "username": "wsdd2_fhc",
+        "verified": false
+      }
+    ]
+  }
+}

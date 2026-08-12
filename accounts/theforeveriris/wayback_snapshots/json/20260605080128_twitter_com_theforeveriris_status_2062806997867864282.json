@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062751404884902137",
+    "created_at": "2026-06-05T08:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062806997867864282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "364478145",
+          "start": 0,
+          "username": "xicilion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062806997867864282",
+    "in_reply_to_user_id": "364478145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062751404884902137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xicilion 感觉官方为了推 trae solo ，trae本体已经没之前那么好用了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2062750761235419136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKBc42-akAAJU1q.jpg",
+        "width": 2516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062751404884902137",
+        "created_at": "2026-06-05T08:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062806997867864282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "364478145",
+              "start": 0,
+              "username": "xicilion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062806997867864282",
+        "in_reply_to_user_id": "364478145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062751404884902137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xicilion 感觉官方为了推 trae solo ，trae本体已经没之前那么好用了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062750761235419136"
+          ]
+        },
+        "author_id": "364478145",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2062751404884902137",
+        "created_at": "2026-06-05T04:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062751404884902137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKvWLmZFoP",
+              "end": 77,
+              "expanded_url": "https://x.com/xicilion/status/2062751404884902137/photo/1",
+              "media_key": "3_2062750761235419136",
+              "start": 54,
+              "url": "https://t.co/iKvWLmZFoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062751404884902137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6418,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Copilot 又限流了，趁这个机会切换 trae 来试用了一下，目前来看竟然还行，准备周末高强度用一下。 https://t.co/iKvWLmZFoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 459,
+          "like_count": 16538,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3661
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-29T20:52:12.000Z",
+        "description": "。。。。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fibjs.org",
+                "end": 23,
+                "expanded_url": "https://fibjs.org/",
+                "start": 0,
+                "url": "https://t.co/PAD078hDt5"
+              }
+            ]
+          }
+        },
+        "id": "364478145",
+        "name": "响马",
+        "pinned_tweet_id": "1339204590558826496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792551913969631232/tBrYW9Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68029,
+          "following_count": 3348,
+          "like_count": 30,
+          "listed_count": 669,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/PAD078hDt5",
+        "username": "xicilion",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2048246207659880627",
+    "created_at": "2026-04-26T19:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048489060243738904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991045969371361280",
+          "start": 0,
+          "username": "Russell3402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048489060243738904",
+    "in_reply_to_user_id": "1991045969371361280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048246207659880627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russell3402 全图的吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2048246183748153344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzVDVLbsAAuKsj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2048246183748157440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzVDVLbwAAxMZL.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2048246096242343936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzU-PMbAAAoNJe.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2048246148398465024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzVBRfaQAARRxE.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2048246207659880627",
+        "created_at": "2026-04-26T19:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048489060243738904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991045969371361280",
+              "start": 0,
+              "username": "Russell3402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048489060243738904",
+        "in_reply_to_user_id": "1991045969371361280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048246207659880627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russell3402 全图的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048246183748153344",
+            "3_2048246183748157440",
+            "3_2048246096242343936",
+            "3_2048246148398465024"
+          ]
+        },
+        "author_id": "1991045969371361280",
+        "conversation_id": "2048246207659880627",
+        "created_at": "2026-04-26T03:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048246207659880627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJFwl0WxOz",
+              "end": 111,
+              "expanded_url": "https://x.com/Russell3402/status/2048246207659880627/photo/1",
+              "media_key": "3_2048246183748153344",
+              "start": 88,
+              "url": "https://t.co/gJFwl0WxOz"
+            },
+            {
+              "display_url": "pic.x.com/gJFwl0WxOz",
+              "end": 111,
+              "expanded_url": "https://x.com/Russell3402/status/2048246207659880627/photo/1",
+              "media_key": "3_2048246183748157440",
+              "start": 88,
+              "url": "https://t.co/gJFwl0WxOz"
+            },
+            {
+              "display_url": "pic.x.com/gJFwl0WxOz",
+              "end": 111,
+              "expanded_url": "https://x.com/Russell3402/status/2048246207659880627/photo/1",
+              "media_key": "3_2048246096242343936",
+              "start": 88,
+              "url": "https://t.co/gJFwl0WxOz"
+            },
+            {
+              "display_url": "pic.x.com/gJFwl0WxOz",
+              "end": 111,
+              "expanded_url": "https://x.com/Russell3402/status/2048246207659880627/photo/1",
+              "media_key": "3_2048246148398465024",
+              "start": 88,
+              "url": "https://t.co/gJFwl0WxOz"
+            },
+            {
+              "display_url": "x.com/Russell3402/st…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Russell3402/status/2047529983829274672",
+              "start": 112,
+              "url": "https://t.co/7wVoWkNHfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048246207659880627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 892,
+          "impression_count": 164766,
+          "like_count": 865,
+          "quote_count": 8,
+          "reply_count": 41,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047529983829274672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不得不承认大学里PPT是强需求\n比如用我的PPT-skill去做PPT\n不仅可以帮助你更轻松的参加比赛、做研究、做演讲\n甚至可以接单（我的一个小助理已经开始接老师的单子了） https://t.co/gJFwl0WxOz https://t.co/7wVoWkNHfx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 447,
+          "like_count": 13675,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 3224
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:28:56.000Z",
+        "description": "05年大学生\n用AI赚到人生第123456789桶金\nAI玩咖 | 独立开发者 | 连续创业\n利他是最好的商业模式 坚信文字的力量\n做流量，学AI咨询+vx：zzr9552",
+        "id": "1991045969371361280",
+        "name": "Russell",
+        "pinned_tweet_id": "2044394530875846959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027629616744304640/7fyIwFFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 120,
+          "like_count": 4289,
+          "listed_count": 9,
+          "media_count": 110,
+          "tweet_count": 1671
+        },
+        "username": "Russell3402",
+        "verified": true
+      }
+    ]
+  }
+}

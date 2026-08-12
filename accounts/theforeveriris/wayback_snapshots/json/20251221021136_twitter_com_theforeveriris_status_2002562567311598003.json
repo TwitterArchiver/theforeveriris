@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2002332817779527739",
+    "created_at": "2025-12-21T02:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002562567311598003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753990410832379904",
+          "start": 0,
+          "username": "DRbitcoin36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002562567311598003",
+    "in_reply_to_user_id": "1753990410832379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002332817779527739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DRbitcoin36 1000u 我都幹("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2002332451159556096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8m2wWmaQAAN3pV.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2002332817779527739",
+        "created_at": "2025-12-21T02:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002562567311598003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753990410832379904",
+              "start": 0,
+              "username": "DRbitcoin36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002562567311598003",
+        "in_reply_to_user_id": "1753990410832379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002332817779527739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DRbitcoin36 1000u 我都幹("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002332451159556096"
+          ]
+        },
+        "author_id": "1753990410832379904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2002332817779527739",
+        "created_at": "2025-12-20T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002332817779527739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8EpVHnQ9f",
+              "end": 129,
+              "expanded_url": "https://x.com/DRbitcoin36/status/2002332817779527739/photo/1",
+              "media_key": "3_2002332451159556096",
+              "start": 106,
+              "url": "https://t.co/S8EpVHnQ9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002332817779527739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 65500,
+          "like_count": 194,
+          "quote_count": 3,
+          "reply_count": 144,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "小红书和推特还是太割裂了\n一份月薪 3000u 的 web3 岗位\n在红薯上都被大家嫌弃、嘲笑了。\n\n这薪资如果放在推特上做招聘\n绝对能收到好几百份简历。\n\n红薯用户：狗都不做！\n推特用户：还需要人吗，哥带带！ https://t.co/S8EpVHnQ9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 400,
+          "like_count": 6455,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 2293
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T03:54:42.000Z",
+        "description": "数据分析 + 数据可视化博主 | 自媒体打工人 + 00 后大学生｜顶级笨蛋钱｜推特当作自己的炒币日记｜交易就选安全的交易所，超 3 亿用户都选择币安：https://t.co/ovrqlHEqgV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "binance.com/activity/refer…",
+                "end": 99,
+                "expanded_url": "https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00IXDBNAA0",
+                "start": 76,
+                "url": "https://t.co/ovrqlHEqgV"
+              }
+            ]
+          }
+        },
+        "id": "1753990410832379904",
+        "location": "singapore",
+        "name": "比特欧 Elvin",
+        "pinned_tweet_id": "1983500437874708833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871549554279194624/SLDJsDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24152,
+          "following_count": 2598,
+          "like_count": 30408,
+          "listed_count": 265,
+          "media_count": 1112,
+          "tweet_count": 22306
+        },
+        "username": "DRbitcoin36",
+        "verified": true
+      }
+    ]
+  }
+}

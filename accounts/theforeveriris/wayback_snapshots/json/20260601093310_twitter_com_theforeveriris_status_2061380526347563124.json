@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061291455789047951",
+    "created_at": "2026-06-01T09:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061380526347563124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061380526347563124",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061291455789047951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 大一的时候看过杭电 acm 的视频，配了一本红皮名字特长的算法书"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061291447803125760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJstpozbIAARx-T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061291455789047951",
+        "created_at": "2026-06-01T09:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061380526347563124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061380526347563124",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061291455789047951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 大一的时候看过杭电 acm 的视频，配了一本红皮名字特长的算法书"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061291447803125760"
+          ]
+        },
+        "author_id": "1637070779975352320",
+        "conversation_id": "2061291455789047951",
+        "created_at": "2026-06-01T03:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061291455789047951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3DVxInFOB",
+              "end": 35,
+              "expanded_url": "https://x.com/arkuy99/status/2061291455789047951/photo/1",
+              "media_key": "3_2061291447803125760",
+              "start": 12,
+              "url": "https://t.co/E3DVxInFOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061291455789047951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 28459,
+          "like_count": 95,
+          "quote_count": 5,
+          "reply_count": 103,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现在还有人会看这种书吗 https://t.co/E3DVxInFOB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 458,
+          "like_count": 15745,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3607
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0Knj  a native iOS app for Claude Code \n/ ex @TencentGames \n/ ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "TencentGames"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/m4sM6QU…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/m4sM6QUuMt",
+                "start": 0,
+                "url": "https://t.co/zxI1WGCfvQ"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "location": "最屌的CC客户端➡️",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049078848978145704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5619,
+          "following_count": 1008,
+          "like_count": 5883,
+          "listed_count": 34,
+          "media_count": 619,
+          "tweet_count": 8430
+        },
+        "url": "https://t.co/zxI1WGCfvQ",
+        "username": "arkuy99",
+        "verified": true
+      }
+    ]
+  }
+}

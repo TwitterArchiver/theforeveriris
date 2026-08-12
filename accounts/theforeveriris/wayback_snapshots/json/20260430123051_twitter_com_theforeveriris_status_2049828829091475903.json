@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2049769104882770267",
+    "created_at": "2026-04-30T12:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049828829091475903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "786479809647869952",
+          "start": 0,
+          "username": "skywind3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049828829091475903",
+    "in_reply_to_user_id": "786479809647869952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049769104882770267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skywind3000 我今天也没试出来（？）应该是自动推送更新了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2049769077871362048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHI-Hb4aQAAuq-9.png",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2049769104882770267",
+        "created_at": "2026-04-30T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049828829091475903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "786479809647869952",
+              "start": 0,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049828829091475903",
+        "in_reply_to_user_id": "786479809647869952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049769104882770267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skywind3000 我今天也没试出来（？）应该是自动推送更新了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049769077871362048"
+          ]
+        },
+        "author_id": "786479809647869952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2049769104882770267",
+        "created_at": "2026-04-30T08:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049769104882770267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB6fQNGAS2",
+              "end": 42,
+              "expanded_url": "https://x.com/skywind3000/status/2049769104882770267/photo/1",
+              "media_key": "3_2049769077871362048",
+              "start": 19,
+              "url": "https://t.co/gB6fQNGAS2"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/realNyarime/status/2049737746563158361",
+              "start": 43,
+              "url": "https://t.co/A20rT1j6BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049769104882770267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9653,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049737746563158361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种帖子是在瞎说么？为啥我复现不了？ https://t.co/gB6fQNGAS2 https://t.co/A20rT1j6BJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 452,
+          "like_count": 13810,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 3280
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27396,
+          "following_count": 340,
+          "like_count": 7953,
+          "listed_count": 216,
+          "media_count": 1217,
+          "tweet_count": 9265
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

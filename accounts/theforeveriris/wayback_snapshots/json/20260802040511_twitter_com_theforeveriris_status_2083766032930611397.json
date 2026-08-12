@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083606036150383040",
+    "created_at": "2026-08-02T04:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083766032930611397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083766032930611397",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083606036150383040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 大学没毕业/没考上大学导致的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_2083606027069739008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp0pGda0AAFgz6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083606036150383040",
+        "created_at": "2026-08-02T04:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083766032930611397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083766032930611397",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083606036150383040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 大学没毕业/没考上大学导致的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083606027069739008"
+          ]
+        },
+        "author_id": "1247054463329656832",
+        "conversation_id": "2083606036150383040",
+        "created_at": "2026-08-01T17:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083606036150383040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKXAqx3xie",
+              "end": 31,
+              "expanded_url": "https://x.com/quasarne/status/2083606036150383040/photo/1",
+              "media_key": "3_2083606027069739008",
+              "start": 8,
+              "url": "https://t.co/aKXAqx3xie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083606036150383040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 513,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大便局，来临力 https://t.co/aKXAqx3xie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 451,
+          "like_count": 18355,
+          "listed_count": 6,
+          "media_count": 383,
+          "tweet_count": 4030
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "想留德…｜數碼/科幻/政治/语言学趣味 Wikier 绝望的商科牲｜🚩◼️🌹自意社｜éla 🏳️‍🌈gay/pan🏳️‍⚧️｜🌐漢(吴/普)/English｜社恐，但欢迎来聊天（真的）｜安人Alt @JunenKim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "JunenKim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/quasarne",
+                "end": 23,
+                "expanded_url": "https://t.me/quasarne",
+                "start": 0,
+                "url": "https://t.co/ljMe6nzCHP"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2078116801129410562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077557118744530944/DVZyIeFB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 1147,
+          "like_count": 85892,
+          "listed_count": 6,
+          "media_count": 1551,
+          "tweet_count": 19509
+        },
+        "url": "https://t.co/ljMe6nzCHP",
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

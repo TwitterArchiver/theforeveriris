@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2058955607143850358",
+    "created_at": "2026-05-25T17:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058966361343455255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        },
+        {
+          "end": 24,
+          "id": "1878681729407356928",
+          "start": 12,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 37,
+          "id": "1585145286598483968",
+          "start": 25,
+          "username": "lianyiganyu"
+        },
+        {
+          "end": 51,
+          "id": "1300828282061877249",
+          "start": 38,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058966361343455255",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058955607143850358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen @HYuusui1999 @lianyiganyu @HANLIANYI331 虽然这神人经常假死炒作，万一这次假戏真做了呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2058955584372875264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLhMfbaIAApicP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2058955584351916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLhMfWaUAAz59x.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2058955607143850358",
+        "created_at": "2026-05-25T17:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058966361343455255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            },
+            {
+              "end": 24,
+              "id": "1878681729407356928",
+              "start": 12,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 37,
+              "id": "1585145286598483968",
+              "start": 25,
+              "username": "lianyiganyu"
+            },
+            {
+              "end": 51,
+              "id": "1300828282061877249",
+              "start": 38,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058966361343455255",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058955607143850358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen @HYuusui1999 @lianyiganyu @HANLIANYI331 虽然这神人经常假死炒作，万一这次假戏真做了呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058955584372875264",
+            "3_2058955584351916032"
+          ]
+        },
+        "author_id": "2054877291633909760",
+        "conversation_id": "2058955607143850358",
+        "created_at": "2026-05-25T16:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058955607143850358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DM1RiFVcS3",
+              "end": 34,
+              "expanded_url": "https://x.com/TransYuwen/status/2058955607143850358/photo/1",
+              "media_key": "3_2058955584372875264",
+              "start": 11,
+              "url": "https://t.co/DM1RiFVcS3"
+            },
+            {
+              "display_url": "pic.x.com/DM1RiFVcS3",
+              "end": 34,
+              "expanded_url": "https://x.com/TransYuwen/status/2058955607143850358/photo/1",
+              "media_key": "3_2058955584351916032",
+              "start": 11,
+              "url": "https://t.co/DM1RiFVcS3"
+            },
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2058950147560944083",
+              "start": 35,
+              "url": "https://t.co/x7b8J3p7VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058955607143850358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058950147560944083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在劫难逃了，这回有点 https://t.co/DM1RiFVcS3 https://t.co/x7b8J3p7VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 463,
+          "like_count": 14754,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 3540
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "XYN.LGBT",
+                "end": 23,
+                "expanded_url": "http://XYN.LGBT",
+                "start": 0,
+                "url": "https://t.co/fsTcNszBIX"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2058950147560944083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 42,
+          "like_count": 218,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/fsTcNszBIX",
+        "username": "TransYuwen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 3278,
+          "like_count": 44935,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11703
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3748,
+          "following_count": 6,
+          "like_count": 37,
+          "listed_count": 7,
+          "media_count": 38,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41677,
+          "following_count": 3770,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2887
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

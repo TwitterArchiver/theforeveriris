@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1980157405666353381",
+    "created_at": "2025-10-20T09:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T10:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980201477122777113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1980201477122777113",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980157405666353381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 给看黄楠全引过来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_1980157396908478464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ruqUIXkAA-1I9.jpg",
+        "width": 888
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1980157405666353381",
+        "created_at": "2025-10-20T09:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980201477122777113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1980201477122777113",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980157405666353381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 给看黄楠全引过来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980157396908478464"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1980157405666353381",
+        "created_at": "2025-10-20T06:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980157405666353381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/huUxFGWykI",
+              "end": 31,
+              "expanded_url": "https://x.com/s1nyvu/status/1980157405666353381/photo/1",
+              "media_key": "3_1980157396908478464",
+              "start": 8,
+              "url": "https://t.co/huUxFGWykI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980157405666353381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这个是谁（ https://t.co/huUxFGWykI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 367,
+          "like_count": 6015,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2292
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "跨➗一枚|07|自高三辍学离家出走无业穷困一年余|enfj|文艺氰年，除了写文写歌词啥也不会|饥寒交迫求投喂喵|khn健全b乐子人勿扰",
+        "id": "1617523246144053251",
+        "location": "去时花满枝垂地，归来雨满襟",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1960624262114660464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 52,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1509
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

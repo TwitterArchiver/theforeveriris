@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2044259604218163436",
+    "created_at": "2026-05-20T09:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057032946041962741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2797632889",
+          "start": 0,
+          "username": "gundam_cherudim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057032946041962741",
+    "in_reply_to_user_id": "2797632889",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044259604218163436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gundam_cherudim yeah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2044259604218163436",
+        "created_at": "2026-05-20T09:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057032946041962741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2797632889",
+              "start": 0,
+              "username": "gundam_cherudim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057032946041962741",
+        "in_reply_to_user_id": "2797632889",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044259604218163436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gundam_cherudim yeah"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2797632889",
+        "conversation_id": "2044259604218163436",
+        "created_at": "2026-04-15T03:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044259604218163436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044259604218163436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 734,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我再说一遍，LGBT在中国被打压，不是因为你和境外势力切割得不够干净。\n而是因为把你和境外势力联系起来，就可以把政府的打压意图隐藏在民意的背后，从而让政府在外交和历史上规避歧视迫害的指控。\n而之所以要打压你，仅仅是因为你是一种可以不依赖官方叙事，从而不能完全掌控的身份认同。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 478,
+          "like_count": 14407,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 3505
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T09:45:09.000Z",
+        "description": "Senior SDE, SRS post-op Feminist, anti-Communism, technolibertarianism, Slava Ukraini, pro-Israel, Zionist",
+        "id": "2797632889",
+        "location": "The Matrix",
+        "name": "Just a programmer 🏳️‍🌈🏳️‍⚧️🇺🇦🇮🇱✡️👩‍💻",
+        "pinned_tweet_id": "2044259604218163436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613557249930330114/nKMAuZ2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 887,
+          "like_count": 7350,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 5097
+        },
+        "username": "gundam_cherudim",
+        "verified": false
+      }
+    ]
+  }
+}

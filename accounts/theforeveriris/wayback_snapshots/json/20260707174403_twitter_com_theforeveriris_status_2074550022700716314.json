@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074304575700615284",
+    "created_at": "2026-07-07T17:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074550022700716314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1596695231717871616",
+          "start": 0,
+          "username": "dontbesilent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074550022700716314",
+    "in_reply_to_user_id": "1596695231717871616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074304575700615284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontbesilent 国内营销号/媒体其实提到过 loop ，但是翻译为“自动化”或者“工作流”了。国内一些厂商的桌面端产品也加入了相关功能。harness 我不大清楚，自己也没怎么实际操作过，好像梁文峰招聘提及过（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074304575700615284",
+        "created_at": "2026-07-07T17:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074550022700716314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596695231717871616",
+              "start": 0,
+              "username": "dontbesilent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074550022700716314",
+        "in_reply_to_user_id": "1596695231717871616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074304575700615284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontbesilent 国内营销号/媒体其实提到过 loop ，但是翻译为“自动化”或者“工作流”了。国内一些厂商的桌面端产品也加入了相关功能。harness 我不大清楚，自己也没怎么实际操作过，好像梁文峰招聘提及过（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596695231717871616",
+        "conversation_id": "2074304575700615284",
+        "created_at": "2026-07-07T01:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074304575700615284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074304575700615284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 83996,
+          "like_count": 221,
+          "quote_count": 4,
+          "reply_count": 73,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我之前说 skills 就是从推特传往国内社交媒体的最后一个 Agent 概念\n\n现在含金量还在上升😂\n\nharness、loop 完全传不过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 446,
+          "like_count": 17074,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 3804
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T02:39:52.000Z",
+        "description": "💡 商业哲学爱好者\n💻 开源了我的商业/内容方法论：dbskill\n📱 抖音/小红书/视频号：dontbesilent 聊赚钱\n🎟️ 7.31 上海线下课：微信 dbs2408",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/tpvq1fYuG6s/",
+                "end": 23,
+                "expanded_url": "https://v.douyin.com/tpvq1fYuG6s/",
+                "start": 0,
+                "url": "https://t.co/bWQO8Ru6nw"
+              }
+            ]
+          }
+        },
+        "id": "1596695231717871616",
+        "name": "dontbesilent",
+        "pinned_tweet_id": "2035385816013480042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82324,
+          "following_count": 1283,
+          "like_count": 11603,
+          "listed_count": 811,
+          "media_count": 1865,
+          "tweet_count": 16105
+        },
+        "url": "https://t.co/bWQO8Ru6nw",
+        "username": "dontbesilent",
+        "verified": true
+      }
+    ]
+  }
+}

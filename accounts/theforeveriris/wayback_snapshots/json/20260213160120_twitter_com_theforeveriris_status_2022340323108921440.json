@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2022092063140192402",
+    "created_at": "2026-02-13T16:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022340323108921440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1266508916420157440",
+          "start": 0,
+          "username": "lansarmisio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022340323108921440",
+    "in_reply_to_user_id": "1266508916420157440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022092063140192402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lansarmisio 天國"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1291,
+        "media_key": "3_2022092060103192576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_qA-GWsAALciN.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2022092063140192402",
+        "created_at": "2026-02-13T16:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022340323108921440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1266508916420157440",
+              "start": 0,
+              "username": "lansarmisio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022340323108921440",
+        "in_reply_to_user_id": "1266508916420157440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022092063140192402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lansarmisio 天國"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022092060103192576"
+          ]
+        },
+        "author_id": "1266508916420157440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1324765060074401793",
+              "name": "Carnaval Brasil 2021"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Carnaval Brasil all year ",
+              "id": "1347162571434979339",
+              "name": "Carnaval Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1324765060074401793",
+              "name": "Carnaval Brasil 2021"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Carnaval Brasil all year ",
+              "id": "1347162571434979339",
+              "name": "Carnaval Brasil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395094481389584385",
+              "name": "Carnaval"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022092063140192402",
+        "created_at": "2026-02-12T23:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022092063140192402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "carnaval",
+              "probability": 0.7234,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZECeLxFot",
+              "end": 72,
+              "expanded_url": "https://x.com/lansarmisio/status/2022092063140192402/photo/1",
+              "media_key": "3_2022092060103192576",
+              "start": 49,
+              "url": "https://t.co/AZECeLxFot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022092063140192402",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2163,
+          "impression_count": 955985,
+          "like_count": 14090,
+          "quote_count": 367,
+          "reply_count": 319,
+          "retweet_count": 1232
+        },
+        "reply_settings": "everyone",
+        "text": "preparando meus sacolés pra vender no carnaval 💡 https://t.co/AZECeLxFot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 422,
+          "like_count": 10824,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 2780
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T23:17:30.000Z",
+        "description": "#resenhatwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "resenhatwt"
+              }
+            ]
+          }
+        },
+        "id": "1266508916420157440",
+        "name": "lansamisio da silva",
+        "pinned_tweet_id": "1978619920108683749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020548544575266817/hWa-OPNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 231,
+          "like_count": 21877,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 7130
+        },
+        "username": "lansarmisio",
+        "verified": false
+      }
+    ]
+  }
+}

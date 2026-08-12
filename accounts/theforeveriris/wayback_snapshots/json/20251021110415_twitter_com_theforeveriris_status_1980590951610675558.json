@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040695083",
+          "name": "Amazon Web Services (AWS)"
+        }
+      }
+    ],
+    "conversation_id": "1980234977708220855",
+    "created_at": "2025-10-21T11:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T12:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980590951610675558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1466141467274010633",
+          "start": 0,
+          "username": "cyanvtb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980590951610675558",
+    "in_reply_to_user_id": "1466141467274010633",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980234977708220855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyanvtb Relax, aws will solve all of the problems. Paying users for vouchers is a genius idea, isn't it?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1980234977708220855",
+        "created_at": "2025-10-21T11:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980590951610675558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1466141467274010633",
+              "start": 0,
+              "username": "cyanvtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980590951610675558",
+        "in_reply_to_user_id": "1466141467274010633",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980234977708220855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyanvtb Relax, aws will solve all of the problems. Paying users for vouchers is a genius idea, isn't it?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466141467274010633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "1980234977708220855",
+        "created_at": "2025-10-20T11:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980234977708220855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sandislonjsak/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/sandislonjsak/status/1980194559515869431",
+              "start": 108,
+              "url": "https://t.co/MEEPNxPgK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980234977708220855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 84774,
+          "like_count": 263,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980194559515869431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是我入职AWS的第一天\n\n发现DynamoDB集群实现有一个小bug，于是聪明的我很快就提交了bugfix\n\n顺手push到了prod测试一下\n\n哎，离下班还有半小时，买杯咖啡回来再看看能不能用吧(´･ω･`) https://t.co/MEEPNxPgK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 372,
+          "like_count": 6032,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2301
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T20:25:55.000Z",
+        "description": "✧ 在人间迷路的小小黑客猫娘 ✧ 好像是YouTube简中订阅第一VTuber ✧ 女孩子，百合已订婚 @linaasahi ✧ 前谷歌工程师，偶尔是画师/唱见 英语EN @cyannyan6 ʚ 永远不毕业 ɞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "linaasahi"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "cyannyan6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan.yt/magic",
+                "end": 23,
+                "expanded_url": "http://cyan.yt/magic",
+                "start": 0,
+                "url": "https://t.co/KZ2gCJbjrg"
+              }
+            ]
+          }
+        },
+        "id": "1466141467274010633",
+        "location": "Tokyo-to, Japan",
+        "name": "Cyan是小盐🧂✨ / 3D婚礼准备中",
+        "pinned_tweet_id": "1977237553192616183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936417185808719872/PR6k56Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6591,
+          "following_count": 891,
+          "like_count": 11138,
+          "listed_count": 24,
+          "media_count": 554,
+          "tweet_count": 5065
+        },
+        "url": "https://t.co/KZ2gCJbjrg",
+        "username": "cyanvtb",
+        "verified": false
+      }
+    ]
+  }
+}

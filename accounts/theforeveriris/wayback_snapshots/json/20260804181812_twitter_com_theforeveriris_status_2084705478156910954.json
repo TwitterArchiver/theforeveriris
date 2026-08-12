@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084705478156910954",
+    "created_at": "2026-08-04T18:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084705478156910954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3590790956P/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/3590790956P/status/2084640345527378165",
+          "start": 21,
+          "url": "https://t.co/89DZnVa8KD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084705478156910954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084640345527378165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来还想骂两句的，看这人主页给我看力竭了 https://t.co/89DZnVa8KD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084705478156910954",
+        "created_at": "2026-08-04T18:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084705478156910954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3590790956P/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/3590790956P/status/2084640345527378165",
+              "start": 21,
+              "url": "https://t.co/89DZnVa8KD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084705478156910954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084640345527378165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来还想骂两句的，看这人主页给我看力竭了 https://t.co/89DZnVa8KD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955298562734264320",
+        "conversation_id": "2084640345527378165",
+        "created_at": "2026-08-04T13:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084640345527378165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084640345527378165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9657,
+          "like_count": 56,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的男的穿女装是死全家了吧，你妈个逼的恶不恶心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 459,
+          "like_count": 18806,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 4134
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:01:34.000Z",
+        "description": "懵逼中",
+        "id": "1955298562734264320",
+        "name": "peeeo",
+        "pinned_tweet_id": "2084663750406390260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968338591266091008/vQ9U_eJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001,
+          "following_count": 21,
+          "like_count": 299,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "3590790956P",
+        "verified": false
+      }
+    ]
+  }
+}

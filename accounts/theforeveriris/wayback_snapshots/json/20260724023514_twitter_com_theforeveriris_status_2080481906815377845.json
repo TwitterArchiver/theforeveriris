@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2080368752475202005",
+    "created_at": "2026-07-24T02:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080481906815377845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080481906815377845",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080368752475202005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunJiu 我说：一把精准采集镐子，一把时运镐子，一把无限三发弓，一支箭，一把末影弓，若干船，一把锋利火焰附加剑，工作台和熔炉（？和我的旅行背包说去吧），一张装着女仆的魂符，传送石，吸血权杖，月光蠕虫女王，若干附魔金苹果或永恒烈焰牛排，若干夜视药水有人懂吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2080368746817073152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN70WlvbMAAkHdS.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2080368752475202005",
+        "created_at": "2026-07-24T02:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080481906815377845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080481906815377845",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080368752475202005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 我说：一把精准采集镐子，一把时运镐子，一把无限三发弓，一支箭，一把末影弓，若干船，一把锋利火焰附加剑，工作台和熔炉（？和我的旅行背包说去吧），一张装着女仆的魂符，传送石，吸血权杖，月光蠕虫女王，若干附魔金苹果或永恒烈焰牛排，若干夜视药水有人懂吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080368746817073152"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2080368752475202005",
+        "created_at": "2026-07-23T19:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080368752475202005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvS3NLG49k",
+              "end": 89,
+              "expanded_url": "https://x.com/YunJiu/status/2080368752475202005/photo/1",
+              "media_key": "3_2080368746817073152",
+              "start": 66,
+              "url": "https://t.co/rvS3NLG49k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080368752475202005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4589,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一把精准采集镐子，一把时运镐子，一把弓，3组箭，一把锋利剑，一桶岩浆，一桶水，一个工作台，一个熔炉，一组金胡萝卜，一组原木，一组炭 https://t.co/rvS3NLG49k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 454,
+          "like_count": 18111,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 3989
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106391,
+          "following_count": 817,
+          "like_count": 37569,
+          "listed_count": 297,
+          "media_count": 20320,
+          "tweet_count": 28926
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

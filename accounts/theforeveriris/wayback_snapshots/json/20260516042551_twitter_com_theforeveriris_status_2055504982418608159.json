@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2055215942964277400",
+    "created_at": "2026-05-16T04:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055504982418608159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055504982418608159",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055215942964277400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 我不反感文件路径上用连字符，文件名里面用就不好说了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 284,
+        "media_key": "3_2055215931068907520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWYABQWAAAs8Qi.png",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2055215942964277400",
+        "created_at": "2026-05-16T04:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055504982418608159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055504982418608159",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055215942964277400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 我不反感文件路径上用连字符，文件名里面用就不好说了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055215931068907520"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "conversation_id": "2055215942964277400",
+        "created_at": "2026-05-15T09:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055215942964277400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B9ZLqJiZWv",
+              "end": 43,
+              "expanded_url": "https://x.com/luoling8192/status/2055215942964277400/photo/1",
+              "media_key": "3_2055215931068907520",
+              "start": 20,
+              "url": "https://t.co/B9ZLqJiZWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055215942964277400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2755,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么 AI 这么喜欢用连字符呢... https://t.co/B9ZLqJiZWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 453,
+          "like_count": 14043,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 3401
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "👩‍💻 数字游民 / 独立开发者 / 生活 & 技术分享 / 努力成为 Vibe code cleanup specialist 😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6078,
+          "following_count": 1040,
+          "like_count": 9731,
+          "listed_count": 45,
+          "media_count": 519,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

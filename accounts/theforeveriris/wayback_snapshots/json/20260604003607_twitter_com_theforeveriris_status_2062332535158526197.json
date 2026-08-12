@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062187234833600934",
+    "created_at": "2026-06-04T00:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062332535158526197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680105152",
+          "start": 0,
+          "username": "skaas777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062332535158526197",
+    "in_reply_to_user_id": "1680105152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062187234833600934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skaas777 claude kiro 是何意味，真就是 kiro 反代出来的吗？那和我自己用注册机注册一堆账号有什么区别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2062187010341969920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5cKPPboAAl4dw.jpg",
+        "width": 2288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062187234833600934",
+        "created_at": "2026-06-04T00:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062332535158526197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680105152",
+              "start": 0,
+              "username": "skaas777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062332535158526197",
+        "in_reply_to_user_id": "1680105152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062187234833600934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skaas777 claude kiro 是何意味，真就是 kiro 反代出来的吗？那和我自己用注册机注册一堆账号有什么区别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062187010341969920"
+          ]
+        },
+        "author_id": "1680105152",
+        "conversation_id": "2062187234833600934",
+        "created_at": "2026-06-03T14:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062187234833600934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aklTX1Ylps",
+              "end": 86,
+              "expanded_url": "https://x.com/skaas777/status/2062187234833600934/photo/1",
+              "media_key": "3_2062187010341969920",
+              "start": 63,
+              "url": "https://t.co/aklTX1Ylps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062187234833600934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 11623,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新站开业第 2 天，今天 3 个人用了124M，还蛮不错的。\n\n这几天codex 0.1折，claude kiro 0.3折 https://t.co/aklTX1Ylps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 459,
+          "like_count": 16156,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 3639
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-18T07:24:14.000Z",
+        "description": "一人+AI做项目，持续公开从0到1全过程。\n专注：AI工具链、内容增长、自动化工作流、变现实验。\n只讲实战，不讲空话。\n靠谱大模型中转：https://t.co/yK6HbfIdpn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dragoncode.codes/register?ref=T…",
+                "end": 91,
+                "expanded_url": "https://dragoncode.codes/register?ref=TN2L7BJ5",
+                "start": 68,
+                "url": "https://t.co/yK6HbfIdpn"
+              }
+            ]
+          }
+        },
+        "id": "1680105152",
+        "location": "Japan",
+        "name": "Jason Lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973376105307578369/TWS2NpAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5568,
+          "following_count": 945,
+          "like_count": 27014,
+          "listed_count": 41,
+          "media_count": 2599,
+          "tweet_count": 9628
+        },
+        "username": "skaas777",
+        "verified": true
+      }
+    ]
+  }
+}

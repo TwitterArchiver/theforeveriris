@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2079053745716158543",
+    "created_at": "2026-07-20T10:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079146697339617677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1846569929212039168",
+          "start": 0,
+          "username": "nunixkig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2079146071264268632",
+          "start": 13,
+          "url": "https://t.co/cOVaJlbhCK"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2079146697339617677",
+    "in_reply_to_user_id": "1846569929212039168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079146071264268632",
+        "type": "quoted"
+      },
+      {
+        "id": "2079053745716158543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nunixkig 这个 https://t.co/cOVaJlbhCK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2079146059872550912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqcU17bQAASjeX.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2079053745716158543",
+        "created_at": "2026-07-20T10:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079146697339617677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1846569929212039168",
+              "start": 0,
+              "username": "nunixkig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2079146071264268632",
+              "start": 13,
+              "url": "https://t.co/cOVaJlbhCK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2079146697339617677",
+        "in_reply_to_user_id": "1846569929212039168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079146071264268632",
+            "type": "quoted"
+          },
+          {
+            "id": "2079053745716158543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nunixkig 这个 https://t.co/cOVaJlbhCK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079146059872550912"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2078874851146940706",
+        "created_at": "2026-07-20T10:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079146071264268632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1210210728751194112",
+              "start": 0,
+              "username": "Ly60kLiUsUYMR6u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ete1zTIK0l",
+              "end": 119,
+              "expanded_url": "https://x.com/theforeveriris/status/2079146071264268632/photo/1",
+              "media_key": "3_2079146059872550912",
+              "start": 96,
+              "url": "https://t.co/ete1zTIK0l"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2079146071264268632",
+        "in_reply_to_user_id": "1210210728751194112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078874851146940706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ly60kLiUsUYMR6u 可以选我正在用的 https://139.196.88.79:8008/#/register?code=uda1Du3V，质量非常高喵，一个月21三个月39 https://t.co/ete1zTIK0l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846569929212039168",
+        "conversation_id": "2079053745716158543",
+        "created_at": "2026-07-20T04:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079053745716158543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079053745716158543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的梯子最近真不顺畅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 457,
+          "like_count": 17941,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 3982
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T15:12:52.000Z",
+        "description": "人生碎纸机",
+        "id": "1846569929212039168",
+        "name": "猫猫曲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987837648862613504/YlK61pF2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 339,
+          "like_count": 4360,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "nunixkig",
+        "verified": false
+      }
+    ]
+  }
+}

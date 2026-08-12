@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027079675793543355",
+    "created_at": "2026-02-27T05:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027249181233205270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1589868971980779520",
+          "start": 0,
+          "username": "_0x1cb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027249181233205270",
+    "in_reply_to_user_id": "1589868971980779520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027079675793543355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_0x1cb 广阔天地大有作为"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2027079673012719616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGiOQFWkAAARc2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027079675793543355",
+        "created_at": "2026-02-27T05:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027249181233205270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1589868971980779520",
+              "start": 0,
+              "username": "_0x1cb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027249181233205270",
+        "in_reply_to_user_id": "1589868971980779520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027079675793543355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_0x1cb 广阔天地大有作为"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027079673012719616"
+          ]
+        },
+        "author_id": "1589868971980779520",
+        "conversation_id": "2027079675793543355",
+        "created_at": "2026-02-26T17:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027079675793543355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcE13fqQIn",
+              "end": 164,
+              "expanded_url": "https://x.com/_0x1cb/status/2027079675793543355/photo/1",
+              "media_key": "3_2027079673012719616",
+              "start": 141,
+              "url": "https://t.co/BcE13fqQIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027079675793543355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 980,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老是听到一些自称是网安专业的学生抱怨网安有多难，在我眼里全是借口。\n我并不觉得网安有多难，可以花最多三个月的时间搞懂全部计算机组成原理，再花两个月了解哪个漏洞该做哪种利用。其实几乎一年都用不到就能学会如何挖一个洞，况且现在科技发达，网安工具先进，只是很多人觉得难，所以就轻易放弃。 https://t.co/BcE13fqQIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 437,
+          "like_count": 11481,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2945
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T06:34:40.000Z",
+        "description": "Un regal serto sul crin posarti, ergerti un trono vicino al sol.",
+        "id": "1589868971980779520",
+        "name": "laRomora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891143005291057152/LgS-EifW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 211,
+          "like_count": 2724,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 476
+        },
+        "username": "_0x1cb",
+        "verified": false
+      }
+    ]
+  }
+}

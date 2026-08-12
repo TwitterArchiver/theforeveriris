@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064917569459638272"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2064734335446745579",
+    "created_at": "2026-06-11T03:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064917587310588042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ULFpfHEKB5",
+          "end": 118,
+          "expanded_url": "https://x.com/theforeveriris/status/2064917587310588042/photo/1",
+          "media_key": "3_2064917569459638272",
+          "start": 95,
+          "url": "https://t.co/ULFpfHEKB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064917587310588042",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064734335446745579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 我以前也用的这个不过褒姒了（）后来用的 breezy 但是在它的新版加了很多难绷 Android 原生风格小组件就没怎么用了（主要是加载卡顿以及和上面的组件风格不统一） https://t.co/ULFpfHEKB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064917569459638272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgPlsoa0AApQCI.jpg",
+        "width": 1016
+      },
+      {
+        "height": 2554,
+        "media_key": "3_2064734332267421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdo745aYAAKnTY.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064917569459638272"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2064734335446745579",
+        "created_at": "2026-06-11T03:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064917587310588042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULFpfHEKB5",
+              "end": 118,
+              "expanded_url": "https://x.com/theforeveriris/status/2064917587310588042/photo/1",
+              "media_key": "3_2064917569459638272",
+              "start": 95,
+              "url": "https://t.co/ULFpfHEKB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064917587310588042",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064734335446745579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我以前也用的这个不过褒姒了（）后来用的 breezy 但是在它的新版加了很多难绷 Android 原生风格小组件就没怎么用了（主要是加载卡顿以及和上面的组件风格不统一） https://t.co/ULFpfHEKB5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064734332267421696"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064734335446745579",
+        "created_at": "2026-06-10T15:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064734335446745579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nx5jDkGZF7",
+              "end": 92,
+              "expanded_url": "https://x.com/hsn8086k/status/2064734335446745579/photo/1",
+              "media_key": "3_2064734332267421696",
+              "start": 69,
+              "url": "https://t.co/nx5jDkGZF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064734335446745579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 899,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几何天气, 很喜欢的一个开源天气预报.\n不过之前似了, 这软件也四年没更新了, 用ai增加了openmeteo作为数据来源, 成功复活! https://t.co/nx5jDkGZF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 459,
+          "like_count": 16649,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3698
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 234,
+          "like_count": 9155,
+          "listed_count": 9,
+          "media_count": 208,
+          "tweet_count": 2232
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

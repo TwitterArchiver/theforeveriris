@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1978330282093633537"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978330312296767868",
+    "created_at": "2025-10-15T05:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978330312296767868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MkUDe28ZLu",
+          "end": 35,
+          "expanded_url": "https://x.com/theforeveriris/status/1978330312296767868/photo/1",
+          "media_key": "16_1978330282093633537",
+          "start": 12,
+          "url": "https://t.co/MkUDe28ZLu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978330312296767868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "该账号已被长夜月占领📍 https://t.co/MkUDe28ZLu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978330312296767868].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978330312296767868",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978330312296767868"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "16_1978330282093633537",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3Rw6PCW4AEcgEK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3Rw6PCW4AEcgEK.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 356,
+          "like_count": 5933,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2198
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

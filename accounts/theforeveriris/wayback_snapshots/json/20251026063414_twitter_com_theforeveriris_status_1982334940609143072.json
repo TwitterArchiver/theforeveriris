@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1981977814841827570",
+    "created_at": "2025-10-26T06:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982334940609143072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        },
+        {
+          "end": 21,
+          "id": "1659866844550037504",
+          "start": 8,
+          "username": "AvagueFuture"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1982334940609143072",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982333690228478437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu @AvagueFuture 神中神"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982333690228478437].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982333690228478437",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982333690228478437"
+    }
+  ],
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1981977814841827570",
+        "created_at": "2025-10-26T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982334940609143072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            },
+            {
+              "end": 21,
+              "id": "1659866844550037504",
+              "start": 8,
+              "username": "AvagueFuture"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1982334940609143072",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982333690228478437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu @AvagueFuture 神中神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 369,
+          "like_count": 6050,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2306
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "跨➗一枚|07|自高三辍学离家出走无业穷困一年余|enfj|文艺氰年，除了写文写歌词啥也不会|饥寒交迫求投喂喵|khn健全b乐子人勿扰",
+        "id": "1617523246144053251",
+        "location": "去时花满枝垂地，归来雨满襟",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1960624262114660464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 52,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1541
+        },
+        "username": "s1nyvu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T10:21:28.000Z",
+        "description": "08年/大只yn/177cm/63kg/INFJ-T/🏳️‍⚧️MtF/2023.4炸柜/无证含糖/断断续续HRT/现实解体/焦虑/社恐/不键政/术力口/舞萌/WT/闺蜜@123nhh_awa/想和大家做朋友👉👈/可以叫我鱼鱼🫠/同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "123nhh_awa"
+              }
+            ]
+          }
+        },
+        "id": "1659866844550037504",
+        "location": "河南",
+        "name": "鱼叉✘🍥",
+        "pinned_tweet_id": "1944796849468240235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879522192951795712/sJgJFpwx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 282,
+          "like_count": 1718,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 641
+        },
+        "username": "AvagueFuture",
+        "verified": false
+      }
+    ]
+  }
+}

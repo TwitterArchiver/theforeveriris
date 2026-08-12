@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2049026816959287593",
+    "created_at": "2026-04-28T08:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049046918320542049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "136473839",
+          "start": 0,
+          "username": "MrGafish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049046918320542049",
+    "in_reply_to_user_id": "136473839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049026816959287593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrGafish 你不说我还以为是 4 月 1 日发的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2049026797409611776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-bBBrbMAAuAk3.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2049026816959287593",
+        "created_at": "2026-04-28T08:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049046918320542049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "136473839",
+              "start": 0,
+              "username": "MrGafish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049046918320542049",
+        "in_reply_to_user_id": "136473839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049026816959287593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrGafish 你不说我还以为是 4 月 1 日发的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049026797409611776"
+          ]
+        },
+        "author_id": "136473839",
+        "conversation_id": "2049026816959287593",
+        "created_at": "2026-04-28T07:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049026816959287593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1LUBclVVnN",
+              "end": 43,
+              "expanded_url": "https://x.com/MrGafish/status/2049026816959287593/photo/1",
+              "media_key": "3_2049026797409611776",
+              "start": 20,
+              "url": "https://t.co/1LUBclVVnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049026816959287593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 24273,
+          "like_count": 65,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "5月1日起\n商业短信\n未经同意不得发送 https://t.co/1LUBclVVnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 451,
+          "like_count": 13693,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 3242
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-24T01:51:43.000Z",
+        "description": "🧑‍💻 开发者 Gafish(鱼哥)，前互联网大厂程序员\n转型自媒体｜副业搞钱 ｜ 港卡开户 ｜ giffgaff ｜中年人的日常",
+        "id": "136473839",
+        "name": "Mr Gafish",
+        "pinned_tweet_id": "2009650657763139998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888247810040152064/mwSBtOtn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16281,
+          "following_count": 2899,
+          "like_count": 8619,
+          "listed_count": 81,
+          "media_count": 642,
+          "tweet_count": 12979
+        },
+        "username": "MrGafish",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2054270174153581040",
+    "created_at": "2026-05-12T21:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T22:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054319474891964624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "MiruJam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054319474891964624",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054270174153581040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiruJam 不赖"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29442,
+        "height": 1280,
+        "media_key": "7_2054270150623498240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054270150623498240/pu/img/AYq84PtiuzGqWOYj.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054270150623498240/pu/vid/avc1/320x706/W8Zm6_MY2AoUZolA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054270150623498240/pu/vid/avc1/480x1058/r1W6TeN3WXzkgEzQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054270150623498240/pu/vid/avc1/580x1280/42Gavwv741oOwZ-o.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054270150623498240/pu/pl/-hpvyGT8mdGCsgHl.m3u8?tag=12"
+          }
+        ],
+        "width": 580
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054270151433084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HII70ZjbYAAzl0W.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2054270174153581040",
+        "created_at": "2026-05-12T21:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T22:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054319474891964624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "MiruJam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054319474891964624",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054270174153581040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiruJam 不赖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054270150623498240",
+            "3_2054270151433084928"
+          ]
+        },
+        "author_id": "829158936695623680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2054270174153581040",
+        "created_at": "2026-05-12T18:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054270174153581040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrJha9f05t",
+              "end": 77,
+              "expanded_url": "https://x.com/MiruJam/status/2054270174153581040/video/1",
+              "media_key": "7_2054270150623498240",
+              "start": 54,
+              "url": "https://t.co/NrJha9f05t"
+            },
+            {
+              "display_url": "pic.x.com/NrJha9f05t",
+              "end": 77,
+              "expanded_url": "https://x.com/MiruJam/status/2054270174153581040/video/1",
+              "media_key": "3_2054270151433084928",
+              "start": 54,
+              "url": "https://t.co/NrJha9f05t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054270174153581040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开个新项目，为了毕业考复习 🥰\n\n提取学习通题库，以及刷题测试，明天应该能在 GitHub 上开源放出来~ https://t.co/NrJha9f05t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 449,
+          "like_count": 14018,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3389
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果奶酱🍭丨Mirurin丨弱 ACG丨社恐丨是水月厨！🪼丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 515,
+          "like_count": 45437,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 2619
+        },
+        "username": "MiruJam",
+        "verified": false
+      }
+    ]
+  }
+}

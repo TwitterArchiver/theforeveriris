@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "College students",
+          "id": "847545943922692096",
+          "name": "College students"
+        }
+      }
+    ],
+    "conversation_id": "1977664602147262947",
+    "created_at": "2025-10-15T14:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T15:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978466258631999569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "213267726",
+          "start": 0,
+          "username": "cholf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978466258631999569",
+    "in_reply_to_user_id": "213267726",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977664602147262947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cholf5 It's quite ordinary, if this is a newly graduated college student, then I think it's okay. However, he is not."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3660,
+        "media_key": "3_1977664375273279488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ITRW0b0AA2NmG.jpg",
+        "width": 2012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "College students",
+              "id": "847545943922692096",
+              "name": "College students"
+            }
+          }
+        ],
+        "conversation_id": "1977664602147262947",
+        "created_at": "2025-10-15T14:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978466258631999569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "213267726",
+              "start": 0,
+              "username": "cholf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978466258631999569",
+        "in_reply_to_user_id": "213267726",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977664602147262947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cholf5 It's quite ordinary, if this is a newly graduated college student, then I think it's okay. However, he is not."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977664375273279488"
+          ]
+        },
+        "author_id": "213267726",
+        "conversation_id": "1977664602147262947",
+        "created_at": "2025-10-13T09:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977664602147262947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UWO0iBHTU9",
+              "end": 53,
+              "expanded_url": "https://x.com/cholf5/status/1977664602147262947/photo/1",
+              "media_key": "3_1977664375273279488",
+              "start": 30,
+              "url": "https://t.co/UWO0iBHTU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977664602147262947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 113519,
+          "like_count": 42,
+          "quote_count": 13,
+          "reply_count": 79,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "奇文共欣赏，看看我司一个工作了20年的程序员写出来的代码。 https://t.co/UWO0iBHTU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 358,
+          "like_count": 5969,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2235
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-08T13:09:13.000Z",
+        "description": "15yrs Game Dev • Backend Lead;\nUnity • .NET • C# • Skynet;\nYouTuber • FIRE Journey;\nVibe in public.\n\n强随机密码生成器：https://t.co/iIUZ8nc4QE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "PasswordGenerators.net",
+                "end": 133,
+                "expanded_url": "https://PasswordGenerators.net",
+                "start": 110,
+                "url": "https://t.co/iIUZ8nc4QE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cholf5.com",
+                "end": 23,
+                "expanded_url": "https://cholf5.com",
+                "start": 0,
+                "url": "https://t.co/RHRv7W6qfe"
+              }
+            ]
+          }
+        },
+        "id": "213267726",
+        "location": "Shanghai",
+        "name": "周尔复",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939365652604588032/NT6NrQSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7663,
+          "following_count": 623,
+          "like_count": 22013,
+          "listed_count": 59,
+          "media_count": 1964,
+          "tweet_count": 9007
+        },
+        "url": "https://t.co/RHRv7W6qfe",
+        "username": "cholf5",
+        "verified": false
+      }
+    ]
+  }
+}

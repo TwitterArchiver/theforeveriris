@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978961237804224609",
+    "created_at": "2025-10-17T02:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T03:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979013269130977702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 33,
+          "expanded_url": "https://x.com/theforeveriris/status/1979012972895752365?t=Ad4WjBH15B5Pza7PjHZzVg&s=19",
+          "start": 10,
+          "url": "https://t.co/gGdzex4Bz5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979013269130977702",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979012972895752365",
+        "type": "quoted"
+      },
+      {
+        "id": "1978961237804224609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup https://t.co/gGdzex4Bz5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_1978961234704621568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3auwgrWYAAyoRo.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978961237804224609",
+        "created_at": "2025-10-17T02:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T03:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979013269130977702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 33,
+              "expanded_url": "https://x.com/theforeveriris/status/1979012972895752365?t=Ad4WjBH15B5Pza7PjHZzVg&s=19",
+              "start": 10,
+              "url": "https://t.co/gGdzex4Bz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979013269130977702",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979012972895752365",
+            "type": "quoted"
+          },
+          {
+            "id": "1978961237804224609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup https://t.co/gGdzex4Bz5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978961237804224609",
+        "created_at": "2025-10-17T02:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T03:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979012972895752365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "_Camano_Diana_"
+            },
+            {
+              "end": 25,
+              "id": "1589809419822329857",
+              "start": 16,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979012972895752365",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978984995692712145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Camano_Diana_ @jianlvup 经典问题属于是了，用编码(瓶子编0000000001到1111101000，老鼠/试管编1到10)即可轻松完成\n不妨制定规则如下:\n- 瓶子编号末尾有1的混入1号试管，瓶子编号从右数几位有1就混入几号试管\n- m号试管由m号老鼠喝下去\n最后检验老鼠的死亡情况:第n只老鼠死亡=第n号试管存在毒药=毒药瓶子编号的倒数第n位有1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978961234704621568"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1978961237804224609",
+        "created_at": "2025-10-16T23:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T00:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978961237804224609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WcFUSbZawx",
+              "end": 31,
+              "expanded_url": "https://x.com/jianlvup/status/1978961237804224609/photo/1",
+              "media_key": "3_1978961234704621568",
+              "start": 8,
+              "url": "https://t.co/WcFUSbZawx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978961237804224609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1020,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这题目怎么解啊 https://t.co/WcFUSbZawx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 366,
+          "like_count": 6026,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2284
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1978603695958118496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10386,
+          "following_count": 1006,
+          "like_count": 49885,
+          "listed_count": 36,
+          "media_count": 1779,
+          "tweet_count": 4167
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

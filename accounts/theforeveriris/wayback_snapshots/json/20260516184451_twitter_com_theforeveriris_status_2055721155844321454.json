@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2055721155844321454",
+    "created_at": "2026-05-16T18:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055721155844321454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1840055966525726720",
+          "start": 3,
+          "username": "Jueshengshenlan"
+        },
+        {
+          "end": 32,
+          "id": "2019215643455913984",
+          "start": 21,
+          "username": "xufng68264"
+        },
+        {
+          "end": 48,
+          "id": "1604181895721504771",
+          "start": 33,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 64,
+          "id": "1811604757670137856",
+          "start": 49,
+          "username": "PinTuZhe_s_dad"
+        },
+        {
+          "end": 78,
+          "id": "1769078117052854272",
+          "start": 65,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055721155844321454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055705565956014181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jueshengshenlan: @xufng68264 @mengtunwudaimu @PinTuZhe_s_dad @huahuojiang_ 免费？\n哈哈哈，你恐怕不知道ai是干嘛用的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2055721155844321454",
+        "created_at": "2026-05-16T18:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055721155844321454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1840055966525726720",
+              "start": 3,
+              "username": "Jueshengshenlan"
+            },
+            {
+              "end": 32,
+              "id": "2019215643455913984",
+              "start": 21,
+              "username": "xufng68264"
+            },
+            {
+              "end": 48,
+              "id": "1604181895721504771",
+              "start": 33,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 64,
+              "id": "1811604757670137856",
+              "start": 49,
+              "username": "PinTuZhe_s_dad"
+            },
+            {
+              "end": 78,
+              "id": "1769078117052854272",
+              "start": 65,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055721155844321454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055705565956014181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jueshengshenlan: @xufng68264 @mengtunwudaimu @PinTuZhe_s_dad @huahuojiang_ 免费？\n哈哈哈，你恐怕不知道ai是干嘛用的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055966525726720",
+        "conversation_id": "2055670374743081044",
+        "created_at": "2026-05-16T17:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055705565956014181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019215643455913984",
+              "start": 0,
+              "username": "xufng68264"
+            },
+            {
+              "end": 27,
+              "id": "1604181895721504771",
+              "start": 12,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 43,
+              "id": "1811604757670137856",
+              "start": 28,
+              "username": "PinTuZhe_s_dad"
+            },
+            {
+              "end": 57,
+              "id": "1769078117052854272",
+              "start": 44,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055705565956014181",
+        "in_reply_to_user_id": "2019215643455913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055705115680805068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xufng68264 @mengtunwudaimu @PinTuZhe_s_dad @huahuojiang_ 免费？\n哈哈哈，你恐怕不知道ai是干嘛用的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 453,
+          "like_count": 14074,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 3411
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:48:30.000Z",
+        "description": "红色的旗帜，一定会在全球飘扬！",
+        "id": "1840055966525726720",
+        "name": "啊！链条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035913469111975936/xKiAiVSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 4600,
+          "like_count": 152974,
+          "listed_count": 85,
+          "media_count": 580,
+          "tweet_count": 10890
+        },
+        "username": "Jueshengshenlan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-05T01:05:08.000Z",
+        "description": "",
+        "id": "2019215643455913984",
+        "name": "雪风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019215750054191104/9qRS7K8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 65,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 331
+        },
+        "username": "xufng68264",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我们终将在没有黑暗的地方相会",
+        "id": "1604181895721504771",
+        "location": "IP属地：南京",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011343699327000576/ngvpFLui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14146,
+          "following_count": 3028,
+          "like_count": 29226,
+          "listed_count": 158,
+          "media_count": 2644,
+          "tweet_count": 16565
+        },
+        "username": "mengtunwudaimu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee的老木被5033个黑人大汉🗡️砂/狗与@careforme123禁止入内⛔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "careforme123"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "Australia",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2042410246405308624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049330262199439360/_ITvKxyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 868,
+          "like_count": 1403,
+          "listed_count": 6,
+          "media_count": 864,
+          "tweet_count": 5507
+        },
+        "username": "PinTuZhe_s_dad",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2039014033718993306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7063,
+          "following_count": 3596,
+          "like_count": 101100,
+          "listed_count": 16,
+          "media_count": 7753,
+          "tweet_count": 94959
+        },
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

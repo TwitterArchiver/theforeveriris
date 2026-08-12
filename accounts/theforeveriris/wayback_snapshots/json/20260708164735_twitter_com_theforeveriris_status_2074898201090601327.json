@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074784560793932042",
+    "created_at": "2026-07-08T16:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074898201090601327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074898201090601327",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074784560793932042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 字符串链接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2074784527839338496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsdiQ9XIAANQJ8.jpg",
+        "width": 645
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074784560793932042",
+        "created_at": "2026-07-08T16:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074898201090601327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074898201090601327",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784560793932042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 字符串链接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074784527839338496"
+          ]
+        },
+        "author_id": "1910893768498438146",
+        "conversation_id": "2074784560793932042",
+        "created_at": "2026-07-08T09:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074784560793932042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bwsNKuXOx",
+              "end": 119,
+              "expanded_url": "https://x.com/mengxin66666/status/2074784560793932042/photo/1",
+              "media_key": "3_2074784527839338496",
+              "start": 96,
+              "url": "https://t.co/7bwsNKuXOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074784560793932042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2892,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "防止刷𝕏久了变()😅\n那请你来看一下这个python代码\n\n假如我分别在\n变量a和b的input()中都输入1\n\n请问print输出的结果是什么？\n\nA.2\nB.11\n\nC.不知道\nD.其他 https://t.co/7bwsNKuXOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 445,
+          "like_count": 17133,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 3821
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "location": "Hong Kong",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2070680055592960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 254,
+          "like_count": 10467,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true
+      }
+    ]
+  }
+}

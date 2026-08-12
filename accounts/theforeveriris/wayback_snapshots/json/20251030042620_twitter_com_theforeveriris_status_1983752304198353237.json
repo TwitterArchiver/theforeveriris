@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1983752304198353237",
+    "created_at": "2025-10-30T04:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983752304198353237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LaurenceMister…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/LaurenceMister/status/1983009381370433983",
+          "start": 10,
+          "url": "https://t.co/CQvvTMbH67"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1983752304198353237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983009381370433983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Lmao.奇异幽默 https://t.co/CQvvTMbH67"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1983752304198353237",
+        "created_at": "2025-10-30T04:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983752304198353237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LaurenceMister…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/LaurenceMister/status/1983009381370433983",
+              "start": 10,
+              "url": "https://t.co/CQvvTMbH67"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1983752304198353237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983009381370433983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Lmao.奇异幽默 https://t.co/CQvvTMbH67"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1102512660",
+        "conversation_id": "1982785635229348094",
+        "created_at": "2025-10-28T03:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983009381370433983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "498054995",
+              "start": 0,
+              "username": "LongforBright"
+            },
+            {
+              "end": 24,
+              "id": "2899361162",
+              "start": 15,
+              "username": "juransir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983009381370433983",
+        "in_reply_to_user_id": "498054995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2207,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983002912130511037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongforBright @juransir 啊？难道你不知道微信隐私做的比其他国内社交产品强很多？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 373,
+          "like_count": 6030,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2315
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-19T01:56:07.000Z",
+        "description": "观察和记录｜互联网、经济、社会 说的不对，请各位批评🤗 我的YouTube：https://t.co/PT9XX0F0xV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@my_problem",
+                "end": 61,
+                "expanded_url": "https://youtube.com/@my_problem",
+                "start": 38,
+                "url": "https://t.co/PT9XX0F0xV"
+              }
+            ]
+          }
+        },
+        "id": "1102512660",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "𝐋𝐚𝐮𝐫𝐞𝐧𝐜𝐞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1036669720122941440/XbUypgHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16881,
+          "following_count": 2963,
+          "like_count": 11929,
+          "listed_count": 89,
+          "media_count": 1935,
+          "tweet_count": 24065
+        },
+        "username": "LaurenceMister",
+        "verified": true
+      }
+    ]
+  }
+}

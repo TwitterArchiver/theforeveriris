@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2058157552530329942",
+    "created_at": "2026-05-23T12:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058157552530329942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/smiroyama/status/2058133839537709061",
+          "start": 113,
+          "url": "https://t.co/4OABzUCTgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058157552530329942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058133839537709061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得就应该宣传文科生可以忽略业务逻辑、架构设计、技术栈选择、排错经验，凭借他们高超的文字功底就可以成为 AI 时代最大的赢家。\n----\n这样理科生就可以抛弃 vibe coding 拥抱 vibe marketing 了 https://t.co/4OABzUCTgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2058133828456312832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_10AFacAAst0d.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2058157552530329942",
+        "created_at": "2026-05-23T12:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058157552530329942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/smiroyama/status/2058133839537709061",
+              "start": 113,
+              "url": "https://t.co/4OABzUCTgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058157552530329942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058133839537709061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得就应该宣传文科生可以忽略业务逻辑、架构设计、技术栈选择、排错经验，凭借他们高超的文字功底就可以成为 AI 时代最大的赢家。\n----\n这样理科生就可以抛弃 vibe coding 拥抱 vibe marketing 了 https://t.co/4OABzUCTgK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058133828456312832"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2058133839537709061",
+        "created_at": "2026-05-23T10:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058133839537709061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AeAUiQF2T",
+              "end": 53,
+              "expanded_url": "https://x.com/smiroyama/status/2058133839537709061/photo/1",
+              "media_key": "3_2058133828456312832",
+              "start": 30,
+              "url": "https://t.co/9AeAUiQF2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058133839537709061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5416,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉理科的vibe writing真的是对文科生的降维打击 https://t.co/9AeAUiQF2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 464,
+          "like_count": 14556,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 3520
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\nDeveloping https://t.co/pJ9VtduSxe 🍥\nbestie: @qianxunchan\nfriends🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 70,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 47,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 2298,
+          "like_count": 11779,
+          "listed_count": 19,
+          "media_count": 1770,
+          "tweet_count": 6886
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

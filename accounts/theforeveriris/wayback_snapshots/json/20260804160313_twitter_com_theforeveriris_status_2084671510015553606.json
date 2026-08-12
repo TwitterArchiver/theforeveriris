@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084637551189463519",
+    "created_at": "2026-08-04T16:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084671510015553606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072375562291875840",
+          "start": 0,
+          "username": "cpa1cap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084671510015553606",
+    "in_reply_to_user_id": "2072375562291875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084637551189463519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpa1cap 我爸有这本说话的艺术"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084637521762299904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4ex_oXsAAePt6.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084637551189463519",
+        "created_at": "2026-08-04T16:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084671510015553606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072375562291875840",
+              "start": 0,
+              "username": "cpa1cap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084671510015553606",
+        "in_reply_to_user_id": "2072375562291875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084637551189463519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpa1cap 我爸有这本说话的艺术"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084637521762299904"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2084637551189463519",
+        "created_at": "2026-08-04T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084637551189463519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHNEAJE0PK",
+              "end": 42,
+              "expanded_url": "https://x.com/cpa1cap/status/2084637551189463519/photo/1",
+              "media_key": "3_2084637521762299904",
+              "start": 19,
+              "url": "https://t.co/tHNEAJE0PK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084637551189463519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都是什么雷霆读本，，，真有人看这种吗 https://t.co/tHNEAJE0PK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 459,
+          "like_count": 18786,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 4127
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2083452030560108689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083456857591672833/BqnaG2AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 186,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "cpa1cap",
+        "verified": false
+      }
+    ]
+  }
+}

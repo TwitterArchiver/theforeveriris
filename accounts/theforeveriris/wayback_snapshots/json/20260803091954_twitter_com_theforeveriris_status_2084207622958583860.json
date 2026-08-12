@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084139069219783069",
+    "created_at": "2026-08-03T09:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084207622958583860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084207622958583860",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084139069219783069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 把老唐理想为合格标准，其余一律贬为猪头焖子，是典型的理想化与贬低防御。你把特定男性投射为完美父亲，将竞争者象征性阉割、动物化，排除其接近母亲理想对象的资格。正对应俄狄浦斯情结：对母亲无意识依恋固着，通过唯一合格男性贬低他人，防御自身阉割焦虑，幻想独占母亲的认可，所以你是恋母癖啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2084138992505909248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxZXxba8AA3jGe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084139069219783069",
+        "created_at": "2026-08-03T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084207622958583860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084207622958583860",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084139069219783069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 把老唐理想为合格标准，其余一律贬为猪头焖子，是典型的理想化与贬低防御。你把特定男性投射为完美父亲，将竞争者象征性阉割、动物化，排除其接近母亲理想对象的资格。正对应俄狄浦斯情结：对母亲无意识依恋固着，通过唯一合格男性贬低他人，防御自身阉割焦虑，幻想独占母亲的认可，所以你是恋母癖啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084138992505909248"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2084139069219783069",
+        "created_at": "2026-08-03T04:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084139069219783069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smquK0kWLv",
+              "end": 36,
+              "expanded_url": "https://x.com/YuwenMewo/status/2084139069219783069/photo/1",
+              "media_key": "3_2084138992505909248",
+              "start": 13,
+              "url": "https://t.co/smquK0kWLv"
+            },
+            {
+              "display_url": "x.com/LeavesMao/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/LeavesMao/status/2083862934514483225",
+              "start": 37,
+              "url": "https://t.co/1WhxpmlD0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084139069219783069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2838,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083862934514483225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长得不如老唐一律猪头焖子 https://t.co/smquK0kWLv https://t.co/1WhxpmlD0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 455,
+          "like_count": 18609,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 4108
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2083857745313456355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 95,
+          "like_count": 186,
+          "listed_count": 7,
+          "media_count": 616,
+          "tweet_count": 1990
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

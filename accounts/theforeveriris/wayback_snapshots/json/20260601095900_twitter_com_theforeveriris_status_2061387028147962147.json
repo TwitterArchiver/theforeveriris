@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061387028147962147",
+    "created_at": "2026-06-01T09:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061387028147962147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061387028147962147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日使用频率最高提示词：\n\n你现在调用 内置的 todo 工具给该项目划分不同区域，在每个区域里遍历所有代码寻找：\n\n- 有没有什么逻辑上的 bug \n- 声明了要实现的功能但只做了一个壳子或者示例、占位符的\n- 我要实现的功能被你擅自降级的\n\n如果有请立即修正"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061387028147962147",
+        "created_at": "2026-06-01T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061387028147962147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061387028147962147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日使用频率最高提示词：\n\n你现在调用 内置的 todo 工具给该项目划分不同区域，在每个区域里遍历所有代码寻找：\n\n- 有没有什么逻辑上的 bug \n- 声明了要实现的功能但只做了一个壳子或者示例、占位符的\n- 我要实现的功能被你擅自降级的\n\n如果有请立即修正"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 458,
+          "like_count": 15766,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3612
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

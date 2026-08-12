@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2057456353862733912",
+    "created_at": "2026-05-23T06:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058066702416728536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1863073460",
+          "start": 0,
+          "username": "l_zoet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058066702416728536",
+    "in_reply_to_user_id": "1863073460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057456353862733912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l_zoet 什么专业？我身边计科或者软工专业还是大把人在用的。然后就是您是教什么课的，水课的话学生一般懒得搭理（其实做了某事但就是懒得说）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2057456353862733912",
+        "created_at": "2026-05-23T06:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058066702416728536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1863073460",
+              "start": 0,
+              "username": "l_zoet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058066702416728536",
+        "in_reply_to_user_id": "1863073460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057456353862733912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l_zoet 什么专业？我身边计科或者软工专业还是大把人在用的。然后就是您是教什么课的，水课的话学生一般懒得搭理（其实做了某事但就是懒得说）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863073460",
+        "conversation_id": "2057456353862733912",
+        "created_at": "2026-05-21T13:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057456353862733912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057456353862733912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 181526,
+          "like_count": 1087,
+          "quote_count": 8,
+          "reply_count": 311,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "这个学期，只要有机会我就跟学生说把Claude Code和Codex用起来。\n\n这个学期快结束了，只有一个学生使用Claude Code，大失所望……\n\n不太明白现在的学生是怎么做到对摆在面前的巨大红利置若罔闻😂😂\n\n以后再劝一个字我是🐶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 465,
+          "like_count": 14537,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 3517
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-14T08:05:01.000Z",
+        "description": "🥊 最会打泰拳的科研人员\n📖 最会做科研的业余泰拳选手\n🤖 AI玩家｜工学博士\n🚧 外企→公务员→创业→高校",
+        "id": "1863073460",
+        "name": "加勒比海带",
+        "pinned_tweet_id": "2033415646428659737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052191664404574208/6xbaCC1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 885,
+          "like_count": 2609,
+          "listed_count": 8,
+          "media_count": 152,
+          "tweet_count": 2026
+        },
+        "username": "l_zoet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1986340425582715061",
+    "created_at": "2025-11-06T07:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T08:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986340425582715061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/austinit/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/austinit/status/1986103829914583511",
+          "start": 7,
+          "url": "https://t.co/vR0WvqH2NT"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1986340425582715061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986103829914583511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥也不是 。 https://t.co/vR0WvqH2NT"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1986340425582715061",
+        "created_at": "2025-11-06T07:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986340425582715061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/austinit/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/austinit/status/1986103829914583511",
+              "start": 7,
+              "url": "https://t.co/vR0WvqH2NT"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1986340425582715061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986103829914583511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥也不是 。 https://t.co/vR0WvqH2NT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "766530325652484097",
+        "conversation_id": "1986103829914583511",
+        "created_at": "2025-11-05T16:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986103829914583511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986103829914583511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想干程序员的同学，不管大学啥专业，就学这四门课程就够了。\n\n计算机网络，数据库，操作系统，数据结构与算法。\n\n至于编程语言和框架都是顺带学的。如果你学了一周编程语言，还不能写一个 99 乘法表，那你就回家养猪去吧，不适合干这一行。\n\n另外避雷大部头书籍和所谓的国外大学课程，看这些把你胡子看白都学不明白。重要的是形成肌肉记忆，每天都要写代码，反复写，反复抄，甚至是做梦都要写。到时候面试别说手撕代码，手撕面试官都不是问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 53093,
+          "like_count": 403,
+          "quote_count": 7,
+          "reply_count": 54,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "想干程序员的同学，不管大学啥专业，就学这四门课程就够了。\n\n计算机网络，数据库，操作系统，数据结构与算法。\n\n至于编程语言和框架都是顺带学的。如果你学了一周编程语言，还不能写一个 99 乘法表，那你就回家养猪去吧，不适合干这一行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 395,
+          "like_count": 6071,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2353
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-19T07:00:45.000Z",
+        "description": "一个不上班的程序员，通过开发产品和投资赚钱。",
+        "id": "766530325652484097",
+        "location": "China",
+        "name": "Austin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743780321097850880/1_9vacsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31197,
+          "following_count": 290,
+          "like_count": 2310,
+          "listed_count": 263,
+          "media_count": 349,
+          "tweet_count": 1657
+        },
+        "username": "austinit",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2077709450870403377",
+    "created_at": "2026-07-16T10:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077709450870403377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cnyzgkc/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/cnyzgkc/status/2077411607525908911",
+          "start": 15,
+          "url": "https://t.co/Wljv0rYDsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077709450870403377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077411607525908911",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个木马人看的我厌蠢症都犯了 https://t.co/Wljv0rYDsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24760,
+        "height": 1968,
+        "media_key": "13_2077411034302996480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077411034302996480/img/UsPoRKvRJ_0qjuu3.jpg",
+        "public_metrics": {
+          "view_count": 67209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077411034302996480/pl/j4-TYw6vM5k0E8Sz.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077411034302996480/vid/avc1/646x360/6eobDk6XZ6nPiDEU.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077411034302996480/vid/avc1/484x270/wPst5I8soc2jUA7f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077411034302996480/vid/avc1/1292x720/GItHsVbpADrMXYGE.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077411034302996480/vid/avc1/3532x1968/IhNLz-eWr2-2Z6r6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077411034302996480/vid/avc1/1938x1080/Hesp7zMmHzCPqLgs.mp4"
+          }
+        ],
+        "width": 3532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2077709450870403377",
+        "created_at": "2026-07-16T10:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077709450870403377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cnyzgkc/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/cnyzgkc/status/2077411607525908911",
+              "start": 15,
+              "url": "https://t.co/Wljv0rYDsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077709450870403377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077411607525908911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个木马人看的我厌蠢症都犯了 https://t.co/Wljv0rYDsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077411034302996480"
+          ]
+        },
+        "author_id": "1866821173755121666",
+        "conversation_id": "2077411607525908911",
+        "created_at": "2026-07-15T15:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077411607525908911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "2058822381167398912",
+              "start": 80,
+              "username": "WorkBuddy_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibnDPqiIlr",
+              "end": 126,
+              "expanded_url": "https://x.com/cnyzgkc/status/2077411607525908911/video/1",
+              "media_key": "13_2077411034302996480",
+              "start": 103,
+              "url": "https://t.co/ibnDPqiIlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077411607525908911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 173951,
+          "like_count": 250,
+          "quote_count": 14,
+          "reply_count": 162,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "世界真是个草台班子！！！\n\n生产环境Workbuddy的控制台被我打开了~\n\n代码，请求等一览无余~\n\n盲猜是Electron做的，因为这快捷键我太熟悉了~\n\n@WorkBuddy_AI 赶紧修bug吧~ https://t.co/ibnDPqiIlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 454,
+          "like_count": 17755,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T12:23:59.000Z",
+        "description": "主业程序员，副业AI自媒体\n关注 AI 工具和产品、LLM、AI 编程与效率提升\n🤝 商务合作请DM或者邮件\n✉️ cnyzgkc@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/cnyzgkc",
+                "end": 23,
+                "expanded_url": "https://x.com/cnyzgkc",
+                "start": 0,
+                "url": "https://t.co/XjzP2Bema0"
+              }
+            ]
+          }
+        },
+        "id": "1866821173755121666",
+        "location": "Los Angeles, CA",
+        "name": "木马人",
+        "pinned_tweet_id": "2076475160346149046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963499609017495553/kuzkS82V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13485,
+          "following_count": 2275,
+          "like_count": 14293,
+          "listed_count": 126,
+          "media_count": 873,
+          "tweet_count": 10842
+        },
+        "url": "https://t.co/XjzP2Bema0",
+        "username": "cnyzgkc",
+        "verified": true
+      }
+    ]
+  }
+}

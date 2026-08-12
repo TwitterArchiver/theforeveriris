@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045123536499671040"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2044908616101286182",
+    "created_at": "2026-04-17T12:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045123544133271805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599598815098519552",
+          "start": 0,
+          "username": "Bitgold_Hold"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIgPfaxOsr",
+          "end": 41,
+          "expanded_url": "https://x.com/theforeveriris/status/2045123544133271805/photo/1",
+          "media_key": "3_2045123536499671040",
+          "start": 18,
+          "url": "https://t.co/pIgPfaxOsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045123544133271805",
+    "in_reply_to_user_id": "1599598815098519552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044908616101286182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitgold_Hold 还真有 https://t.co/pIgPfaxOsr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045123536499671040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG9BVragAAlr87.jpg",
+        "width": 967
+      },
+      {
+        "height": 2030,
+        "media_key": "3_2044908606211162112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD5iv9bAAAqP5r.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044908606240485376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD5iwEacAAARc2.jpg",
+        "width": 994
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044908606232145920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD5iwCbMAA4FNE.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045123536499671040"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2044908616101286182",
+        "created_at": "2026-04-17T12:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045123544133271805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599598815098519552",
+              "start": 0,
+              "username": "Bitgold_Hold"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIgPfaxOsr",
+              "end": 41,
+              "expanded_url": "https://x.com/theforeveriris/status/2045123544133271805/photo/1",
+              "media_key": "3_2045123536499671040",
+              "start": 18,
+              "url": "https://t.co/pIgPfaxOsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045123544133271805",
+        "in_reply_to_user_id": "1599598815098519552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044908616101286182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitgold_Hold 还真有 https://t.co/pIgPfaxOsr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044908606211162112",
+            "3_2044908606240485376",
+            "3_2044908606232145920"
+          ]
+        },
+        "author_id": "1599598815098519552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2044908616101286182",
+        "created_at": "2026-04-16T22:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044908616101286182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rlFr6DMBB",
+              "end": 160,
+              "expanded_url": "https://x.com/Bitgold_Hold/status/2044908616101286182/photo/1",
+              "media_key": "3_2044908606211162112",
+              "start": 137,
+              "url": "https://t.co/8rlFr6DMBB"
+            },
+            {
+              "display_url": "pic.x.com/8rlFr6DMBB",
+              "end": 160,
+              "expanded_url": "https://x.com/Bitgold_Hold/status/2044908616101286182/photo/1",
+              "media_key": "3_2044908606240485376",
+              "start": 137,
+              "url": "https://t.co/8rlFr6DMBB"
+            },
+            {
+              "display_url": "pic.x.com/8rlFr6DMBB",
+              "end": 160,
+              "expanded_url": "https://x.com/Bitgold_Hold/status/2044908616101286182/photo/1",
+              "media_key": "3_2044908606232145920",
+              "start": 137,
+              "url": "https://t.co/8rlFr6DMBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044908616101286182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1647,
+          "impression_count": 291111,
+          "like_count": 1468,
+          "quote_count": 2,
+          "reply_count": 121,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "这几天梯子出问题，给大家分享一款良心VPN，这就是大名鼎鼎的伊朗大神力作Hiddfiy，包括苹果IOS版都有。\n这款VPN亮点在于还提供免费节点，永不失联！打开界面，点击右上角“+“，打开左下角“免费”，立即出现三组免费订阅链接。其中一组是专为𝕏提供的匿名节点，速度贼快！ https://t.co/8rlFr6DMBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 452,
+          "like_count": 13549,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 3184
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T02:58:27.000Z",
+        "description": "用经济学视角解析现实世界｜比特币信仰者｜社会观察，感悟分享｜ 理性、客观、逻辑，人性立场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Bitgold_Hold",
+                "end": 23,
+                "expanded_url": "https://x.com/Bitgold_Hold",
+                "start": 0,
+                "url": "https://t.co/0dITWLLPAT"
+              }
+            ]
+          }
+        },
+        "id": "1599598815098519552",
+        "name": "极简经济学",
+        "pinned_tweet_id": "2042593422113149190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012714503507509248/Vm7xAhZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4746,
+          "following_count": 3538,
+          "like_count": 7898,
+          "listed_count": 14,
+          "media_count": 862,
+          "tweet_count": 7964
+        },
+        "url": "https://t.co/0dITWLLPAT",
+        "username": "Bitgold_Hold",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1989762886877815133",
+    "created_at": "2025-11-16T04:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989911704822862282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        },
+        {
+          "end": 20,
+          "id": "1819750788354478081",
+          "start": 8,
+          "username": "Focalors116"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1989911704822862282",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989906482000007602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu @Focalors116 I can see it."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1989906482000007602].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1989906482000007602",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1989906482000007602"
+    }
+  ],
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1989762886877815133",
+        "created_at": "2025-11-16T04:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989911704822862282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            },
+            {
+              "end": 20,
+              "id": "1819750788354478081",
+              "start": 8,
+              "username": "Focalors116"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1989911704822862282",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989906482000007602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu @Focalors116 I can see it."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 397,
+          "like_count": 6122,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2390
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "跨➗一枚|07|自高三辍学“被家庭「抛弃」”无业穷困一年余|enfj|文艺氰年，除了写文写歌词啥也不会|饥寒交迫求投喂喵|khn健全b乐子人勿扰",
+        "id": "1617523246144053251",
+        "location": "去时花满枝垂地，归来雨满襟",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1987027055113085037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 52,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1653
+        },
+        "username": "s1nyvu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T15:03:17.000Z",
+        "description": "我喜欢你（进入发情期）",
+        "id": "1819750788354478081",
+        "name": "Focalors",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873616432099115008/_W0h3XFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 372,
+          "like_count": 4111,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1730
+        },
+        "username": "Focalors116",
+        "verified": false
+      }
+    ]
+  }
+}

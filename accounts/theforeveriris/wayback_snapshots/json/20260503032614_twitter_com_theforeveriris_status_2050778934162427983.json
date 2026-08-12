@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2050759712657097129",
+    "created_at": "2026-05-03T03:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050778934162427983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "831495289441628160",
+          "start": 0,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050778934162427983",
+    "in_reply_to_user_id": "831495289441628160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050759712657097129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changwei1006 ^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$够用了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1579,
+        "media_key": "3_2050759612639617024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXDAJcaIAA7b_U.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2050759712657097129",
+        "created_at": "2026-05-03T03:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050778934162427983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050778934162427983",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050759712657097129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 ^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$够用了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050759612639617024"
+          ]
+        },
+        "author_id": "831495289441628160",
+        "conversation_id": "2050759712657097129",
+        "created_at": "2026-05-03T02:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050759712657097129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Mail::RFC822::Address is a Perl module to validate email addresses according to the RFC 822 grammar. It provides the same functionality as RFC::RFC822::Address, but uses Perl regular expressions rather that the Parse::RecDescent parser. This means that the module is much faster to load as it does not need to compile the grammar on startup. If you want to test the behaviour of the module, an onli ne version is available. The grammar described in RFC 822 is surprisingly complex. Implementing validation",
+              "display_url": "pdw.ex-parrot.com/Mail-RFC822-Ad…",
+              "end": 73,
+              "expanded_url": "https://pdw.ex-parrot.com/Mail-RFC822-Address.html",
+              "start": 50,
+              "status": 200,
+              "title": "Mail::RFC822::Address",
+              "unwound_url": "https://pdw.ex-parrot.com/Mail-RFC822-Address.html",
+              "url": "https://t.co/lxQNoAdmyD"
+            },
+            {
+              "display_url": "pic.x.com/gPtsiB3SJw",
+              "end": 97,
+              "expanded_url": "https://x.com/changwei1006/status/2050759712657097129/photo/1",
+              "media_key": "3_2050759612639617024",
+              "start": 74,
+              "url": "https://t.co/gPtsiB3SJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050759712657097129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2481,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你知道这段乱码是什么吗？\n他是用于验证Email地址是否合法（符合RFC 822标准）的正则表达式\nhttps://t.co/lxQNoAdmyD https://t.co/gPtsiB3SJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 452,
+          "like_count": 13925,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 3314
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "PhD student, Dept of Adult & Continuing Education, National Taiwan Normal University.\nFormerly studied ECE & CSIE.\nInterned at @PingCAP & @RisingWaveLabs as FE.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "PingCAP"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "RisingWaveLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "https://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/d6BXAYKIG3"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18754,
+          "following_count": 5171,
+          "like_count": 145446,
+          "listed_count": 141,
+          "media_count": 5878,
+          "tweet_count": 18828
+        },
+        "url": "https://t.co/d6BXAYKIG3",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

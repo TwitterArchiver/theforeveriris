@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2019746316549570983",
+    "created_at": "2026-02-07T06:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020022271084319084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1388814990",
+          "start": 0,
+          "username": "NanangAeolus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020022271084319084",
+    "in_reply_to_user_id": "1388814990",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019746316549570983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanangAeolus Actually, the video is played backwards."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24009,
+        "height": 1280,
+        "media_key": "7_2019746280084484097",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019746280084484097/pu/img/9rh8xmRGULn4DimR.jpg",
+        "public_metrics": {
+          "view_count": 38016
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019746280084484097/pu/vid/avc1/320x570/aO6Ugbp4NjBx-PgG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019746280084484097/pu/vid/avc1/480x854/r-FJQIiraW44w0Qj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019746280084484097/pu/vid/avc1/718x1280/jaqdLQJ2TLLXIVwU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019746280084484097/pu/pl/1yga990DBo5-gMeD.m3u8"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2019746316549570983",
+        "created_at": "2026-02-07T06:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020022271084319084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1388814990",
+              "start": 0,
+              "username": "NanangAeolus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020022271084319084",
+        "in_reply_to_user_id": "1388814990",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019746316549570983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanangAeolus Actually, the video is played backwards."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019746280084484097"
+          ]
+        },
+        "author_id": "1388814990",
+        "conversation_id": "2019746316549570983",
+        "created_at": "2026-02-06T12:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019746316549570983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKM1uNYLWg",
+              "end": 29,
+              "expanded_url": "https://x.com/NanangAeolus/status/2019746316549570983/video/1",
+              "media_key": "7_2019746280084484097",
+              "start": 6,
+              "url": "https://t.co/dKM1uNYLWg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019746316549570983",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 88069,
+          "like_count": 338,
+          "quote_count": 1,
+          "reply_count": 252,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "OMG 😲 https://t.co/dKM1uNYLWg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 400,
+          "like_count": 9982,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2641
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-29T06:49:00.000Z",
+        "description": "🖐️🙂 so close no matter how far, you follow and I follow back 🫵😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nanangaeolus.wordpress.com/2013/04/29/hn-…",
+                "end": 23,
+                "expanded_url": "http://nanangaeolus.wordpress.com/2013/04/29/hn-08-on-off-road-tire/",
+                "start": 0,
+                "url": "https://t.co/dWhUXElhGK"
+              }
+            ]
+          }
+        },
+        "id": "1388814990",
+        "location": "Tangerang",
+        "name": "chikalsael",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968552023496003584/AkT3Rwui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6325,
+          "following_count": 7177,
+          "like_count": 2428,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/dWhUXElhGK",
+        "username": "NanangAeolus",
+        "verified": true
+      }
+    ]
+  }
+}

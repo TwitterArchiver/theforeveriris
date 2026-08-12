@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978961237804224609",
+    "created_at": "2025-10-17T02:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T03:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979012972895752365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "_Camano_Diana_"
+        },
+        {
+          "end": 25,
+          "id": "1589809419822329857",
+          "start": 16,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979012972895752365",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978984995692712145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Camano_Diana_ @jianlvup 经典问题属于是了，用编码(瓶子编0000000001到1111101000，老鼠/试管编1到10)即可轻松完成\n不妨制定规则如下:\n- 瓶子编号末尾有1的混入1号试管，瓶子编号从右数几位有1就混入几号试管\n- m号试管由m号老鼠喝下去\n最后检验老鼠的死亡情况:第n只老鼠死亡=第n号试管存在毒药=毒药瓶子编号的倒数第n位有1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978961237804224609",
+        "created_at": "2025-10-17T02:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T03:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979012972895752365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "_Camano_Diana_"
+            },
+            {
+              "end": 25,
+              "id": "1589809419822329857",
+              "start": 16,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979012972895752365",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978984995692712145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Camano_Diana_ @jianlvup 经典问题属于是了，用编码(瓶子编0000000001到1111101000，老鼠/试管编1到10)即可轻松完成\n不妨制定规则如下:\n- 瓶子编号末尾有1的混入1号试管，瓶子编号从右数几位有1就混入几号试管\n- m号试管由m号老鼠喝下去\n最后检验老鼠的死亡情况:第n只老鼠死亡=第n号试管存在毒药=毒药瓶子编号的倒数第n位有1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "1978961237804224609",
+        "created_at": "2025-10-17T00:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T01:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978984995692712145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978984995692712145",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978961237804224609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 这题简单，1000瓶水分十组，每组都分别倒一点在一起，10只鼠分别喝，看哪只有反应\n鼠有反应的那组再分10组，九鼠喝九组\n如果都没反应，就选没测的那一组\n如果有反应，就选有反应的那一组\n\n最后再分十组，八鼠喝八组，鼠有反应的那瓶就是毒药，都没反应，剩下两瓶，随机两鼠喝了有反应的就是毒药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 366,
+          "like_count": 6026,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 2283
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "禅 生态主义❄️ 外企网络安全 ⚠️遇到魔怔人会拉黑",
+        "id": "1470943033365438470",
+        "location": "Pacific Temperate Rainforest",
+        "name": "然子",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977741307855687680/uioOzD0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 878,
+          "like_count": 26938,
+          "listed_count": 13,
+          "media_count": 1378,
+          "tweet_count": 18382
+        },
+        "username": "_Camano_Diana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1978603695958118496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10386,
+          "following_count": 1006,
+          "like_count": 49885,
+          "listed_count": 36,
+          "media_count": 1779,
+          "tweet_count": 4167
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

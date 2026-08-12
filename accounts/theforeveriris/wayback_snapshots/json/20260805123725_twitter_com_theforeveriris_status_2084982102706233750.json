@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084944649941324020",
+    "created_at": "2026-08-05T12:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084982102706233750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4350813973",
+          "start": 0,
+          "username": "binaryify"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084982102706233750",
+    "in_reply_to_user_id": "4350813973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084944649941324020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binaryify 谢谢你，用上了，非常美味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2646,
+        "media_key": "3_2084932631955963904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8rLqxbAAAkfqq.jpg",
+        "width": 2780
+      },
+      {
+        "height": 871,
+        "media_key": "3_2084932694937677824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8rPVZbsAAybFF.jpg",
+        "width": 1805
+      },
+      {
+        "height": 2093,
+        "media_key": "3_2084938504384192512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8whfRaoAAdyQ6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2238,
+        "media_key": "3_2084944503979528192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO81-tgaUAAUIGx.jpg",
+        "width": 2330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084944649941324020",
+        "created_at": "2026-08-05T12:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084982102706233750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4350813973",
+              "start": 0,
+              "username": "binaryify"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084982102706233750",
+        "in_reply_to_user_id": "4350813973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084944649941324020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binaryify 谢谢你，用上了，非常美味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084932631955963904",
+            "3_2084932694937677824",
+            "3_2084938504384192512",
+            "3_2084944503979528192"
+          ]
+        },
+        "author_id": "4350813973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084944649941324020",
+        "created_at": "2026-08-05T10:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084944649941324020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor - Binaryify/open-kimi-ppt-skill",
+              "display_url": "github.com/Binaryify/open…",
+              "end": 120,
+              "expanded_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2084944656983572480/EYU9Aq2i?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084944656983572480/EYU9Aq2i?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "GitHub - Binaryify/open-kimi-ppt-skill: 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+              "unwound_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+              "url": "https://t.co/iJKNcE6Uqv"
+            },
+            {
+              "display_url": "pic.x.com/9295U9FpCL",
+              "end": 144,
+              "expanded_url": "https://x.com/binaryify/status/2084944649941324020/photo/1",
+              "media_key": "3_2084932631955963904",
+              "start": 121,
+              "url": "https://t.co/9295U9FpCL"
+            },
+            {
+              "display_url": "pic.x.com/9295U9FpCL",
+              "end": 144,
+              "expanded_url": "https://x.com/binaryify/status/2084944649941324020/photo/1",
+              "media_key": "3_2084932694937677824",
+              "start": 121,
+              "url": "https://t.co/9295U9FpCL"
+            },
+            {
+              "display_url": "pic.x.com/9295U9FpCL",
+              "end": 144,
+              "expanded_url": "https://x.com/binaryify/status/2084944649941324020/photo/1",
+              "media_key": "3_2084938504384192512",
+              "start": 121,
+              "url": "https://t.co/9295U9FpCL"
+            },
+            {
+              "display_url": "pic.x.com/9295U9FpCL",
+              "end": 144,
+              "expanded_url": "https://x.com/binaryify/status/2084944649941324020/photo/1",
+              "media_key": "3_2084944503979528192",
+              "start": 121,
+              "url": "https://t.co/9295U9FpCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084944649941324020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 14825,
+          "like_count": 67,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "花了几天逆向了 kimi 的 PPT, 弄了个 skill, 用 deepseek 也可以做出很逼近 kimi PPT 的效果了, 希望这次不会收到警告函了, 上次网易云音乐就给我发了警告函  https://t.co/iJKNcE6Uqv https://t.co/9295U9FpCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 460,
+          "like_count": 18975,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 4161
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-25T01:27:12.000Z",
+        "description": "AI/Web developer \nOnedark Pro/网易云音乐 Nodejs API 作者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/binaryify",
+                "end": 23,
+                "expanded_url": "https://github.com/binaryify",
+                "start": 0,
+                "url": "https://t.co/edCXuUhJga"
+              }
+            ]
+          }
+        },
+        "id": "4350813973",
+        "location": "People's Republic of China",
+        "name": "Binaryify",
+        "pinned_tweet_id": "2084944649941324020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/874575030931161088/D-OMSptU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 3947,
+          "like_count": 1161,
+          "listed_count": 6,
+          "media_count": 52,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/edCXuUhJga",
+        "username": "binaryify",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2015132283154358703",
+    "created_at": "2026-02-05T05:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T06:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019289500984439272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1570319690869899266",
+          "start": 0,
+          "username": "Yuko0Ruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019289500984439272",
+    "in_reply_to_user_id": "1570319690869899266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015132283154358703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuko0Ruuu 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015132279685697536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cwIboW0AAMF7K.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2015132283154358703",
+        "created_at": "2026-02-05T05:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019289500984439272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1570319690869899266",
+              "start": 0,
+              "username": "Yuko0Ruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019289500984439272",
+        "in_reply_to_user_id": "1570319690869899266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015132283154358703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuko0Ruuu 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015132279685697536"
+          ]
+        },
+        "author_id": "1570319690869899266",
+        "conversation_id": "2015132283154358703",
+        "created_at": "2026-01-24T18:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015132283154358703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtrnBDHdbF",
+              "end": 31,
+              "expanded_url": "https://x.com/Yuko0Ruuu/status/2015132283154358703/photo/1",
+              "media_key": "3_2015132279685697536",
+              "start": 8,
+              "url": "https://t.co/jtrnBDHdbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015132283154358703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 259,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈操你妈 https://t.co/jtrnBDHdbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 409,
+          "like_count": 9513,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2604
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T07:52:55.000Z",
+        "description": "搞！搞起来",
+        "id": "1570319690869899266",
+        "location": "40.000, -105.000",
+        "name": "🍉✰Yuko✰🍉",
+        "pinned_tweet_id": "2013808448425586859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622708737495687169/fa99ZwzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 121,
+          "like_count": 8011,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 5113
+        },
+        "username": "Yuko0Ruuu",
+        "verified": false
+      }
+    ]
+  }
+}

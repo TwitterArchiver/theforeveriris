@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978505460199084357",
+    "created_at": "2025-10-16T02:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978646939081269501"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "tauri",
+          "probability": 0.5319,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1204752745481170944",
+          "start": 0,
+          "username": "realShellWen"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978646939081269501",
+    "in_reply_to_user_id": "1204752745481170944",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978505460199084357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realShellWen She has now bc a star of tauri.😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 464,
+        "media_key": "3_1978505457909334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UQOzzbgAAPaDX.jpg",
+        "width": 680
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978505460199084357",
+        "created_at": "2025-10-16T02:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978646939081269501"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "tauri",
+              "probability": 0.5319,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1204752745481170944",
+              "start": 0,
+              "username": "realShellWen"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978646939081269501",
+        "in_reply_to_user_id": "1204752745481170944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978505460199084357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realShellWen She has now bc a star of tauri.😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978505457909334016"
+          ]
+        },
+        "author_id": "1204752745481170944",
+        "conversation_id": "1978505460199084357",
+        "created_at": "2025-10-15T16:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978505460199084357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJzUFKoyt3",
+              "end": 62,
+              "expanded_url": "https://x.com/realShellWen/status/1978505460199084357/photo/1",
+              "media_key": "3_1978505457909334016",
+              "start": 39,
+              "url": "https://t.co/eJzUFKoyt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978505460199084357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1035,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Tauri 我操你妈！！你把多少人的生活都他妈毁了！！！都他妈毁了！！！！！ https://t.co/eJzUFKoyt3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 364,
+          "like_count": 5986,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2263
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-11T13:21:00.000Z",
+        "description": "毛茸茸的工程师 | 产于 2005 | 27 届专科 | 🐻真诚是终极武器 | 全栈/嵌入式/信安/运维 | ♥️🦊@GlassFoxowo | https://t.co/BALQfiji7C | CHS&CHT&ENG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "GlassFoxowo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GitHub.com/ShellWen",
+                "end": 96,
+                "expanded_url": "http://GitHub.com/ShellWen",
+                "start": 73,
+                "url": "https://t.co/BALQfiji7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shellwen.com",
+                "end": 23,
+                "expanded_url": "https://shellwen.com",
+                "start": 0,
+                "url": "https://t.co/fNwbTL2RLO"
+              }
+            ]
+          }
+        },
+        "id": "1204752745481170944",
+        "location": "😋",
+        "name": "ShellWen | 颉文 ⚝➡️睡觉",
+        "pinned_tweet_id": "1882823675172573298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738389535766261760/qonUW7vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4121,
+          "following_count": 3229,
+          "like_count": 85334,
+          "listed_count": 18,
+          "media_count": 923,
+          "tweet_count": 23856
+        },
+        "url": "https://t.co/fNwbTL2RLO",
+        "username": "realShellWen",
+        "verified": false
+      }
+    ]
+  }
+}

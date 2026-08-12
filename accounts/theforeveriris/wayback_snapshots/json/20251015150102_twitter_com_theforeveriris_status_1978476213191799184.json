@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978284559155302901",
+    "created_at": "2025-10-15T15:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T16:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978476213191799184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699333846297456640",
+          "start": 0,
+          "username": "LizhiQtian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978476213191799184",
+    "in_reply_to_user_id": "1699333846297456640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978284559155302901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LizhiQtian In my hometown, like this purple-skinned sugarcane sold by roadside stalls, it only costs 10 yuan per stick."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1978284451127078912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RHOhYbsAAfkHr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978284559155302901",
+        "created_at": "2025-10-15T15:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978476213191799184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699333846297456640",
+              "start": 0,
+              "username": "LizhiQtian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978476213191799184",
+        "in_reply_to_user_id": "1699333846297456640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978284559155302901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LizhiQtian In my hometown, like this purple-skinned sugarcane sold by roadside stalls, it only costs 10 yuan per stick."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978284451127078912"
+          ]
+        },
+        "author_id": "1699333846297456640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978284559155302901",
+        "created_at": "2025-10-15T02:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978284559155302901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2ApAVGbch",
+              "end": 104,
+              "expanded_url": "https://x.com/LizhiQtian/status/1978284559155302901/photo/1",
+              "media_key": "3_1978284451127078912",
+              "start": 81,
+              "url": "https://t.co/r2ApAVGbch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978284559155302901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12656,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "街边买了一根甘蔗要89元，我是不是被骗了？\n有没有人能告诉我呀，我是不是被骗了？街边买了一根甘蔗，老板说8块钱一斤我说OK，然后削完皮告诉我要89元，我震惊了！ https://t.co/r2ApAVGbch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 359,
+          "like_count": 5971,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2240
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T08:09:08.000Z",
+        "description": "跨过星河迈过月亮去迎接更好的自己。\n互fo\nCross the stars over the moon to meet your betterself.\n(部分图片来源网站，如侵联删)",
+        "id": "1699333846297456640",
+        "name": "荔枝Q甜(互fo)",
+        "pinned_tweet_id": "1970047516755546202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699679567143968768/Six19y-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14571,
+          "following_count": 13047,
+          "like_count": 42511,
+          "listed_count": 16,
+          "media_count": 6501,
+          "tweet_count": 7878
+        },
+        "username": "LizhiQtian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983879224827244547"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983112051146010909",
+    "created_at": "2025-10-30T12:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983879245291278365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866360876158398464",
+          "start": 0,
+          "username": "Konora20040421"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/laPh31krOC",
+          "end": 60,
+          "expanded_url": "https://x.com/theforeveriris/status/1983879245291278365/photo/1",
+          "media_key": "3_1983879224827244547",
+          "start": 37,
+          "url": "https://t.co/laPh31krOC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1983879245291278365",
+    "in_reply_to_user_id": "1866360876158398464",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983112051146010909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konora20040421 so bella una ragazza https://t.co/laPh31krOC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_1983879224827244547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gnpNka8AMqYaG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983112041541083136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vt5RHbIAAX2I8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983112046746206208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vt5kgbAAA-3B1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983112045731127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vt5guaIAA2a-Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983112041641709568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vt5RfakAAmh8a.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983879224827244547"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983112051146010909",
+        "created_at": "2025-10-30T12:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983879245291278365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866360876158398464",
+              "start": 0,
+              "username": "Konora20040421"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/laPh31krOC",
+              "end": 60,
+              "expanded_url": "https://x.com/theforeveriris/status/1983879245291278365/photo/1",
+              "media_key": "3_1983879224827244547",
+              "start": 37,
+              "url": "https://t.co/laPh31krOC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1983879245291278365",
+        "in_reply_to_user_id": "1866360876158398464",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983112051146010909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konora20040421 so bella una ragazza https://t.co/laPh31krOC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983112041541083136",
+            "3_1983112046746206208",
+            "3_1983112045731127296",
+            "3_1983112041641709568"
+          ]
+        },
+        "author_id": "1866360876158398464",
+        "conversation_id": "1983112051146010909",
+        "created_at": "2025-10-28T10:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983112051146010909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l2NfvAdbvw",
+              "end": 43,
+              "expanded_url": "https://x.com/Konora20040421/status/1983112051146010909/photo/1",
+              "media_key": "3_1983112041541083136",
+              "start": 20,
+              "url": "https://t.co/l2NfvAdbvw"
+            },
+            {
+              "display_url": "pic.x.com/l2NfvAdbvw",
+              "end": 43,
+              "expanded_url": "https://x.com/Konora20040421/status/1983112051146010909/photo/1",
+              "media_key": "3_1983112046746206208",
+              "start": 20,
+              "url": "https://t.co/l2NfvAdbvw"
+            },
+            {
+              "display_url": "pic.x.com/l2NfvAdbvw",
+              "end": 43,
+              "expanded_url": "https://x.com/Konora20040421/status/1983112051146010909/photo/1",
+              "media_key": "3_1983112045731127296",
+              "start": 20,
+              "url": "https://t.co/l2NfvAdbvw"
+            },
+            {
+              "display_url": "pic.x.com/l2NfvAdbvw",
+              "end": 43,
+              "expanded_url": "https://x.com/Konora20040421/status/1983112051146010909/photo/1",
+              "media_key": "3_1983112041641709568",
+              "start": 20,
+              "url": "https://t.co/l2NfvAdbvw"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1983112051146010909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 778,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "主包主包，可以停更吗，这个真的好难看↓ https://t.co/l2NfvAdbvw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 373,
+          "like_count": 6041,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2326
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T05:54:51.000Z",
+        "description": "04跨女⚧/持证含糖🍬/炸柜/srs无能/不安です/PTSD/愛の依茉脱  @j6rTlbdVce94213/依赖の主人  @vjnAlLAzmhIlbFH/苹果是本体🍎/药物续命/喜欢涩涩、ACG文化、三坑、哲学/自愈力弱🤧/同类贴贴🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "j6rTlbdVce94213"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "vjnAlLAzmhIlbFH"
+              }
+            ]
+          }
+        },
+        "id": "1866360876158398464",
+        "location": "冰块里",
+        "name": "苹果奶绿🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974837819135922177/2F6BeI8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 354,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 920
+        },
+        "username": "Konora20040421",
+        "verified": false
+      }
+    ]
+  }
+}

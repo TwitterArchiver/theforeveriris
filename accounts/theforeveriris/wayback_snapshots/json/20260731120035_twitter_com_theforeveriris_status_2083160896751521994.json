@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2072749553875665189",
+    "created_at": "2026-07-31T12:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083160896751521994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816892646369173504",
+          "start": 0,
+          "username": "ping_le_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083160896751521994",
+    "in_reply_to_user_id": "1816892646369173504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083155687509758197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ping_le_ 好好好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083155672057946112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjbC_TaoAAxfwt.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2072749553875665189",
+        "created_at": "2026-07-31T12:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083160896751521994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816892646369173504",
+              "start": 0,
+              "username": "ping_le_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083160896751521994",
+        "in_reply_to_user_id": "1816892646369173504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083155687509758197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ping_le_ 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083155672057946112"
+          ]
+        },
+        "author_id": "1816892646369173504",
+        "conversation_id": "2072749553875665189",
+        "created_at": "2026-07-31T11:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083155687509758197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo09pVMWET",
+              "end": 48,
+              "expanded_url": "https://x.com/ping_le_/status/2083155687509758197/photo/1",
+              "media_key": "3_2083155672057946112",
+              "start": 25,
+              "url": "https://t.co/qo09pVMWET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083155687509758197",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083151505993908626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 实际上也可以是😂 https://t.co/qo09pVMWET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 453,
+          "like_count": 18219,
+          "listed_count": 6,
+          "media_count": 379,
+          "tweet_count": 4009
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T17:45:54.000Z",
+        "description": "06/171/37/55/0/14cm\n大一新生 ENFP 乐观开小太阳☀️ 浙江人，在郑州读大学中～是个工科生（虽然看着不像）\n是个小画家🎨+小动物控，喜欢高个子的哥哥\n把推特当成朋友圈，欢迎大家来聊天呀\n梦想是成为网黄（bushi，喜欢抱抱睡（希望有人来找我睡觉🥱），谢谢关注和点赞的大家呀，祝大家天天开心嘿嘿。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ping_le_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ping_le_",
+                "start": 0,
+                "url": "https://t.co/cSLrUNh5gQ"
+              }
+            ]
+          }
+        },
+        "id": "1816892646369173504",
+        "location": "-18cm",
+        "name": "白尚舒",
+        "pinned_tweet_id": "2072749553875665189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058613668389236736/9u4RiqPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 303,
+          "like_count": 1377,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/cSLrUNh5gQ",
+        "username": "ping_le_",
+        "verified": false
+      }
+    ]
+  }
+}

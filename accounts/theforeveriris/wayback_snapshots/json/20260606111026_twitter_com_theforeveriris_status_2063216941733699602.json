@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2063166673105097113",
+    "created_at": "2026-06-06T11:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063216941733699602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "983361642359439361",
+          "start": 0,
+          "username": "chenbimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063216941733699602",
+    "in_reply_to_user_id": "983361642359439361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063166673105097113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenbimo 这有拼的必要吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2063166500094255105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHXAC6aoAEPKP0.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063166673105097113",
+        "created_at": "2026-06-06T11:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063216941733699602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "983361642359439361",
+              "start": 0,
+              "username": "chenbimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063216941733699602",
+        "in_reply_to_user_id": "983361642359439361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063166673105097113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenbimo 这有拼的必要吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063166500094255105"
+          ]
+        },
+        "author_id": "983361642359439361",
+        "conversation_id": "2063166673105097113",
+        "created_at": "2026-06-06T07:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063166673105097113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JMLX879jQe",
+              "end": 35,
+              "expanded_url": "https://x.com/chenbimo/status/2063166673105097113/photo/1",
+              "media_key": "3_2063166500094255105",
+              "start": 12,
+              "url": "https://t.co/JMLX879jQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063166673105097113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 44735,
+          "like_count": 200,
+          "quote_count": 11,
+          "reply_count": 40,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "好家伙，拼车无处不在。 https://t.co/JMLX879jQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 463,
+          "like_count": 16572,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 3679
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T15:11:00.000Z",
+        "description": "农村程序员，独立开发者，前端之虎\n\nVSCode插件批发商 https://t.co/3hlfz0vno2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marketplace.visualstudio.com/publishers/che…",
+                "end": 53,
+                "expanded_url": "https://marketplace.visualstudio.com/publishers/chensuiyi",
+                "start": 30,
+                "url": "https://t.co/3hlfz0vno2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chensuiyi.me",
+                "end": 23,
+                "expanded_url": "https://chensuiyi.me",
+                "start": 0,
+                "url": "https://t.co/885UEBSTPW"
+              }
+            ]
+          }
+        },
+        "id": "983361642359439361",
+        "location": "hunan ",
+        "name": "Tiger Chen & 前端之虎陈随易",
+        "pinned_tweet_id": "1830598484824572179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1113275680639180800/OxDOCjLk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9232,
+          "following_count": 970,
+          "like_count": 1062,
+          "listed_count": 86,
+          "media_count": 822,
+          "tweet_count": 6334
+        },
+        "url": "https://t.co/885UEBSTPW",
+        "username": "chenbimo",
+        "verified": true
+      }
+    ]
+  }
+}

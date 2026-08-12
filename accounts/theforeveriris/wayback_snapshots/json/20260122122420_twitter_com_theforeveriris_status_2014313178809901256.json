@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2014309914123042844",
+    "created_at": "2026-01-22T12:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014313178809901256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011375652579262464",
+          "start": 0,
+          "username": "Kagamine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014313178809901256",
+    "in_reply_to_user_id": "2011375652579262464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014309914123042844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagamine_8964 大概没有（）以后可以试着用一些冷门的压缩格式 gz，lz4（其实也不算很冷门）去存，如果不放心的话，还可以在上一步的基础上手动更改后缀名为 zip，这样百度网盘就会尝试以zip的算法去解析（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2014309250106040321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RDlzhaoAEkCYB.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2014309914123042844",
+        "created_at": "2026-01-22T12:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014313178809901256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011375652579262464",
+              "start": 0,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014313178809901256",
+        "in_reply_to_user_id": "2011375652579262464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014309914123042844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagamine_8964 大概没有（）以后可以试着用一些冷门的压缩格式 gz，lz4（其实也不算很冷门）去存，如果不放心的话，还可以在上一步的基础上手动更改后缀名为 zip，这样百度网盘就会尝试以zip的算法去解析（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014309250106040321"
+          ]
+        },
+        "author_id": "2011375652579262464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2014309914123042844",
+        "created_at": "2026-01-22T12:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014309914123042844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuFrFxDNxT",
+              "end": 68,
+              "expanded_url": "https://x.com/Kagamine_8964/status/2014309914123042844/photo/1",
+              "media_key": "3_2014309250106040321",
+              "start": 45,
+              "url": "https://t.co/tuFrFxDNxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014309914123042844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把百度网盘下回来了找到了自己一年前存的血图结果它告诉我违规我哭晕😭😭这种情况有解决办法吗 https://t.co/tuFrFxDNxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 378,
+          "like_count": 6992,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2376
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:51:50.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼 /FOW参与者 /接受药物投稿及测试/重精神病 PTSD 因創傷而躲藏  /#drugtwt /有什麼事和我的1161說去吧！！ /TG同X /老公：@Edward_8964 /六次帳號轉生 /非商業使用 /匿名提问https://t.co/p1X2dlEBd2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 154,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 131,
+                "url": "https://t.co/p1X2dlEBd2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/ieTjg4nAWp"
+              }
+            ]
+          }
+        },
+        "id": "2011375652579262464",
+        "name": "Kagamine鏡音",
+        "pinned_tweet_id": "2011380729327100203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011377300881997825/i7Z-nguz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 215,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/ieTjg4nAWp",
+        "username": "Kagamine_8964",
+        "verified": true
+      }
+    ]
+  }
+}

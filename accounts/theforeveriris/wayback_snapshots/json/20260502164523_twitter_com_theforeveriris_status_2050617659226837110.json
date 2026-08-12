@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2050375908662673874",
+    "created_at": "2026-05-02T16:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050617659226837110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1762817339882602496",
+          "start": 0,
+          "username": "dashen_wang"
+        },
+        {
+          "end": 27,
+          "id": "1222182756400037889",
+          "start": 13,
+          "username": "sunyuchentron"
+        },
+        {
+          "end": 41,
+          "id": "1858777028688039936",
+          "start": 28,
+          "username": "FuSheng_0306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050617659226837110",
+    "in_reply_to_user_id": "1762817339882602496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050375908662673874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dashen_wang @sunyuchentron @FuSheng_0306 傅盛那个不是 newapi 改的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2050375908662673874",
+        "created_at": "2026-05-02T16:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050617659226837110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1762817339882602496",
+              "start": 0,
+              "username": "dashen_wang"
+            },
+            {
+              "end": 27,
+              "id": "1222182756400037889",
+              "start": 13,
+              "username": "sunyuchentron"
+            },
+            {
+              "end": 41,
+              "id": "1858777028688039936",
+              "start": 28,
+              "username": "FuSheng_0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050617659226837110",
+        "in_reply_to_user_id": "1762817339882602496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050375908662673874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dashen_wang @sunyuchentron @FuSheng_0306 傅盛那个不是 newapi 改的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762817339882602496",
+        "conversation_id": "2050375908662673874",
+        "created_at": "2026-05-02T00:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T01:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050375908662673874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1222182756400037889",
+              "start": 2,
+              "username": "sunyuchentron"
+            },
+            {
+              "end": 33,
+              "id": "1858777028688039936",
+              "start": 20,
+              "username": "FuSheng_0306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050375908662673874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 21412,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孙割@sunyuchentron 和傅盛@FuSheng_0306 两位大佬都下场做中转站了。\n\n这玩意真这么赚钱吗？\n\n不管了我们也干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 452,
+          "like_count": 13908,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 3307
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:30:02.000Z",
+        "description": "❤️ 连路过的母狗都会撩一下的AI工程师 \n🛠️ 技术架构 / 自动化体系 \n🤖 研究 AI、架构、人类行为模式 \n📦 擅长把复杂拆开，把混乱整理成能落地的结构 \n📈 股票 & 加密货币投机者 \n📌 内容方向：AI、工具、自动化、投机逻辑 \n🌍 常驻技术世界，偶尔经过情绪地 \n👅 V：cat9999sss",
+        "id": "1762817339882602496",
+        "name": "AI最严厉的父亲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025512788534448128/RVb6JJiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17135,
+          "following_count": 465,
+          "like_count": 782,
+          "listed_count": 124,
+          "media_count": 251,
+          "tweet_count": 4152
+        },
+        "username": "dashen_wang",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-28T15:41:01.000Z",
+        "description": "👨‍💻 企业家 | 🤵‍♂️ 外交官 | 👨‍🚀 宇航员 #712 | 🍌 艺术收藏家 | 创始人 @trondaoCN | 顾问 @BitTorrent & @htx_global | 英文@justinsuntron",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "trondaoCN"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "BitTorrent"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "htx_global"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "justinsuntron"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sunpump.meme",
+                "end": 23,
+                "expanded_url": "https://sunpump.meme",
+                "start": 0,
+                "url": "https://t.co/taPoSJSTqy"
+              }
+            ]
+          }
+        },
+        "id": "1222182756400037889",
+        "location": "Singapore",
+        "name": "孙宇晨（去过太空版）🧑‍🚀",
+        "pinned_tweet_id": "1905450912065229054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955272811448340480/M9982AS6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323092,
+          "following_count": 282,
+          "like_count": 83,
+          "listed_count": 1046,
+          "media_count": 3016,
+          "tweet_count": 9151
+        },
+        "url": "https://t.co/taPoSJSTqy",
+        "username": "sunyuchentron",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-19T07:39:21.000Z",
+        "description": "猎豹移动董事长兼CEO，猎户星空董事长@orionstar2016 ｜ 生日3月6日，打造了早期的360安全卫士｜TikTok最早期的投资人｜是上市公司CEO，也是陪女儿打游戏的老爸玩家｜ 是连续创业者，也是从220斤爆改到150斤的运动达人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "orionstar2016"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fusheng_Neo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fusheng_Neo",
+                "start": 0,
+                "url": "https://t.co/7DlXKAC13g"
+              }
+            ]
+          }
+        },
+        "id": "1858777028688039936",
+        "location": "San Francisco Bay Area",
+        "name": "傅盛",
+        "pinned_tweet_id": "2047964436959535499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990679395246485506/obc0Ox8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52764,
+          "following_count": 303,
+          "like_count": 1167,
+          "listed_count": 367,
+          "media_count": 923,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/7DlXKAC13g",
+        "username": "FuSheng_0306",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062715382025302185",
+    "created_at": "2026-06-05T09:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062829606869332134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "820285264819933184",
+          "start": 0,
+          "username": "lencx_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062829606869332134",
+    "in_reply_to_user_id": "820285264819933184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062715382025302185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lencx_ 百万行你自己相信吗？photoshop 这种成熟商业软件也就这个体量。 Noi 就一 Electron 套壳，核心代码也就一个侧边栏的管理路由、本地存储、cookie 隔离 、终端模拟器封装还有一些页面的 UI。撑死了几万行业务代码，你是算上node_modules 还是强迫 ai 写了一堆屎山？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2062715376866357248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA8tN7a8AAUARw.jpg",
+        "width": 746
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2062715376874704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA8tN9aUAAZQBC.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2062715376820162560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA8tNwaEAAPQ9u.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062715382025302185",
+        "created_at": "2026-06-05T09:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062829606869332134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "820285264819933184",
+              "start": 0,
+              "username": "lencx_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062829606869332134",
+        "in_reply_to_user_id": "820285264819933184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062715382025302185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lencx_ 百万行你自己相信吗？photoshop 这种成熟商业软件也就这个体量。 Noi 就一 Electron 套壳，核心代码也就一个侧边栏的管理路由、本地存储、cookie 隔离 、终端模拟器封装还有一些页面的 UI。撑死了几万行业务代码，你是算上node_modules 还是强迫 ai 写了一堆屎山？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062715376866357248",
+            "3_2062715376874704896",
+            "3_2062715376820162560"
+          ]
+        },
+        "author_id": "820285264819933184",
+        "conversation_id": "2062715382025302185",
+        "created_at": "2026-06-05T01:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062715382025302185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgG6xOtAJa",
+              "end": 81,
+              "expanded_url": "https://x.com/lencx_/status/2062715382025302185/photo/1",
+              "media_key": "3_2062715376866357248",
+              "start": 58,
+              "url": "https://t.co/ZgG6xOtAJa"
+            },
+            {
+              "display_url": "pic.x.com/ZgG6xOtAJa",
+              "end": 81,
+              "expanded_url": "https://x.com/lencx_/status/2062715382025302185/photo/1",
+              "media_key": "3_2062715376874704896",
+              "start": 58,
+              "url": "https://t.co/ZgG6xOtAJa"
+            },
+            {
+              "display_url": "pic.x.com/ZgG6xOtAJa",
+              "end": 81,
+              "expanded_url": "https://x.com/lencx_/status/2062715382025302185/photo/1",
+              "media_key": "3_2062715376820162560",
+              "start": 58,
+              "url": "https://t.co/ZgG6xOtAJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062715382025302185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12492,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在 coding 群里的逆天发言 😅，但项目 harness 工程肯定是趋势，不然人力无法对抗 ai 生成速度！ https://t.co/ZgG6xOtAJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 459,
+          "like_count": 16555,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3663
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-14T15:03:42.000Z",
+        "description": "✍🏻 公众号「浮之静」 👨🏻‍💻 Web • Rust • Tauri  • Electron\n🚫 不看 • 不听 • 不说 🤔 学会思考 • 自说自话",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lencx.me",
+                "end": 23,
+                "expanded_url": "https://lencx.me",
+                "start": 0,
+                "url": "https://t.co/YJ6PhbN8qm"
+              }
+            ]
+          }
+        },
+        "id": "820285264819933184",
+        "name": "lencx",
+        "pinned_tweet_id": "1664557103896481792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777510753672785921/p0hrP-Qm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22173,
+          "following_count": 1071,
+          "like_count": 1764,
+          "listed_count": 306,
+          "media_count": 1130,
+          "tweet_count": 3564
+        },
+        "url": "https://t.co/YJ6PhbN8qm",
+        "username": "lencx_",
+        "verified": false
+      }
+    ]
+  }
+}

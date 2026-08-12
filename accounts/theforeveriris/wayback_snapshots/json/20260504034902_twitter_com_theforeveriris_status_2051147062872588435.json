@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2050983690122219538",
+    "created_at": "2026-05-04T03:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051147062872588435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "848021071366299649",
+          "start": 0,
+          "username": "is_kerwin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051147062872588435",
+    "in_reply_to_user_id": "848021071366299649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050983690122219538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@is_kerwin ？vpn 不是虚拟专用网吗怎么就成全局代理了🤔大多数人都是订阅一个机场导入 clash 系或者 singbox 系的客户端里面使用吧，这些客户端不就提供规则分流的功能了吗🤔\n我不知道您指的 vpn 是什么？机场打包好的可以一键启动的黑盒吗（不幸的是很多这样的软件也支持自定义分流了\n你是真的不懂还是图流量？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2050983690122219538",
+        "created_at": "2026-05-04T03:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051147062872588435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "848021071366299649",
+              "start": 0,
+              "username": "is_kerwin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051147062872588435",
+        "in_reply_to_user_id": "848021071366299649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050983690122219538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@is_kerwin ？vpn 不是虚拟专用网吗怎么就成全局代理了🤔大多数人都是订阅一个机场导入 clash 系或者 singbox 系的客户端里面使用吧，这些客户端不就提供规则分流的功能了吗🤔\n我不知道您指的 vpn 是什么？机场打包好的可以一键启动的黑盒吗（不幸的是很多这样的软件也支持自定义分流了\n你是真的不懂还是图流量？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "848021071366299649",
+        "conversation_id": "2050983690122219538",
+        "created_at": "2026-05-03T16:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050983690122219538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050983690122219538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1647,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现好多人都是用 VPN 来翻墙的，为什么呢？\n\n是真的那么多人不懂还是图方便？\n\n我以为的是用 Surge、Loon 、Shadowrocket 会更方便吧！？\n\n规则设置好之后，该走代理走代理，该走直连走直连，能去广告又省流量的……（更专业的暂且不说\n\n相比之下，VPN 每次都要开关切换，真的很麻烦……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 452,
+          "like_count": 13976,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 3340
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-01T03:55:53.000Z",
+        "description": "📸拍照是借口，🗯️牢骚是娱乐，💻技术是为了装逼，😎快乐才是真正目的。 | no one",
+        "id": "848021071366299649",
+        "location": "United Kingdom",
+        "name": "Kerwin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050200619731034112/gV169PBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 859,
+          "like_count": 239,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 890
+        },
+        "username": "is_kerwin",
+        "verified": true
+      }
+    ]
+  }
+}

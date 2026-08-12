@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357430100367605760",
+          "name": "UX design"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2059397871460635005",
+    "created_at": "2026-05-27T01:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059445428723302561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1633696677759684608",
+          "start": 0,
+          "username": "aKIPPUz"
+        }
+      ],
+      "urls": [
+        {
+          "description": "在未添加事件时画廊（底部导航栏第二个 tab 页）时显示全屏的暂无数据 建议：改为显示“请左滑在时间轴页中添加事件” 主页（时间轴页）中缺少编辑入口，目前对页内事件块的操作仅有右滑删除，点击进入全屏画廊页，左滑和长按暂无交互 建议：在左滑或长按触发后进入编辑页面或显示编辑入口 经观察在画廊页长按页面会弹出有关编辑的选项，但编辑局限性比较大，只能修改背景图片和日期，无法修改事件名 建议：按需酌情修改",
+          "display_url": "github.com/KIPPUDESU/KIPP…",
+          "end": 117,
+          "expanded_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/1",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2059445432523329536/qGuyHOoZ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059445432523329536/qGuyHOoZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 94,
+          "status": 200,
+          "title": "关于 UI/UX 的若干问题和讨论 · Issue #1 · KIPPUDESU/KIPPU_Trace",
+          "unwound_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/1",
+          "url": "https://t.co/DupalFz0Fl"
+        },
+        {
+          "description": "缺少重复事件功能（如每年重复的生日，每月重复的还款日） 建议：增加按年重复或者按月重复的选项（如下图） 缺少标签、分类整理、排序、归档的相关功能 建议：按需和开发极化酌情修改 缺少农历日的选择功能 建议：添加（如图）在日期选择窗内增设",
+          "display_url": "github.com/KIPPUDESU/KIPP…",
+          "end": 151,
+          "expanded_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/2",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2059445429612531712/D4Vi077-?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059445429612531712/D4Vi077-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 128,
+          "status": 200,
+          "title": "关于功能性改进的一些问题和讨论 · Issue #2 · KIPPUDESU/KIPPU_Trace",
+          "unwound_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/2",
+          "url": "https://t.co/77H1fJqSEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059445428723302561",
+    "in_reply_to_user_id": "1633696677759684608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059397871460635005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aKIPPUz 其实产品目前的功能没必要做太多引导（除了部分 UI/UX 有些不全面之外其实还挺符合操作直觉的）\n---\n试用时发现了一些小问题，已添加 issue\n关于 UI/UX： https://t.co/DupalFz0Fl，\n关于功能性改进：\nhttps://t.co/77H1fJqSEG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357430100367605760",
+              "name": "UX design"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2059397871460635005",
+        "created_at": "2026-05-27T01:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059445428723302561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1633696677759684608",
+              "start": 0,
+              "username": "aKIPPUz"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在未添加事件时画廊（底部导航栏第二个 tab 页）时显示全屏的暂无数据 建议：改为显示“请左滑在时间轴页中添加事件” 主页（时间轴页）中缺少编辑入口，目前对页内事件块的操作仅有右滑删除，点击进入全屏画廊页，左滑和长按暂无交互 建议：在左滑或长按触发后进入编辑页面或显示编辑入口 经观察在画廊页长按页面会弹出有关编辑的选项，但编辑局限性比较大，只能修改背景图片和日期，无法修改事件名 建议：按需酌情修改",
+              "display_url": "github.com/KIPPUDESU/KIPP…",
+              "end": 117,
+              "expanded_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/1",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2059445432523329536/qGuyHOoZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059445432523329536/qGuyHOoZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "关于 UI/UX 的若干问题和讨论 · Issue #1 · KIPPUDESU/KIPPU_Trace",
+              "unwound_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/1",
+              "url": "https://t.co/DupalFz0Fl"
+            },
+            {
+              "description": "缺少重复事件功能（如每年重复的生日，每月重复的还款日） 建议：增加按年重复或者按月重复的选项（如下图） 缺少标签、分类整理、排序、归档的相关功能 建议：按需和开发极化酌情修改 缺少农历日的选择功能 建议：添加（如图）在日期选择窗内增设",
+              "display_url": "github.com/KIPPUDESU/KIPP…",
+              "end": 151,
+              "expanded_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/2",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2059445429612531712/D4Vi077-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059445429612531712/D4Vi077-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "关于功能性改进的一些问题和讨论 · Issue #2 · KIPPUDESU/KIPPU_Trace",
+              "unwound_url": "https://github.com/KIPPUDESU/KIPPU_Trace/issues/2",
+              "url": "https://t.co/77H1fJqSEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059445428723302561",
+        "in_reply_to_user_id": "1633696677759684608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059397871460635005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aKIPPUz 其实产品目前的功能没必要做太多引导（除了部分 UI/UX 有些不全面之外其实还挺符合操作直觉的）\n---\n试用时发现了一些小问题，已添加 issue\n关于 UI/UX： https://t.co/DupalFz0Fl，\n关于功能性改进：\nhttps://t.co/77H1fJqSEG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633696677759684608",
+        "conversation_id": "2059397871460635005",
+        "created_at": "2026-05-26T22:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059397871460635005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aKIPPUz/status…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/aKIPPUz/status/2059279700779004348",
+              "start": 130,
+              "url": "https://t.co/sJuXhYa84H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059397871460635005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059279700779004348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "针对各种问题我想要在 v2.1.0 更新的时候直接统一修改\n进入详情页的时候导航栏会往下消失确实是我故意的设计\n但似乎造成了困扰\n目前在想如何兼顾引导和互动\n不知道第一次使用时加个引导会不会解决很多问题呢\n我还是倾向于好的设计应该上手就会使用，所以我还得想想 https://t.co/sJuXhYa84H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 465,
+          "like_count": 15034,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 3560
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T05:10:23.000Z",
+        "description": "Front-End｜Just hug me in the paradise.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aKIPPUz",
+                "end": 23,
+                "expanded_url": "https://lit.link/aKIPPUz",
+                "start": 0,
+                "url": "https://t.co/3EiK0sdqxN"
+              }
+            ]
+          }
+        },
+        "id": "1633696677759684608",
+        "name": "切符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024540141927399424/QDoZIYCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 87,
+          "like_count": 62850,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/3EiK0sdqxN",
+        "username": "aKIPPUz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047638497931177984"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2047638504407179606",
+    "created_at": "2026-04-24T11:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047638504407179606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5WVwAWByeO",
+          "end": 30,
+          "expanded_url": "https://x.com/theforeveriris/status/2047638504407179606/photo/1",
+          "media_key": "3_2047638497931177984",
+          "start": 7,
+          "url": "https://t.co/5WVwAWByeO"
+        },
+        {
+          "display_url": "x.com/picapicacomic/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/picapicacomic/status/2047588595889004853",
+          "start": 31,
+          "url": "https://t.co/UrQXk0kbLP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047638504407179606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047588595889004853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ui 这么萌 https://t.co/5WVwAWByeO https://t.co/UrQXk0kbLP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047638497931177984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqsXXGaMAAIIsl.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047638497931177984"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2047638504407179606",
+        "created_at": "2026-04-24T11:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047638504407179606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WVwAWByeO",
+              "end": 30,
+              "expanded_url": "https://x.com/theforeveriris/status/2047638504407179606/photo/1",
+              "media_key": "3_2047638497931177984",
+              "start": 7,
+              "url": "https://t.co/5WVwAWByeO"
+            },
+            {
+              "display_url": "x.com/picapicacomic/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/picapicacomic/status/2047588595889004853",
+              "start": 31,
+              "url": "https://t.co/UrQXk0kbLP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047638504407179606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047588595889004853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ui 这么萌 https://t.co/5WVwAWByeO https://t.co/UrQXk0kbLP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2985409589",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2047588595889004853",
+        "created_at": "2026-04-24T08:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047588595889004853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "嗶咔漫畫"
+            },
+            {
+              "end": 106,
+              "start": 96,
+              "tag": "Picacomic"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "嗶咔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "file.bidobido.xyz/bika_apps/pica…",
+              "end": 88,
+              "expanded_url": "https://file.bidobido.xyz/bika_apps/picacg-2.6.42-release.apk",
+              "start": 65,
+              "unwound_url": "https://file.bidobido.xyz/bika_apps/picacg-2.6.42-release.apk",
+              "url": "https://t.co/eCWYwK2rTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047588595889004853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 65829,
+          "like_count": 367,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "大家是不是還不知道……\n嗶咔漫畫早就推出 v2.6 版本了？ 😳\n新版已經準備好，快去下載試試！\n\n📥 Android APK：\nhttps://t.co/eCWYwK2rTM\n\n#嗶咔漫畫 #Picacomic #嗶咔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 450,
+          "like_count": 13613,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 3214
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-19T09:01:10.000Z",
+        "description": "嗶咔漫畫讓你可以輕鬆看到不同的本子，介面美觀易用，分類齊全，每天更新，紳士必備！\n\nhttps://t.co/o61BdbFOAJ\n\n嗶咔的聊天平台・泡泡：\nhttps://t.co/r7J9NQD8rL\n嗶咔的耽美花園漫畫平台・花咔：\nhttps://t.co/MYO3CKbXyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "manhuabika.com",
+                "end": 65,
+                "expanded_url": "https://manhuabika.com",
+                "start": 42,
+                "url": "https://t.co/o61BdbFOAJ"
+              },
+              {
+                "display_url": "t.me/bubble_app_cha…",
+                "end": 102,
+                "expanded_url": "https://t.me/bubble_app_channel",
+                "start": 79,
+                "url": "https://t.co/r7J9NQD8rL"
+              },
+              {
+                "display_url": "t.me/+cPZ8iXJwWpg5Y…",
+                "end": 142,
+                "expanded_url": "https://t.me/+cPZ8iXJwWpg5Yzhh",
+                "start": 119,
+                "url": "https://t.co/MYO3CKbXyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manhuabika.com",
+                "end": 23,
+                "expanded_url": "https://manhuabika.com",
+                "start": 0,
+                "url": "https://t.co/o61BdbFOAJ"
+              }
+            ]
+          }
+        },
+        "id": "2985409589",
+        "name": "嗶咔漫畫",
+        "pinned_tweet_id": "1420702683573329924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1215146980898267137/tDynWR0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523242,
+          "following_count": 2,
+          "like_count": 2788,
+          "listed_count": 674,
+          "media_count": 184,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/o61BdbFOAJ",
+        "username": "picapicacomic",
+        "verified": true
+      }
+    ]
+  }
+}

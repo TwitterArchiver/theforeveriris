@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084455382915965258",
+    "created_at": "2026-08-04T04:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084489780394430575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 22,
+          "id": "1613079089879076864",
+          "start": 15,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084489780394430575",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084455382915965258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 @YunJiu 的頭像就是這樣的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2084455371020599296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO15HbPWgAAD6PU.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084455382915965258",
+        "created_at": "2026-08-04T04:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084489780394430575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 22,
+              "id": "1613079089879076864",
+              "start": 15,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084489780394430575",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084455382915965258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 @YunJiu 的頭像就是這樣的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084455371020599296"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2084455382915965258",
+        "created_at": "2026-08-04T01:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084455382915965258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOqkfVh7tC",
+              "end": 23,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2084455382915965258/photo/1",
+              "media_key": "3_2084455371020599296",
+              "start": 0,
+              "url": "https://t.co/kOqkfVh7tC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084455382915965258",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kOqkfVh7tC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 458,
+          "like_count": 18732,
+          "listed_count": 6,
+          "media_count": 397,
+          "tweet_count": 4117
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8670,
+          "following_count": 547,
+          "like_count": 20323,
+          "listed_count": 18,
+          "media_count": 2804,
+          "tweet_count": 6418
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106519,
+          "following_count": 823,
+          "like_count": 37579,
+          "listed_count": 296,
+          "media_count": 20568,
+          "tweet_count": 29201
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

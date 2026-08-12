@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2053784297379893456",
+    "created_at": "2026-05-12T04:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T05:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054055003514659088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958564025727664128",
+          "start": 0,
+          "username": "SNS142148"
+        },
+        {
+          "end": 20,
+          "id": "2046238259919912960",
+          "start": 11,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054055003514659088",
+    "in_reply_to_user_id": "1958564025727664128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053878545173356726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNS142148 @Type_zhi 有人用脚本测压了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2053784297379893456",
+        "created_at": "2026-05-12T04:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054055003514659088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958564025727664128",
+              "start": 0,
+              "username": "SNS142148"
+            },
+            {
+              "end": 20,
+              "id": "2046238259919912960",
+              "start": 11,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054055003514659088",
+        "in_reply_to_user_id": "1958564025727664128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053878545173356726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNS142148 @Type_zhi 有人用脚本测压了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958564025727664128",
+        "conversation_id": "2053784297379893456",
+        "created_at": "2026-05-11T16:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053878545173356726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046238259919912960",
+              "start": 0,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053878545173356726",
+        "in_reply_to_user_id": "2046238259919912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053784297379893456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Type_zhi 不對 這為什麼我一進去就開始暴漲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 450,
+          "like_count": 14027,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 3387
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔 查成分互fo 友跨\n提问箱：https://t.co/VRLP0B0UmF\nOD💊/烟鬼🚬/性别酷儿🏳️‍🌈/数码爱好者📷/普瑞巴林单推人/重度焦虑/双相\nHRT：2023.5.31\n橙子二世账号\n目前状态：精神崩溃、身体抗议中～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 45,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 22,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "距离你148米",
+        "name": "賢妻良母橙味糖Pro",
+        "pinned_tweet_id": "2048060105107898614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 63,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07 03:37/在读女高（确信）/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "https://typezhi.top/",
+                "start": 0,
+                "url": "https://t.co/ff58O0W0jN"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 551,
+          "like_count": 32,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/ff58O0W0jN",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

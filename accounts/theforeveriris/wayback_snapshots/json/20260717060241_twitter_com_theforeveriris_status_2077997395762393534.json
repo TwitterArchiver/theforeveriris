@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2077688177360613439",
+    "created_at": "2026-07-17T06:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077997395762393534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1574361645207683073",
+          "start": 0,
+          "username": "furlingdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077997395762393534",
+    "in_reply_to_user_id": "1574361645207683073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077688177360613439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furlingdu 我也觉得性能很差，明显比同类型的差一大截"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2077688150261219328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVuXVZbwAAGJLr.jpg",
+        "width": 2347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2077688177360613439",
+        "created_at": "2026-07-17T06:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077997395762393534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1574361645207683073",
+              "start": 0,
+              "username": "furlingdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077997395762393534",
+        "in_reply_to_user_id": "1574361645207683073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077688177360613439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furlingdu 我也觉得性能很差，明显比同类型的差一大截"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077688150261219328"
+          ]
+        },
+        "author_id": "1574361645207683073",
+        "conversation_id": "2077688177360613439",
+        "created_at": "2026-07-16T09:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077688177360613439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5ScbnODtF",
+              "end": 42,
+              "expanded_url": "https://x.com/furlingdu/status/2077688177360613439/photo/1",
+              "media_key": "3_2077688150261219328",
+              "start": 19,
+              "url": "https://t.co/a5ScbnODtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077688177360613439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2585,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能把这个傻逼前端修一下，好他妈卡 https://t.co/a5ScbnODtF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 455,
+          "like_count": 17811,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 3945
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T11:34:08.000Z",
+        "description": "直男",
+        "id": "1574361645207683073",
+        "location": "被窝",
+        "name": "みおど",
+        "pinned_tweet_id": "2076326696417136655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054251656733409280/AW0YHSel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 285,
+          "like_count": 606,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "furlingdu",
+        "verified": false
+      }
+    ]
+  }
+}

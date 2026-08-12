@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062178840991211589",
+    "created_at": "2026-06-04T03:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062372200259453191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1833491107503869956",
+          "start": 0,
+          "username": "lyjjlch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062372200259453191",
+    "in_reply_to_user_id": "1833491107503869956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062178840991211589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyjjlch 没有减害的可能。小剂量多次注射意在何为？为了强行平滑苯甲酸雌二醇的脉冲样曲线吗？\n- 其一：米式动力学下长时间低剂量高频率注射兽雌苯甲酸暴露大于长间隔普通剂量注射；\n- 其二：取用 0.6 mg 时如何保证开启的安瓿内剩余药液不受到污染？\n兽雌唯一的应用情况仅是无 hrt 药物时长间隔注射救急。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_2062177944039264258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5T6gobEAIbvB-.jpg",
+        "width": 935
+      },
+      {
+        "height": 739,
+        "media_key": "3_2062178324714274816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5UQqwawAATRPa.jpg",
+        "width": 973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062178840991211589",
+        "created_at": "2026-06-04T03:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062372200259453191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1833491107503869956",
+              "start": 0,
+              "username": "lyjjlch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062372200259453191",
+        "in_reply_to_user_id": "1833491107503869956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062178840991211589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyjjlch 没有减害的可能。小剂量多次注射意在何为？为了强行平滑苯甲酸雌二醇的脉冲样曲线吗？\n- 其一：米式动力学下长时间低剂量高频率注射兽雌苯甲酸暴露大于长间隔普通剂量注射；\n- 其二：取用 0.6 mg 时如何保证开启的安瓿内剩余药液不受到污染？\n兽雌唯一的应用情况仅是无 hrt 药物时长间隔注射救急。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062177944039264258",
+            "3_2062178324714274816"
+          ]
+        },
+        "author_id": "1833491107503869956",
+        "conversation_id": "2062178840991211589",
+        "created_at": "2026-06-03T14:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062178840991211589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgwl9jQyWZ",
+              "end": 182,
+              "expanded_url": "https://x.com/lyjjlch/status/2062178840991211589/photo/1",
+              "media_key": "3_2062177944039264258",
+              "start": 159,
+              "url": "https://t.co/sgwl9jQyWZ"
+            },
+            {
+              "display_url": "pic.x.com/sgwl9jQyWZ",
+              "end": 182,
+              "expanded_url": "https://x.com/lyjjlch/status/2062178840991211589/photo/1",
+              "media_key": "3_2062178324714274816",
+              "start": 159,
+              "url": "https://t.co/sgwl9jQyWZ"
+            },
+            {
+              "display_url": "x.com/lyjjlch/status…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/lyjjlch/status/2062173535758602523",
+              "start": 183,
+              "url": "https://t.co/NsXJdtrojh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062178840991211589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062173535758602523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前剩下的问题大概是这两个了：\n- 兽雌辅料可能超出人类使用限度\n- 苯甲酸雌二醇导致激素水平波动大\n那么针对这两点，我尝试给出简单有效的减害使用方式：\n「请注意，如果有任何其他的可能，决不建议使用兽雌」\n1. 首次0.6mg，而后每天0.3mg\n2. 首次0.8mg，而后两天0.6mg\n自行根据你的注射液规格换算 https://t.co/sgwl9jQyWZ https://t.co/NsXJdtrojh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 16178,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3648
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-10T13:02:09.000Z",
+        "description": "Open-source software developer\nFood lover\n我永远深爱着我的祖国♥️\n关爱心理健康，拒绝OD/自残/自切/自杀！\n让我们拥抱更美好的明天\n对药物感兴趣但仅限理论！\n自杀干预初学者\n混沌善良\n感性\n喜欢贴贴，贴贴好耶！\n另外，这是我对象！\n@xiuli202641791",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 139,
+                "username": "xiuli202641791"
+              }
+            ]
+          }
+        },
+        "id": "1833491107503869956",
+        "name": "某人",
+        "pinned_tweet_id": "2059686768765747322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010216087665967104/XmGGooWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 88,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 215
+        },
+        "username": "lyjjlch",
+        "verified": false
+      }
+    ]
+  }
+}

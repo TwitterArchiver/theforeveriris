@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2055700651808788906",
+    "created_at": "2026-05-16T20:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055742220234604643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1840055966525726720",
+          "start": 0,
+          "username": "Jueshengshenlan"
+        },
+        {
+          "end": 27,
+          "id": "1974502556471902208",
+          "start": 17,
+          "username": "Meowankif"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20557…",
+          "end": 100,
+          "expanded_url": "https://x.com/i/status/2055730401285681272",
+          "start": 77,
+          "url": "https://t.co/Z1QONpWcZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055742220234604643",
+    "in_reply_to_user_id": "1840055966525726720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055730401285681272",
+        "type": "quoted"
+      },
+      {
+        "id": "2055709976778449305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jueshengshenlan @Meowankif 可惜了中国也是承认 ai 生成内容的著作权的。有时候我真的觉得粉红抹黑自己国家的能力远远大于支黑 https://t.co/Z1QONpWcZl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2055700651808788906",
+        "created_at": "2026-05-16T20:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055742220234604643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1840055966525726720",
+              "start": 0,
+              "username": "Jueshengshenlan"
+            },
+            {
+              "end": 27,
+              "id": "1974502556471902208",
+              "start": 17,
+              "username": "Meowankif"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20557…",
+              "end": 100,
+              "expanded_url": "https://x.com/i/status/2055730401285681272",
+              "start": 77,
+              "url": "https://t.co/Z1QONpWcZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055742220234604643",
+        "in_reply_to_user_id": "1840055966525726720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055730401285681272",
+            "type": "quoted"
+          },
+          {
+            "id": "2055709976778449305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jueshengshenlan @Meowankif 可惜了中国也是承认 ai 生成内容的著作权的。有时候我真的觉得粉红抹黑自己国家的能力远远大于支黑 https://t.co/Z1QONpWcZl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2055730401285681272",
+        "created_at": "2026-05-16T19:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055730401285681272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jueshengshenla…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Jueshengshenlan/status/2055700651808788906",
+              "start": 146,
+              "url": "https://t.co/rQUz3yLka5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055730401285681272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055700651808788906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《中华人民共和国著作权法》第三条规定：“本法所称的作品，是指文学、艺术和科学领域内具有独创性并能以一定形式表现的智力成果。由详细提示词生成的 ai 作品明显具有独创性。\n国内“春风送来温柔了温柔”案（北京互联网法院 2023 京0491民初11279号民事判决书）的判决也证明了我所言非虚。 https://t.co/rQUz3yLka5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055966525726720",
+        "conversation_id": "2055700651808788906",
+        "created_at": "2026-05-16T18:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055709976778449305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1974502556471902208",
+              "start": 0,
+              "username": "Meowankif"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055709976778449305",
+        "in_reply_to_user_id": "1974502556471902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055708783616360851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meowankif 天朝垂青，草民之幸。\n什么版权？\n都是矫情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 455,
+          "like_count": 14096,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 3422
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:48:30.000Z",
+        "description": "红色的旗帜，一定会在全球飘扬！",
+        "id": "1840055966525726720",
+        "name": "啊！链条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035913469111975936/xKiAiVSP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 4600,
+          "like_count": 152996,
+          "listed_count": 85,
+          "media_count": 580,
+          "tweet_count": 10892
+        },
+        "username": "Jueshengshenlan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T15:51:16.000Z",
+        "description": "mtf、design、04、infp、不断诈尸负面情绪版",
+        "id": "1974502556471902208",
+        "location": "1.57km",
+        "name": "Meowan缪岚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046822031648563200/lYunFLGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 60,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 197
+        },
+        "username": "Meowankif",
+        "verified": false
+      }
+    ]
+  }
+}

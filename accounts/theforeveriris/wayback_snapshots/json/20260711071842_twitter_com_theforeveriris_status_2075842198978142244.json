@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075842192875421696"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2075842198978142244",
+    "created_at": "2026-07-11T07:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075842198978142244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9CMe9ILh8O",
+          "end": 99,
+          "expanded_url": "https://x.com/theforeveriris/status/2075842198978142244/photo/1",
+          "media_key": "3_2075842192875421696",
+          "start": 76,
+          "url": "https://t.co/9CMe9ILh8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075842198978142244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我更想不通的是「魔爪」和 oder/地雷系是怎么产生联系的？类似于西柚汁的定位吗？不见得有西柚汁的功能性。所以说这是某种约定俗成的亚文化失落媒体？ https://t.co/9CMe9ILh8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2075842192875421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7feeQbgAAd3Lj.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075842192875421696"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2075842198978142244",
+        "created_at": "2026-07-11T07:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075842198978142244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9CMe9ILh8O",
+              "end": 99,
+              "expanded_url": "https://x.com/theforeveriris/status/2075842198978142244/photo/1",
+              "media_key": "3_2075842192875421696",
+              "start": 76,
+              "url": "https://t.co/9CMe9ILh8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075842198978142244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我更想不通的是「魔爪」和 oder/地雷系是怎么产生联系的？类似于西柚汁的定位吗？不见得有西柚汁的功能性。所以说这是某种约定俗成的亚文化失落媒体？ https://t.co/9CMe9ILh8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 450,
+          "like_count": 17389,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 3864
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

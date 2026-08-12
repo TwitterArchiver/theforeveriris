@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083802053751767040"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083757107321676246",
+    "created_at": "2026-08-02T06:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083802062962508119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895463022367498240",
+          "start": 0,
+          "username": "hikaribottt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LFz2jXXRDS",
+          "end": 39,
+          "expanded_url": "https://x.com/theforeveriris/status/2083802062962508119/photo/1",
+          "media_key": "3_2083802053751767040",
+          "start": 16,
+          "url": "https://t.co/LFz2jXXRDS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083802062962508119",
+    "in_reply_to_user_id": "1895463022367498240",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083799059350098146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikaribottt （） https://t.co/LFz2jXXRDS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2083802053751767040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsm7WwagAAJNiF.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083802053751767040"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T06:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083802062962508119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895463022367498240",
+              "start": 0,
+              "username": "hikaribottt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFz2jXXRDS",
+              "end": 39,
+              "expanded_url": "https://x.com/theforeveriris/status/2083802062962508119/photo/1",
+              "media_key": "3_2083802053751767040",
+              "start": 16,
+              "url": "https://t.co/LFz2jXXRDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083802062962508119",
+        "in_reply_to_user_id": "1895463022367498240",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083799059350098146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikaribottt （） https://t.co/LFz2jXXRDS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895463022367498240",
+        "conversation_id": "2083757107321676246",
+        "created_at": "2026-08-02T06:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083799059350098146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083799059350098146",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083757107321676246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 好奇网址（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 451,
+          "like_count": 18364,
+          "listed_count": 6,
+          "media_count": 385,
+          "tweet_count": 4038
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T13:16:44.000Z",
+        "description": "日常水推/日常帖/bot/天然蠢废/是个学生/音游人\n互fo喵\n平时水课，假期发癫，可能也会记录一些互联网怪事（存疑）\n一个无趣的灵魂游荡ing",
+        "id": "1895463022367498240",
+        "location": "天國",
+        "name": "落叶sour-ce",
+        "pinned_tweet_id": "2058119429482021070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075742744803479552/cpDWGZvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 109,
+          "like_count": 2103,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1101
+        },
+        "url": "",
+        "username": "hikaribottt",
+        "verified": true
+      }
+    ]
+  }
+}

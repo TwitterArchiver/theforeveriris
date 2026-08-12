@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061518182431727625",
+    "created_at": "2026-06-02T02:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061643086221152639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2438204519",
+          "start": 0,
+          "username": "LeonLRedfield"
+        },
+        {
+          "end": 28,
+          "id": "831495289441628160",
+          "start": 15,
+          "username": "changwei1006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061643086221152639",
+    "in_reply_to_user_id": "2438204519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061520408311152923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeonLRedfield @changwei1006 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061518182431727625",
+        "created_at": "2026-06-02T02:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061643086221152639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2438204519",
+              "start": 0,
+              "username": "LeonLRedfield"
+            },
+            {
+              "end": 28,
+              "id": "831495289441628160",
+              "start": 15,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061643086221152639",
+        "in_reply_to_user_id": "2438204519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061520408311152923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeonLRedfield @changwei1006 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2438204519",
+        "conversation_id": "2061518182431727625",
+        "created_at": "2026-06-01T18:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061520408311152923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "831495289441628160",
+              "start": 0,
+              "username": "changwei1006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061520408311152923",
+        "in_reply_to_user_id": "831495289441628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061518182431727625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changwei1006 你repo上去我幫你用Claude修😂僅限十小時內有效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 15828,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 3619
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-26T16:48:44.000Z",
+        "description": "心存善念，盡力而為 \n但行好事，勿問前程 \n立德立言，無問西東 \n初級逆向分析員\n轉發僅代表閱讀\n評論不代表背書\n僅代表個人觀點 \n初級數據分析師  吃瓜黨黨員🍉🍉\n無岸.共見\nלראות את הבלתי יאומן, לעשות את הבלתי אפשרי",
+        "id": "2438204519",
+        "location": "Taiwan basically in Taichung",
+        "name": "台灣李家宝🇲🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055264289649541120/LkuZU4cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 578,
+          "like_count": 83945,
+          "listed_count": 6,
+          "media_count": 4456,
+          "tweet_count": 24448
+        },
+        "username": "LeonLRedfield",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "PhD student, Dept of Adult & Continuing Education, National Taiwan Normal University.\nFormerly studied ECE & CSIE.\nInterned at @PingCAP & @RisingWaveLabs as FE.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "PingCAP"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "RisingWaveLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "https://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/d6BXAYKIG3"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18833,
+          "following_count": 5212,
+          "like_count": 148674,
+          "listed_count": 142,
+          "media_count": 5920,
+          "tweet_count": 19002
+        },
+        "url": "https://t.co/d6BXAYKIG3",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

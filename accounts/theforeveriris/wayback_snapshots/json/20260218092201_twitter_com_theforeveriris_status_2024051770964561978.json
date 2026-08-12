@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2024028329607843954",
+    "created_at": "2026-02-18T09:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024051770964561978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4658293933",
+          "start": 0,
+          "username": "incisakura1"
+        },
+        {
+          "end": 24,
+          "id": "1643555875813216257",
+          "start": 13,
+          "username": "IceyPillow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024051770964561978",
+    "in_reply_to_user_id": "4658293933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024043565257798121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@incisakura1 @IceyPillow core 都不用.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2024028329607843954",
+        "created_at": "2026-02-18T09:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024051770964561978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4658293933",
+              "start": 0,
+              "username": "incisakura1"
+            },
+            {
+              "end": 24,
+              "id": "1643555875813216257",
+              "start": 13,
+              "username": "IceyPillow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024051770964561978",
+        "in_reply_to_user_id": "4658293933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024043565257798121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@incisakura1 @IceyPillow core 都不用.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4658293933",
+        "conversation_id": "2024028329607843954",
+        "created_at": "2026-02-18T08:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024043565257798121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643555875813216257",
+              "start": 0,
+              "username": "IceyPillow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LukasHozda/sta…",
+              "end": 91,
+              "expanded_url": "https://x.com/LukasHozda/status/1887636921960013973",
+              "start": 68,
+              "url": "https://t.co/HwX3vxnEVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024043565257798121",
+        "in_reply_to_user_id": "1643555875813216257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887636921960013973",
+            "type": "quoted"
+          },
+          {
+            "id": "2024028329607843954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IceyPillow Rust 直接写 HelloWorld 会静态编译进标准库进去导致二进制远比 C 大，所以下面这才是正确姿势（\nhttps://t.co/HwX3vxnEVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 429,
+          "like_count": 11072,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2832
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-27T00:35:08.000Z",
+        "description": "ようやく、長年忘れ去られていた夢を思い出すことができた",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.jp",
+                "end": 23,
+                "expanded_url": "https://qaq.jp",
+                "start": 0,
+                "url": "https://t.co/PC2YLk2KVp"
+              }
+            ]
+          }
+        },
+        "id": "4658293933",
+        "location": "O.M.V. 帝江号",
+        "name": "いんしさくら@en0",
+        "pinned_tweet_id": "1750917991733350448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291443446675251200/_2vBngc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 872,
+          "like_count": 55374,
+          "listed_count": 10,
+          "media_count": 509,
+          "tweet_count": 9449
+        },
+        "url": "https://t.co/PC2YLk2KVp",
+        "username": "incisakura1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T10:08:05.000Z",
+        "description": "A Baka coder, developing an open-source game engine in 2026: https://t.co/vzGuOIlxZu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/ModulePillow/P…",
+                "end": 84,
+                "expanded_url": "http://github.com/ModulePillow/PillowBasics",
+                "start": 61,
+                "url": "https://t.co/vzGuOIlxZu"
+              }
+            ]
+          }
+        },
+        "id": "1643555875813216257",
+        "location": "ISO/IEC 14882:2026",
+        "name": "全麦睡枕:",
+        "pinned_tweet_id": "2021656114585309505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020866969562656768/feJX91ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 761,
+          "like_count": 17083,
+          "listed_count": 8,
+          "media_count": 775,
+          "tweet_count": 7377
+        },
+        "username": "IceyPillow",
+        "verified": false
+      }
+    ]
+  }
+}

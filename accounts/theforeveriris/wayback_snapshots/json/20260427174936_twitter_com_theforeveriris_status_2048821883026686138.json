@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2048569807189012534",
+    "created_at": "2026-04-27T17:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048821883026686138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "579701209",
+          "start": 0,
+          "username": "jaywcjlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048821883026686138",
+    "in_reply_to_user_id": "579701209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048569807189012534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaywcjlove 你这家伙为什么要用上个世纪的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2048569438732210176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG37DP1a0AA2EgZ.jpg",
+        "width": 1760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2048569807189012534",
+        "created_at": "2026-04-27T17:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048821883026686138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "579701209",
+              "start": 0,
+              "username": "jaywcjlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048821883026686138",
+        "in_reply_to_user_id": "579701209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048569807189012534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaywcjlove 你这家伙为什么要用上个世纪的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048569438732210176"
+          ]
+        },
+        "author_id": "579701209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2048569807189012534",
+        "created_at": "2026-04-27T01:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048569807189012534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to notepad-plus-plus-mac/notepad-plus-plus-macos development by creating an account on GitHub.",
+              "display_url": "github.com/notepad-plus-p…",
+              "end": 85,
+              "expanded_url": "https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2048569810510848001/EcL0OU_a?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048569810510848001/EcL0OU_a?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "GitHub - notepad-plus-plus-mac/notepad-plus-plus-macos",
+              "unwound_url": "https://github.com/notepad-plus-plus-mac/notepad-plus-plus-macos",
+              "url": "https://t.co/2GZUeHOVbN"
+            },
+            {
+              "display_url": "pic.x.com/UX8Xic31aC",
+              "end": 109,
+              "expanded_url": "https://x.com/jaywcjlove/status/2048569807189012534/photo/1",
+              "media_key": "3_2048569438732210176",
+              "start": 86,
+              "url": "https://t.co/UX8Xic31aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048569807189012534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5375,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Notepad++ for macOS  是不是有点太丑了\n\nSublime Text 和 Zed 不比这个更香 😂\n\n👉 https://t.co/2GZUeHOVbN https://t.co/UX8Xic31aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 448,
+          "like_count": 13672,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 3229
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-14T08:58:04.000Z",
+        "description": "Programmer, Swift, React, Node.js, and Web development.\nhttps://t.co/dN45cg9WwP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wangchujiang.com",
+                "end": 79,
+                "expanded_url": "https://wangchujiang.com",
+                "start": 56,
+                "url": "https://t.co/dN45cg9WwP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wangchujiang.com",
+                "end": 23,
+                "expanded_url": "https://wangchujiang.com",
+                "start": 0,
+                "url": "https://t.co/dN45cg9WwP"
+              }
+            ]
+          }
+        },
+        "id": "579701209",
+        "name": "小弟调调",
+        "pinned_tweet_id": "1930216911528440196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/764536725750165504/DFOYV1w3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9242,
+          "following_count": 816,
+          "like_count": 971,
+          "listed_count": 93,
+          "media_count": 1780,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/dN45cg9WwP",
+        "username": "jaywcjlove",
+        "verified": true
+      }
+    ]
+  }
+}

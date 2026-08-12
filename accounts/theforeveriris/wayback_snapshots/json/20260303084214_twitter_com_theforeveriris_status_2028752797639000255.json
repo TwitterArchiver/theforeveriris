@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2028752797639000255",
+    "created_at": "2026-03-03T08:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028752797639000255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2028440009846751711",
+          "start": 36,
+          "url": "https://t.co/PGBu7SX3PA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028752797639000255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028440009846751711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "4 节水课（专业无关的课/选修课/我早就学过的课）给我玩手机玩力竭了🌚 https://t.co/PGBu7SX3PA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2028752797639000255",
+        "created_at": "2026-03-03T08:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028752797639000255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2028440009846751711",
+              "start": 36,
+              "url": "https://t.co/PGBu7SX3PA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028752797639000255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028440009846751711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4 节水课（专业无关的课/选修课/我早就学过的课）给我玩手机玩力竭了🌚 https://t.co/PGBu7SX3PA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2028440009846751711",
+        "created_at": "2026-03-02T11:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028440009846751711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2028068528566521866",
+              "start": 46,
+              "url": "https://t.co/pwoZfrg0sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028440009846751711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028068528566521866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开学第二天满课我真要死了😭😭，我要打舞萌，我要到处玩，我要抱着 xyn 睡觉（bushi） https://t.co/pwoZfrg0sk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 440,
+          "like_count": 11793,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 3025
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1983769174746001672",
+    "created_at": "2025-10-30T11:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983856107862028459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1983856107862028459",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983769174746001672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu u r right"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983769172162359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fDjTcbsAAm8lJ.jpg",
+        "width": 944
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1983769174746001672",
+        "created_at": "2025-10-30T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983856107862028459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1983856107862028459",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983769174746001672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu u r right"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983769172162359296"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "conversation_id": "1983769174746001672",
+        "created_at": "2025-10-30T05:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983769174746001672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BRLLPFSqS",
+              "end": 167,
+              "expanded_url": "https://x.com/s1nyvu/status/1983769174746001672/photo/1",
+              "media_key": "3_1983769172162359296",
+              "start": 144,
+              "url": "https://t.co/1BRLLPFSqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983769174746001672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不相信这几年国产rom做的一堆ai增强服务。打着智能旗号，实际权限魔王，在学习用户习惯和“改善”体验的同时，👻知道有没有偷偷上传到云端拿去做标本\n也并非改善，耗电和发热量大增，功能鸡肋不中用，倒是把我信息都败光了。所以关了也不够，还得adb把那些xx服务全都冻结清除数据禁止联网（ https://t.co/1BRLLPFSqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 373,
+          "like_count": 6033,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2319
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "跨➗一枚|07|自高三辍学离家出走无业穷困一年余|enfj|文艺氰年，除了写文写歌词啥也不会|饥寒交迫求投喂喵|khn健全b乐子人勿扰",
+        "id": "1617523246144053251",
+        "location": "去时花满枝垂地，归来雨满襟",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1960624262114660464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 53,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1574
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

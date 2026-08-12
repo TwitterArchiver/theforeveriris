@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2052183679305224429",
+    "created_at": "2026-05-07T03:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052227154356940972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3122661542",
+          "start": 0,
+          "username": "yangyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052227154356940972",
+    "in_reply_to_user_id": "3122661542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052183679305224429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyi 更大的可能不是自己去做初创所谓“一人公司”，而是干臭外包的其实）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2052183679305224429",
+        "created_at": "2026-05-07T03:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052227154356940972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3122661542",
+              "start": 0,
+              "username": "yangyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052227154356940972",
+        "in_reply_to_user_id": "3122661542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052183679305224429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyi 更大的可能不是自己去做初创所谓“一人公司”，而是干臭外包的其实）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3122661542",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2052183679305224429",
+        "created_at": "2026-05-07T00:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052183679305224429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052183679305224429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你在做的软件\n不是为自己做的\n那么第一件事绝对不应该是vibe coding\n而是vibe faking\n\n用gpt-image-2\n直接把你想做的东西\n生成出图片\n想再深入点儿 用seedance进一步做出产品动画\n\n核心是感受到价值\n接着找到用户在的地方\n可以是reddit 可以是小红书\n甚至你就在推特 用xpro来搜索关键词\n找到对应的用户发DM\n\n先看他们感不感兴趣\n感兴趣的话问下他们 愿不愿意支付10美金来当创始会员 会给他们徽章+3个月会员\n\n如果都找不到3-5个付费的人\n那就放弃吧\n\n因为即便vibe coding出来\n你也增长不起来的\n\n早期就应该做点儿无法规模化的事情\n洞察比用户量更重要"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1988,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在做的软件\n不是为自己做的\n那么第一件事绝对不应该是vibe coding\n而是vibe faking\n\n用gpt-image-2\n直接把你想做的东西\n生成出图片\n想再深入点儿 用seedance进一步做出产品动画\n\n核心是感受到价值\n接着找到用户在的地方\n可以是reddit 可以是小红书\n甚至你就在推特 用xpro来搜索关键词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 450,
+          "like_count": 14025,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 3363
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-01T03:00:40.000Z",
+        "description": "人机协同架构师\nReverb Marketing布道者\n新时代人机协同基站 - 牛马AI👉🏻https://t.co/QJVShfywLx\nYangyi实战手记👉🏻https://t.co/Pkue4jV8hK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "niuma.limyai.com",
+                "end": 69,
+                "expanded_url": "https://niuma.limyai.com",
+                "start": 46,
+                "url": "https://t.co/QJVShfywLx"
+              },
+              {
+                "display_url": "yangyixxxx.substack.com",
+                "end": 105,
+                "expanded_url": "https://yangyixxxx.substack.com",
+                "start": 82,
+                "url": "https://t.co/Pkue4jV8hK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.bio/yangyi",
+                "end": 23,
+                "expanded_url": "https://lnk.bio/yangyi",
+                "start": 0,
+                "url": "https://t.co/OaWg6uV2Qr"
+              }
+            ]
+          }
+        },
+        "id": "3122661542",
+        "name": "Yangyi",
+        "pinned_tweet_id": "2037767717386907725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006199964930879488/FCF1YJ0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123071,
+          "following_count": 572,
+          "like_count": 6859,
+          "listed_count": 1121,
+          "media_count": 3347,
+          "tweet_count": 16815
+        },
+        "url": "https://t.co/OaWg6uV2Qr",
+        "username": "yangyi",
+        "verified": true
+      }
+    ]
+  }
+}

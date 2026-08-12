@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084581415581081766",
+    "created_at": "2026-08-04T11:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084605017072214036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084605017072214036",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084581415581081766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 你已经在慢慢变好了，而且一天一根烟算什么瘾啊（）只能算是怡情爱好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084581415581081766",
+        "created_at": "2026-08-04T11:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084605017072214036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084605017072214036",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084581415581081766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 你已经在慢慢变好了，而且一天一根烟算什么瘾啊（）只能算是怡情爱好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2084581415581081766",
+        "created_at": "2026-08-04T10:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084581415581081766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084581415581081766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我真的很喜欢她\n我不嗑药了，我只是换种方式戒断，一天一根香烟，我不知道怎么做，她嫌弃我了，我们努力在变得慢慢的好，难道我又要去吃药物滥用吗，我不知道该怎么样，我已经很努力把药物戒掉了....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 458,
+          "like_count": 18769,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 4124
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 125,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 120,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 97,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 339,
+          "like_count": 11388,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

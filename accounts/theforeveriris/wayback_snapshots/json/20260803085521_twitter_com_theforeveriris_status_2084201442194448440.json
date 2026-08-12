@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084200201695399936"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084201442194448440",
+    "created_at": "2026-08-03T08:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084201442194448440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zOt86aSRXW",
+          "end": 120,
+          "expanded_url": "https://x.com/theforeveriris/status/2084201442194448440/photo/1",
+          "media_key": "3_2084200201695399936",
+          "start": 97,
+          "url": "https://t.co/zOt86aSRXW"
+        },
+        {
+          "display_url": "x.com/miaowuqvq/stat…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/miaowuqvq/status/2084098693020487861",
+          "start": 121,
+          "url": "https://t.co/EhiwODBCnf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084201442194448440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084098693020487861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典精神分析起手，我要查查癖了（）\n两者的区别不在于粪便出现在人体容器的内或外壁，这没有分别，而是在大他者的凝视下排便被赋予了羞耻、私密、与主体隔离的文明意义，于是人在此过程中完成了自我规训。 https://t.co/zOt86aSRXW https://t.co/EhiwODBCnf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2084200201695399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyRCnbaEAA_PWO.png",
+        "width": 643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084200201695399936"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084201442194448440",
+        "created_at": "2026-08-03T08:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084201442194448440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOt86aSRXW",
+              "end": 120,
+              "expanded_url": "https://x.com/theforeveriris/status/2084201442194448440/photo/1",
+              "media_key": "3_2084200201695399936",
+              "start": 97,
+              "url": "https://t.co/zOt86aSRXW"
+            },
+            {
+              "display_url": "x.com/miaowuqvq/stat…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/miaowuqvq/status/2084098693020487861",
+              "start": 121,
+              "url": "https://t.co/EhiwODBCnf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084201442194448440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084098693020487861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典精神分析起手，我要查查癖了（）\n两者的区别不在于粪便出现在人体容器的内或外壁，这没有分别，而是在大他者的凝视下排便被赋予了羞耻、私密、与主体隔离的文明意义，于是人在此过程中完成了自我规训。 https://t.co/zOt86aSRXW https://t.co/EhiwODBCnf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "conversation_id": "2084098693020487861",
+        "created_at": "2026-08-03T02:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084098693020487861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2083864091588997139",
+              "start": 34,
+              "url": "https://t.co/m3JyS546U7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084098693020487861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 879,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083864091588997139",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么明明是一种行为,边泡澡边灌肠就很正常,便泡澡边拉屎就很猎奇呢 https://t.co/m3JyS546U7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 455,
+          "like_count": 18609,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 4107
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "大松山恒人党党魁 黑道大小姐 幻想乡贤者反支萝莉 成人层司书 云南华欣药业官号 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！*۫۫۫۫۫♀️🈵🎌🗾🍐互fo谢谢(暂时站起的轮椅侠)",
+        "pinned_tweet_id": "2082979599080710572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 3591,
+          "like_count": 13695,
+          "listed_count": 10,
+          "media_count": 1037,
+          "tweet_count": 17895
+        },
+        "url": "",
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2058940097421082916",
+    "created_at": "2026-05-25T17:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058961391911092449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058961391911092449",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058940097421082916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 我就这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2058940091012190208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLTGqKXkAAOLXb.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2058940097421082916",
+        "created_at": "2026-05-25T17:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058961391911092449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058961391911092449",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058940097421082916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058940091012190208"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2058940097421082916",
+        "created_at": "2026-05-25T15:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058940097421082916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MK6M9IhDp",
+              "end": 27,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2058940097421082916/photo/1",
+              "media_key": "3_2058940091012190208",
+              "start": 4,
+              "url": "https://t.co/6MK6M9IhDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058940097421082916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 317,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/6MK6M9IhDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 462,
+          "like_count": 14679,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 3531
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛） | 白夜行（びゃくやこう）目前最喜欢的书罢了|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  互fo留言\n我的英雄学院坚定澄清派",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2055911384953581992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057121282508881920/u148AFSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2891,
+          "following_count": 2275,
+          "like_count": 43637,
+          "listed_count": 8,
+          "media_count": 2382,
+          "tweet_count": 21400
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

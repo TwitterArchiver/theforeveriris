@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980434590738092032"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "1980280967953854672",
+    "created_at": "2025-10-21T00:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T01:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980434603296084022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1794035996889436160",
+          "start": 0,
+          "username": "Eris37298"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JScwbbIvLG",
+          "end": 113,
+          "expanded_url": "https://x.com/theforeveriris/status/1980434603296084022/photo/1",
+          "media_key": "3_1980434590738092032",
+          "start": 90,
+          "url": "https://t.co/JScwbbIvLG"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1980434603296084022",
+    "in_reply_to_user_id": "1794035996889436160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980280967953854672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eris37298 Why isn't there a legendary  girl who loves human beings endlessly?\n怎么没有传奇爱人王？ https://t.co/JScwbbIvLG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1971,
+        "media_key": "3_1980434590738092032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3vqxHnXEAAFuTG.jpg",
+        "width": 1258
+      },
+      {
+        "height": 1272,
+        "media_key": "3_1980280964786827264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tfC6WWMAAGaJB.jpg",
+        "width": 960
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980434590738092032"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "1980280967953854672",
+        "created_at": "2025-10-21T00:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T01:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980434603296084022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1794035996889436160",
+              "start": 0,
+              "username": "Eris37298"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JScwbbIvLG",
+              "end": 113,
+              "expanded_url": "https://x.com/theforeveriris/status/1980434603296084022/photo/1",
+              "media_key": "3_1980434590738092032",
+              "start": 90,
+              "url": "https://t.co/JScwbbIvLG"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1980434603296084022",
+        "in_reply_to_user_id": "1794035996889436160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980280967953854672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eris37298 Why isn't there a legendary  girl who loves human beings endlessly?\n怎么没有传奇爱人王？ https://t.co/JScwbbIvLG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980280964786827264"
+          ]
+        },
+        "author_id": "1794035996889436160",
+        "conversation_id": "1980280967953854672",
+        "created_at": "2025-10-20T14:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980280967953854672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHGds98mkO",
+              "end": 36,
+              "expanded_url": "https://x.com/Eris37298/status/1980280967953854672/photo/1",
+              "media_key": "3_1980280964786827264",
+              "start": 13,
+              "url": "https://t.co/dHGds98mkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980280967953854672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2620,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们心目中最好的粉毛是？ https://t.co/dHGds98mkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 367,
+          "like_count": 6014,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 2296
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T16:01:45.000Z",
+        "description": "中右翼温和保守派，厄里斯教驻地球分支部，忠实的厄里斯粉，喜欢分享素晴奇闻趣事和梗图（也会分享其它二次元番剧梗图），喜欢道早安晚安的机器人(迫真  日本語を勉強中、好朋友：@Akarasu64 @Giarritti1 @loveNanashimura @Shirasu8964228  @crowley20271751",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Akarasu64"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Giarritti1"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "loveNanashimura"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shirasu8964228"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "crowley20271751"
+              }
+            ]
+          }
+        },
+        "id": "1794035996889436160",
+        "name": "厄里斯教地球分部🌏",
+        "pinned_tweet_id": "1852603032577650753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935002183189336064/Eu2XGB7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1177,
+          "like_count": 21319,
+          "listed_count": 3,
+          "media_count": 2390,
+          "tweet_count": 10627
+        },
+        "username": "Eris37298",
+        "verified": false
+      }
+    ]
+  }
+}

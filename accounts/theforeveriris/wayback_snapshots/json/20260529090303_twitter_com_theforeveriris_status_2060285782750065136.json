@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2060205122786079024",
+    "created_at": "2026-05-29T09:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060285782750065136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "canmi21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060285782750065136",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060205122786079024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canmi21 成功在项目中引入原神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2060205090800381953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdRnVmbsAEgYD7.png",
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2060205122786079024",
+        "created_at": "2026-05-29T09:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060285782750065136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "canmi21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060285782750065136",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060205122786079024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canmi21 成功在项目中引入原神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060205090800381953"
+          ]
+        },
+        "author_id": "1799009511333830656",
+        "conversation_id": "2060205122786079024",
+        "created_at": "2026-05-29T03:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060205122786079024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8idlqg9eq",
+              "end": 40,
+              "expanded_url": "https://x.com/canmi21/status/2060205122786079024/photo/1",
+              "media_key": "3_2060205090800381953",
+              "start": 17,
+              "url": "https://t.co/r8idlqg9eq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060205122786079024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11579,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不管我不管，我就要 Tauri https://t.co/r8idlqg9eq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 461,
+          "like_count": 15609,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3597
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "猫不错 | Software & Hardware Developer | CN/EN/JP\n摸摸 Rust x TS | INFP(2025) INFJ(2023) ENTP (2019)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ill.li",
+                "end": 23,
+                "expanded_url": "https://ill.li",
+                "start": 0,
+                "url": "https://t.co/4w4PKDF6lx"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Carolina",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043309116349915136/HEoWBPua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 171,
+          "like_count": 16320,
+          "listed_count": 17,
+          "media_count": 695,
+          "tweet_count": 4558
+        },
+        "url": "https://t.co/4w4PKDF6lx",
+        "username": "canmi21",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2035629750140670038",
+    "created_at": "2026-03-22T11:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035687376299905408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581738468547301376",
+          "start": 0,
+          "username": "ProbiusOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035687376299905408",
+    "in_reply_to_user_id": "1581738468547301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035629750140670038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProbiusOfficial 假牛子查飞机杯吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 423,
+        "media_key": "3_2035629059041005568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAB2A6aEAArOLK.png",
+        "width": 439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2035629750140670038",
+        "created_at": "2026-03-22T11:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035687376299905408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035687376299905408",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035629750140670038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial 假牛子查飞机杯吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035629059041005568"
+          ]
+        },
+        "author_id": "1581738468547301376",
+        "conversation_id": "2035629750140670038",
+        "created_at": "2026-03-22T08:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035629750140670038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjQSqN4Ect",
+              "end": 146,
+              "expanded_url": "https://x.com/ProbiusOfficial/status/2035629750140670038/photo/1",
+              "media_key": "3_2035629059041005568",
+              "start": 123,
+              "url": "https://t.co/GjQSqN4Ect"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035629750140670038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1952,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近接了点培训，然后手动出题太累了，反正都是基础知识点，就给cursor写了套skill\n基于给定的知识点和题目需求\n选择对应的容器模板编排 自动出题 自动生成wp和测题\n感觉再加个平台的API 就可以全自动上题了。。。\n我感觉我真要被取代了🥲 https://t.co/GjQSqN4Ect"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 463,
+          "like_count": 13311,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 3137
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "location": "Koprulu Sector Aiur",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2030395405083763109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9022,
+          "following_count": 513,
+          "like_count": 14450,
+          "listed_count": 47,
+          "media_count": 1988,
+          "tweet_count": 12741
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

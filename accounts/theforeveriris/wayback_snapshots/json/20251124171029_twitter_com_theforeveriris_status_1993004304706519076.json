@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1992830007220326430",
+    "created_at": "2025-11-24T17:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993004304706519076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674607455735799809",
+          "start": 0,
+          "username": "AkiChooey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993004304706519076",
+    "in_reply_to_user_id": "1674607455735799809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992830007220326430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiChooey 為什麼你的到了，我真得哈氣了，我的一點消息都沒有，只說預售等待商家發貨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992829979273682944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6f0TsRbYAAIzRE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1992830007220326430",
+        "created_at": "2025-11-24T17:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993004304706519076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674607455735799809",
+              "start": 0,
+              "username": "AkiChooey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993004304706519076",
+        "in_reply_to_user_id": "1674607455735799809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992830007220326430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiChooey 為什麼你的到了，我真得哈氣了，我的一點消息都沒有，只說預售等待商家發貨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992829979273682944"
+          ]
+        },
+        "author_id": "1674607455735799809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992830007220326430",
+        "created_at": "2025-11-24T05:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992830007220326430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxrhcKP3W2",
+              "end": 29,
+              "expanded_url": "https://x.com/AkiChooey/status/1992830007220326430/photo/1",
+              "media_key": "3_1992829979273682944",
+              "start": 6,
+              "url": "https://t.co/wxrhcKP3W2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992830007220326430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 67245,
+          "like_count": 555,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃品鉴 https://t.co/wxrhcKP3W2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 397,
+          "like_count": 6010,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2163
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T02:35:15.000Z",
+        "description": "这里秋屿～可以喊咱秋秋或叶子🍃丨福瑞控来的丨无情的弔图转发机器丨通信工程丨ENFP-A丨🥺@xiyuawa🥰丨一滩猫丨苦壁武汉大学生一只丨具体可私信捕捉（？）丨⚠️推止于推⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "xiyuawa"
+              }
+            ]
+          }
+        },
+        "id": "1674607455735799809",
+        "location": "武汉-青岛杂交",
+        "name": "秋屿本屿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980103566099353600/9mgnZ1oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 785,
+          "like_count": 1766,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 875
+        },
+        "username": "AkiChooey",
+        "verified": false
+      }
+    ]
+  }
+}

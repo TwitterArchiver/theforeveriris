@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062246040787660980",
+    "created_at": "2026-06-04T03:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062373488141447675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "507359908",
+          "start": 0,
+          "username": "syhily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062373488141447675",
+    "in_reply_to_user_id": "507359908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062246040787660980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@syhily 一般"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2062245962068934656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6RxriaQAAUGfj.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062246040787660980",
+        "created_at": "2026-06-04T03:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062373488141447675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "507359908",
+              "start": 0,
+              "username": "syhily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062373488141447675",
+        "in_reply_to_user_id": "507359908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062246040787660980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@syhily 一般"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062245962068934656"
+          ]
+        },
+        "author_id": "507359908",
+        "conversation_id": "2062246040787660980",
+        "created_at": "2026-06-03T18:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062246040787660980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I0VODTTZYv",
+              "end": 51,
+              "expanded_url": "https://x.com/syhily/status/2062246040787660980/photo/1",
+              "media_key": "3_2062245962068934656",
+              "start": 28,
+              "url": "https://t.co/I0VODTTZYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062246040787660980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2531,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我试试看 Kimi 的 Goal 来做重构效果如何。 https://t.co/I0VODTTZYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 16183,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3649
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-28T13:16:17.000Z",
+        "description": "Software engineer, contributor for @ApacheFlink. Coding in Java, Go, Scala, TS, and other 6 PLs. Reading is the only entertainment for him.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "ApacheFlink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yufan.me",
+                "end": 23,
+                "expanded_url": "https://yufan.me",
+                "start": 0,
+                "url": "https://t.co/Acif6IYJeN"
+              }
+            ]
+          }
+        },
+        "id": "507359908",
+        "name": "Yufan Sheng",
+        "pinned_tweet_id": "2055685327390695509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062360867883352064/lxhxwltU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20014,
+          "following_count": 649,
+          "like_count": 1682,
+          "listed_count": 120,
+          "media_count": 1164,
+          "tweet_count": 4008
+        },
+        "url": "https://t.co/Acif6IYJeN",
+        "username": "syhily",
+        "verified": false
+      }
+    ]
+  }
+}

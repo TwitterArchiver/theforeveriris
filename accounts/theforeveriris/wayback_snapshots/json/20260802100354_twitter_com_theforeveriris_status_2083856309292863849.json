@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083821082113606106",
+    "created_at": "2026-08-02T10:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083856309292863849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1661288763618902016",
+          "start": 0,
+          "username": "R1s666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083856309292863849",
+    "in_reply_to_user_id": "1661288763618902016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083821082113606106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1s666 真的假的，我用 glm-5.2 的时候经常因为安全限制无法回答我的问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2083820623651061760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs30RBawAAKdHP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 318,
+        "media_key": "3_2083820633289523200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs3007aAAA9wH2.png",
+        "width": 699
+      },
+      {
+        "height": 1236,
+        "media_key": "3_2083820647986384896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs31rraUAA-EZ1.jpg",
+        "width": 1641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083821082113606106",
+        "created_at": "2026-08-02T10:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083856309292863849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1661288763618902016",
+              "start": 0,
+              "username": "R1s666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083856309292863849",
+        "in_reply_to_user_id": "1661288763618902016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083821082113606106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1s666 真的假的，我用 glm-5.2 的时候经常因为安全限制无法回答我的问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083820623651061760",
+            "3_2083820633289523200",
+            "3_2083820647986384896"
+          ]
+        },
+        "author_id": "1661288763618902016",
+        "conversation_id": "2083821082113606106",
+        "created_at": "2026-08-02T07:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083821082113606106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWKNo1ATIc",
+              "end": 76,
+              "expanded_url": "https://x.com/R1s666/status/2083821082113606106/photo/1",
+              "media_key": "3_2083820623651061760",
+              "start": 53,
+              "url": "https://t.co/AWKNo1ATIc"
+            },
+            {
+              "display_url": "pic.x.com/AWKNo1ATIc",
+              "end": 76,
+              "expanded_url": "https://x.com/R1s666/status/2083821082113606106/photo/1",
+              "media_key": "3_2083820633289523200",
+              "start": 53,
+              "url": "https://t.co/AWKNo1ATIc"
+            },
+            {
+              "display_url": "pic.x.com/AWKNo1ATIc",
+              "end": 76,
+              "expanded_url": "https://x.com/R1s666/status/2083821082113606106/photo/1",
+              "media_key": "3_2083820647986384896",
+              "start": 53,
+              "url": "https://t.co/AWKNo1ATIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083821082113606106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3185,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "deepseek-v4-flash 给了我一个惊喜！在网络安全，漏洞挖掘方面有股opus4.6的味道了。 https://t.co/AWKNo1ATIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 452,
+          "like_count": 18417,
+          "listed_count": 6,
+          "media_count": 386,
+          "tweet_count": 4051
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T08:31:43.000Z",
+        "description": "2024 2025 MSRC MVR / Web security / Bug Bounty / Web3 / Senior at Hanyang University",
+        "id": "1661288763618902016",
+        "name": "R1s",
+        "pinned_tweet_id": "1875542799925571959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055328484466290688/9LdHvTjE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 232,
+          "like_count": 2069,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "R1s666",
+        "verified": true
+      }
+    ]
+  }
+}

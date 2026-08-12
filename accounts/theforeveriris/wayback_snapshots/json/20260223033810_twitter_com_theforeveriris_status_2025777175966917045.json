@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2025776358404862441",
+    "created_at": "2026-02-23T03:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025777175966917045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1000048385959710720",
+          "start": 0,
+          "username": "Close_Cat_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025777175966917045",
+    "in_reply_to_user_id": "1000048385959710720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025776358404862441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Close_Cat_AI 蓝 v 好像是支持使用 markdown 语法的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2025776358404862441",
+        "created_at": "2026-02-23T03:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025777175966917045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1000048385959710720",
+              "start": 0,
+              "username": "Close_Cat_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025777175966917045",
+        "in_reply_to_user_id": "1000048385959710720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025776358404862441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Close_Cat_AI 蓝 v 好像是支持使用 markdown 语法的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1000048385959710720",
+        "conversation_id": "2025776358404862441",
+        "created_at": "2026-02-23T03:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025776358404862441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025776358404862441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我刚刚发现怎么用斜体字和粗体字了。🤩"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现怎么用斜体字和粗体字了。🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 433,
+          "like_count": 11268,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2886
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-25T16:18:10.000Z",
+        "description": "我将有我：@nmwlnmwl 反转：@1mwu1mwu 今生：@Close_Cat_AI 前世：@WUaZNltsXRFEpJZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "nmwlnmwl"
+              },
+              {
+                "end": 27,
+                "start": 18,
+                "username": "1mwu1mwu"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Close_Cat_AI"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "WUaZNltsXRFEpJZ"
+              }
+            ]
+          }
+        },
+        "id": "1000048385959710720",
+        "location": "火星人在地球",
+        "name": "Close黑猫.AI",
+        "pinned_tweet_id": "1790224955680149975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584598744192126977/ddhTbplV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 611,
+          "like_count": 36114,
+          "listed_count": 4,
+          "media_count": 907,
+          "tweet_count": 15467
+        },
+        "username": "Close_Cat_AI",
+        "verified": true
+      }
+    ]
+  }
+}

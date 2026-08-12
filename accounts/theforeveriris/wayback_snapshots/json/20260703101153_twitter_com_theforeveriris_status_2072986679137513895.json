@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2072731672022532563",
+    "created_at": "2026-07-03T10:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072986679137513895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        },
+        {
+          "end": 30,
+          "id": "1813552253875392512",
+          "start": 14,
+          "username": "thomaswade53394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072986679137513895",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072731672022532563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa @thomaswade53394 不建议做这个主题，有法律风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2072731672022532563",
+        "created_at": "2026-07-03T10:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072986679137513895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            },
+            {
+              "end": 30,
+              "id": "1813552253875392512",
+              "start": 14,
+              "username": "thomaswade53394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072986679137513895",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072731672022532563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa @thomaswade53394 不建议做这个主题，有法律风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2072731672022532563",
+        "created_at": "2026-07-02T17:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072731672022532563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miokitsukawa/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/miokitsukawa/status/2069550359912304834",
+              "start": 91,
+              "url": "https://t.co/wami1dpWCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072731672022532563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3498,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069550359912304834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打算做一个处方单生成器，用 3D 引擎模拟手机拍纸的那种，然后只能开 HRT 药物，不能用来开乱七八糟的 od 药。\n要我说HRT药就不应该管制，我就是支持无医生指导下的自行HRT https://t.co/wami1dpWCi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 446,
+          "like_count": 16995,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 3780
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | TypeScript | Node.js | LocalLLaMA | 先天跨 | 会伪音 | 反向深柜 | MioMtFWiki 创建者 & 维护者 | 激进平权主义 | 无性恋 | 家养猫@linyongqin9 | 同类互 fo 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "linyongqin9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 947,
+          "like_count": 1611,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1051
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T12:32:18.000Z",
+        "description": "08/高中牲/189cm/70kg/泛性恋/INFP/轻微PTSD/偶尔抑郁和焦虑/缺钱/国家一级保护废物/想成为一个温柔的人/在做心理疏导和自杀干预/Q：2975472226/TG:https://t.co/j4EBn7vbdo /请注明来意/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@guxingyinyue",
+                "end": 115,
+                "expanded_url": "http://t.me/@guxingyinyue",
+                "start": 92,
+                "url": "https://t.co/j4EBn7vbdo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@guxingyinyue",
+                "end": 23,
+                "expanded_url": "http://t.me/@guxingyinyue",
+                "start": 0,
+                "url": "https://t.co/j4EBn7vbdo"
+              }
+            ]
+          }
+        },
+        "id": "1813552253875392512",
+        "location": "CoBeTckag CoynanucTuyeckag Pec",
+        "name": "孤星（曾名隐月）🍥",
+        "pinned_tweet_id": "1901407756684566961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893289318472376320/8Y0W_UaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 2153,
+          "like_count": 1512,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/j4EBn7vbdo",
+        "username": "thomaswade53394",
+        "verified": false
+      }
+    ]
+  }
+}

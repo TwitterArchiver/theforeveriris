@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074318970547785826",
+    "created_at": "2026-07-07T02:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074318970547785826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hsn8086/status/2074063571332526112",
+          "start": 18,
+          "url": "https://t.co/W5pxlJF4Jw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074318970547785826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074063571332526112",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推特什么时候可以自定义正则做屏蔽词 https://t.co/W5pxlJF4Jw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2074063568216203264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiN05EbIAACCmI.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074318970547785826",
+        "created_at": "2026-07-07T02:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074318970547785826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hsn8086/status/2074063571332526112",
+              "start": 18,
+              "url": "https://t.co/W5pxlJF4Jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074318970547785826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074063571332526112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特什么时候可以自定义正则做屏蔽词 https://t.co/W5pxlJF4Jw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074063568216203264"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2074063571332526112",
+        "created_at": "2026-07-06T09:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074063571332526112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEVulqqG6a",
+              "end": 31,
+              "expanded_url": "https://x.com/hsn8086/status/2074063571332526112/photo/1",
+              "media_key": "3_2074063568216203264",
+              "start": 8,
+              "url": "https://t.co/sEVulqqG6a"
+            },
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/hsn8086/status/2072412198891372606",
+              "start": 32,
+              "url": "https://t.co/H7ecLFSXh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074063571332526112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9389,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072412198891372606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的选择2.0 https://t.co/sEVulqqG6a https://t.co/H7ecLFSXh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 446,
+          "like_count": 17045,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3790
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121336,
+          "following_count": 1117,
+          "like_count": 52089,
+          "listed_count": 296,
+          "media_count": 22727,
+          "tweet_count": 33224
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

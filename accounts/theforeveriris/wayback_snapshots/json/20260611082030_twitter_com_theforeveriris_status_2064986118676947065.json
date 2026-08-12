@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2064872064226677213",
+    "created_at": "2026-06-11T08:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064986118676947065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1634598602126540800",
+          "start": 0,
+          "username": "234qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064986118676947065",
+    "in_reply_to_user_id": "1634598602126540800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064872064226677213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@234qaq 这是什么圈子？汪峰在吧那种吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2064872064226677213",
+        "created_at": "2026-06-11T08:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064986118676947065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634598602126540800",
+              "start": 0,
+              "username": "234qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064986118676947065",
+        "in_reply_to_user_id": "1634598602126540800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064872064226677213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@234qaq 这是什么圈子？汪峰在吧那种吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634598602126540800",
+        "conversation_id": "2064872064226677213",
+        "created_at": "2026-06-11T00:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064872064226677213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064872064226677213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想再刷到论战圈的视频了😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 459,
+          "like_count": 16659,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3699
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:54:16.000Z",
+        "description": "喜欢小猫 🚪0/9999/99999/   匿名问我问题吧https://t.co/Xs4wUELEBh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/23465562",
+                "end": 52,
+                "expanded_url": "https://ngl.link/23465562",
+                "start": 29,
+                "url": "https://t.co/Xs4wUELEBh"
+              }
+            ]
+          }
+        },
+        "id": "1634598602126540800",
+        "name": "3222号工具人",
+        "pinned_tweet_id": "2043922979449634834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 213,
+          "like_count": 15785,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2782
+        },
+        "username": "234qaq",
+        "verified": false
+      }
+    ]
+  }
+}

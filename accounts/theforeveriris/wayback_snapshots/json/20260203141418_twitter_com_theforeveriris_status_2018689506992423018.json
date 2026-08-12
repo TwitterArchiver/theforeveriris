@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2018642375971901605",
+    "created_at": "2026-02-03T14:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018689506992423018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        },
+        {
+          "end": 22,
+          "id": "1556279645502427136",
+          "start": 9,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018689506992423018",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018642375971901605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy @tianxiao0502 晚安，愛德華"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2018642375971901605",
+        "created_at": "2026-02-03T14:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018689506992423018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            },
+            {
+              "end": 22,
+              "id": "1556279645502427136",
+              "start": 9,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018689506992423018",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018642375971901605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy @tianxiao0502 晚安，愛德華"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "2018642375971901605",
+        "created_at": "2026-02-03T11:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018642375971901605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1556279645502427136",
+              "start": 3,
+              "username": "tianxiao0502"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/un_krvy/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/un_krvy/status/2018640652729569281",
+              "start": 17,
+              "url": "https://t.co/EwT84OUQkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018642375971901605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018640652729569281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作者 @tianxiao0502 https://t.co/EwT84OUQkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 399,
+          "like_count": 8790,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 2555
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 213,
+          "like_count": 6129,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1142
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "cn天晓 成分复杂 音游玩家 overdose 墙内没账号但不常用推 /-PsyDrugsWiki参与者 编辑-/互fo谢谢喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "東京 新宿区 药物研究所",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2015445624033051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014370395449942016/DvJfSMoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 122,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": false
+      }
+    ]
+  }
+}

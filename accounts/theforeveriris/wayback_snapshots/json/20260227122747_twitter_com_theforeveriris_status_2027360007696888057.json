@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027352982229270610",
+    "created_at": "2026-02-27T12:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027360007696888057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027360007696888057",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027353857836421372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 啊啊啊啊啊啊宝宝你怎么过得这么惨啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027352982229270610",
+        "created_at": "2026-02-27T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027360007696888057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027360007696888057",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027353857836421372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 啊啊啊啊啊啊宝宝你怎么过得这么惨啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "2027352982229270610",
+        "created_at": "2026-02-27T12:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027353857836421372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027353857836421372",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027352982229270610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bro还想找个工作，现在看来光顾家都有得忙的了。他不在家我随便糊弄做点吃的还省点功夫，他在家我是既要满足他上面还要满足他上面（）要是真有工作，每天下班累得要死回来看见家里乱糟糟臭哄哄，臭衣服袜子都等着我洗，锅里也空空如也都等着我来做，那真的是要感觉天塌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 438,
+          "like_count": 11522,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 2966
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "傻子🏳️‍⚧️一枚|07|高三辍学被家庭「抛弃」无业穷困一年余😥|enfj|文艺氰年，爱好越多越没用🙁|饥寒交迫恳请投喂喵🥺|具体简介请看置顶☺️|🚪门槛费+好友看着给就可以啦😇|同类欢迎扩列或者来咱的小破🐧群玩喵|od怪健全b🈷炮乐子人勿扰😡",
+        "id": "1617523246144053251",
+        "location": "卷毛是大坏蛋😈",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "2022209449369493962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 55,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1764
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

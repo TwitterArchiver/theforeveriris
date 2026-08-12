@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2075614689174995092",
+    "created_at": "2026-07-10T21:58:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T22:58:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075701157633331524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825021494805581824",
+          "start": 0,
+          "username": "lumuyuanMadoka2"
+        },
+        {
+          "end": 31,
+          "id": "1748763011140169729",
+          "start": 17,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075701157633331524",
+    "in_reply_to_user_id": "1825021494805581824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075671712541393312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuanMadoka2 @lovelyshuimao 新手教程的 npc 好像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2075614689174995092",
+        "created_at": "2026-07-10T21:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075701157633331524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 31,
+              "id": "1748763011140169729",
+              "start": 17,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075701157633331524",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075671712541393312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 @lovelyshuimao 新手教程的 npc 好像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "conversation_id": "2075614689174995092",
+        "created_at": "2026-07-10T20:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075671712541393312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075671712541393312",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075614689174995092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 虽然但是，教程女是什么啊？人物也不能改名正常，没听说过这个角色啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 450,
+          "like_count": 17368,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 3862
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語勉強中丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 124,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 101,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 594,
+          "like_count": 21648,
+          "listed_count": 11,
+          "media_count": 475,
+          "tweet_count": 6809
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3355,
+          "tweet_count": 15041
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

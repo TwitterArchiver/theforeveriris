@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978640163741052928"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "1978640178160771205",
+    "created_at": "2025-10-16T01:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T02:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978640178160771205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJV67jGQj8",
+          "end": 146,
+          "expanded_url": "https://x.com/theforeveriris/status/1978640178160771205/photo/1",
+          "media_key": "3_1978640163741052928",
+          "start": 123,
+          "url": "https://t.co/XJV67jGQj8"
+        },
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/theforeveriris/status/1978630856647270649",
+          "start": 147,
+          "url": "https://t.co/Y3HLilgVk0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978640178160771205",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978630856647270649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "It's hard to celebrate a birthday. Eat sth better in the morning.\n---\nThe fillings are fennel, celery, and mustard greens. https://t.co/XJV67jGQj8 https://t.co/Y3HLilgVk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1978640163741052928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WKvuIbMAAmkN_.jpg",
+        "width": 1920
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978640163741052928"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1978640178160771205",
+        "created_at": "2025-10-16T01:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978640178160771205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJV67jGQj8",
+              "end": 146,
+              "expanded_url": "https://x.com/theforeveriris/status/1978640178160771205/photo/1",
+              "media_key": "3_1978640163741052928",
+              "start": 123,
+              "url": "https://t.co/XJV67jGQj8"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/theforeveriris/status/1978630856647270649",
+              "start": 147,
+              "url": "https://t.co/Y3HLilgVk0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978640178160771205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978630856647270649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's hard to celebrate a birthday. Eat sth better in the morning.\n---\nThe fillings are fennel, celery, and mustard greens. https://t.co/XJV67jGQj8 https://t.co/Y3HLilgVk0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978630856647270649",
+        "created_at": "2025-10-16T01:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978630856647270649"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978630856647270649",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday?My life's balance has been reduced by another year.🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 364,
+          "like_count": 5984,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 2260
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

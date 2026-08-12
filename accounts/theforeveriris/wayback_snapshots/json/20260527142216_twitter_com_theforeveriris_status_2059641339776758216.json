@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059616267892670762",
+    "created_at": "2026-05-27T14:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059641339776758216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1633696677759684608",
+          "start": 0,
+          "username": "aKIPPUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059641339776758216",
+    "in_reply_to_user_id": "1633696677759684608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059616267892670762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aKIPPUz 这个好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2059616245092405248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJU6EAZbUAA3qbv.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059616267892670762",
+        "created_at": "2026-05-27T14:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059641339776758216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1633696677759684608",
+              "start": 0,
+              "username": "aKIPPUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059641339776758216",
+        "in_reply_to_user_id": "1633696677759684608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059616267892670762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aKIPPUz 这个好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059616245092405248"
+          ]
+        },
+        "author_id": "1633696677759684608",
+        "conversation_id": "2059616267892670762",
+        "created_at": "2026-05-27T12:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059616267892670762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHTsmBfJ01",
+              "end": 93,
+              "expanded_url": "https://x.com/aKIPPUz/status/2059616267892670762/photo/1",
+              "media_key": "3_2059616245092405248",
+              "start": 70,
+              "url": "https://t.co/LHTsmBfJ01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059616267892670762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 219,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺带一提，其实 TimeTrace 的标题是不限制字数还有长度的，写多少都可以\n因此，我也为不同字数情况准备了三种卡片排版，更符合空间直觉 https://t.co/LHTsmBfJ01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 464,
+          "like_count": 15078,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 3564
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T05:10:23.000Z",
+        "description": "Front-End｜Just hug me in the paradise.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aKIPPUz",
+                "end": 23,
+                "expanded_url": "https://lit.link/aKIPPUz",
+                "start": 0,
+                "url": "https://t.co/3EiK0sdqxN"
+              }
+            ]
+          }
+        },
+        "id": "1633696677759684608",
+        "name": "切符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024540141927399424/QDoZIYCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 88,
+          "like_count": 62925,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 4043
+        },
+        "url": "https://t.co/3EiK0sdqxN",
+        "username": "aKIPPUz",
+        "verified": false
+      }
+    ]
+  }
+}

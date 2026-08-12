@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2049948793320218999",
+    "created_at": "2026-05-01T09:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050144416376160535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1700658281335705601",
+          "start": 0,
+          "username": "alidotosaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050144416376160535",
+    "in_reply_to_user_id": "1700658281335705601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049948793320218999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alidotosaka 东方 project 使我大放异彩（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2049948793320218999",
+        "created_at": "2026-05-01T09:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050144416376160535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700658281335705601",
+              "start": 0,
+              "username": "alidotosaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050144416376160535",
+        "in_reply_to_user_id": "1700658281335705601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049948793320218999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alidotosaka 东方 project 使我大放异彩（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700658281335705601",
+        "conversation_id": "2049948793320218999",
+        "created_at": "2026-04-30T20:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T21:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049948793320218999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049948793320218999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5862,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在中文课上，我老师开始教我方向，他问我有没有已经会的。我就说了“东方”，然后他问我是从哪里知道这个的。接着我就有点不好意思地解释了一下什么是“东方Project”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 452,
+          "like_count": 13852,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 3287
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T23:51:52.000Z",
+        "description": "17. I love touhou, TFR, Yuuka, Takane, Koishie. 🚩- 🇬🇧🍁🏔️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ali.osaka",
+                "end": 23,
+                "expanded_url": "http://ali.osaka",
+                "start": 0,
+                "url": "https://t.co/jmP068j5PJ"
+              }
+            ]
+          }
+        },
+        "id": "1700658281335705601",
+        "name": "ali",
+        "pinned_tweet_id": "1924241733379867093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849836281238355968/8OosU7yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 299,
+          "like_count": 14281,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/jmP068j5PJ",
+        "username": "alidotosaka",
+        "verified": false
+      }
+    ]
+  }
+}

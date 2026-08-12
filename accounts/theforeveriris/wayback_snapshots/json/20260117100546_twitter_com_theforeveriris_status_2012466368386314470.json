@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2012448359974412533",
+    "created_at": "2026-01-17T10:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012466368386314470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777127815558975488",
+          "start": 0,
+          "username": "946552143544k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012466368386314470",
+    "in_reply_to_user_id": "1777127815558975488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012448359974412533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@946552143544k 抱抱，不紫砂好文明(っ´▽｀)っ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2012448359974412533",
+        "created_at": "2026-01-17T10:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012466368386314470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777127815558975488",
+              "start": 0,
+              "username": "946552143544k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012466368386314470",
+        "in_reply_to_user_id": "1777127815558975488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012448359974412533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@946552143544k 抱抱，不紫砂好文明(っ´▽｀)っ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777127815558975488",
+        "conversation_id": "2012448359974412533",
+        "created_at": "2026-01-17T08:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012448359974412533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012448359974412533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不紫砂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 361,
+          "like_count": 6620,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2366
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:14:40.000Z",
+        "description": "INTJISFP 16岁药娘 大猫咪主人@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "x16_46280721"
+              }
+            ]
+          }
+        },
+        "id": "1777127815558975488",
+        "name": "鎮命🍥",
+        "pinned_tweet_id": "2002768252246921397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008707303386857472/OU3Tl8gY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 476,
+          "like_count": 14874,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 354
+        },
+        "username": "946552143544k",
+        "verified": false
+      }
+    ]
+  }
+}

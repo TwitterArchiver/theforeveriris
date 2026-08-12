@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978059063092027434",
+    "created_at": "2025-10-15T15:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T16:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978477778652819679"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "Java",
+          "probability": 0.8124,
+          "start": 99,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "740784709878288384",
+          "start": 0,
+          "username": "tison1096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978477778652819679",
+    "in_reply_to_user_id": "740784709878288384",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978059063092027434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tison1096 I once thought that encapsulation and inheritance were the most significant features of Java. After all, this is how the new generation of textbooks explain it."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2158,
+        "media_key": "3_1978058726650384384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3N57oLbkAAPk06.jpg",
+        "width": 3456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978059063092027434",
+        "created_at": "2025-10-15T15:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978477778652819679"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "Java",
+              "probability": 0.8124,
+              "start": 99,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "740784709878288384",
+              "start": 0,
+              "username": "tison1096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978477778652819679",
+        "in_reply_to_user_id": "740784709878288384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978059063092027434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tison1096 I once thought that encapsulation and inheritance were the most significant features of Java. After all, this is how the new generation of textbooks explain it."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978058726650384384"
+          ]
+        },
+        "author_id": "740784709878288384",
+        "conversation_id": "1978059063092027434",
+        "created_at": "2025-10-14T11:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978059063092027434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aM9JFhtiye",
+              "end": 184,
+              "expanded_url": "https://x.com/tison1096/status/1978059063092027434/photo/1",
+              "media_key": "3_1978058726650384384",
+              "start": 161,
+              "url": "https://t.co/aM9JFhtiye"
+            },
+            {
+              "display_url": "x.com/sin95220481446…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/sin952204814464/status/1977933959133794732",
+              "start": 185,
+              "url": "https://t.co/CbuamVpFGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978059063092027434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6568,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977933959133794732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个不是新生代独有的，甚至不是很多人责怪的设计模式。这套东西的祸根来自 EJB 时期鼓励抽象的指导思想。\n\nApache Flink 有段时间矫枉过正到处疯狂封装，搞出了我记忆犹新的一个功能十一层 indirection 的设计。\n\n但是后来加入某厂以后，我才发现 Flink 只是啰嗦，内部代码的继承关系简直就是乱伦。 https://t.co/aM9JFhtiye https://t.co/CbuamVpFGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 359,
+          "like_count": 5971,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2242
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-09T05:56:52.000Z",
+        "description": "Co-Founder @scopedbio. Board Member & Incubator Mentor @TheASF\n\nGitHub: https://t.co/7DIR5B81Da",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "scopedbio"
+              },
+              {
+                "end": 62,
+                "start": 55,
+                "username": "TheASF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/tisonkun/",
+                "end": 95,
+                "expanded_url": "https://github.com/tisonkun/",
+                "start": 72,
+                "url": "https://t.co/7DIR5B81Da"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scopedb.io",
+                "end": 23,
+                "expanded_url": "https://www.scopedb.io",
+                "start": 0,
+                "url": "https://t.co/MomFR7ujhm"
+              }
+            ]
+          }
+        },
+        "id": "740784709878288384",
+        "name": "tison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1071402420301778945/RqkZEVm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7290,
+          "following_count": 73,
+          "like_count": 485,
+          "listed_count": 66,
+          "media_count": 1274,
+          "tweet_count": 7821
+        },
+        "url": "https://t.co/MomFR7ujhm",
+        "username": "tison1096",
+        "verified": true
+      }
+    ]
+  }
+}

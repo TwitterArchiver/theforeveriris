@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085686715017265410",
+    "created_at": "2026-08-07T17:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085782565311709402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085782565311709402",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085780226752356361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we 我服了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085686715017265410",
+        "created_at": "2026-08-07T17:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085782565311709402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085782565311709402",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085780226752356361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we 我服了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017934187907665920",
+        "conversation_id": "2085686715017265410",
+        "created_at": "2026-08-07T17:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085780226752356361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085780226752356361",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085686715017265410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 妈妈怎么还吃过盐😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 466,
+          "like_count": 19424,
+          "listed_count": 6,
+          "media_count": 427,
+          "tweet_count": 4240
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl/小证含糖/家长不管/hrt20250807/抑郁 adhd确诊/self hurt/od/08 09 07/高三",
+        "id": "2017934187907665920",
+        "location": "Baltimore, MD",
+        "name": "mikki_z🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606014276124672/glEbB4q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 201,
+          "like_count": 2669,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "ch8_we",
+        "verified": false
+      }
+    ]
+  }
+}

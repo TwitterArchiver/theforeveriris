@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027398248009486664",
+    "created_at": "2026-02-27T15:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027411701960962160"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027411701960962160",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027398248009486664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是瞬爆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1983,
+        "media_key": "3_2027398235657252864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLD9CaasAAf7YC.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027398248009486664",
+        "created_at": "2026-02-27T15:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027411701960962160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027411701960962160",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027398248009486664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是瞬爆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027398235657252864"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027398248009486664",
+        "created_at": "2026-02-27T14:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027398248009486664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbiDrt58tA",
+              "end": 39,
+              "expanded_url": "https://x.com/theforeveriris/status/2027398248009486664/photo/1",
+              "media_key": "3_2027398235657252864",
+              "start": 16,
+              "url": "https://t.co/VbiDrt58tA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027398248009486664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开局就放地雷？孩子们我会赌赢吗 https://t.co/VbiDrt58tA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 440,
+          "like_count": 11558,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 2980
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

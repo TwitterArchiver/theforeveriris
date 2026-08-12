@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2080961859092722128",
+    "created_at": "2026-07-25T18:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081090304380404202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081090304380404202",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080961859092722128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYiGongHeQiu 我第一次用 MySQL 也不知道打分号，就看着 bash 前的&gt;不知所措（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_2080961766352375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEPs3qaUAAMtUL.jpg",
+        "width": 2518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2080961859092722128",
+        "created_at": "2026-07-25T18:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081090304380404202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081090304380404202",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080961859092722128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYiGongHeQiu 我第一次用 MySQL 也不知道打分号，就看着 bash 前的&gt;不知所措（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080961766352375808"
+          ]
+        },
+        "author_id": "1443439089710092288",
+        "conversation_id": "2080961859092722128",
+        "created_at": "2026-07-25T10:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080961859092722128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUEuXYlCcl",
+              "end": 44,
+              "expanded_url": "https://x.com/XiaYiGongHeQiu/status/2080961859092722128/photo/1",
+              "media_key": "3_2080961766352375808",
+              "start": 21,
+              "url": "https://t.co/rUEuXYlCcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080961859092722128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 889,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I try my best\nfrom 0 https://t.co/rUEuXYlCcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 453,
+          "like_count": 18118,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 3992
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "MtF｜Assistant Accountant｜CPA (CAATs with SQL/Python) on the way｜linguaphile｜beloved @maplemarate｜sub-acct @XiaYGHQiu｜follow back selectively meow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "maplemarate"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾夷共和球🍥",
+        "pinned_tweet_id": "2064950601444982819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 756,
+          "like_count": 22381,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 4091
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

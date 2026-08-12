@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2025816909552525643",
+    "created_at": "2026-02-24T06:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026186088658895176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684788748582883328",
+          "start": 0,
+          "username": "Martim036145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026186088658895176",
+    "in_reply_to_user_id": "1684788748582883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025816909552525643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martim036145 不能，但是可以多试试vibe，熟练了可以在闲鱼上面帮经管院学生做课设（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2025816909552525643",
+        "created_at": "2026-02-24T06:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026186088658895176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026186088658895176",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025816909552525643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 不能，但是可以多试试vibe，熟练了可以在闲鱼上面帮经管院学生做课设（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788748582883328",
+        "conversation_id": "2025816909552525643",
+        "created_at": "2026-02-23T06:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025816909552525643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025816909552525643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3241,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在自学Python还能自己接单赚钱吗🤔一天能赚100吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 436,
+          "like_count": 11340,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2904
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆底层穷蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/我唐得要命，真的/随机发疯",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️（戒酒已0天）",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965360806159437824/TZDoSYs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1197,
+          "like_count": 13834,
+          "listed_count": 2,
+          "media_count": 1303,
+          "tweet_count": 7354
+        },
+        "username": "Martim036145",
+        "verified": false
+      }
+    ]
+  }
+}

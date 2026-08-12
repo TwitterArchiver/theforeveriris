@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083899232545915225",
+    "created_at": "2026-08-02T18:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083985720063218142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083985720063218142",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083899232545915225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime qoder 不知道是系统提示词问题还是架构问题，模型处理问题的速度特别慢（使用同一个模型和 trae 对比）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2083899183178956801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt_RCEbwAEHLsr.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1195,
+        "media_key": "3_2083899204494405632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt_SRebsAA99ny.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1276,
+        "media_key": "3_2083899214900400129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt_S4PakAEC0_i.jpg",
+        "width": 2496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083899232545915225",
+        "created_at": "2026-08-02T18:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083985720063218142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083985720063218142",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083899232545915225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime qoder 不知道是系统提示词问题还是架构问题，模型处理问题的速度特别慢（使用同一个模型和 trae 对比）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083899183178956801",
+            "3_2083899204494405632",
+            "3_2083899214900400129"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2083899232545915225",
+        "created_at": "2026-08-02T12:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083899232545915225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bPyc3Peakk",
+              "end": 114,
+              "expanded_url": "https://x.com/realNyarime/status/2083899232545915225/photo/1",
+              "media_key": "3_2083899183178956801",
+              "start": 91,
+              "url": "https://t.co/bPyc3Peakk"
+            },
+            {
+              "display_url": "pic.x.com/bPyc3Peakk",
+              "end": 114,
+              "expanded_url": "https://x.com/realNyarime/status/2083899232545915225/photo/1",
+              "media_key": "3_2083899204494405632",
+              "start": 91,
+              "url": "https://t.co/bPyc3Peakk"
+            },
+            {
+              "display_url": "pic.x.com/bPyc3Peakk",
+              "end": 114,
+              "expanded_url": "https://x.com/realNyarime/status/2083899232545915225/photo/1",
+              "media_key": "3_2083899214900400129",
+              "start": 91,
+              "url": "https://t.co/bPyc3Peakk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083899232545915225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3515,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Trae跟WorkBuddy和Qoder一样实行积分制了，可谓是殊途同归啊！\n不过Qoder也有好处，不仅模型倍率比WorkBuddy低了一倍了，而且自家的模型到了晚上跟不要钱一样 https://t.co/bPyc3Peakk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 453,
+          "like_count": 18547,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4086
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43385,
+          "following_count": 664,
+          "like_count": 20905,
+          "listed_count": 189,
+          "media_count": 2524,
+          "tweet_count": 17462
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

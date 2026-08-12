@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2064634230425186604",
+    "created_at": "2026-06-11T08:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064994121987866640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042962992313090048",
+          "start": 0,
+          "username": "sant3834_kumar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064994121987866640",
+    "in_reply_to_user_id": "2042962992313090048",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064634230425186604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sant3834_kumar or"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2064634224007876608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcN40kakAA5XB2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2064634223026405376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcN4w6agAARVdn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2064634230425186604",
+        "created_at": "2026-06-11T08:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064994121987866640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042962992313090048",
+              "start": 0,
+              "username": "sant3834_kumar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064994121987866640",
+        "in_reply_to_user_id": "2042962992313090048",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064634230425186604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sant3834_kumar or"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064634224007876608",
+            "3_2064634223026405376"
+          ]
+        },
+        "author_id": "2042962992313090048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2064634230425186604",
+        "created_at": "2026-06-10T09:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064634230425186604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pbhcq2gPyj",
+              "end": 117,
+              "expanded_url": "https://x.com/sant3834_kumar/status/2064634230425186604/photo/1",
+              "media_key": "3_2064634224007876608",
+              "start": 94,
+              "url": "https://t.co/Pbhcq2gPyj"
+            },
+            {
+              "display_url": "pic.x.com/Pbhcq2gPyj",
+              "end": 117,
+              "expanded_url": "https://x.com/sant3834_kumar/status/2064634230425186604/photo/1",
+              "media_key": "3_2064634223026405376",
+              "start": 94,
+              "url": "https://t.co/Pbhcq2gPyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064634230425186604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 41319,
+          "like_count": 979,
+          "quote_count": 15,
+          "reply_count": 69,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "What’s your programming style? \n\nLeft                            or                     Right https://t.co/Pbhcq2gPyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 459,
+          "like_count": 16683,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 3700
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T13:48:50.000Z",
+        "description": "⚙️ Engineering + Media Tech\n🖥️ Clean setups & creative content\n🚀 Future creator",
+        "id": "2042962992313090048",
+        "name": "TechAuraa",
+        "pinned_tweet_id": "2064634230425186604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058258433120538624/8SlqNX_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 1029,
+          "like_count": 13177,
+          "listed_count": 1,
+          "media_count": 5211,
+          "tweet_count": 6288
+        },
+        "username": "sant3834_kumar",
+        "verified": true
+      }
+    ]
+  }
+}

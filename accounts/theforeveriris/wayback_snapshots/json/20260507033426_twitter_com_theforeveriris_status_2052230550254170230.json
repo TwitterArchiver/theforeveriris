@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2052176867491557459",
+    "created_at": "2026-05-07T03:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052230550254170230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1963434136145989634",
+          "start": 0,
+          "username": "biantaishabi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052230550254170230",
+    "in_reply_to_user_id": "1963434136145989634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052176867491557459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaishabi5 为了流量炒作浮木都不要了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2052176867491557459",
+        "created_at": "2026-05-07T03:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052230550254170230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1963434136145989634",
+              "start": 0,
+              "username": "biantaishabi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052230550254170230",
+        "in_reply_to_user_id": "1963434136145989634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052176867491557459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaishabi5 为了流量炒作浮木都不要了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963434136145989634",
+        "conversation_id": "2052176867491557459",
+        "created_at": "2026-05-07T00:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052176867491557459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oran_ge/status…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/oran_ge/status/2052165536583385451",
+              "start": 76,
+              "url": "https://t.co/XbdVwSTNh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052176867491557459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8474,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052165536583385451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不太理解你这种人。你既然觉得它不好用，你就不要用了。但是你还要天天去用它，然后再来发推抱怨，那我合理的推测就是，你用它是为了发推？所以这也太不合理了。 https://t.co/XbdVwSTNh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 450,
+          "like_count": 14027,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T02:49:28.000Z",
+        "description": "人如其名",
+        "id": "1963434136145989634",
+        "location": "改则县",
+        "name": "biantaishabi5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963473697949597696/QBk7CJiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6027,
+          "following_count": 1056,
+          "like_count": 41510,
+          "listed_count": 51,
+          "media_count": 4245,
+          "tweet_count": 80835
+        },
+        "url": "",
+        "username": "biantaishabi5",
+        "verified": false
+      }
+    ]
+  }
+}

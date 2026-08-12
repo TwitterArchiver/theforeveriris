@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2015779818286289192",
+    "created_at": "2026-01-26T13:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015784907197563144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015784907197563144",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015779818286289192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 還真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2015779809528524800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l9DoRaMAAkn6R.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2015779818286289192",
+        "created_at": "2026-01-26T13:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015784907197563144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015784907197563144",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015779818286289192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 還真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015779809528524800"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2015779818286289192",
+        "created_at": "2026-01-26T13:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015779818286289192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQLv7GvjTs",
+              "end": 23,
+              "expanded_url": "https://x.com/hg3551019177402/status/2015779818286289192/photo/1",
+              "media_key": "3_2015779809528524800",
+              "start": 0,
+              "url": "https://t.co/nQLv7GvjTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015779818286289192",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nQLv7GvjTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 405,
+          "like_count": 7450,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2441
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "贯穿不是都是，也不是都不是，是一种无差别，一切差异都会在它这里得到溶解。我是橘猫。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2014027088391438626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874387389423617/VNXISMmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 111,
+          "like_count": 6717,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2329
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

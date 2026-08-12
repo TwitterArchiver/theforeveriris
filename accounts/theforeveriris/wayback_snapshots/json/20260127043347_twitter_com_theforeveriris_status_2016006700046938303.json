@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2015817465813725486",
+    "created_at": "2026-01-27T04:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T05:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016006700046938303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016006700046938303",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015817465813725486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 药文帝和药神宗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2015817462563110912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mfTUwagAAGfYx.jpg",
+        "width": 1883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2015817465813725486",
+        "created_at": "2026-01-27T04:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T05:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016006700046938303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016006700046938303",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015817465813725486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 药文帝和药神宗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015817462563110912"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "2015817465813725486",
+        "created_at": "2026-01-26T16:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015817465813725486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29tUhAdDIe",
+              "end": 135,
+              "expanded_url": "https://x.com/CleverFf050755/status/2015817465813725486/photo/1",
+              "media_key": "3_2015817462563110912",
+              "start": 112,
+              "url": "https://t.co/29tUhAdDIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015817465813725486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3723,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到生死决斗下面我将为大家介绍两位挑战者，左边的是以62.4%高票当选中推跨圈第一傻逼皇帝的唐毓文，而右边则是早年化名药娘东东现太空极乐百科以雷霆手段拷打药圈的药圈皇帝鸡哥，二皇对战谁能更胜一筹?欢迎大家来评论区探讨。 https://t.co/29tUhAdDIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 405,
+          "like_count": 7528,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2451
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 265,
+          "like_count": 195,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

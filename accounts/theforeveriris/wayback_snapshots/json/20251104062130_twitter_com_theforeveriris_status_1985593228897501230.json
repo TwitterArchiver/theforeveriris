@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1985587818668708200",
+    "created_at": "2025-11-04T06:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T07:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985593228897501230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1412998764701249542",
+          "start": 0,
+          "username": "honkaistarrail"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985593228897501230",
+    "in_reply_to_user_id": "1412998764701249542",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985587818668708200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honkaistarrail hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_1985403109011550208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42Rm8iW8AA9412.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1985587818668708200",
+        "created_at": "2025-11-04T06:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985593228897501230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1412998764701249542",
+              "start": 0,
+              "username": "honkaistarrail"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985593228897501230",
+        "in_reply_to_user_id": "1412998764701249542",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985587818668708200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honkaistarrail hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985403109011550208"
+          ]
+        },
+        "author_id": "1412998764701249542",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gardening",
+              "id": "864913136821784576",
+              "name": "Gardening"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          }
+        ],
+        "conversation_id": "1985587818668708200",
+        "created_at": "2025-11-04T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985587818668708200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "CHRYSOS",
+              "probability": 0.5076,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 16,
+              "normalized_text": "Cyrene",
+              "probability": 0.6308,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "Onward I Fly",
+              "probability": 0.7136,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Across a Sea of Time\n\nCyrene",
+              "probability": 0.7472,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Aedes Elysiae",
+              "probability": 0.4534,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "of Memory",
+              "probability": 0.5324,
+              "start": 103,
+              "type": "Other"
+            },
+            {
+              "end": 208,
+              "normalized_text": "Cyrene",
+              "probability": 0.5657,
+              "start": 203,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "Cyrene"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDaOEQERbm",
+              "end": 299,
+              "expanded_url": "https://x.com/honkaistarrail/status/1985587818668708200/photo/1",
+              "media_key": "3_1985403109011550208",
+              "start": 276,
+              "url": "https://t.co/qDaOEQERbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985587818668708200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 10,
+                "tag": "Cyrene"
+              },
+              {
+                "end": 695,
+                "start": 680,
+                "tag": "HonkaiStarRail"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hoyo.link/PXXT3tM7U",
+                "end": 678,
+                "expanded_url": "https://hoyo.link/PXXT3tM7U",
+                "start": 655,
+                "url": "https://t.co/WeIdeXdZcs"
+              }
+            ]
+          },
+          "text": "CHRYSOS | #Cyrene\n\nOnward I Fly, Across a Sea of Time\n\nCyrene, Daughter of Aedes Elysiae, sow the Seed of Memory, so that flowers of the past may bloom in tomorrow.\n\n\"Whether as the cute Mem, the lively Cyrene, or now as the mature and beautiful me, my charm never changes ♪\"\n\"The magnificent stories that unfolded in Amphoreus will surely be engraved in the cosmos. And the marks left by the Trailblaze will definitely extend even further into the distance. Now, let's write the final period of this story together ♪\"\n\n▉ Vol. 13 \"Ripples of Past Reverie\" Cyrene\n\nProducer: Galactic Baseballer\nPhotography: Graymera (Chimera)\nStyling: Cyrene\n\nLearn more: https://t.co/WeIdeXdZcs\n\n#HonkaiStarRail"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 33725,
+          "like_count": 2573,
+          "quote_count": 53,
+          "reply_count": 30,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "CHRYSOS | #Cyrene\n\nOnward I Fly, Across a Sea of Time\n\nCyrene, Daughter of Aedes Elysiae, sow the Seed of Memory, so that flowers of the past may bloom in tomorrow.\n\n\"Whether as the cute Mem, the lively Cyrene, or now as the mature and beautiful me, my charm never changes ♪\" https://t.co/qDaOEQERbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 391,
+          "like_count": 6055,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2346
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T04:56:10.000Z",
+        "description": "Honkai: Star Rail, a HoYoverse space fantasy RPG #HonkaiStarRail YouTube: https://t.co/aQZpKkQks5 Instagram: https://t.co/784j2AUkBl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 49,
+                "tag": "HonkaiStarRail"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@honkaistarrail",
+                "end": 97,
+                "expanded_url": "http://youtube.com/@honkaistarrail",
+                "start": 74,
+                "url": "https://t.co/aQZpKkQks5"
+              },
+              {
+                "display_url": "instagram.com/honkaistarrail/",
+                "end": 132,
+                "expanded_url": "http://instagram.com/honkaistarrail/",
+                "start": 109,
+                "url": "https://t.co/784j2AUkBl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/e9RkFKAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/e9RkFKAL",
+                "start": 0,
+                "url": "https://t.co/3ImSEu0UT6"
+              }
+            ]
+          }
+        },
+        "id": "1412998764701249542",
+        "name": "Honkai: Star Rail",
+        "pinned_tweet_id": "1984832844028338543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970672377597165568/y9HvvsbC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024110,
+          "following_count": 12,
+          "like_count": 12,
+          "listed_count": 2402,
+          "media_count": 2624,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/3ImSEu0UT6",
+        "username": "honkaistarrail",
+        "verified": true
+      }
+    ]
+  }
+}

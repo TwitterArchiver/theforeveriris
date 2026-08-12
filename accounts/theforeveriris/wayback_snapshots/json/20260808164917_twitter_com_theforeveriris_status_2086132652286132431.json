@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086132644342091776"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2086132652286132431",
+    "created_at": "2026-08-08T16:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T17:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086132652286132431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ABpSPc9KxK",
+          "end": 43,
+          "expanded_url": "https://x.com/theforeveriris/status/2086132652286132431/photo/1",
+          "media_key": "3_2086132644342091776",
+          "start": 20,
+          "url": "https://t.co/ABpSPc9KxK"
+        },
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2086129880991977752",
+          "start": 44,
+          "url": "https://t.co/fW8pS6sZKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086132652286132431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086129880991977752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说这是跨圈今年最豪情万丈的话有人懂吗 https://t.co/ABpSPc9KxK https://t.co/fW8pS6sZKR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_2086132644342091776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNullRbUAAHl9L.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2338,
+        "media_key": "3_2086129870367776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPNsEHaaYAAOCO3.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086132644342091776"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086132652286132431",
+        "created_at": "2026-08-08T16:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086132652286132431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABpSPc9KxK",
+              "end": 43,
+              "expanded_url": "https://x.com/theforeveriris/status/2086132652286132431/photo/1",
+              "media_key": "3_2086132644342091776",
+              "start": 20,
+              "url": "https://t.co/ABpSPc9KxK"
+            },
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2086129880991977752",
+              "start": 44,
+              "url": "https://t.co/fW8pS6sZKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086132652286132431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086129880991977752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说这是跨圈今年最豪情万丈的话有人懂吗 https://t.co/ABpSPc9KxK https://t.co/fW8pS6sZKR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086129870367776768"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086129880991977752",
+        "created_at": "2026-08-08T16:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086129880991977752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkuTyCQ02O",
+              "end": 40,
+              "expanded_url": "https://x.com/theforeveriris/status/2086129880991977752/photo/1",
+              "media_key": "3_2086129870367776768",
+              "start": 17,
+              "url": "https://t.co/dkuTyCQ02O"
+            },
+            {
+              "display_url": "x.com/theforeverluna…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/theforeverluna/status/2086129443144339672",
+              "start": 41,
+              "url": "https://t.co/1MkE43i2Zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086129880991977752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086129443144339672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家觉得多久会被清皇 ban 掉 https://t.co/dkuTyCQ02O https://t.co/1MkE43i2Zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 470,
+          "like_count": 19614,
+          "listed_count": 6,
+          "media_count": 440,
+          "tweet_count": 4272
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

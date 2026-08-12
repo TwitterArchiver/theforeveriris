@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027326818001547264",
+        "3_2027326817959620608"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027326831943405650",
+    "created_at": "2026-02-27T10:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027326831943405650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求. Contribute to theforeveriris/simulated-12306-view development by creating an account on GitHub.",
+          "display_url": "github.com/theforeveriris…",
+          "end": 130,
+          "expanded_url": "https://github.com/theforeveriris/simulated-12306-view",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2027326834892034048/uxj-WvX6?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2027326834892034048/uxj-WvX6?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 107,
+          "status": 200,
+          "title": "GitHub - theforeveriris/simulated-12306-view: 简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求",
+          "unwound_url": "https://github.com/theforeveriris/simulated-12306-view",
+          "url": "https://t.co/prDr8FxkrC"
+        },
+        {
+          "display_url": "pic.x.com/4eZRCeKmpx",
+          "end": 154,
+          "expanded_url": "https://x.com/theforeveriris/status/2027326831943405650/photo/1",
+          "media_key": "3_2027326818001547264",
+          "start": 131,
+          "url": "https://t.co/4eZRCeKmpx"
+        },
+        {
+          "display_url": "pic.x.com/4eZRCeKmpx",
+          "end": 154,
+          "expanded_url": "https://x.com/theforeveriris/status/2027326831943405650/photo/1",
+          "media_key": "3_2027326817959620608",
+          "start": 131,
+          "url": "https://t.co/4eZRCeKmpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027326831943405650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快开学了哈基人们🤗还在为给浮木伪装出行车票不会 p 图而苦恼吗，theforeveriris 最新 vibe coding 力作模拟 12306 助你排忧解难🤓（其实是我需要用，就顺手做出来了）\n---\n仓库地址：https://t.co/prDr8FxkrC https://t.co/4eZRCeKmpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027326818001547264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKC_-6a8AAdyA9.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027326817959620608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKC_-wbMAAJMzB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027326818001547264",
+            "3_2027326817959620608"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-27T10:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027326831943405650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求. Contribute to theforeveriris/simulated-12306-view development by creating an account on GitHub.",
+              "display_url": "github.com/theforeveriris…",
+              "end": 130,
+              "expanded_url": "https://github.com/theforeveriris/simulated-12306-view",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2027326834892034048/uxj-WvX6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027326834892034048/uxj-WvX6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "GitHub - theforeveriris/simulated-12306-view: 简易的12306购票模拟器.用于应急应付对方请求看购票截图的无理要求",
+              "unwound_url": "https://github.com/theforeveriris/simulated-12306-view",
+              "url": "https://t.co/prDr8FxkrC"
+            },
+            {
+              "display_url": "pic.x.com/4eZRCeKmpx",
+              "end": 154,
+              "expanded_url": "https://x.com/theforeveriris/status/2027326831943405650/photo/1",
+              "media_key": "3_2027326818001547264",
+              "start": 131,
+              "url": "https://t.co/4eZRCeKmpx"
+            },
+            {
+              "display_url": "pic.x.com/4eZRCeKmpx",
+              "end": 154,
+              "expanded_url": "https://x.com/theforeveriris/status/2027326831943405650/photo/1",
+              "media_key": "3_2027326817959620608",
+              "start": 131,
+              "url": "https://t.co/4eZRCeKmpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027326831943405650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快开学了哈基人们🤗还在为给浮木伪装出行车票不会 p 图而苦恼吗，theforeveriris 最新 vibe coding 力作模拟 12306 助你排忧解难🤓（其实是我需要用，就顺手做出来了）\n---\n仓库地址：https://t.co/prDr8FxkrC https://t.co/4eZRCeKmpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 437,
+          "like_count": 11499,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 2958
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

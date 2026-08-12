@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978356691411324929"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978053508231541018",
+    "created_at": "2025-10-15T07:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978356703126041014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581738468547301376",
+          "start": 0,
+          "username": "ProbiusOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pjeb2Fm7fO",
+          "end": 132,
+          "expanded_url": "https://x.com/theforeveriris/status/1978356703126041014/photo/1",
+          "media_key": "3_1978356691411324929",
+          "start": 109,
+          "url": "https://t.co/pjeb2Fm7fO"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978356703126041014",
+    "in_reply_to_user_id": "1581738468547301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978349081580740610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProbiusOfficial 感覺不如：\n“麻烦 xxx这几位师傅一会儿见一下腾讯会议。把解题过程展示一下”\n（贴视频）\n“嗯嗯..可以简述一下思路吗”\n“这个...那个...嗯”\n“可是今天下午的环境是坏的耶” https://t.co/pjeb2Fm7fO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_1978356691411324929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SI7daW0AELvT9.jpg",
+        "width": 1260
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978356691411324929"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "1978053508231541018",
+        "created_at": "2025-10-15T07:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978356703126041014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjeb2Fm7fO",
+              "end": 132,
+              "expanded_url": "https://x.com/theforeveriris/status/1978356703126041014/photo/1",
+              "media_key": "3_1978356691411324929",
+              "start": 109,
+              "url": "https://t.co/pjeb2Fm7fO"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978356703126041014",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978349081580740610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial 感覺不如：\n“麻烦 xxx这几位师傅一会儿见一下腾讯会议。把解题过程展示一下”\n（贴视频）\n“嗯嗯..可以简述一下思路吗”\n“这个...那个...嗯”\n“可是今天下午的环境是坏的耶” https://t.co/pjeb2Fm7fO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581738468547301376",
+        "conversation_id": "1978053508231541018",
+        "created_at": "2025-10-15T06:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978349081580740610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978349081580740610",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978056312630989201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑话补3\n打完比赛，你真没做出来但是交了题，你复现一遍不难的，昨天晚上质询的时候 —— \n\"麻烦师傅展示一下你的过程文件\" \n：\"没有，能不能发我一份\"\n这种一般80%就寄了，果不其然：\n\"师傅你是说你用fake_key算出来了正确flag是么\"\n\"你确定是在main.js么\"（重复*N）\n\"你们是否承认作弊了\"（压力*N）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 356,
+          "like_count": 5946,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2222
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "location": "Koprulu Sector Aiur",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "1936246692371959931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679467786962354183/QnCyIzju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7954,
+          "following_count": 485,
+          "like_count": 14012,
+          "listed_count": 46,
+          "media_count": 1715,
+          "tweet_count": 11534
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

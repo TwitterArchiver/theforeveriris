@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062220684294828154",
+    "created_at": "2026-06-04T02:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062363241146405069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439042200940253185",
+          "start": 0,
+          "username": "QzuserX"
+        },
+        {
+          "end": 20,
+          "id": "1253165636210978817",
+          "start": 9,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062363241146405069",
+    "in_reply_to_user_id": "1439042200940253185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062247693779664953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QzuserX @Exusiai159 年龄小是可以出卖的性资源"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062220684294828154",
+        "created_at": "2026-06-04T02:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062363241146405069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439042200940253185",
+              "start": 0,
+              "username": "QzuserX"
+            },
+            {
+              "end": 20,
+              "id": "1253165636210978817",
+              "start": 9,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062363241146405069",
+        "in_reply_to_user_id": "1439042200940253185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062247693779664953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QzuserX @Exusiai159 年龄小是可以出卖的性资源"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439042200940253185",
+        "conversation_id": "2062220684294828154",
+        "created_at": "2026-06-03T18:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062247693779664953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062247693779664953",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062220684294828154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 怎么回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 459,
+          "like_count": 16175,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 3645
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062140224730443776/cBsNjtop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 813,
+          "like_count": 143798,
+          "listed_count": 18,
+          "media_count": 2838,
+          "tweet_count": 24879
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸粉丝头子\n｜喜欢看点furry｜性取向不知道｜已有恋爱对象｜转发NSFW🔞，如有介意请不要关注｜推特记录碎碎念｜数码产品爱好者｜汽车模型｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜禁极端歧视仇恨言论｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049010397055963136/aC0f7EFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5339,
+          "following_count": 7078,
+          "like_count": 191836,
+          "listed_count": 10,
+          "media_count": 5512,
+          "tweet_count": 57900
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": true
+      }
+    ]
+  }
+}

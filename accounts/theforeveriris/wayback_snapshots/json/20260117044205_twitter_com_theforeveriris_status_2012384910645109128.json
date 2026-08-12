@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2008932957436920234",
+    "created_at": "2026-01-17T04:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T05:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012384910645109128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012384910645109128",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008932957436920234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 抱抱你哦，人活著自私一點會輕鬆很多。\n我四年前出櫃那會兒，爸媽氣到摔東西，房間裡能摔的東西全都摔了，我媽當場掉眼淚，現在想起來還頭皮發麻呢，我可以感同身受你的經歷。\n但他們不懂是他們的事，我們幹嘛把我人生的選擇權遞給別人？生活是自己的，先讓自己喘口氣，做讓自己開心的事，再說別的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2008932957436920234",
+        "created_at": "2026-01-17T04:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012384910645109128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012384910645109128",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008932957436920234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 抱抱你哦，人活著自私一點會輕鬆很多。\n我四年前出櫃那會兒，爸媽氣到摔東西，房間裡能摔的東西全都摔了，我媽當場掉眼淚，現在想起來還頭皮發麻呢，我可以感同身受你的經歷。\n但他們不懂是他們的事，我們幹嘛把我人生的選擇權遞給別人？生活是自己的，先讓自己喘口氣，做讓自己開心的事，再說別的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2008932957436920234",
+        "created_at": "2026-01-07T16:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008932957436920234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurazawanaki/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/kurazawanaki/status/2008924923935576561",
+              "start": 71,
+              "url": "https://t.co/e4UiEmsOgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008932957436920234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 41343,
+          "like_count": 224,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008924923935576561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从小到大第一次看到我一向严厉的父亲哭成这样…母亲也看起来很难过…好难受，也好自责…明明我不想伤害任何人的，为什么会让最爱我的人这样…为什么… https://t.co/e4UiEmsOgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 403,
+          "like_count": 6563,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2346
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "世界のどこかで咲く｜叫窝Moly就好了|･ω･)只是一个普通的高三女孩｜害怕一切恶意，请不要对窝恶语相向(｡•́︿•̀｡)｜ 🔭｜🎼 ｜📷 ｜🎨｜MFG Date:08/08/08 □□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□MtF🏳️‍⚧️HRT:25/05/05 |想成为自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurazawanaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurazawanaki",
+                "start": 0,
+                "url": "https://t.co/IWtRR2Z2e8"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "location": "角落",
+        "name": "Anemoly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999535016767004672/QT3ERmHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 1084,
+          "like_count": 14130,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/IWtRR2Z2e8",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

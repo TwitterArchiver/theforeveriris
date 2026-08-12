@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2019596785854083408",
+    "created_at": "2026-02-07T02:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T03:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019966110188327080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2017052934388011009",
+          "start": 0,
+          "username": "fragroooooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019966110188327080",
+    "in_reply_to_user_id": "2017052934388011009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019596785854083408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fragroooooo 👀盯後續"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2019596776798580744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcMkXaacAg5tnK.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2019596785854083408",
+        "created_at": "2026-02-07T02:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T03:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019966110188327080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2017052934388011009",
+              "start": 0,
+              "username": "fragroooooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019966110188327080",
+        "in_reply_to_user_id": "2017052934388011009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019596785854083408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fragroooooo 👀盯後續"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019596776798580744"
+          ]
+        },
+        "author_id": "2017052934388011009",
+        "conversation_id": "2019596785854083408",
+        "created_at": "2026-02-06T02:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019596785854083408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9dZFQBHek9",
+              "end": 38,
+              "expanded_url": "https://x.com/fragroooooo/status/2019596785854083408/photo/1",
+              "media_key": "3_2019596776798580744",
+              "start": 15,
+              "url": "https://t.co/9dZFQBHek9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019596785854083408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 24313,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好期待拥有一段愉快的旅程啊！ https://t.co/9dZFQBHek9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 400,
+          "like_count": 9954,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2637
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T01:51:19.000Z",
+        "description": "前前前世@Muddledist破千fo被封｜tg：@Muddledist ｜211中文系抽象魔怔缺爱磕药地雷女｜流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关｜🚪88/188/388/588/1888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Muddledist"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Muddledist"
+              }
+            ]
+          }
+        },
+        "id": "2017052934388011009",
+        "location": "第五高原",
+        "name": "乙女椿（四代目）",
+        "pinned_tweet_id": "2017054353287414066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017850629650321409/_9Fmnp41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 204,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 145
+        },
+        "username": "fragroooooo",
+        "verified": false
+      }
+    ]
+  }
+}

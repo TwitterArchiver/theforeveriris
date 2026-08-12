@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Water",
+          "id": "850146068683571201",
+          "name": "Water"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Water",
+          "id": "850146068683571201",
+          "name": "Water"
+        }
+      }
+    ],
+    "conversation_id": "2019529717007954084",
+    "created_at": "2026-02-06T10:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019722188811854205"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 113,
+          "normalized_text": "iodophor",
+          "probability": 0.7084,
+          "start": 106,
+          "type": "Other"
+        },
+        {
+          "end": 197,
+          "normalized_text": "vitamin C",
+          "probability": 0.5131,
+          "start": 189,
+          "type": "Other"
+        },
+        {
+          "end": 226,
+          "normalized_text": "iodophor",
+          "probability": 0.8003,
+          "start": 219,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007765138426957824",
+          "start": 0,
+          "username": "zriellavanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019722188811854205",
+    "in_reply_to_user_id": "2007765138426957824",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019529717007954084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zriellavanya It's an extremely classic scam. The murky water below is actually water that has been added iodophor, and some toothpastes can clean these waters quickly because they contain vitamin C that can react with iodophor."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34319,
+        "height": 1280,
+        "media_key": "13_2019505637261209601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019505637261209601/img/UlfCRncduHXaFWxb.jpg",
+        "public_metrics": {
+          "view_count": 115673
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019505637261209601/vid/avc1/320x568/qsUL4WvdxrOrGJ9X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019505637261209601/vid/avc1/480x852/IYiu7owGNccWeKn2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019505637261209601/vid/avc1/720x1280/5RhNas0-JQ4_cm44.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019505637261209601/pl/8BXLfYAhQ9eQZj_k.m3u8?v=0eb"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2019529717007954084",
+        "created_at": "2026-02-06T10:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019722188811854205"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 113,
+              "normalized_text": "iodophor",
+              "probability": 0.7084,
+              "start": 106,
+              "type": "Other"
+            },
+            {
+              "end": 197,
+              "normalized_text": "vitamin C",
+              "probability": 0.5131,
+              "start": 189,
+              "type": "Other"
+            },
+            {
+              "end": 226,
+              "normalized_text": "iodophor",
+              "probability": 0.8003,
+              "start": 219,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007765138426957824",
+              "start": 0,
+              "username": "zriellavanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019722188811854205",
+        "in_reply_to_user_id": "2007765138426957824",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019529717007954084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zriellavanya It's an extremely classic scam. The murky water below is actually water that has been added iodophor, and some toothpastes can clean these waters quickly because they contain vitamin C that can react with iodophor."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019505637261209601"
+          ]
+        },
+        "author_id": "2007765138426957824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019529717007954084",
+        "created_at": "2026-02-05T21:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019529717007954084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KuOdunsOoC",
+              "end": 46,
+              "expanded_url": "https://x.com/zriellavanya/status/2019529717007954084/video/1",
+              "media_key": "13_2019505637261209601",
+              "start": 23,
+              "url": "https://t.co/KuOdunsOoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019529717007954084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 285012,
+          "like_count": 574,
+          "quote_count": 1,
+          "reply_count": 372,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "choose your toothpaste https://t.co/KuOdunsOoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 408,
+          "like_count": 9782,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 2615
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T10:44:50.000Z",
+        "description": "このアカウントはランダムな動画のみをシェアしています🥳🥳🤩\n\nただの楽しみです🎉📩",
+        "id": "2007765138426957824",
+        "name": "zriella lavanya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007765203367395329/idYk-3Ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 841,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 95
+        },
+        "username": "zriellavanya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013093955190112256"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013093222755762268",
+    "created_at": "2026-01-19T03:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013093958176702636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919581833421000704",
+          "start": 0,
+          "username": "xynruirui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3oX37yuVvY",
+          "end": 99,
+          "expanded_url": "https://x.com/theforeveriris/status/2013093958176702636/photo/1",
+          "media_key": "3_2013093955190112256",
+          "start": 76,
+          "url": "https://t.co/3oX37yuVvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013093958176702636",
+    "in_reply_to_user_id": "1919581833421000704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013093222755762268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynruirui 没咋弄明白这个算法的原理（）\n用过了之后记得清理自己的关注列表，这个工具获得你账号授权之后，会莫名其妙让你关注一些AI和币圈的人 https://t.co/3oX37yuVvY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013093955190112256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_ySVKXwAAmhZa.jpg",
+        "width": 1123
+      },
+      {
+        "height": 861,
+        "media_key": "3_2013093218917998592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_xneVa4AAFR7y.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013093955190112256"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013093222755762268",
+        "created_at": "2026-01-19T03:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013093958176702636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919581833421000704",
+              "start": 0,
+              "username": "xynruirui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3oX37yuVvY",
+              "end": 99,
+              "expanded_url": "https://x.com/theforeveriris/status/2013093958176702636/photo/1",
+              "media_key": "3_2013093955190112256",
+              "start": 76,
+              "url": "https://t.co/3oX37yuVvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013093958176702636",
+        "in_reply_to_user_id": "1919581833421000704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013093222755762268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynruirui 没咋弄明白这个算法的原理（）\n用过了之后记得清理自己的关注列表，这个工具获得你账号授权之后，会莫名其妙让你关注一些AI和币圈的人 https://t.co/3oX37yuVvY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013093218917998592"
+          ]
+        },
+        "author_id": "1919581833421000704",
+        "conversation_id": "2013093222755762268",
+        "created_at": "2026-01-19T03:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013093222755762268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We don't disclose our methodology, but we guarantee that it is the same for all users, taking into account the worth of every Twitter account equally.",
+              "display_url": "infinitetweet.me/account-worth?…",
+              "end": 44,
+              "expanded_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2011900503341613060/hmlJ8Sph?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2011900503341613060/hmlJ8Sph?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Account Worth • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/account-worth?lang=zh",
+              "url": "https://t.co/wUwy1rq1WF"
+            },
+            {
+              "display_url": "pic.x.com/sH1Ni3FpUk",
+              "end": 68,
+              "expanded_url": "https://x.com/xynruirui/status/2013093222755762268/photo/1",
+              "media_key": "3_2013093218917998592",
+              "start": 45,
+              "url": "https://t.co/sH1Ni3FpUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013093222755762268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特价值是: ¥886.98\n\n➡️ https://t.co/wUwy1rq1WF https://t.co/sH1Ni3FpUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 368,
+          "like_count": 6766,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2408
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T02:36:15.000Z",
+        "description": "异空间的流浪魔法师，存在于第五维度的不可名状之物，霍格沃兹魔法学院的编外人员，龙虎山道家精神观摩者，王者荣耀峡谷第一混子，三角洲贪吃的彤是也",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xynrui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xynrui",
+                "start": 0,
+                "url": "https://t.co/EJGSWGiXGI"
+              }
+            ]
+          }
+        },
+        "id": "1919581833421000704",
+        "location": "喵喵星球",
+        "name": "彤蕊",
+        "pinned_tweet_id": "2010355114809442398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011794720041902080/DXtZ0ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 122,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/EJGSWGiXGI",
+        "username": "xynruirui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992218460517183488"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992110433361449372",
+    "created_at": "2025-11-22T13:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992218466712215972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/52DUoOgQLM",
+          "end": 46,
+          "expanded_url": "https://x.com/theforeveriris/status/1992218466712215972/photo/1",
+          "media_key": "3_1992218460517183488",
+          "start": 23,
+          "url": "https://t.co/52DUoOgQLM"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1992218466712215972",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992110433361449372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 是這個柔軟藍色小女孩扔的麼？ https://t.co/52DUoOgQLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_1992218460517183488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XIInYaMAAYoQo.jpg",
+        "width": 641
+      },
+      {
+        "height": 1456,
+        "media_key": "3_1992110427149623296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Vl4Pua4AAbMRN.jpg",
+        "width": 1320
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992218460517183488"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992110433361449372",
+        "created_at": "2025-11-22T13:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992218466712215972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/52DUoOgQLM",
+              "end": 46,
+              "expanded_url": "https://x.com/theforeveriris/status/1992218466712215972/photo/1",
+              "media_key": "3_1992218460517183488",
+              "start": 23,
+              "url": "https://t.co/52DUoOgQLM"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1992218466712215972",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992110433361449372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 是這個柔軟藍色小女孩扔的麼？ https://t.co/52DUoOgQLM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992110427149623296"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1992110433361449372",
+        "created_at": "2025-11-22T05:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992110433361449372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfUSFRPD1Y",
+              "end": 34,
+              "expanded_url": "https://x.com/Cldeop/status/1992110433361449372/photo/1",
+              "media_key": "3_1992110427149623296",
+              "start": 11,
+              "url": "https://t.co/dfUSFRPD1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992110433361449372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8813,
+          "like_count": 290,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "可以 这很空气动力学 https://t.co/dfUSFRPD1Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 394,
+          "like_count": 6167,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 2416
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90755,
+          "following_count": 665,
+          "like_count": 32062,
+          "listed_count": 264,
+          "media_count": 13552,
+          "tweet_count": 19487
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083474328679846247",
+    "created_at": "2026-08-02T04:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083770739195523459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1120712903886344200",
+          "start": 0,
+          "username": "Philo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083770739195523459",
+    "in_reply_to_user_id": "1120712903886344200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083474328679846247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philo2022 现在最要紧的就是把这些雷霆 emoji 换掉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41842,
+        "height": 2348,
+        "media_key": "13_2083474279954595840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083474279954595840/img/XZ7FBQH1ZvU9tTuR.jpg",
+        "public_metrics": {
+          "view_count": 11572
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083474279954595840/vid/avc1/1080x2348/Npcgj4rw7lG8G7Fy.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083474279954595840/vid/avc1/320x694/UkpuZ3VEeV2LtUPf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083474279954595840/vid/avc1/480x1042/XALppTfA5P6MkBFW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083474279954595840/pl/ovtE3ZuyHTx54mmb.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083474279954595840/vid/avc1/720x1564/gRWOmknZu2qOCAvJ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083474328679846247",
+        "created_at": "2026-08-02T04:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083770739195523459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1120712903886344200",
+              "start": 0,
+              "username": "Philo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083770739195523459",
+        "in_reply_to_user_id": "1120712903886344200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083474328679846247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philo2022 现在最要紧的就是把这些雷霆 emoji 换掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083474279954595840"
+          ]
+        },
+        "author_id": "1120712903886344200",
+        "conversation_id": "2083474328679846247",
+        "created_at": "2026-08-01T08:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083474328679846247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfOSdAL3Q6",
+              "end": 52,
+              "expanded_url": "https://x.com/Philo2022/status/2083474328679846247/video/1",
+              "media_key": "13_2083474279954595840",
+              "start": 29,
+              "url": "https://t.co/OfOSdAL3Q6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083474328679846247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 22426,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "全世界最牛b的药物录入交互出现了！尽在 dopamind https://t.co/OfOSdAL3Q6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 451,
+          "like_count": 18354,
+          "listed_count": 6,
+          "media_count": 383,
+          "tweet_count": 4032
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-23T15:35:52.000Z",
+        "description": "Creator, Artist, Creator of @dopamindai & https://t.co/CiW3w1GiB2 & Art Gallery https://t.co/FbODek76Fh | Blog: https://t.co/b6PsjnsGoA | My Artwork: @PhiloArt2020 | En: @Philo1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "dopamindai"
+              },
+              {
+                "end": 163,
+                "start": 150,
+                "username": "PhiloArt2020"
+              },
+              {
+                "end": 180,
+                "start": 170,
+                "username": "Philo1024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "GoShipFast.com",
+                "end": 65,
+                "expanded_url": "http://GoShipFast.com",
+                "start": 42,
+                "url": "https://t.co/CiW3w1GiB2"
+              },
+              {
+                "display_url": "philoart.io",
+                "end": 103,
+                "expanded_url": "http://philoart.io",
+                "start": 80,
+                "url": "https://t.co/FbODek76Fh"
+              },
+              {
+                "display_url": "philoli.com",
+                "end": 135,
+                "expanded_url": "http://philoli.com",
+                "start": 112,
+                "url": "https://t.co/b6PsjnsGoA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "philoli.com",
+                "end": 23,
+                "expanded_url": "https://philoli.com/",
+                "start": 0,
+                "url": "https://t.co/E4ytxr9zV2"
+              }
+            ]
+          }
+        },
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "pinned_tweet_id": "1954486195519623328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28639,
+          "following_count": 581,
+          "like_count": 10253,
+          "listed_count": 177,
+          "media_count": 1667,
+          "tweet_count": 15621
+        },
+        "url": "https://t.co/E4ytxr9zV2",
+        "username": "Philo2022",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085731871858811107",
+    "created_at": "2026-08-07T14:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085731871858811107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LindsayZen7090…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/LindsayZen70904/status/2085727974125375632",
+          "start": 9,
+          "url": "https://t.co/ZTi3daAOH5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085731871858811107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085727974125375632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧福不黑排行榜 https://t.co/ZTi3daAOH5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085731871858811107",
+        "created_at": "2026-08-07T14:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085731871858811107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LindsayZen7090…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/LindsayZen70904/status/2085727974125375632",
+              "start": 9,
+              "url": "https://t.co/ZTi3daAOH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085731871858811107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085727974125375632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧福不黑排行榜 https://t.co/ZTi3daAOH5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003543995113492480",
+        "conversation_id": "2085686715017265410",
+        "created_at": "2026-08-07T14:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085727974125375632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085727974125375632",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085686715017265410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 应该没人比我玩的开了吧📸🦀 我福不黑不信你看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 465,
+          "like_count": 19391,
+          "listed_count": 6,
+          "media_count": 426,
+          "tweet_count": 4236
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T19:11:51.000Z",
+        "description": "已入住约p平台👉https://t.co/Ns3Qpnwxoh  每晚准时涩播，只在平台上🈷️，本人全部涩涩的视频照片全部在里面，寻固炮必备！！ （线上可远程指挥直播控制玩具 同城线下可加绿泡泡）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x6r7.top",
+                "end": 31,
+                "expanded_url": "https://x6r7.top",
+                "start": 8,
+                "url": "https://t.co/Ns3Qpnwxoh"
+              }
+            ]
+          }
+        },
+        "id": "2003543995113492480",
+        "name": "从梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085727982597873664/_9tIQQqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "LindsayZen70904",
+        "verified": false
+      }
+    ]
+  }
+}

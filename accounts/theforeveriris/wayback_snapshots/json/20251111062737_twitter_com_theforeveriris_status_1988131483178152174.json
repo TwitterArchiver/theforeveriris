@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1987842747555057865",
+    "created_at": "2025-11-11T06:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988131483178152174"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "Carbomer",
+          "probability": 0.7843,
+          "start": 8,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "COOH",
+          "probability": 0.6324,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 101,
+          "normalized_text": "carboxylate anions",
+          "probability": 0.5927,
+          "start": 84,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1867244970853466112",
+          "start": 0,
+          "username": "hyc945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988131483178152174",
+    "in_reply_to_user_id": "1867244970853466112",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987842747555057865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyc945 Carbomer contains a lot of -COOH. After neutralization, these groups become carboxylate anions -COO- which participated in the complex reaction of some metal positive examples.(？)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987842744950427648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Y8ccobkAAHITE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1987842747555057865",
+        "created_at": "2025-11-11T06:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988131483178152174"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Carbomer",
+              "probability": 0.7843,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "COOH",
+              "probability": 0.6324,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "carboxylate anions",
+              "probability": 0.5927,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867244970853466112",
+              "start": 0,
+              "username": "hyc945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988131483178152174",
+        "in_reply_to_user_id": "1867244970853466112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987842747555057865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyc945 Carbomer contains a lot of -COOH. After neutralization, these groups become carboxylate anions -COO- which participated in the complex reaction of some metal positive examples.(？)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987842744950427648"
+          ]
+        },
+        "author_id": "1867244970853466112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1987842747555057865",
+        "created_at": "2025-11-10T11:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987842747555057865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sN3X3ehVZ2",
+              "end": 60,
+              "expanded_url": "https://x.com/hyc945/status/1987842747555057865/photo/1",
+              "media_key": "3_1987842744950427648",
+              "start": 37,
+              "url": "https://t.co/sN3X3ehVZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987842747555057865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3382,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有哪位大佬能告诉我一下，变红是什么鬼？我查了好多，都没有这方面的资料 https://t.co/sN3X3ehVZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 400,
+          "like_count": 6083,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 2369
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "需要买凝胶，请加这个qq3997247387，qq群897084565",
+        "id": "1867244970853466112",
+        "name": "怀愚痴卖五倍雌二醇凝胶🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1981277544487014610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968719205970370560/zpAQsyVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 67,
+          "like_count": 12,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 535
+        },
+        "username": "hyc945",
+        "verified": false
+      }
+    ]
+  }
+}

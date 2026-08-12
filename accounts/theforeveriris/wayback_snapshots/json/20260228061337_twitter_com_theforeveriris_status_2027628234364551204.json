@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027628234364551204",
+    "created_at": "2026-02-28T06:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027628234364551204"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "nvim",
+          "probability": 0.3868,
+          "start": 0,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/CodeEdison/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/CodeEdison/status/2027458606266999031",
+          "start": 15,
+          "url": "https://t.co/yzZhuFd9EC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027628234364551204",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027458606266999031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nvim or devc++ https://t.co/yzZhuFd9EC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2027458595848077312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCL62dpWQAAUjS0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027628234364551204",
+        "created_at": "2026-02-28T06:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027628234364551204"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "nvim",
+              "probability": 0.3868,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CodeEdison/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/CodeEdison/status/2027458606266999031",
+              "start": 15,
+              "url": "https://t.co/yzZhuFd9EC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027628234364551204",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027458606266999031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nvim or devc++ https://t.co/yzZhuFd9EC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027458595848077312"
+          ]
+        },
+        "author_id": "1952101281067360257",
+        "conversation_id": "2027458606266999031",
+        "created_at": "2026-02-27T18:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027458606266999031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WacgA6BrUi",
+              "end": 66,
+              "expanded_url": "https://x.com/CodeEdison/status/2027458606266999031/photo/1",
+              "media_key": "3_2027458595848077312",
+              "start": 43,
+              "url": "https://t.co/WacgA6BrUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027458606266999031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 23346,
+          "like_count": 210,
+          "quote_count": 24,
+          "reply_count": 189,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "as a dev, what was your first code editor? https://t.co/WacgA6BrUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 440,
+          "like_count": 11584,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 2990
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T20:16:44.000Z",
+        "description": "Front end developer | HTML5 | CSS | JavaScript  | Tailwindcss | React | Typescript",
+        "id": "1952101281067360257",
+        "name": "Edison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990884789860122624/VUCJBSo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 1241,
+          "like_count": 11967,
+          "listed_count": 5,
+          "media_count": 1200,
+          "tweet_count": 7301
+        },
+        "username": "CodeEdison",
+        "verified": true
+      }
+    ]
+  }
+}

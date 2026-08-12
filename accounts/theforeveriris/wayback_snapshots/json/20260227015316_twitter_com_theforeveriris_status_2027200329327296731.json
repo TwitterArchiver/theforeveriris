@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027046156090609948",
+    "created_at": "2026-02-27T01:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027200329327296731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027200329327296731",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027046156090609948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 神了，他哪怕去自己 vibe 一版呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027046156090609948",
+        "created_at": "2026-02-27T01:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027200329327296731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027200329327296731",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027046156090609948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 神了，他哪怕去自己 vibe 一版呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "2027046156090609948",
+        "created_at": "2026-02-26T15:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027046156090609948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "psydugs.org",
+              "end": 127,
+              "expanded_url": "http://psydugs.org",
+              "start": 104,
+              "unwound_url": "http://psydugs.org",
+              "url": "https://t.co/jyOa8s1Mv2"
+            },
+            {
+              "display_url": "x.com/c_baba_66ccff/…",
+              "end": 158,
+              "expanded_url": "https://x.com/c_baba_66ccff/status/2026975700868280384",
+              "start": 135,
+              "url": "https://t.co/YpWuJuKqnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027046156090609948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4994,
+          "like_count": 37,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这个处方是由我们Psydrugs Wiki之前留出的版本直接生成，此人未经同意未经授权的将由我们的程序产出的处方堂而皇之的卖钱，吧别人的成果当成摇钱树，真是又无耻吃相又难看。另外如果大家有处方需求请来尝试我们https://t.co/jyOa8s1Mv2的处方生成器喵 https://t.co/YpWuJuKqnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 437,
+          "like_count": 11466,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 2940
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/ 旧名义：仿生喹硫平/ 涘🧊@winterfruit_1 /聖 🍜@shungleemain /♠️🅰️@w0sh1Asak1 /渡 🚣‍♂️@justyanwu14/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shungleemain"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "justyanwu14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 119,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 96,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/bYHkyXl80J"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "location": "偉大的天國",
+        "name": "Akino5150#海山二",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011689303659986945/O3P_h217_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 734,
+          "like_count": 2670,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/bYHkyXl80J",
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079508246046679040",
+        "3_2079508445007695872",
+        "3_2079508567397376000"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2079509384045203805",
+    "created_at": "2026-07-21T10:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079509384045203805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZPoTZ8SZc",
+          "end": 136,
+          "expanded_url": "https://x.com/theforeveriris/status/2079509384045203805/photo/1",
+          "media_key": "3_2079508246046679040",
+          "start": 113,
+          "url": "https://t.co/pZPoTZ8SZc"
+        },
+        {
+          "display_url": "pic.x.com/pZPoTZ8SZc",
+          "end": 136,
+          "expanded_url": "https://x.com/theforeveriris/status/2079509384045203805/photo/1",
+          "media_key": "3_2079508445007695872",
+          "start": 113,
+          "url": "https://t.co/pZPoTZ8SZc"
+        },
+        {
+          "display_url": "pic.x.com/pZPoTZ8SZc",
+          "end": 136,
+          "expanded_url": "https://x.com/theforeveriris/status/2079509384045203805/photo/1",
+          "media_key": "3_2079508567397376000",
+          "start": 113,
+          "url": "https://t.co/pZPoTZ8SZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079509384045203805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纯好奇，无恶意：今天接单的时候接到一个下载漫画的单子，就是说为什么好多女性向漫画（bl-tag，4i-tag）里面的男性受下体没有男性器官，只有女性器官啊？这是ftm吗（？）还是说是什么奇怪的设定或者圈内约定俗成的创造习惯？ https://t.co/pZPoTZ8SZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_2079508246046679040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvlu2kboAARmuI.png",
+        "width": 814
+      },
+      {
+        "height": 247,
+        "media_key": "3_2079508445007695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvl6bwb0AAV5By.png",
+        "width": 325
+      },
+      {
+        "height": 862,
+        "media_key": "3_2079508567397376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvmBjsaIAAZuWd.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079508246046679040",
+            "3_2079508445007695872",
+            "3_2079508567397376000"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2079509384045203805",
+        "created_at": "2026-07-21T10:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079509384045203805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZPoTZ8SZc",
+              "end": 136,
+              "expanded_url": "https://x.com/theforeveriris/status/2079509384045203805/photo/1",
+              "media_key": "3_2079508246046679040",
+              "start": 113,
+              "url": "https://t.co/pZPoTZ8SZc"
+            },
+            {
+              "display_url": "pic.x.com/pZPoTZ8SZc",
+              "end": 136,
+              "expanded_url": "https://x.com/theforeveriris/status/2079509384045203805/photo/1",
+              "media_key": "3_2079508445007695872",
+              "start": 113,
+              "url": "https://t.co/pZPoTZ8SZc"
+            },
+            {
+              "display_url": "pic.x.com/pZPoTZ8SZc",
+              "end": 136,
+              "expanded_url": "https://x.com/theforeveriris/status/2079509384045203805/photo/1",
+              "media_key": "3_2079508567397376000",
+              "start": 113,
+              "url": "https://t.co/pZPoTZ8SZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079509384045203805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纯好奇，无恶意：今天接单的时候接到一个下载漫画的单子，就是说为什么好多女性向漫画（bl-tag，4i-tag）里面的男性受下体没有男性器官，只有女性器官啊？这是ftm吗（？）还是说是什么奇怪的设定或者圈内约定俗成的创造习惯？ https://t.co/pZPoTZ8SZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 457,
+          "like_count": 17992,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 4002
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

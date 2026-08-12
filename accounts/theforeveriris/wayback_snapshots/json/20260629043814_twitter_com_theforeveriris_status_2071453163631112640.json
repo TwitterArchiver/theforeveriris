@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071453127250006016",
+        "3_2071453145126039552"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071453163631112640",
+    "created_at": "2026-06-29T04:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071453163631112640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mw1qjBAmpP",
+          "end": 47,
+          "expanded_url": "https://x.com/theforeveriris/status/2071453163631112640/photo/1",
+          "media_key": "3_2071453127250006016",
+          "start": 24,
+          "url": "https://t.co/Mw1qjBAmpP"
+        },
+        {
+          "display_url": "pic.x.com/Mw1qjBAmpP",
+          "end": 47,
+          "expanded_url": "https://x.com/theforeveriris/status/2071453163631112640/photo/1",
+          "media_key": "3_2071453145126039552",
+          "start": 24,
+          "url": "https://t.co/Mw1qjBAmpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071453163631112640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和同学摘了一堆绿化带里的李子（？应该是李子吧） https://t.co/Mw1qjBAmpP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3139,
+        "media_key": "3_2071453127250006016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9HpOqb0AA0ZSh.jpg",
+        "width": 2624
+      },
+      {
+        "height": 3014,
+        "media_key": "3_2071453145126039552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9HqRQacAAKUBE.jpg",
+        "width": 3818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071453127250006016",
+            "3_2071453145126039552"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071453163631112640",
+        "created_at": "2026-06-29T04:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071453163631112640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mw1qjBAmpP",
+              "end": 47,
+              "expanded_url": "https://x.com/theforeveriris/status/2071453163631112640/photo/1",
+              "media_key": "3_2071453127250006016",
+              "start": 24,
+              "url": "https://t.co/Mw1qjBAmpP"
+            },
+            {
+              "display_url": "pic.x.com/Mw1qjBAmpP",
+              "end": 47,
+              "expanded_url": "https://x.com/theforeveriris/status/2071453163631112640/photo/1",
+              "media_key": "3_2071453145126039552",
+              "start": 24,
+              "url": "https://t.co/Mw1qjBAmpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071453163631112640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和同学摘了一堆绿化带里的李子（？应该是李子吧） https://t.co/Mw1qjBAmpP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 447,
+          "like_count": 16961,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 3768
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

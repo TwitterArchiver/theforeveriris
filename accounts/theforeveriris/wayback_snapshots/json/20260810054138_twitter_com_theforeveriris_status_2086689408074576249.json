@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086689384515158016",
+        "3_2086689396838055936"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2086689408074576249",
+    "created_at": "2026-08-10T05:41:38.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086689408074576249"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 0,
+          "tag": "iris_pi_telegram"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcfb8EeXk3",
+          "end": 104,
+          "expanded_url": "https://x.com/theforeveriris/status/2086689408074576249/photo/1",
+          "media_key": "3_2086689384515158016",
+          "start": 81,
+          "url": "https://t.co/tcfb8EeXk3"
+        },
+        {
+          "display_url": "pic.x.com/tcfb8EeXk3",
+          "end": 104,
+          "expanded_url": "https://x.com/theforeveriris/status/2086689408074576249/photo/1",
+          "media_key": "3_2086689396838055936",
+          "start": 81,
+          "url": "https://t.co/tcfb8EeXk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086689408074576249",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086689384515158016"
+      },
+      {
+        "media_key": "3_2086689396838055936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#iris_pi_telegram 接入声学分析功能（并提供原始数据和历史给agent分析）\n\n/声音里的老年音来自于饱受感冒摧残的声带\n/iris没有伪音经验 https://t.co/tcfb8EeXk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3926,
+        "media_key": "3_2086689384515158016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVo8ICawAAwbJC.jpg",
+        "width": 1843
+      },
+      {
+        "height": 3680,
+        "media_key": "3_2086689396838055936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVo818bQAAMG-g.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086689384515158016",
+            "3_2086689396838055936"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086689408074576249",
+        "created_at": "2026-08-10T05:41:38.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086689408074576249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "iris_pi_telegram"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcfb8EeXk3",
+              "end": 104,
+              "expanded_url": "https://x.com/theforeveriris/status/2086689408074576249/photo/1",
+              "media_key": "3_2086689384515158016",
+              "start": 81,
+              "url": "https://t.co/tcfb8EeXk3"
+            },
+            {
+              "display_url": "pic.x.com/tcfb8EeXk3",
+              "end": 104,
+              "expanded_url": "https://x.com/theforeveriris/status/2086689408074576249/photo/1",
+              "media_key": "3_2086689396838055936",
+              "start": 81,
+              "url": "https://t.co/tcfb8EeXk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086689408074576249",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086689384515158016"
+          },
+          {
+            "media_key": "3_2086689396838055936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#iris_pi_telegram 接入声学分析功能（并提供原始数据和历史给agent分析）\n\n/声音里的老年音来自于饱受感冒摧残的声带\n/iris没有伪音经验 https://t.co/tcfb8EeXk3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2086689408074576249",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 470,
+          "like_count": 18691,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

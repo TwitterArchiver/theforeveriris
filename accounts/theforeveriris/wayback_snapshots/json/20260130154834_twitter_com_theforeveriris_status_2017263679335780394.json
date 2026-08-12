@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2017262669301207422",
+    "created_at": "2026-01-30T15:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017263679335780394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2011375652579262464",
+          "start": 0,
+          "username": "Kagamine_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017263679335780394",
+    "in_reply_to_user_id": "2011375652579262464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017262669301207422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagamine_8964 太坏了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "3_2017262640477896704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7BrwBaAAA9wkl.png",
+        "width": 481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2017262669301207422",
+        "created_at": "2026-01-30T15:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017263679335780394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011375652579262464",
+              "start": 0,
+              "username": "Kagamine_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017263679335780394",
+        "in_reply_to_user_id": "2011375652579262464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017262669301207422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagamine_8964 太坏了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017262640477896704"
+          ]
+        },
+        "author_id": "2011375652579262464",
+        "conversation_id": "2017262669301207422",
+        "created_at": "2026-01-30T15:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017262669301207422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/97ThrNOEcc",
+              "end": 78,
+              "expanded_url": "https://x.com/Kagamine_8964/status/2017262669301207422/photo/1",
+              "media_key": "3_2017262640477896704",
+              "start": 55,
+              "url": "https://t.co/97ThrNOEcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017262669301207422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Edward贼鸡巴双标\n自己吃上了就让对象吃了\n自己吃不上对象也不能吃\n给对象阿片克扣了偷摸吃了\n镜音痛斥他 https://t.co/97ThrNOEcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 378,
+          "like_count": 8178,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2493
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:51:50.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼 /FOW参与者 /接受药物投稿及测试/重精神病 PTSD 因創傷而躲藏  /#drugtwt /我要创造一个只有阿片👻的世界！ /TG同X /老公：@Edward_8964 /六次帳號轉生 /非商業使用 /匿名提问https://t.co/p1X2dlE3nu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Edward_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 153,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 130,
+                "url": "https://t.co/p1X2dlE3nu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/ieTjg4n36R"
+              }
+            ]
+          }
+        },
+        "id": "2011375652579262464",
+        "name": "Kagamine鏡音",
+        "pinned_tweet_id": "2011380729327100203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011377300881997825/i7Z-nguz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 317,
+          "like_count": 1633,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/ieTjg4n36R",
+        "username": "Kagamine_8964",
+        "verified": true
+      }
+    ]
+  }
+}

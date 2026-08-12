@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2011846389903307115",
+    "created_at": "2026-01-17T02:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T03:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012346252168761425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 22,
+          "id": "913314383526223872",
+          "start": 10,
+          "username": "chunxiangai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012346252168761425",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012173351293522026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @chunxiangai 中年老登還是吃這一套的。我爹就用钩子百度瀏覽器帶的不知名劣質模型的生成式對話 ai 做了一個純 html 的腳本，貶低我計算機係的學生還不如 ai，我唯有沈默。且不說他這種程度甚至算不算 vibe，他根本意識不到 ai 只是工具，他會用的我自然會，他不會的我也大可能會。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2011846389903307115",
+        "created_at": "2026-01-17T02:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T03:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012346252168761425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 22,
+              "id": "913314383526223872",
+              "start": 10,
+              "username": "chunxiangai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012346252168761425",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012173351293522026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @chunxiangai 中年老登還是吃這一套的。我爹就用钩子百度瀏覽器帶的不知名劣質模型的生成式對話 ai 做了一個純 html 的腳本，貶低我計算機係的學生還不如 ai，我唯有沈默。且不說他這種程度甚至算不算 vibe，他根本意識不到 ai 只是工具，他會用的我自然會，他不會的我也大可能會。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2011846389903307115",
+        "created_at": "2026-01-16T14:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012173351293522026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "913314383526223872",
+              "start": 0,
+              "username": "chunxiangai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012173351293522026",
+        "in_reply_to_user_id": "913314383526223872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那你可真可怜，别人在游玩游戏这件事上获得快乐，你却想着用你那虚无缥缈的Claude Code去复刻一个已经有用户群体的游戏幻想他能赚到钱，然而你并没有去做，你只是高傲地觉得这个行为很低贱；你整天fomo，得不到快乐，然后还要让你弟弟学会fomo；你即是fomo的受害者，也是fomo的制造者，最终你在网络上制造的fomo情绪会加倍返还给你自己"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1889,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011846389903307115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunxiangai 那你可真可怜，别人在游玩游戏这件事上获得快乐，你却想着用你那虚无缥缈的Claude"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 402,
+          "like_count": 6558,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2341
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/She&Her/搞开发的/🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2012113261475623249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10769,
+          "following_count": 3002,
+          "like_count": 3015,
+          "listed_count": 41,
+          "media_count": 1202,
+          "tweet_count": 6190
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-28T08:08:12.000Z",
+        "description": "🖊️ https://t.co/JdQJw23NXm - AI剧作 \n🍅 https://t.co/zIZro8Vese - 胃之书\n🧑‍🎓 love.chunxiang.sapce - 入门课程\n💼 https://t.co/ZUJhkg7VxL - 顾问服务\n🎬 https://t.co/3RBH3kAz1r - 出海神器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "laper.ai",
+                "end": 26,
+                "expanded_url": "http://laper.ai",
+                "start": 3,
+                "url": "https://t.co/JdQJw23NXm"
+              },
+              {
+                "display_url": "bellybook.cn",
+                "end": 60,
+                "expanded_url": "http://bellybook.cn",
+                "start": 37,
+                "url": "https://t.co/zIZro8Vese"
+              },
+              {
+                "display_url": "chunxiang.ai",
+                "end": 124,
+                "expanded_url": "http://chunxiang.ai",
+                "start": 101,
+                "url": "https://t.co/ZUJhkg7VxL"
+              },
+              {
+                "display_url": "motherbase.app",
+                "end": 157,
+                "expanded_url": "http://motherbase.app",
+                "start": 134,
+                "url": "https://t.co/3RBH3kAz1r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunxiang.space",
+                "end": 23,
+                "expanded_url": "https://chunxiang.space",
+                "start": 0,
+                "url": "https://t.co/fUfMyHYkKY"
+              }
+            ]
+          }
+        },
+        "id": "913314383526223872",
+        "name": "赵纯想",
+        "pinned_tweet_id": "1986458903325122671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011038039137796099/jvuSR95B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33979,
+          "following_count": 372,
+          "like_count": 1911,
+          "listed_count": 276,
+          "media_count": 364,
+          "tweet_count": 2502
+        },
+        "url": "https://t.co/fUfMyHYkKY",
+        "username": "chunxiangai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059779270151442792",
+    "created_at": "2026-05-28T07:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059895038218551335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807420859683868672",
+          "start": 0,
+          "username": "milenialmentor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059895038218551335",
+    "in_reply_to_user_id": "1807420859683868672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059779270151442792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@milenialmentor 中国的学生，其中离婚指“父母离异”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059779270151442792",
+        "created_at": "2026-05-28T07:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059895038218551335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807420859683868672",
+              "start": 0,
+              "username": "milenialmentor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059895038218551335",
+        "in_reply_to_user_id": "1807420859683868672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059779270151442792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@milenialmentor 中国的学生，其中离婚指“父母离异”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807420859683868672",
+        "conversation_id": "2059779270151442792",
+        "created_at": "2026-05-27T23:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059779270151442792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059779270151442792",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 299629,
+          "like_count": 295,
+          "quote_count": 8,
+          "reply_count": 101,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Hay una profesión que tiene el mayor índice de:\n- Suicidios\n- Depresión\n- Divorcios\n- Alcoholismo\n- Abuso de drogas legales\n- Burnout (se describió primeramente en ella)\n- Mala vida familiar\n\n¿Adivinen cuál es?\n\nPero SIEMPRE fue así. Algunos lo descubren ahora"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 458,
+          "like_count": 15387,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 3581
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T14:28:23.000Z",
+        "description": "+7 años libre. Ayudo a profesionales de cualquier industria a convertir su experiencia en un servicio claro y vendible, inclusive sin renunciar a su empleo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "0dozmg.s.gy/FcWShZ",
+                "end": 23,
+                "expanded_url": "https://0dozmg.s.gy/FcWShZ",
+                "start": 0,
+                "url": "https://t.co/RRmOvy1M6W"
+              }
+            ]
+          }
+        },
+        "id": "1807420859683868672",
+        "location": "Empieza aquí 👉🏼",
+        "name": "Samuel Constante",
+        "pinned_tweet_id": "2057988746625089763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059096207230717952/cZ2E65-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10215,
+          "following_count": 1305,
+          "like_count": 9476,
+          "listed_count": 25,
+          "media_count": 1301,
+          "tweet_count": 18228
+        },
+        "url": "https://t.co/RRmOvy1M6W",
+        "username": "milenialmentor",
+        "verified": true
+      }
+    ]
+  }
+}

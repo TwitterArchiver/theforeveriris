@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2063650723276185618",
+    "created_at": "2026-06-08T03:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063822153838117084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1699797396589588480",
+          "start": 0,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063822153838117084",
+    "in_reply_to_user_id": "1699797396589588480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063650723276185618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxForAI 真得给他们族谱上钉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_2063649991768641536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOOu9wbkAArBZG.jpg",
+        "width": 969
+      },
+      {
+        "height": 670,
+        "media_key": "3_2063650505226850304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOPM2iaEAA26vo.jpg",
+        "width": 1194
+      },
+      {
+        "height": 928,
+        "media_key": "3_2063650705953767424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOPYiTbwAAJiN3.jpg",
+        "width": 1294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063650723276185618",
+        "created_at": "2026-06-08T03:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063822153838117084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063822153838117084",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063650723276185618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI 真得给他们族谱上钉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063649991768641536",
+            "3_2063650505226850304",
+            "3_2063650705953767424"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2063650723276185618",
+        "created_at": "2026-06-07T15:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063650723276185618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdYuTW2ONr",
+              "end": 164,
+              "expanded_url": "https://x.com/MaxForAI/status/2063650723276185618/photo/1",
+              "media_key": "3_2063649991768641536",
+              "start": 141,
+              "url": "https://t.co/HdYuTW2ONr"
+            },
+            {
+              "display_url": "pic.x.com/HdYuTW2ONr",
+              "end": 164,
+              "expanded_url": "https://x.com/MaxForAI/status/2063650723276185618/photo/1",
+              "media_key": "3_2063650505226850304",
+              "start": 141,
+              "url": "https://t.co/HdYuTW2ONr"
+            },
+            {
+              "display_url": "pic.x.com/HdYuTW2ONr",
+              "end": 164,
+              "expanded_url": "https://x.com/MaxForAI/status/2063650723276185618/photo/1",
+              "media_key": "3_2063650705953767424",
+              "start": 141,
+              "url": "https://t.co/HdYuTW2ONr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063650723276185618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真的被群里的傻逼老登气晕了😅\n\n前两天阿里那个7万字离职信，很多人应该都看到了。\n\n我本来以为群里会讨论：\n她说的到底对不对？\n钉钉到底有没有这些问题？\n\n结果一堆人上来就是：\n「一个刚毕业的女生，凭什么做几千万用户产品的产品经理？」\n「她懂什么企业软件？」\n「她不该在内网说。」\n\n给你麦老师真的看笑了。\n她哪条说错了，你拿出来骂啊。\n结果一群老登没人骂内容，全在骂身份😅\n\n刚毕业，所以不行。\n女生，所以不行。\n没经验，所以不行。\n发内网，所以不行。\n离职了，还是不行。\n\n最搞笑的是「不该在内网说」。\n内网不就是公司内部说问题的地方吗？\n内网都不能说，去哪说？\n\n挂小红书？\n发抖音？\n还是跪在无招门口磕三个头再递折子？\n\n还有人说B端软件复杂，有合同、销售、客户关系、酒桌，所以刚毕业的人不配做。\n\n这话听着像懂企业，其实就是爹味儿裹脚布。\n\n复杂说明要学习，不说明年轻人没资格。\n\n照你这逻辑，B端产品上岗前得先当三年销售、三年法务、三年采购，再陪客户喝到胃穿孔，最后终于获得画按钮的神圣资格。\n\n这他妈不是做产品，这是坐牢。\n\n更逆天的是：\n\n前脚说她不配在钉钉做产品经理，后脚说真有能力就去创业。\n\n大哥，你这逻辑是：\n\nXX车不会开，建议直接造车。\n\n太牛逼了。\n\n本质上，这帮人根本不关心她说了什么。\n\n他们只关心她凭什么说。\n\n年轻人说话，他们先查年龄。\n女生说话，他们先查资历。\n员工说话，他们先查站位。\n\n就是不查内容。\n\n因为查内容需要脑子，查身份只需要偏见。\n\n如果她7万字里有错，就逐条骂。\n\n哪条用户理解错了？\n\n哪条产品判断错了？\n\n哪条组织问题说错了？\n\n拿出来。\n\n别一张嘴就是刚毕业、女生、没经验、不懂企业。\n\n这套话术太臭了，臭到像互联网老登茶水间里放了三年的湿抹布。\n\n能力是能力。\n年龄是年龄。\n经验很重要。\n\n但经验不是发言许可。\n\n很多组织真正烂掉，就是从一帮老登开始相信：\n\n问题不重要，提问题的人有没有资格，才重要。\n\n毕竟真正面对问题，需要脑子。\n\n骂年轻人不懂事，只需要嘴😮‍💨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 36513,
+          "like_count": 127,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "真的被群里的傻逼老登气晕了😅\n\n前两天阿里那个7万字离职信，很多人应该都看到了。\n\n我本来以为群里会讨论：\n她说的到底对不对？\n钉钉到底有没有这些问题？\n\n结果一堆人上来就是：\n「一个刚毕业的女生，凭什么做几千万用户产品的产品经理？」\n「她懂什么企业软件？」\n「她不该在内网说。」 https://t.co/HdYuTW2ONr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 463,
+          "like_count": 16587,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 3687
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容👌\nHead of growth @lobehub\nPrev Marswave、Sapient\n同名小红书4万粉丝，公众号01Founder（长文首发）\n\n观点仅代表个人，更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13017,
+          "following_count": 1946,
+          "like_count": 11531,
+          "listed_count": 124,
+          "media_count": 611,
+          "tweet_count": 4945
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

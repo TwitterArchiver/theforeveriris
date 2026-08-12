@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2016389224409465135",
+    "created_at": "2026-01-28T05:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016389224409465135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mp.weixin.qq.com/s/UvsuqRWRKEEB…",
+          "end": 23,
+          "expanded_url": "https://mp.weixin.qq.com/s/UvsuqRWRKEEB3vcnEFiESw",
+          "start": 0,
+          "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HF-keWmjbb9NXO-gKABH_7NdPt7Whhp49vRKXvbV&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUvsuqRWRKEEB3vcnEFiESw",
+          "url": "https://t.co/yqyyVM4pC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016389224409465135",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yqyyVM4pC4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2016389224409465135",
+        "created_at": "2026-01-28T05:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016389224409465135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/UvsuqRWRKEEB…",
+              "end": 23,
+              "expanded_url": "https://mp.weixin.qq.com/s/UvsuqRWRKEEB3vcnEFiESw",
+              "start": 0,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HF-keWmjbb9NXO-gKABH_7NdPt7Whhp49vRKXvbV&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUvsuqRWRKEEB3vcnEFiESw",
+              "url": "https://t.co/yqyyVM4pC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016389224409465135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yqyyVM4pC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 370,
+          "like_count": 7697,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2475
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

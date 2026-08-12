@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2063620037533896778",
+    "created_at": "2026-06-08T06:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063867766160175326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688412716367593472",
+          "start": 0,
+          "username": "YuLin807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063867766160175326",
+    "in_reply_to_user_id": "1688412716367593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063620037533896778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuLin807 一直用 kiro 反代不就一直有了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2063620002465411072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNzdW5XcAAQpAi.jpg",
+        "width": 2074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2063620037533896778",
+        "created_at": "2026-06-08T06:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063867766160175326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688412716367593472",
+              "start": 0,
+              "username": "YuLin807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063867766160175326",
+        "in_reply_to_user_id": "1688412716367593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063620037533896778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuLin807 一直用 kiro 反代不就一直有了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063620002465411072"
+          ]
+        },
+        "author_id": "1688412716367593472",
+        "conversation_id": "2063620037533896778",
+        "created_at": "2026-06-07T13:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063620037533896778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lKDj2IohCv",
+              "end": 194,
+              "expanded_url": "https://x.com/YuLin807/status/2063620037533896778/photo/1",
+              "media_key": "3_2063620002465411072",
+              "start": 171,
+              "url": "https://t.co/lKDj2IohCv"
+            },
+            {
+              "display_url": "x.com/YuLin807/statu…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/YuLin807/status/2063568238404075677",
+              "start": 195,
+              "url": "https://t.co/oEGV6A4zEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063620037533896778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哈哈哈！又有免费的 opus 4.6 可以用了！\n\n准确的来说是谷歌pro会员使用antigravity自带的 opus 4.6用量！\n\n为啥之前没有用呢？主要是前段时间 谷歌把opus的用量消减的太狠，几乎处于不可用的状态\n\n但是现在呢！claude 疯狂降智，4.7/4.8 一团浆糊，而且账号给我封锁了！之前有听说 反重力里的opus 没有降智，我来尝试一下。\n\n不过现在怎么Antigravity现在有点 codex 的模样啊！\n\n果然 之前Claude把大家都带反了全部走cli路线，现在openai又把大家拉回来了！正常的人类审美。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 241685,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 37,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063568238404075677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈！又有免费的 opus 4.6 可以用了！\n\n准确的来说是谷歌pro会员使用antigravity自带的 opus 4.6用量！\n\n为啥之前没有用呢？主要是前段时间 谷歌把opus的用量消减的太狠，几乎处于不可用的状态\n\n但是现在呢！claude 疯狂降智，4.7/4.8 一团浆糊，而且账号给我封锁了！之前有听说 反重力里的opus https://t.co/lKDj2IohCv https://t.co/oEGV6A4zEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 463,
+          "like_count": 16589,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 3688
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T04:53:29.000Z",
+        "description": "自由，希望与爱",
+        "id": "1688412716367593472",
+        "name": "QingYue",
+        "pinned_tweet_id": "2061163859852021924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008945711799476224/vf4XXJoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7463,
+          "following_count": 4275,
+          "like_count": 18512,
+          "listed_count": 95,
+          "media_count": 1027,
+          "tweet_count": 9705
+        },
+        "username": "YuLin807",
+        "verified": true
+      }
+    ]
+  }
+}

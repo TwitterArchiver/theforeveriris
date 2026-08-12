@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1978330482535227392"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "1978330507168415843",
+    "created_at": "2025-10-15T05:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978330507168415843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DJD9F485k3",
+          "end": 35,
+          "expanded_url": "https://x.com/theforeveriris/status/1978330507168415843/photo/1",
+          "media_key": "16_1978330482535227392",
+          "start": 12,
+          "url": "https://t.co/DJD9F485k3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978330507168415843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "该账号已被长夜月占领📍 https://t.co/DJD9F485k3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978330507168415843].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978330507168415843",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978330507168415843"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "16_1978330482535227392",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3RxF5vW4AAD-jR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3RxF5vW4AAD-jR.mp4"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 356,
+          "like_count": 5933,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 2200
+        },
+        "username": "theforeveriris",
+        "verified": false
+      }
+    ]
+  }
+}

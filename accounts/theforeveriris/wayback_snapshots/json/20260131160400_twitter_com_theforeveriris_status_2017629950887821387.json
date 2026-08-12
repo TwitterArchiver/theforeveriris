@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2017374257706344476",
+    "created_at": "2026-01-31T16:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T17:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017629950887821387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1967962536000753666",
+          "start": 0,
+          "username": "FUHGRC694lol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017629950887821387",
+    "in_reply_to_user_id": "1967962536000753666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017374257706344476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FUHGRC694lol 健客隨便買還不要處方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2017374257706344476",
+        "created_at": "2026-01-31T16:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T17:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017629950887821387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1967962536000753666",
+              "start": 0,
+              "username": "FUHGRC694lol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017629950887821387",
+        "in_reply_to_user_id": "1967962536000753666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017374257706344476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FUHGRC694lol 健客隨便買還不要處方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967962536000753666",
+        "conversation_id": "2017374257706344476",
+        "created_at": "2026-01-30T23:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T00:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017374257706344476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017374257706344476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "淘寶已經不讓搜普瑞巴林了我操馬上就沒了孩子們抓緊屯吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 379,
+          "like_count": 8364,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 2507
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "我該寫什麼呢寫什麼呢我喜歡畫畫編曲割手嗑藥辱華我也喜歡你哈哈哈哈哈。",
+        "id": "1967962536000753666",
+        "location": "Japan",
+        "name": "死藤水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 20,
+          "like_count": 17512,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 814
+        },
+        "username": "FUHGRC694lol",
+        "verified": false
+      }
+    ]
+  }
+}

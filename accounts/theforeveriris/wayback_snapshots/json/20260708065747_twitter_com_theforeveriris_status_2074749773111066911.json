@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074573218850234570",
+    "created_at": "2026-07-08T06:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T07:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074749773111066911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074749773111066911",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074573218850234570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 平板电脑怎么装的🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074573215314378753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpdWQdagAEFhiz.jpg",
+        "width": 1553
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074573215163408384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpdWP5a4AA4Ysq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074573215519875072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpdWROaIAAeLVv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074573218850234570",
+        "created_at": "2026-07-08T06:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074749773111066911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749773111066911",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074573218850234570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 平板电脑怎么装的🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074573215314378753",
+            "3_2074573215163408384",
+            "3_2074573215519875072"
+          ]
+        },
+        "author_id": "1634807884268855297",
+        "conversation_id": "2074573218850234570",
+        "created_at": "2026-07-07T19:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T20:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074573218850234570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfLIW7uU1T",
+              "end": 32,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2074573218850234570/photo/1",
+              "media_key": "3_2074573215314378753",
+              "start": 9,
+              "url": "https://t.co/qfLIW7uU1T"
+            },
+            {
+              "display_url": "pic.x.com/qfLIW7uU1T",
+              "end": 32,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2074573218850234570/photo/1",
+              "media_key": "3_2074573215163408384",
+              "start": 9,
+              "url": "https://t.co/qfLIW7uU1T"
+            },
+            {
+              "display_url": "pic.x.com/qfLIW7uU1T",
+              "end": 32,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/2074573218850234570/photo/1",
+              "media_key": "3_2074573215519875072",
+              "start": 9,
+              "url": "https://t.co/qfLIW7uU1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074573218850234570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3347,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刻板印象这一块） https://t.co/qfLIW7uU1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 446,
+          "like_count": 17104,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 3814
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "Miku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "home.wahleak.top",
+                "end": 23,
+                "expanded_url": "https://home.wahleak.top",
+                "start": 0,
+                "url": "https://t.co/YvhXzekAJX"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "localhost:443",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006714419158323200/VI_0Cag9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 840,
+          "like_count": 15367,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1526
+        },
+        "url": "https://t.co/YvhXzekAJX",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

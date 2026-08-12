@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2024539836770861232",
+    "created_at": "2026-02-19T21:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T22:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024593942201901339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024593942201901339",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024539836770861232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery remix 吗？）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_2024539795285037059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBicN6ObUAME_1U.jpg",
+        "width": 956
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2024539827316920320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBicPxjbEAAmFD8.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2024539836770861232",
+        "created_at": "2026-02-19T21:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T22:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024593942201901339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024593942201901339",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024539836770861232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery remix 吗？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024539795285037059",
+            "3_2024539827316920320"
+          ]
+        },
+        "author_id": "2721275622",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024539836770861232",
+        "created_at": "2026-02-19T17:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024539836770861232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4rUimcsAa",
+              "end": 37,
+              "expanded_url": "https://x.com/__oQuery/status/2024539836770861232/photo/1",
+              "media_key": "3_2024539795285037059",
+              "start": 14,
+              "url": "https://t.co/x4rUimcsAa"
+            },
+            {
+              "display_url": "pic.x.com/x4rUimcsAa",
+              "end": 37,
+              "expanded_url": "https://x.com/__oQuery/status/2024539836770861232/photo/1",
+              "media_key": "3_2024539827316920320",
+              "start": 14,
+              "url": "https://t.co/x4rUimcsAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024539836770861232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1423,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迁移到 Vite 的代价： https://t.co/x4rUimcsAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 428,
+          "like_count": 11127,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2839
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "AI Commander | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/innei",
+                "end": 23,
+                "expanded_url": "http://github.com/innei",
+                "start": 0,
+                "url": "https://t.co/kWzqaOnRll"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.ens18",
+        "pinned_tweet_id": "1835524241740939322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024069842509414400/fQ8uYtX8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9804,
+          "following_count": 964,
+          "like_count": 12151,
+          "listed_count": 81,
+          "media_count": 901,
+          "tweet_count": 8050
+        },
+        "url": "https://t.co/kWzqaOnRll",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

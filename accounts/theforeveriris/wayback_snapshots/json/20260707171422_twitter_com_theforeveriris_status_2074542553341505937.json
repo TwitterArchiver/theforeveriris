@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2073699762931433707",
+    "created_at": "2026-07-07T17:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074542553341505937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1711945664966582272",
+          "start": 0,
+          "username": "o0x80t"
+        },
+        {
+          "end": 22,
+          "id": "2008233761763409920",
+          "start": 8,
+          "username": "galaxy1025850"
+        },
+        {
+          "end": 32,
+          "id": "1001218834253189126",
+          "start": 23,
+          "username": "Luna5ama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074542553341505937",
+    "in_reply_to_user_id": "1711945664966582272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073729321915847019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0x80t @galaxy1025850 @Luna5ama +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2073699762931433707",
+        "created_at": "2026-07-07T17:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074542553341505937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1711945664966582272",
+              "start": 0,
+              "username": "o0x80t"
+            },
+            {
+              "end": 22,
+              "id": "2008233761763409920",
+              "start": 8,
+              "username": "galaxy1025850"
+            },
+            {
+              "end": 32,
+              "id": "1001218834253189126",
+              "start": 23,
+              "username": "Luna5ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074542553341505937",
+        "in_reply_to_user_id": "1711945664966582272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073729321915847019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0x80t @galaxy1025850 @Luna5ama +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711945664966582272",
+        "conversation_id": "2073699762931433707",
+        "created_at": "2026-07-05T11:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073729321915847019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            },
+            {
+              "end": 24,
+              "id": "1001218834253189126",
+              "start": 15,
+              "username": "Luna5ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073729321915847019",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073725194712273235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 @Luna5ama 不是哦 我是说更精准的预测 组词 记忆这样，还有人名输入模式\n\n最近在用fcitx5-rime+雾凇拼音+万象拼音模型，但是还是没有人名输入模式，有些时候拼音组词也笨笨的qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 446,
+          "like_count": 17068,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 3800
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T03:24:03.000Z",
+        "description": "ZH/EN/JP, NO POLITIC, Undergraduate college student in Asia\n友善交友🥰",
+        "id": "1711945664966582272",
+        "location": "Beijing",
+        "name": "Space75",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068273732586745856/MCTLKHr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 92,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "o0x80t",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "已被musk干掉两个号、喜欢到处乱窜的北方🐖网友，冀津辽这一块欢迎找窝丸\n喜欢捣鼓AI & Cloud computing， 垃圾代码生产者\nPansexual，非常友跨（才不会翻车\n欢迎互fo，光速回fo ，如果发现我莫名其妙fo了你那可能是暗恋你😋\n脾气超好，啥都能聊，经常在线，欢迎pm~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "不一定在哪（）",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021479451532591107/PByiQPHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 527,
+          "like_count": 1611,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-28T21:49:06.000Z",
+        "description": "日常废话推 | 老保退步人 | 丑陋哥布林 | 回撤收藏家 | 做多人类派 | 净值蹦极师 | 低智小学生 | 究极乐子人 | 抽象艺术家 | 胡言乱语集 | 退役熬夜员 | 电子吸尘器 | 互联网该溜\n\n如果你还想要更多类似的标签，我可以继续为你生成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.luna5ama.dev",
+                "end": 23,
+                "expanded_url": "https://about.luna5ama.dev/",
+                "start": 0,
+                "url": "https://t.co/JbyCOvSj72"
+              }
+            ]
+          }
+        },
+        "id": "1001218834253189126",
+        "location": "New York State",
+        "name": "Luna今天用什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909447204500021248/9E0T0uAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48958,
+          "following_count": 383,
+          "like_count": 97383,
+          "listed_count": 48,
+          "media_count": 1000,
+          "tweet_count": 10876
+        },
+        "url": "https://t.co/JbyCOvSj72",
+        "username": "Luna5ama",
+        "verified": false
+      }
+    ]
+  }
+}

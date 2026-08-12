@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2070101149722796198",
+    "created_at": "2026-06-26T02:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070326931766264000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "786174501427957761",
+          "start": 0,
+          "username": "amiaoapp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070326931766264000",
+    "in_reply_to_user_id": "786174501427957761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070101149722796198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amiaoapp 依旧把 github 仓库当云盘用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2070101113911885824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp5_sfbwAAfg06.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2070101113911844864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp5_sfbIAAgfKf.jpg",
+        "width": 1057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2070101149722796198",
+        "created_at": "2026-06-26T02:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070326931766264000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "786174501427957761",
+              "start": 0,
+              "username": "amiaoapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070326931766264000",
+        "in_reply_to_user_id": "786174501427957761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070101149722796198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiaoapp 依旧把 github 仓库当云盘用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070101113911885824",
+            "3_2070101113911844864"
+          ]
+        },
+        "author_id": "786174501427957761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2070101149722796198",
+        "created_at": "2026-06-25T11:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070101149722796198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iw1UAFyOS0",
+              "end": 186,
+              "expanded_url": "https://x.com/amiaoapp/status/2070101149722796198/photo/1",
+              "media_key": "3_2070101113911885824",
+              "start": 163,
+              "url": "https://t.co/iw1UAFyOS0"
+            },
+            {
+              "display_url": "pic.x.com/iw1UAFyOS0",
+              "end": 186,
+              "expanded_url": "https://x.com/amiaoapp/status/2070101149722796198/photo/1",
+              "media_key": "3_2070101113911844864",
+              "start": 163,
+              "url": "https://t.co/iw1UAFyOS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070101149722796198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 230,
+                "start": 227,
+                "tag": "高考"
+              },
+              {
+                "end": 234,
+                "start": 231,
+                "tag": "数学"
+              },
+              {
+                "end": 238,
+                "start": 235,
+                "tag": "真题"
+              },
+              {
+                "end": 246,
+                "start": 239,
+                "tag": "GitHub"
+              },
+              {
+                "end": 252,
+                "start": 247,
+                "tag": "学习资源"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/deekur/gaokaom…",
+                "end": 225,
+                "expanded_url": "https://github.com/deekur/gaokaomath",
+                "start": 202,
+                "url": "https://t.co/IVumNJJlyD"
+              }
+            ]
+          },
+          "text": "70年高考数学真题，被一个 GitHub 仓库一次性整理完了。\n\n从 1952 → 2025，几乎全覆盖。\n\n说夸张点，它像是把“高考数学的历史数据”直接打包成了一个数据库。\n\n这个项目叫 gaokaomath，特点很直接：\n\n历年高考数学真题 PDF 全收录\n时间跨度接近 70 年\n持续维护更新\n按年份整理，查找非常清晰\n\n对刷题的人来说，这种资源的意义很简单：\n\n👉 不用再东拼西凑找真题了\n\n🗂 https://t.co/IVumNJJlyD\n\n#高考 #数学 #真题 #GitHub #学习资源"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 9620,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "70年高考数学真题，被一个 GitHub 仓库一次性整理完了。\n\n从 1952 → 2025，几乎全覆盖。\n\n说夸张点，它像是把“高考数学的历史数据”直接打包成了一个数据库。\n\n这个项目叫 gaokaomath，特点很直接：\n\n历年高考数学真题 PDF 全收录\n时间跨度接近 70 年\n持续维护更新\n按年份整理，查找非常清晰 https://t.co/iw1UAFyOS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 448,
+          "like_count": 16907,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 3756
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-12T11:59:42.000Z",
+        "description": "分享软件资源，APP发烧友，AI技能技巧收集学习ING，ERP程序员\n电报频道：https://t.co/XvgNXMZzNM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/amiaoapp",
+                "end": 63,
+                "expanded_url": "https://t.me/amiaoapp",
+                "start": 40,
+                "url": "https://t.co/XvgNXMZzNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiao.app",
+                "end": 23,
+                "expanded_url": "https://amiao.app",
+                "start": 0,
+                "url": "https://t.co/kSncc6pe0Y"
+              }
+            ]
+          }
+        },
+        "id": "786174501427957761",
+        "location": "防失联👉🏻",
+        "name": "APP喵",
+        "pinned_tweet_id": "2056553472062107773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636188090942517249/clmLhuF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5830,
+          "following_count": 75,
+          "like_count": 342,
+          "listed_count": 30,
+          "media_count": 1427,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/kSncc6pe0Y",
+        "username": "amiaoapp",
+        "verified": true
+      }
+    ]
+  }
+}

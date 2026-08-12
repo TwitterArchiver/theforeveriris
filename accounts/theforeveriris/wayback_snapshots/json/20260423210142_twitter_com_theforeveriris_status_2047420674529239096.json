@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047420665138143232"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047420674529239096",
+    "created_at": "2026-04-23T21:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047420674529239096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "对监牢燃烧着敌意的孤狼少女",
+          "display_url": "manosaba-test.asachiri.com/r/nanoka/",
+          "end": 75,
+          "expanded_url": "https://manosaba-test.asachiri.com/r/nanoka/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2046095136158089216/mMU_jvA4?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2046095136158089216/mMU_jvA4?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "黑部奈叶香 · 魔女审判人格测试",
+          "unwound_url": "https://manosaba-test.asachiri.com/r/nanoka/",
+          "url": "https://t.co/Ofak7eX5aR"
+        },
+        {
+          "display_url": "pic.x.com/09Z3YfaP29",
+          "end": 99,
+          "expanded_url": "https://x.com/theforeveriris/status/2047420674529239096/photo/1",
+          "media_key": "3_2047420665138143232",
+          "start": 76,
+          "url": "https://t.co/09Z3YfaP29"
+        },
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/bghtnya/status/2047301541800128770",
+          "start": 100,
+          "url": "https://t.co/c5OXiV63lP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047420674529239096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047301541800128770",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在魔女审判人格测试中被判决为「黑部奈叶香」—— 对监牢燃烧着敌意的孤狼少女\n\n▸ 戳这里开始你的审判：https://t.co/Ofak7eX5aR https://t.co/09Z3YfaP29 https://t.co/c5OXiV63lP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047420665138143232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnmP0taYAApTOG.jpg",
+        "width": 867
+      },
+      {
+        "height": 2680,
+        "media_key": "3_2047301509109702656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl54B6a4AAFRbz.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047420665138143232"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047420674529239096",
+        "created_at": "2026-04-23T21:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047420674529239096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "对监牢燃烧着敌意的孤狼少女",
+              "display_url": "manosaba-test.asachiri.com/r/nanoka/",
+              "end": 75,
+              "expanded_url": "https://manosaba-test.asachiri.com/r/nanoka/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2046095136158089216/mMU_jvA4?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046095136158089216/mMU_jvA4?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "黑部奈叶香 · 魔女审判人格测试",
+              "unwound_url": "https://manosaba-test.asachiri.com/r/nanoka/",
+              "url": "https://t.co/Ofak7eX5aR"
+            },
+            {
+              "display_url": "pic.x.com/09Z3YfaP29",
+              "end": 99,
+              "expanded_url": "https://x.com/theforeveriris/status/2047420674529239096/photo/1",
+              "media_key": "3_2047420665138143232",
+              "start": 76,
+              "url": "https://t.co/09Z3YfaP29"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/bghtnya/status/2047301541800128770",
+              "start": 100,
+              "url": "https://t.co/c5OXiV63lP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047420674529239096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047301541800128770",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在魔女审判人格测试中被判决为「黑部奈叶香」—— 对监牢燃烧着敌意的孤狼少女\n\n▸ 戳这里开始你的审判：https://t.co/Ofak7eX5aR https://t.co/09Z3YfaP29 https://t.co/c5OXiV63lP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047301509109702656"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047301541800128770",
+        "created_at": "2026-04-23T13:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047301541800128770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "自称名侦探、却完全没有道德心的好奇鬼",
+              "display_url": "manosaba-test.asachiri.com/r/sherry/",
+              "end": 78,
+              "expanded_url": "https://manosaba-test.asachiri.com/r/sherry/",
+              "start": 55,
+              "status": 200,
+              "title": "橘雪莉 · 魔女审判人格测试",
+              "unwound_url": "https://manosaba-test.asachiri.com/r/sherry/",
+              "url": "https://t.co/JjLMMbaOYG"
+            },
+            {
+              "display_url": "pic.x.com/hgO0k4kM9E",
+              "end": 102,
+              "expanded_url": "https://x.com/bghtnya/status/2047301541800128770/photo/1",
+              "media_key": "3_2047301509109702656",
+              "start": 79,
+              "url": "https://t.co/hgO0k4kM9E"
+            },
+            {
+              "display_url": "x.com/Naiwenel/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Naiwenel/status/2045951317001056286",
+              "start": 103,
+              "url": "https://t.co/KUzl3kuQri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047301541800128770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2445,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045951317001056286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在魔女审判人格测试中被判决为「橘雪莉」—— 自称名侦探、却完全没有道德心的好奇鬼\n\n▸ 戳这里开始你的审判：https://t.co/JjLMMbaOYG https://t.co/hgO0k4kM9E https://t.co/KUzl3kuQri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 450,
+          "like_count": 13613,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 3213
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9005,
+          "following_count": 2144,
+          "like_count": 177395,
+          "listed_count": 19,
+          "media_count": 3862,
+          "tweet_count": 47284
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

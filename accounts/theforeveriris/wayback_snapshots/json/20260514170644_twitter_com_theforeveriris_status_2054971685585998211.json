@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2054932634053271845",
+    "created_at": "2026-05-14T17:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054971685585998211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "384959789",
+          "start": 0,
+          "username": "acghnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054971685585998211",
+    "in_reply_to_user_id": "384959789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054932634053271845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acghnu vim 后遗症"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2054932123346481152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISV4PGbMAAf7Uv.png",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2054932634053271845",
+        "created_at": "2026-05-14T17:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054971685585998211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "384959789",
+              "start": 0,
+              "username": "acghnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054971685585998211",
+        "in_reply_to_user_id": "384959789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054932634053271845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acghnu vim 后遗症"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054932123346481152"
+          ]
+        },
+        "author_id": "384959789",
+        "conversation_id": "2054932634053271845",
+        "created_at": "2026-05-14T14:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054932634053271845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEEx0p53rC",
+              "end": 56,
+              "expanded_url": "https://x.com/acghnu/status/2054932634053271845/photo/1",
+              "media_key": "3_2054932123346481152",
+              "start": 33,
+              "url": "https://t.co/kEEx0p53rC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054932634053271845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2519,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉记忆在 Claude Code 里打 :q，竟然真的退出了。 https://t.co/kEEx0p53rC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 451,
+          "like_count": 14030,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 3396
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-04T16:43:30.000Z",
+        "description": "Turning coffee into: \n🌄 https://t.co/6lxf7sdgM7 \n🖼️ https://t.co/lGh1b8uGy7 \n💬 https://t.co/9n1jK9yRTu \n🎴 https://t.co/86h8qYthRj \n📸 https://t.co/DNbNWIMiDE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "framify.photo",
+                "end": 47,
+                "expanded_url": "https://framify.photo",
+                "start": 24,
+                "url": "https://t.co/6lxf7sdgM7"
+              },
+              {
+                "display_url": "flic.cc",
+                "end": 75,
+                "expanded_url": "https://flic.cc",
+                "start": 52,
+                "url": "https://t.co/lGh1b8uGy7"
+              },
+              {
+                "display_url": "komment.co",
+                "end": 102,
+                "expanded_url": "https://komment.co",
+                "start": 79,
+                "url": "https://t.co/9n1jK9yRTu"
+              },
+              {
+                "display_url": "memix.cards",
+                "end": 129,
+                "expanded_url": "https://memix.cards",
+                "start": 106,
+                "url": "https://t.co/86h8qYthRj"
+              },
+              {
+                "display_url": "chuangyu.flic.cc",
+                "end": 156,
+                "expanded_url": "https://chuangyu.flic.cc",
+                "start": 133,
+                "url": "https://t.co/DNbNWIMiDE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chuangyu.space",
+                "end": 23,
+                "expanded_url": "https://chuangyu.space",
+                "start": 0,
+                "url": "https://t.co/voikc1zPUN"
+              }
+            ]
+          }
+        },
+        "id": "384959789",
+        "location": "Earth",
+        "name": "chuang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018611120530132992/JMGdPI0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7382,
+          "following_count": 306,
+          "like_count": 2968,
+          "listed_count": 69,
+          "media_count": 1297,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/voikc1zPUN",
+        "username": "acghnu",
+        "verified": true
+      }
+    ]
+  }
+}

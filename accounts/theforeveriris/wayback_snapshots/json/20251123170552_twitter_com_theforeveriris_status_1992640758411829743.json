@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992640751415754752"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "1992523432228250092",
+    "created_at": "2025-11-23T17:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992640758411829743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767489687328100352",
+          "start": 0,
+          "username": "ChachaMojoy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AF4iZm4Zb3",
+          "end": 42,
+          "expanded_url": "https://x.com/theforeveriris/status/1992640758411829743/photo/1",
+          "media_key": "3_1992640751415754752",
+          "start": 19,
+          "url": "https://t.co/AF4iZm4Zb3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1992640758411829743",
+    "in_reply_to_user_id": "1767489687328100352",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992523432228250092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChachaMojoy bi qi https://t.co/AF4iZm4Zb3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_1992640751415754752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dINLkagAASuff.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992523423277539328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bdfyMaYAA6I2s.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992640751415754752"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "1992523432228250092",
+        "created_at": "2025-11-23T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992640758411829743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767489687328100352",
+              "start": 0,
+              "username": "ChachaMojoy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AF4iZm4Zb3",
+              "end": 42,
+              "expanded_url": "https://x.com/theforeveriris/status/1992640758411829743/photo/1",
+              "media_key": "3_1992640751415754752",
+              "start": 19,
+              "url": "https://t.co/AF4iZm4Zb3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1992640758411829743",
+        "in_reply_to_user_id": "1767489687328100352",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992523432228250092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChachaMojoy bi qi https://t.co/AF4iZm4Zb3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992523423277539328"
+          ]
+        },
+        "author_id": "1767489687328100352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992523432228250092",
+        "created_at": "2025-11-23T09:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992523432228250092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG1z6r60yh",
+              "end": 69,
+              "expanded_url": "https://x.com/ChachaMojoy/status/1992523432228250092/photo/1",
+              "media_key": "3_1992523423277539328",
+              "start": 46,
+              "url": "https://t.co/uG1z6r60yh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992523432228250092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 53477,
+          "like_count": 441,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "國文不太好的狗狗(；・∀・)\n這個是唸...勃...勃起...嗎(？？？？\n我大問號www https://t.co/uG1z6r60yh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 393,
+          "like_count": 5982,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2155
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T09:56:13.000Z",
+        "description": "@Mojoy_Live 所屬💙 \n窩4來自天空的可愛狗勾(*´∀｀) \n因為喜歡喝水果茶所以我叫茶茶٩(๑´3｀๑)۶ \n媽咪 @sunamama4788 \n連動/商業/合作聯絡信箱 biz@mojoy.io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Mojoy_Live"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "sunamama4788"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kumochacha-mo…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@kumochacha-mojoylive?si=9go_kqexlp2Ec8pT",
+                "start": 0,
+                "url": "https://t.co/K277dfJ7CM"
+              }
+            ]
+          }
+        },
+        "id": "1767489687328100352",
+        "location": "天空之國",
+        "name": "天蕓茶茶☁🐶 蘿莉Vtuber",
+        "pinned_tweet_id": "1941006666738372726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959557110011940864/pMyww8s6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 266,
+          "like_count": 14323,
+          "listed_count": 12,
+          "media_count": 564,
+          "tweet_count": 6101
+        },
+        "url": "https://t.co/K277dfJ7CM",
+        "username": "ChachaMojoy",
+        "verified": false
+      }
+    ]
+  }
+}

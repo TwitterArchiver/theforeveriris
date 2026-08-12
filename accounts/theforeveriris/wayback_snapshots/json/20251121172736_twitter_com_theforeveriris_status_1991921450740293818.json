@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1991684526834405655",
+    "created_at": "2025-11-21T17:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991921450740293818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1438841836202643457",
+          "start": 0,
+          "username": "ireddragonicy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991921450740293818",
+    "in_reply_to_user_id": "1438841836202643457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991684526834405655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ireddragonicy 美麗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "3_1991684217638645763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6PiPlkacAMk_TB.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1991684526834405655",
+        "created_at": "2025-11-21T17:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991921450740293818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1438841836202643457",
+              "start": 0,
+              "username": "ireddragonicy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991921450740293818",
+        "in_reply_to_user_id": "1438841836202643457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991684526834405655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ireddragonicy 美麗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991684217638645763"
+          ]
+        },
+        "author_id": "1438841836202643457",
+        "conversation_id": "1991684526834405655",
+        "created_at": "2025-11-21T01:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991684526834405655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqdcFiaK53",
+              "end": 59,
+              "expanded_url": "https://x.com/ireddragonicy/status/1991684526834405655/photo/1",
+              "media_key": "3_1991684217638645763",
+              "start": 36,
+              "url": "https://t.co/sqdcFiaK53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991684526834405655",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7537,
+          "impression_count": 697883,
+          "like_count": 57491,
+          "quote_count": 167,
+          "reply_count": 199,
+          "retweet_count": 4914
+        },
+        "reply_settings": "everyone",
+        "text": "now I can learn algorithm faster... https://t.co/sqdcFiaK53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 395,
+          "like_count": 6142,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 2401
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-17T12:29:09.000Z",
+        "description": "{\n  ''type''   : 2D,\n  ''paper'': ''Attention is All You Need'',\n  ''commission'' : True,\n  ''lang''            : ''Python''\n}",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ireddragonicy.vercel.app",
+                "end": 23,
+                "expanded_url": "https://ireddragonicy.vercel.app",
+                "start": 0,
+                "url": "https://t.co/NwYwsrokhF"
+              }
+            ]
+          }
+        },
+        "id": "1438841836202643457",
+        "location": "Alone",
+        "name": "ンディク",
+        "pinned_tweet_id": "1903734536133067121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960248443349446656/tXneboPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6046,
+          "following_count": 15,
+          "like_count": 2013,
+          "listed_count": 28,
+          "media_count": 1592,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/NwYwsrokhF",
+        "username": "ireddragonicy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2020477224554815564",
+    "created_at": "2026-02-08T14:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020502793875055103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020502793875055103",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020477224554815564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu 气笑了...这他妈到底什么人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2020477216409440256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotUsja0AAzL8u.jpg",
+        "width": 632
+      },
+      {
+        "height": 718,
+        "media_key": "3_2020477216396865537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotUsga8AEsUPR.jpg",
+        "width": 605
+      },
+      {
+        "height": 1126,
+        "media_key": "3_2020477216677937152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotUtjbwAA5eM3.jpg",
+        "width": 621
+      },
+      {
+        "height": 899,
+        "media_key": "3_2020477222122106881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotVB1bMAEnNSj.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2020477224554815564",
+        "created_at": "2026-02-08T14:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020502793875055103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020502793875055103",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020477224554815564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu 气笑了...这他妈到底什么人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020477216409440256",
+            "3_2020477216396865537",
+            "3_2020477216677937152",
+            "3_2020477222122106881"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020477224554815564",
+        "created_at": "2026-02-08T12:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020477224554815564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477216409440256",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            },
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477216396865537",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            },
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477216677937152",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            },
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477222122106881",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020477224554815564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1404,
+          "like_count": 23,
+          "quote_count": 10,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子第一次挂人我本来还想着能接受三角恋的但是她的语气让我不得不难蚌 什么叫我给她养的这么可爱我陪了我对象将近两年了 跟你一天就跑了对象有m倾向 这出生跟我兑现第一次面基就带四联和小玩具也不避嫌在知道有对象的情况下跟她去开房 甚至我去私信求她还叫我找个比我对象更好看的 18342960374 https://t.co/Fl75NzzMEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 414,
+          "like_count": 10282,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 2684
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3248,
+          "following_count": 2660,
+          "like_count": 33911,
+          "listed_count": 7,
+          "media_count": 1070,
+          "tweet_count": 6830
+        },
+        "username": "Yujiudu",
+        "verified": false
+      }
+    ]
+  }
+}

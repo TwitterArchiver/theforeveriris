@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077279729649106944"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2077067485669691812",
+    "created_at": "2026-07-15T06:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077279887585628316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rr4HlWnzGV",
+          "end": 42,
+          "expanded_url": "https://x.com/theforeveriris/status/2077279887585628316/photo/1",
+          "media_key": "3_2077279729649106944",
+          "start": 19,
+          "url": "https://t.co/Rr4HlWnzGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077279887585628316",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077067485669691812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 免费试用为什么不截 https://t.co/Rr4HlWnzGV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 916,
+        "media_key": "3_2077279729649106944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP66IDawAABMDZ.jpg",
+        "width": 1464
+      },
+      {
+        "height": 1646,
+        "media_key": "3_2077067419605209088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM50DgbEAAwveK.jpg",
+        "width": 1954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077279729649106944"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2077067485669691812",
+        "created_at": "2026-07-15T06:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077279887585628316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rr4HlWnzGV",
+              "end": 42,
+              "expanded_url": "https://x.com/theforeveriris/status/2077279887585628316/photo/1",
+              "media_key": "3_2077279729649106944",
+              "start": 19,
+              "url": "https://t.co/Rr4HlWnzGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077279887585628316",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077067485669691812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 免费试用为什么不截 https://t.co/Rr4HlWnzGV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077067419605209088"
+          ]
+        },
+        "author_id": "1637070779975352320",
+        "conversation_id": "2077067485669691812",
+        "created_at": "2026-07-14T16:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077067485669691812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ed3gbHeYEu",
+              "end": 38,
+              "expanded_url": "https://x.com/arkuy99/status/2077067485669691812/photo/1",
+              "media_key": "3_2077067419605209088",
+              "start": 15,
+              "url": "https://t.co/ed3gbHeYEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077067485669691812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23240,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "GPT 为啥免费给我 何意味 https://t.co/ed3gbHeYEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 455,
+          "like_count": 17718,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 3930
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0Knj  a native iOS app for Claude Code \n/ ex @TencentGames \n/ ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "TencentGames"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/m4sM6QU…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/m4sM6QUuMt",
+                "start": 0,
+                "url": "https://t.co/zxI1WGCfvQ"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "location": "Less is more.",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049078848978145704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8336,
+          "following_count": 1060,
+          "like_count": 7041,
+          "listed_count": 47,
+          "media_count": 736,
+          "tweet_count": 10047
+        },
+        "url": "https://t.co/zxI1WGCfvQ",
+        "username": "arkuy99",
+        "verified": true
+      }
+    ]
+  }
+}

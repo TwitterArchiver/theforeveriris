@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027218785892184065"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027047408207839320",
+    "created_at": "2026-02-27T03:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027218788182319160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l23FvqKsiy",
+          "end": 48,
+          "expanded_url": "https://x.com/theforeveriris/status/2027218788182319160/photo/1",
+          "media_key": "3_2027218785892184065",
+          "start": 25,
+          "url": "https://t.co/l23FvqKsiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027218788182319160",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027047408207839320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy 我还在某人 QQ 群里看见她了 https://t.co/l23FvqKsiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 439,
+        "media_key": "3_2027218785892184065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIgvr8aMAEJi0D.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1191,
+        "media_key": "3_2027047405603201024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCGE4CnbIAA2ck_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027218785892184065"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027047408207839320",
+        "created_at": "2026-02-27T03:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027218788182319160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l23FvqKsiy",
+              "end": 48,
+              "expanded_url": "https://x.com/theforeveriris/status/2027218788182319160/photo/1",
+              "media_key": "3_2027218785892184065",
+              "start": 25,
+              "url": "https://t.co/l23FvqKsiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027218788182319160",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027047408207839320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 我还在某人 QQ 群里看见她了 https://t.co/l23FvqKsiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027047405603201024"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "2027047408207839320",
+        "created_at": "2026-02-26T15:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027047408207839320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KFuxgMpsG",
+              "end": 50,
+              "expanded_url": "https://x.com/un_krvy/status/2027047408207839320/photo/1",
+              "media_key": "3_2027047405603201024",
+              "start": 27,
+              "url": "https://t.co/3KFuxgMpsG"
+            },
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/2027046156090609948",
+              "start": 51,
+              "url": "https://t.co/ERDAdie1J6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027047408207839320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1334,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027046156090609948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此人现已删除，但剽窃事实无法改变，甚至想以此用来牟利 https://t.co/3KFuxgMpsG https://t.co/ERDAdie1J6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 437,
+          "like_count": 11472,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2943
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 216,
+          "like_count": 6189,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

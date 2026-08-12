@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2078642727537823836",
+    "created_at": "2026-07-20T10:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079146453608595902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1411160271909965833",
+          "start": 0,
+          "username": "Julie14102575"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2079146071264268632",
+          "start": 31,
+          "url": "https://t.co/cOVaJlbhCK"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2079146453608595902",
+    "in_reply_to_user_id": "1411160271909965833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079146071264268632",
+        "type": "quoted"
+      },
+      {
+        "id": "2078642727537823836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Julie14102575 可以试试这个，我用 2 年多了 https://t.co/cOVaJlbhCK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2079146059872550912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqcU17bQAASjeX.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2078642727537823836",
+        "created_at": "2026-07-20T10:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079146453608595902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1411160271909965833",
+              "start": 0,
+              "username": "Julie14102575"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2079146071264268632",
+              "start": 31,
+              "url": "https://t.co/cOVaJlbhCK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2079146453608595902",
+        "in_reply_to_user_id": "1411160271909965833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079146071264268632",
+            "type": "quoted"
+          },
+          {
+            "id": "2078642727537823836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Julie14102575 可以试试这个，我用 2 年多了 https://t.co/cOVaJlbhCK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079146059872550912"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2078874851146940706",
+        "created_at": "2026-07-20T10:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079146071264268632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1210210728751194112",
+              "start": 0,
+              "username": "Ly60kLiUsUYMR6u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ete1zTIK0l",
+              "end": 119,
+              "expanded_url": "https://x.com/theforeveriris/status/2079146071264268632/photo/1",
+              "media_key": "3_2079146059872550912",
+              "start": 96,
+              "url": "https://t.co/ete1zTIK0l"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2079146071264268632",
+        "in_reply_to_user_id": "1210210728751194112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078874851146940706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ly60kLiUsUYMR6u 可以选我正在用的 https://139.196.88.79:8008/#/register?code=uda1Du3V，质量非常高喵，一个月21三个月39 https://t.co/ete1zTIK0l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1411160271909965833",
+        "conversation_id": "2078642727537823836",
+        "created_at": "2026-07-19T00:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078642727537823836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078642727537823836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 667,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都是用的什么vpn呀，我之前用的快连vpn商店找不到了，有没有什么好用一点的梯子，可以介绍一下吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 457,
+          "like_count": 17939,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 3981
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-03T03:10:16.000Z",
+        "description": "90后，国企上班的小姐姐。已婚，随遇而安 顺其自然 随缘交友",
+        "id": "1411160271909965833",
+        "location": "北京",
+        "name": "半盏浮生梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078564379092815872/z8TXCkki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 7,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Julie14102575",
+        "verified": false
+      }
+    ]
+  }
+}

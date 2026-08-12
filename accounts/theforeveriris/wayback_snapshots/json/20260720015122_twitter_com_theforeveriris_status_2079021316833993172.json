@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2079021316833993172",
+    "created_at": "2026-07-20T01:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T02:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079021316833993172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659866844550037504",
+          "start": 0,
+          "username": "AvagueFuture"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/hsn8086/status/2078808665281462577",
+          "start": 28,
+          "url": "https://t.co/Ho47EOBsWc"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "2079021316833993172",
+    "in_reply_to_user_id": "1659866844550037504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078808665281462577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvagueFuture 你就是这么把奶喷到我脸上的 https://t.co/Ho47EOBsWc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [c00e5392b3fa46fb].",
+      "parameter": "geo.place_id",
+      "resource_id": "c00e5392b3fa46fb",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "c00e5392b3fa46fb"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078808644477677568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlpcroacAAgCta.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2079021316833993172",
+        "created_at": "2026-07-20T01:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079021316833993172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659866844550037504",
+              "start": 0,
+              "username": "AvagueFuture"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hsn8086/status/2078808665281462577",
+              "start": 28,
+              "url": "https://t.co/Ho47EOBsWc"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2079021316833993172",
+        "in_reply_to_user_id": "1659866844550037504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078808665281462577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvagueFuture 你就是这么把奶喷到我脸上的 https://t.co/Ho47EOBsWc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078808644477677568"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2078808665281462577",
+        "created_at": "2026-07-19T11:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078808665281462577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eShmKSG5pH",
+              "end": 28,
+              "expanded_url": "https://x.com/hsn8086/status/2078808665281462577/photo/1",
+              "media_key": "3_2078808644477677568",
+              "start": 5,
+              "url": "https://t.co/eShmKSG5pH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078808665281462577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4011,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太神圣了 https://t.co/eShmKSG5pH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 457,
+          "like_count": 17922,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 3977
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T10:21:28.000Z",
+        "description": "08年生/大只yn/177cm/67kg/INFJ-T/🏳️‍⚧️MtF/2023.4炸柜/无证含糖/正式HRT:2025.11/好朋友@123nhh_awa 人@theforeveriris/舞萌痴/想和大家做朋友👉👈/可以叫我鱼鱼🫠/永远14岁/同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "123nhh_awa"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "theforeveriris"
+              }
+            ]
+          }
+        },
+        "id": "1659866844550037504",
+        "location": "距离你 1 光年",
+        "name": "鱼✘🍥",
+        "pinned_tweet_id": "2067178409210589645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015287105447227392/SwQJViYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 426,
+          "like_count": 3602,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "AvagueFuture",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121714,
+          "following_count": 1115,
+          "like_count": 52150,
+          "listed_count": 300,
+          "media_count": 23253,
+          "tweet_count": 33798
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

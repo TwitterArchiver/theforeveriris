@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1997419701459427593",
+    "created_at": "2025-12-07T04:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T05:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997531354632949769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997531354632949769",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997419701459427593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 貴而無用。不如直接去醫院開點思諾思管用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_1997419693465059328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7hCoOBawAA_KNi.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1997419701459427593",
+        "created_at": "2025-12-07T04:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997531354632949769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997531354632949769",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997419701459427593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 貴而無用。不如直接去醫院開點思諾思管用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997419693465059328"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1997419701459427593",
+        "created_at": "2025-12-06T21:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T22:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997419701459427593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1qlF0KuIFz",
+              "end": 23,
+              "expanded_url": "https://x.com/amecandy_x/status/1997419701459427593/photo/1",
+              "media_key": "3_1997419693465059328",
+              "start": 0,
+              "url": "https://t.co/1qlF0KuIFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997419701459427593",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 247429,
+          "like_count": 943,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1qlF0KuIFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 394,
+          "like_count": 6152,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2201
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/CS/Fullstack/LLM Apps/Leftist/Blogger      #odtwt💊#drugtwt💉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 71,
+                "tag": "odtwt"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4826,
+          "following_count": 1695,
+          "like_count": 22764,
+          "listed_count": 13,
+          "media_count": 895,
+          "tweet_count": 7690
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

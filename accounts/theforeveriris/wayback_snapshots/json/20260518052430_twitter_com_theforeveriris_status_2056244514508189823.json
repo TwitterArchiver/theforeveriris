@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2056161559660093681",
+    "created_at": "2026-05-18T05:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056244514508189823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1950645620429275136",
+          "start": 0,
+          "username": "1kiiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056244514508189823",
+    "in_reply_to_user_id": "1950645620429275136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056161559660093681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1kiiou 怎么还有我，好神奇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2056161555558080512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIj0Cm_aoAA2pHQ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056161559660093681",
+        "created_at": "2026-05-18T05:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056244514508189823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1950645620429275136",
+              "start": 0,
+              "username": "1kiiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056244514508189823",
+        "in_reply_to_user_id": "1950645620429275136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056161559660093681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1kiiou 怎么还有我，好神奇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056161555558080512"
+          ]
+        },
+        "author_id": "1950645620429275136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2056161559660093681",
+        "created_at": "2026-05-17T23:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T00:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056161559660093681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2056225296911892480/zxNP3jo-?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056225296911892480/zxNP3jo-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Uv3I9KUB3V"
+            },
+            {
+              "display_url": "pic.x.com/fhrVSWl2lm",
+              "end": 64,
+              "expanded_url": "https://x.com/1kiiou/status/2056161559660093681/photo/1",
+              "media_key": "3_2056161555558080512",
+              "start": 41,
+              "url": "https://t.co/fhrVSWl2lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056161559660093681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Uv3I9KUB3V https://t.co/fhrVSWl2lm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 454,
+          "like_count": 14152,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3446
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T19:52:25.000Z",
+        "description": "愿幸福和幸运降临 ‿𐔌ໃ 🍀 ֪.\n互关大欢迎｜不聊黄 没有🚪 不熟的不加v",
+        "id": "1950645620429275136",
+        "location": "暖暖的被窝里",
+        "name": "季风",
+        "pinned_tweet_id": "2056205109793579464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053872849664856064/zkn0veAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 134,
+          "like_count": 7658,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3423
+        },
+        "username": "1kiiou",
+        "verified": false
+      }
+    ]
+  }
+}

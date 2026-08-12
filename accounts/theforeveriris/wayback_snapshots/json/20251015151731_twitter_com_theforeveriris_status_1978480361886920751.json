@@ -1,0 +1,644 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "1978435496075251858",
+    "created_at": "2025-10-15T15:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T16:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978480361886920751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "165023968",
+          "start": 0,
+          "username": "Boulugre"
+        },
+        {
+          "end": 19,
+          "id": "44196397",
+          "start": 10,
+          "username": "elonmusk"
+        },
+        {
+          "end": 32,
+          "id": "15726728",
+          "start": 20,
+          "username": "SciGuySpace"
+        },
+        {
+          "end": 44,
+          "id": "849875960",
+          "start": 33,
+          "username": "raikohtech"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1978480361886920751",
+    "in_reply_to_user_id": "165023968",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978477215529500806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Boulugre @elonmusk @SciGuySpace @raikohtech Planting grains？Or establish a micro-biosphere."
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1978435496075251858",
+        "created_at": "2025-10-15T15:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978480361886920751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "165023968",
+              "start": 0,
+              "username": "Boulugre"
+            },
+            {
+              "end": 19,
+              "id": "44196397",
+              "start": 10,
+              "username": "elonmusk"
+            },
+            {
+              "end": 32,
+              "id": "15726728",
+              "start": 20,
+              "username": "SciGuySpace"
+            },
+            {
+              "end": 44,
+              "id": "849875960",
+              "start": 33,
+              "username": "raikohtech"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1978480361886920751",
+        "in_reply_to_user_id": "165023968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978477215529500806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Boulugre @elonmusk @SciGuySpace @raikohtech Planting grains？Or establish a micro-biosphere."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "165023968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "1978435496075251858",
+        "created_at": "2025-10-15T15:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978477215529500806"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "Mars",
+              "probability": 0.984,
+              "start": 91,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "44196397",
+              "start": 0,
+              "username": "elonmusk"
+            },
+            {
+              "end": 22,
+              "id": "15726728",
+              "start": 10,
+              "username": "SciGuySpace"
+            },
+            {
+              "end": 34,
+              "id": "849875960",
+              "start": 23,
+              "username": "raikohtech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978477215529500806",
+        "in_reply_to_user_id": "44196397",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978475722273620121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elonmusk @SciGuySpace @raikohtech What the heck your 100k people are going to eat once on Mars without re supply from earth?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 360,
+          "like_count": 5971,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2243
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-10T11:19:15.000Z",
+        "description": "gold and silver",
+        "id": "165023968",
+        "name": "Mr Boulugre",
+        "pinned_tweet_id": "1452009523976318978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716946645903192064/7WObIKs8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 715,
+          "like_count": 7470,
+          "listed_count": 4,
+          "media_count": 637,
+          "tweet_count": 7486
+        },
+        "username": "Boulugre",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227761416,
+          "following_count": 1219,
+          "like_count": 177506,
+          "listed_count": 164653,
+          "media_count": 4178,
+          "tweet_count": 87601
+        },
+        "username": "elonmusk",
+        "verified": true
+      },
+      {
+        "created_at": "2008-08-04T19:44:20.000Z",
+        "description": "Senior Space Editor at Ars Technica. Likes rockets. Author of the best-selling book on the Falcon 9 and Dragon, REENTRY. https://t.co/5HYUhJzFHZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "benbellabooks.com/shop/reentry/",
+                "end": 144,
+                "expanded_url": "https://benbellabooks.com/shop/reentry/",
+                "start": 121,
+                "url": "https://t.co/5HYUhJzFHZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arstechnica.com",
+                "end": 23,
+                "expanded_url": "http://www.arstechnica.com",
+                "start": 0,
+                "url": "https://t.co/UzwlclzpyW"
+              }
+            ]
+          }
+        },
+        "id": "15726728",
+        "location": "Houston, TX",
+        "name": "Eric Berger",
+        "pinned_tweet_id": "1748050927079063783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819891202218418176/YRgX4Lf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394813,
+          "following_count": 749,
+          "like_count": 24875,
+          "listed_count": 4051,
+          "media_count": 4419,
+          "tweet_count": 61292
+        },
+        "url": "https://t.co/UzwlclzpyW",
+        "username": "SciGuySpace",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-27T20:03:57.000Z",
+        "description": "Rockets of unusual size.",
+        "id": "849875960",
+        "name": "Raikohtech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649100057570951169/9HOCffDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 80,
+          "like_count": 4003,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 470
+        },
+        "username": "raikohtech",
+        "verified": false
+      }
+    ]
+  }
+}

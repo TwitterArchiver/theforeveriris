@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085368606800691390",
+    "created_at": "2026-08-07T00:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T01:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085525299132088354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1787079624260001792",
+          "start": 0,
+          "username": "HanLuo14894"
+        },
+        {
+          "end": 22,
+          "id": "2054196065172344832",
+          "start": 13,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085525299132088354",
+    "in_reply_to_user_id": "1787079624260001792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085393411709063344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanLuo14894 @GptRainy 你在降低她的辈分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085368606800691390",
+        "created_at": "2026-08-07T00:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085525299132088354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1787079624260001792",
+              "start": 0,
+              "username": "HanLuo14894"
+            },
+            {
+              "end": 22,
+              "id": "2054196065172344832",
+              "start": 13,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085525299132088354",
+        "in_reply_to_user_id": "1787079624260001792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085393411709063344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanLuo14894 @GptRainy 你在降低她的辈分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787079624260001792",
+        "conversation_id": "2085368606800691390",
+        "created_at": "2026-08-06T15:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085393411709063344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085393411709063344",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085368606800691390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 怎么不给习近平生😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 458,
+          "like_count": 19287,
+          "listed_count": 6,
+          "media_count": 417,
+          "tweet_count": 4211
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:19:40.000Z",
+        "description": "脑子有点神经的家伙。\n漂着，等着砸在水泥地。\n什么内容都涉猎。\n不是机器人，是会抽烟咳嗽的真人～\n同类欢迎来聊，只要狂人神人，不对任何群体存在意见。",
+        "id": "1787079624260001792",
+        "location": "无间地狱",
+        "name": "罗 XY",
+        "pinned_tweet_id": "2063878065110016353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946790191877750784/hnZJkmLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 30,
+          "like_count": 55932,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "HanLuo14894",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem/ASD/18yo/communist🚩👊/总体解放/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6Ile8"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 584,
+          "like_count": 1114,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/b8fHY6Ile8",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}

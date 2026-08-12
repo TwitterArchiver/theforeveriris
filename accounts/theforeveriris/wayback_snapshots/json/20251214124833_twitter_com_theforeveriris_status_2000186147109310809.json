@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1999929703478767692",
+    "created_at": "2025-12-14T12:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000186147109310809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 20,
+          "id": "1545277694325116928",
+          "start": 13,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 27,
+          "id": "1243945571796295681",
+          "start": 21,
+          "username": "ryq59"
+        },
+        {
+          "end": 35,
+          "id": "1973748660975587328",
+          "start": 28,
+          "username": "0xAzxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000186147109310809",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000154655175983308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH @BI3BXI @ryq59 @0xAzxs 哇，好图"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ryq59].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ryq59",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ryq59"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2000154652688445445",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8H6DzFW8AUBI0l.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1999929703478767692",
+        "created_at": "2025-12-14T12:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000186147109310809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 20,
+              "id": "1545277694325116928",
+              "start": 13,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 27,
+              "id": "1243945571796295681",
+              "start": 21,
+              "username": "ryq59"
+            },
+            {
+              "end": 35,
+              "id": "1973748660975587328",
+              "start": 28,
+              "username": "0xAzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000186147109310809",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000154655175983308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH @BI3BXI @ryq59 @0xAzxs 哇，好图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000154652688445445"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1999929703478767692",
+        "created_at": "2025-12-14T10:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T11:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000154655175983308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 14,
+              "id": "1243945571796295681",
+              "start": 8,
+              "username": "ryq59"
+            },
+            {
+              "end": 22,
+              "id": "1973748660975587328",
+              "start": 15,
+              "username": "0xAzxs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSuTvnuXH6",
+              "end": 64,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/2000154655175983308/photo/1",
+              "media_key": "3_2000154652688445445",
+              "start": 41,
+              "url": "https://t.co/zSuTvnuXH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000154655175983308",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999929703478767692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @ryq59 @0xAzxs 曾今的我也是如此be like🥲👇 https://t.co/zSuTvnuXH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 394,
+          "like_count": 6289,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 2252
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11859,
+          "following_count": 1396,
+          "like_count": 154655,
+          "listed_count": 25,
+          "media_count": 4911,
+          "tweet_count": 66262
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "AI/ML在读｜实习律师｜前世 @ryq59｜性别是🏳️‍⚧️Enby.（MtX）🏳️‍🌈｜里垢@TabeWang｜好姐姐 @tonghua245 @mimilinkeyi ｜管理员 @mhtqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 16,
+                "username": "ryq59"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TabeWang"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "tonghua245"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "mimilinkeyi"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "铨🍥（互fo寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4170,
+          "following_count": 2906,
+          "like_count": 27725,
+          "listed_count": 13,
+          "media_count": 854,
+          "tweet_count": 4652
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "",
+        "id": "1973748660975587328",
+        "location": "Tianjin China",
+        "name": "艾之希伤",
+        "pinned_tweet_id": "1998734199587582375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997960194295492608/siYZBz0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 688,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 913
+        },
+        "username": "0xAzxs",
+        "verified": false
+      }
+    ]
+  }
+}

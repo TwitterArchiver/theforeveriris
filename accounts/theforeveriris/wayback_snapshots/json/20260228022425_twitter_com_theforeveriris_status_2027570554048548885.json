@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027326831943405650",
+    "created_at": "2026-02-28T02:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027570554048548885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1611210863297597440",
+          "start": 0,
+          "username": "StewartCharlie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027570554048548885",
+    "in_reply_to_user_id": "1611210863297597440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027419574568997224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StewartCharlie_ 谢谢，等我最近忙完就去修正"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-28T02:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027570554048548885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1611210863297597440",
+              "start": 0,
+              "username": "StewartCharlie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027570554048548885",
+        "in_reply_to_user_id": "1611210863297597440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027419574568997224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StewartCharlie_ 谢谢，等我最近忙完就去修正"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611210863297597440",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-27T16:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027419574568997224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027419574568997224",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027326831943405650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 捉虫！删除第二个车票块会重置第一个车票块已经编辑的内容！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 440,
+          "like_count": 11573,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 2981
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T03:59:48.000Z",
+        "description": "NaN",
+        "id": "1611210863297597440",
+        "location": "距你11.4km",
+        "name": "youzilm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019313182901432320/fqJbVQ6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 132
+        },
+        "username": "StewartCharlie_",
+        "verified": false
+      }
+    ]
+  }
+}

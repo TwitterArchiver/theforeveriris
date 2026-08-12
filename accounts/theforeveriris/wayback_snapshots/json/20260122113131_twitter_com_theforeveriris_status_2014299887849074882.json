@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013849693772480645",
+    "created_at": "2026-01-22T11:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T12:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014299887849074882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752630016159207424",
+          "start": 0,
+          "username": "yfgyfy19453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014299887849074882",
+    "in_reply_to_user_id": "1752630016159207424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013849693772480645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yfgyfy19453 理解本身就是一種稀有的奇蹟，遇見真正能够理解妳的人需要耐心，以及不小的運氣。不如創造一些契機，先遇見可以說話的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013849693772480645",
+        "created_at": "2026-01-22T11:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014299887849074882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752630016159207424",
+              "start": 0,
+              "username": "yfgyfy19453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014299887849074882",
+        "in_reply_to_user_id": "1752630016159207424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013849693772480645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yfgyfy19453 理解本身就是一種稀有的奇蹟，遇見真正能够理解妳的人需要耐心，以及不小的運氣。不如創造一些契機，先遇見可以說話的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752630016159207424",
+        "conversation_id": "2013849693772480645",
+        "created_at": "2026-01-21T05:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013849693772480645"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013849693772480645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么世界上有数十亿人却没有一个能理解我的人闯入我的人生，我小时候一直在心里说一个人活着是很好的于是顽固的忍受了一个又一个夜晚的孤独，但直到现在我唯一的友谊也只是每天半小时可以和朋友玩一小会游戏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 378,
+          "like_count": 6984,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2373
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T09:49:21.000Z",
+        "description": "希望那一天有一场意外直接弄死我，每天精神状态半死不活，时不时感觉身体不像自己的，只有在自己房间自残才可以清醒一点",
+        "id": "1752630016159207424",
+        "name": "阿黎🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996534538022100992/yMAQjEje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 18,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "username": "yfgyfy19453",
+        "verified": false
+      }
+    ]
+  }
+}

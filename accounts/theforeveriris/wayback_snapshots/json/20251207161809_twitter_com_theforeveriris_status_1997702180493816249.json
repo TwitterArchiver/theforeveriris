@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1997661834686664851",
+    "created_at": "2025-12-07T16:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T17:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997702180493816249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        },
+        {
+          "end": 26,
+          "id": "1900202897738252288",
+          "start": 10,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997702180493816249",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997663227472228443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina @HGangmakot97631 可惜我現在在上學，幫不了忙（ ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1997661834686664851",
+        "created_at": "2025-12-07T16:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T17:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997702180493816249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            },
+            {
+              "end": 26,
+              "id": "1900202897738252288",
+              "start": 10,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997702180493816249",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997663227472228443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina @HGangmakot97631 可惜我現在在上學，幫不了忙（ ）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "1997661834686664851",
+        "created_at": "2025-12-07T13:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997663227472228443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900202897738252288",
+              "start": 0,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997663227472228443",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997661834686664851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HGangmakot97631 sy之前跟我说她是在安徽合肥包河区，有没有附近的同类可以去帮帮忙，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 394,
+          "like_count": 6172,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2208
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️MtF｜2011.08.15｜HRT 2025.08.11｜Respect｜Harmony｜https://t.co/yg5Mm2CHsW｜https://t.co/PCL4lZpOCX｜https://t.co/7DMzdJVeVE｜With you,through all.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 74,
+                "expanded_url": "https://404yann.com",
+                "start": 51,
+                "url": "https://t.co/yg5Mm2CHsW"
+              },
+              {
+                "display_url": "cafe.404yann.com",
+                "end": 98,
+                "expanded_url": "http://cafe.404yann.com",
+                "start": 75,
+                "url": "https://t.co/PCL4lZpOCX"
+              },
+              {
+                "display_url": "profile.404yann.com",
+                "end": 122,
+                "expanded_url": "https://profile.404yann.com",
+                "start": 99,
+                "url": "https://t.co/7DMzdJVeVE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "‌‍‎                        ‌‍‎",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "1962154173933477928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 2204,
+          "like_count": 20957,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6075
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "背景图才是本体喵/\n在下的名字为疏桐哦/\nMTF/HRT始于  2025.10.06/终于2025.10.31/支持台独",
+        "id": "1900202897738252288",
+        "location": "Phoenix, AZ",
+        "name": "MTF.疏桐🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984506856199643136/3yGScvs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 250,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 568
+        },
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

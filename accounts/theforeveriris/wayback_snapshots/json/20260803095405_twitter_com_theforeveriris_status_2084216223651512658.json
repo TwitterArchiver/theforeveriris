@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2084204429272879118",
+    "created_at": "2026-08-03T09:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T10:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084216223651512658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084216223651512658",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084204429272879118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 可以盖实习章吗（bushi）我都不敢想我牢师看见南梁表情会多精彩（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2084204389779251200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyU2ZQaIAAY1-s.jpg",
+        "width": 1920
+      },
+      {
+        "height": 763,
+        "media_key": "3_2084204407470829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyU3bKaMAAUyTw.jpg",
+        "width": 1268
+      },
+      {
+        "height": 449,
+        "media_key": "3_2084204420729053185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyU4MjaoAEJF1Y.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2084204429272879118",
+        "created_at": "2026-08-03T09:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084216223651512658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084216223651512658",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084204429272879118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 可以盖实习章吗（bushi）我都不敢想我牢师看见南梁表情会多精彩（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084204389779251200",
+            "3_2084204407470829568",
+            "3_2084204420729053185"
+          ]
+        },
+        "author_id": "1605724119156260866",
+        "conversation_id": "2084204429272879118",
+        "created_at": "2026-08-03T09:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084204429272879118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/339VXntTRw",
+              "end": 114,
+              "expanded_url": "https://x.com/qijieya/status/2084204429272879118/photo/1",
+              "media_key": "3_2084204389779251200",
+              "start": 91,
+              "url": "https://t.co/339VXntTRw"
+            },
+            {
+              "display_url": "pic.x.com/339VXntTRw",
+              "end": 114,
+              "expanded_url": "https://x.com/qijieya/status/2084204429272879118/photo/1",
+              "media_key": "3_2084204407470829568",
+              "start": 91,
+              "url": "https://t.co/339VXntTRw"
+            },
+            {
+              "display_url": "pic.x.com/339VXntTRw",
+              "end": 114,
+              "expanded_url": "https://x.com/qijieya/status/2084204429272879118/photo/1",
+              "media_key": "3_2084204420729053185",
+              "start": 91,
+              "url": "https://t.co/339VXntTRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084204429272879118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也是个神人了\n南梁软件开发工作室\n据我朋友说 应该把软件去掉 或者把软件换成后端具体变成什么名字 你们就脑补一下\n之所以不再开一家公司 是因为个体工商户不用报税，免税额度也挺大的 https://t.co/339VXntTRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 455,
+          "like_count": 18616,
+          "listed_count": 6,
+          "media_count": 395,
+          "tweet_count": 4110
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 125,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 120,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 97,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "2069318895748739435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 338,
+          "like_count": 11350,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

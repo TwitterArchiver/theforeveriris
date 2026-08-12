@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "1988173850392281497",
+    "created_at": "2025-11-12T14:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T15:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988609906732376100"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 172,
+          "normalized_text": "VPN",
+          "probability": 0.3827,
+          "start": 170,
+          "type": "Organization"
+        },
+        {
+          "end": 206,
+          "normalized_text": "GFW",
+          "probability": 0.397,
+          "start": 204,
+          "type": "Organization"
+        },
+        {
+          "end": 232,
+          "normalized_text": "GFW",
+          "probability": 0.4233,
+          "start": 230,
+          "type": "Other"
+        },
+        {
+          "end": 253,
+          "normalized_text": "VPN",
+          "probability": 0.3787,
+          "start": 251,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1144143792",
+          "start": 0,
+          "username": "__Crazy_Kid__"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1988609906732376100",
+    "in_reply_to_user_id": "1144143792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988173850392281497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Crazy_Kid__ Boring.  Doesn't involve politics or sensitive issues u can do whatever u want. It is necessary for technicians to cross the gfw.  besides the function of VPN is far more than dealing with GFW, and the way to cross GFW is far more than VPN.\""
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_1988173842788085763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dpk4MbcAMPzbt.jpg",
+        "width": 1260
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1988173850392281497",
+        "created_at": "2025-11-12T14:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T15:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988609906732376100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 172,
+              "normalized_text": "VPN",
+              "probability": 0.3827,
+              "start": 170,
+              "type": "Organization"
+            },
+            {
+              "end": 206,
+              "normalized_text": "GFW",
+              "probability": 0.397,
+              "start": 204,
+              "type": "Organization"
+            },
+            {
+              "end": 232,
+              "normalized_text": "GFW",
+              "probability": 0.4233,
+              "start": 230,
+              "type": "Other"
+            },
+            {
+              "end": 253,
+              "normalized_text": "VPN",
+              "probability": 0.3787,
+              "start": 251,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1144143792",
+              "start": 0,
+              "username": "__Crazy_Kid__"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1988609906732376100",
+        "in_reply_to_user_id": "1144143792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988173850392281497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Crazy_Kid__ Boring.  Doesn't involve politics or sensitive issues u can do whatever u want. It is necessary for technicians to cross the gfw.  besides the function of VPN is far more than dealing with GFW, and the way to cross GFW is far more than VPN.\""
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988173842788085763"
+          ]
+        },
+        "author_id": "1144143792",
+        "conversation_id": "1988173850392281497",
+        "created_at": "2025-11-11T09:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988173850392281497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Xkv1uPB5l",
+              "end": 33,
+              "expanded_url": "https://x.com/__Crazy_Kid__/status/1988173850392281497/photo/1",
+              "media_key": "3_1988173842788085763",
+              "start": 10,
+              "url": "https://t.co/1Xkv1uPB5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988173850392281497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 1584745,
+          "like_count": 1496,
+          "quote_count": 26,
+          "reply_count": 299,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "我靠，央视新闻发的 https://t.co/1Xkv1uPB5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 399,
+          "like_count": 6106,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2386
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-03T04:12:28.000Z",
+        "description": "Backend developer / Rhythm Game Fever / maimaiでらっくす四轮痛车全网首痛 / 痛车车主和音游狗会回关 / 取关请双向，骗回关会被拉黑。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crazykid.moe",
+                "end": 23,
+                "expanded_url": "https://crazykid.moe/",
+                "start": 0,
+                "url": "https://t.co/bAk8eapyNo"
+              }
+            ]
+          }
+        },
+        "id": "1144143792",
+        "location": "中国",
+        "name": "CrazyKid",
+        "pinned_tweet_id": "1709067298974371886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871838337549606912/3vqW7t43_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 1023,
+          "like_count": 17984,
+          "listed_count": 31,
+          "media_count": 10030,
+          "tweet_count": 47225
+        },
+        "url": "https://t.co/bAk8eapyNo",
+        "username": "__Crazy_Kid__",
+        "verified": false
+      }
+    ]
+  }
+}

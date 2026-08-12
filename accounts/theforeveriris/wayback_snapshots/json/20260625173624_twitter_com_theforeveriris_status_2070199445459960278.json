@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2070007774734643522",
+    "created_at": "2026-06-25T17:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070199445459960278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620328547847110656",
+          "start": 0,
+          "username": "NPC888666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070199445459960278",
+    "in_reply_to_user_id": "1620328547847110656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070007774734643522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NPC888666 吼过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070007757810679808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLolFp6bwAAS4Cz.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2070007774734643522",
+        "created_at": "2026-06-25T17:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070199445459960278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620328547847110656",
+              "start": 0,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070199445459960278",
+        "in_reply_to_user_id": "1620328547847110656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070007774734643522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NPC888666 吼过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070007757810679808"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2070007774734643522",
+        "created_at": "2026-06-25T04:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070007774734643522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6PGV30GUtc",
+              "end": 31,
+              "expanded_url": "https://x.com/NPC888666/status/2070007774734643522/photo/1",
+              "media_key": "3_2070007757810679808",
+              "start": 8,
+              "url": "https://t.co/6PGV30GUtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070007774734643522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 531474,
+          "like_count": 3376,
+          "quote_count": 5,
+          "reply_count": 438,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "此一时彼一时啊 https://t.co/6PGV30GUtc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 448,
+          "like_count": 16875,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 3753
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43840,
+          "following_count": 1322,
+          "like_count": 7231,
+          "listed_count": 247,
+          "media_count": 1348,
+          "tweet_count": 7828
+        },
+        "url": "",
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

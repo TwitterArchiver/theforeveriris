@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055735407527280640",
+        "3_2055735408072540160",
+        "3_2055735421179719680",
+        "3_2055735429882916864"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2055173247277412724",
+    "created_at": "2026-05-16T19:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055735437726249217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1516455482772258816",
+          "start": 0,
+          "username": "Fly9981"
+        },
+        {
+          "end": 24,
+          "id": "1918274202580467713",
+          "start": 9,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 36,
+          "id": "1872908794646421504",
+          "start": 25,
+          "username": "Niki241228"
+        },
+        {
+          "end": 48,
+          "id": "2026283442259017729",
+          "start": 37,
+          "username": "jusirthree"
+        },
+        {
+          "end": 63,
+          "id": "1622066090074607616",
+          "start": 49,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNbc9baolk",
+          "end": 172,
+          "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+          "media_key": "3_2055735407527280640",
+          "start": 149,
+          "url": "https://t.co/JNbc9baolk"
+        },
+        {
+          "display_url": "pic.x.com/JNbc9baolk",
+          "end": 172,
+          "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+          "media_key": "3_2055735408072540160",
+          "start": 149,
+          "url": "https://t.co/JNbc9baolk"
+        },
+        {
+          "display_url": "pic.x.com/JNbc9baolk",
+          "end": 172,
+          "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+          "media_key": "3_2055735421179719680",
+          "start": 149,
+          "url": "https://t.co/JNbc9baolk"
+        },
+        {
+          "display_url": "pic.x.com/JNbc9baolk",
+          "end": 172,
+          "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+          "media_key": "3_2055735429882916864",
+          "start": 149,
+          "url": "https://t.co/JNbc9baolk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055735437726249217",
+    "in_reply_to_user_id": "1516455482772258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055696102675173711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fly9981 @CyberKanjousen @Niki241228 @jusirthree @hoshinofujivy - 剧烈的人身攻击行为是否符合道德？（p1，2）\n- 把“原作者朋友或跟随者”的提醒行为强加给原作者是否合适？（p3）\n- 与人辩论的逻辑是否符合常理？（p2，3，4） https://t.co/JNbc9baolk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2055735407527280640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdwdh3bQAAg0EX.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1351,
+        "media_key": "3_2055735408072540160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdwdj5bQAAk3PN.jpg",
+        "width": 1250
+      },
+      {
+        "height": 942,
+        "media_key": "3_2055735421179719680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdweUua8AA6roI.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1284,
+        "media_key": "3_2055735429882916864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdwe1JbMAAhhcI.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055735407527280640",
+            "3_2055735408072540160",
+            "3_2055735421179719680",
+            "3_2055735429882916864"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2055173247277412724",
+        "created_at": "2026-05-16T19:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055735437726249217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1516455482772258816",
+              "start": 0,
+              "username": "Fly9981"
+            },
+            {
+              "end": 24,
+              "id": "1918274202580467713",
+              "start": 9,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 36,
+              "id": "1872908794646421504",
+              "start": 25,
+              "username": "Niki241228"
+            },
+            {
+              "end": 48,
+              "id": "2026283442259017729",
+              "start": 37,
+              "username": "jusirthree"
+            },
+            {
+              "end": 63,
+              "id": "1622066090074607616",
+              "start": 49,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNbc9baolk",
+              "end": 172,
+              "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+              "media_key": "3_2055735407527280640",
+              "start": 149,
+              "url": "https://t.co/JNbc9baolk"
+            },
+            {
+              "display_url": "pic.x.com/JNbc9baolk",
+              "end": 172,
+              "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+              "media_key": "3_2055735408072540160",
+              "start": 149,
+              "url": "https://t.co/JNbc9baolk"
+            },
+            {
+              "display_url": "pic.x.com/JNbc9baolk",
+              "end": 172,
+              "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+              "media_key": "3_2055735421179719680",
+              "start": 149,
+              "url": "https://t.co/JNbc9baolk"
+            },
+            {
+              "display_url": "pic.x.com/JNbc9baolk",
+              "end": 172,
+              "expanded_url": "https://x.com/theforeveriris/status/2055735437726249217/photo/1",
+              "media_key": "3_2055735429882916864",
+              "start": 149,
+              "url": "https://t.co/JNbc9baolk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055735437726249217",
+        "in_reply_to_user_id": "1516455482772258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055696102675173711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fly9981 @CyberKanjousen @Niki241228 @jusirthree @hoshinofujivy - 剧烈的人身攻击行为是否符合道德？（p1，2）\n- 把“原作者朋友或跟随者”的提醒行为强加给原作者是否合适？（p3）\n- 与人辩论的逻辑是否符合常理？（p2，3，4） https://t.co/JNbc9baolk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516455482772258816",
+        "conversation_id": "2055173247277412724",
+        "created_at": "2026-05-16T17:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055696102675173711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 27,
+              "id": "1872908794646421504",
+              "start": 16,
+              "username": "Niki241228"
+            },
+            {
+              "end": 39,
+              "id": "2026283442259017729",
+              "start": 28,
+              "username": "jusirthree"
+            },
+            {
+              "end": 54,
+              "id": "1622066090074607616",
+              "start": 40,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055696102675173711",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055682543220064476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @Niki241228 @jusirthree @hoshinofujivy 首先，这张图片是没任何个人标识的，它自己说故意不加的\n然后它主动发布在X\n接着被传播到其他社交平台\n我就在其他平台下载\n\n关键是，我不认识这货，我也不知道什么OC 角色\n\n它可以告诉我是它的东西，那没问题，我可以via它或者其他处理都行\n\n问题是，它们一开始就说我盗图，我从哪里盗？微博吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 453,
+          "like_count": 14089,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 3417
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T16:35:45.000Z",
+        "description": "𝘵𝘩𝘦 𝘮𝘰𝘳𝘦 𝘺𝘰𝘶 𝘭𝘰𝘰𝘬, 𝘵𝘩𝘦 𝘭𝘦𝘴𝘴 𝘺𝘰𝘶 𝘴𝘦𝘦.",
+        "id": "1516455482772258816",
+        "name": "𝐶𝑜𝑟𝑟𝑖𝑛𝑒",
+        "pinned_tweet_id": "1523333036565471232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533909468534415360/0ooMC5WJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 139,
+          "like_count": 15238,
+          "listed_count": 10,
+          "media_count": 2404,
+          "tweet_count": 9029
+        },
+        "username": "Fly9981",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3454,
+          "following_count": 834,
+          "like_count": 20253,
+          "listed_count": 8,
+          "media_count": 1076,
+          "tweet_count": 6027
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-28T07:34:00.000Z",
+        "description": "",
+        "id": "1872908794646421504",
+        "name": "点点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880631504067608576/MUmEjlnO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 16,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 715
+        },
+        "username": "Niki241228",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 964,
+          "like_count": 2959,
+          "listed_count": 7,
+          "media_count": 486,
+          "tweet_count": 1798
+        },
+        "username": "jusirthree",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10888,
+          "following_count": 4304,
+          "like_count": 46123,
+          "listed_count": 36,
+          "media_count": 2271,
+          "tweet_count": 13953
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

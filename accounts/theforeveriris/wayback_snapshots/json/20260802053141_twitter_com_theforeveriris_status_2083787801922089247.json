@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083782693700161773",
+    "created_at": "2026-08-02T05:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083787801922089247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896812508289404928",
+          "start": 0,
+          "username": "erciyuanha87431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083787801922089247",
+    "in_reply_to_user_id": "1896812508289404928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083782693700161773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erciyuanha87431 有点像唐毓文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2083782599441584128",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOsVO9zbEAAh4gq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOsVO9zbEAAh4gq.mp4"
+          }
+        ],
+        "width": 256
+      },
+      {
+        "height": 1522,
+        "media_key": "3_2083782599949111296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsVO_sbUAAJx4G.jpg",
+        "width": 900
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083782600158806016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsVPAebAAAdiZI.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083782693700161773",
+        "created_at": "2026-08-02T05:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083787801922089247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896812508289404928",
+              "start": 0,
+              "username": "erciyuanha87431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083787801922089247",
+        "in_reply_to_user_id": "1896812508289404928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083782693700161773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erciyuanha87431 有点像唐毓文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2083782599441584128",
+            "3_2083782599949111296",
+            "3_2083782600158806016"
+          ]
+        },
+        "author_id": "1896812508289404928",
+        "conversation_id": "2083782693700161773",
+        "created_at": "2026-08-02T05:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083782693700161773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kWMO4eiFu",
+              "end": 38,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2083782693700161773/photo/1",
+              "media_key": "16_2083782599441584128",
+              "start": 15,
+              "url": "https://t.co/3kWMO4eiFu"
+            },
+            {
+              "display_url": "pic.x.com/3kWMO4eiFu",
+              "end": 38,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2083782693700161773/photo/1",
+              "media_key": "3_2083782599949111296",
+              "start": 15,
+              "url": "https://t.co/3kWMO4eiFu"
+            },
+            {
+              "display_url": "pic.x.com/3kWMO4eiFu",
+              "end": 38,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2083782693700161773/photo/1",
+              "media_key": "3_2083782600158806016",
+              "start": 15,
+              "url": "https://t.co/3kWMO4eiFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083782693700161773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我先不说是谁，你猜得出来吗🤭 https://t.co/3kWMO4eiFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 451,
+          "like_count": 18358,
+          "listed_count": 6,
+          "media_count": 384,
+          "tweet_count": 4035
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有ASD阿斯伯格综合症小老鼠一只🐀🤗～超级喜欢交朋友（包容万物支持平权主义🇨🇳推止于推）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳（求互Of）\n重点：并未吃糖🍥\n令我伤心的：@siangel0911\n逃生舱：@zhoyhng276158\n干女儿：@gdioiui\n（我是泛性恋Pan，我感到骄傲和自豪）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "siangel0911"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "gdioiui"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈互Of）我❤️福瑞🌈）药圈教父🍥）人脉王🍥）",
+        "pinned_tweet_id": "2071620600670613854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024699703582224384/Oqfhnfhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 2344,
+          "like_count": 2762,
+          "listed_count": 3,
+          "media_count": 569,
+          "tweet_count": 5238
+        },
+        "url": "",
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

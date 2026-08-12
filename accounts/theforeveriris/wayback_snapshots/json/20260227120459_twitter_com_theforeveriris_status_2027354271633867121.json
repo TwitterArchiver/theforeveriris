@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2027326831943405650",
+    "created_at": "2026-02-27T12:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027354271633867121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722664675111006208",
+          "start": 0,
+          "username": "inorganicwriter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027354271633867121",
+    "in_reply_to_user_id": "1722664675111006208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027353383431221525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inorganicwriter 说起来平时花大把时间 vibe 的无人问津，火车上用手机简单弄了半个小时的看的人反而更多（ ）🥲\n----\n不过也无所谓，我 vibe 的初衷就是做一些自己可能会用或者可能会玩的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-27T12:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027354271633867121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722664675111006208",
+              "start": 0,
+              "username": "inorganicwriter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027354271633867121",
+        "in_reply_to_user_id": "1722664675111006208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027353383431221525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inorganicwriter 说起来平时花大把时间 vibe 的无人问津，火车上用手机简单弄了半个小时的看的人反而更多（ ）🥲\n----\n不过也无所谓，我 vibe 的初衷就是做一些自己可能会用或者可能会玩的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722664675111006208",
+        "conversation_id": "2027326831943405650",
+        "created_at": "2026-02-27T12:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027353383431221525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027353383431221525",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027326831943405650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris 好玩，vibe coding的正确用法😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2026650174446350652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 438,
+          "like_count": 11518,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 2964
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T17:17:53.000Z",
+        "description": "",
+        "id": "1722664675111006208",
+        "name": "将芜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849418847700348928/zggfyI-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 477,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "inorganicwriter",
+        "verified": false
+      }
+    ]
+  }
+}

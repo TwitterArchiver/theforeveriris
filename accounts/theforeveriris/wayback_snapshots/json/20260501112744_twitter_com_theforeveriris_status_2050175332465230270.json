@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2050051769376620676",
+    "created_at": "2026-05-01T11:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050175332465230270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550811468009963521",
+          "start": 0,
+          "username": "zhi_cheng233"
+        },
+        {
+          "end": 23,
+          "id": "1852615097824251904",
+          "start": 14,
+          "username": "Suimikax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050175332465230270",
+    "in_reply_to_user_id": "1550811468009963521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050148532082954366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_cheng233 @Suimikax 广东辣椒酱的辣度更是神鬼莫测"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2050051769376620676",
+        "created_at": "2026-05-01T11:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050175332465230270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            },
+            {
+              "end": 23,
+              "id": "1852615097824251904",
+              "start": 14,
+              "username": "Suimikax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050175332465230270",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050148532082954366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 @Suimikax 广东辣椒酱的辣度更是神鬼莫测"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550811468009963521",
+        "conversation_id": "2050051769376620676",
+        "created_at": "2026-05-01T09:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050148532082954366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852615097824251904",
+              "start": 0,
+              "username": "Suimikax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050148532082954366",
+        "in_reply_to_user_id": "1852615097824251904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050051769376620676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suimikax 这种辣椒酱实际上不怎么辣，甚至还有点甜？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 451,
+          "like_count": 13854,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 3288
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/后端Java开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 126,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 103,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 珠海 IP归属:CLOUDFLARE",
+        "name": "志成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 858,
+          "like_count": 7788,
+          "listed_count": 6,
+          "media_count": 494,
+          "tweet_count": 3483
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "Fighting, the only way to victory.",
+        "id": "1852615097824251904",
+        "name": "桃桃桃桃桃",
+        "pinned_tweet_id": "2035372179731411328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043161516695031808/jrfecv-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 113,
+          "like_count": 3139,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1724
+        },
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

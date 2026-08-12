@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1979889663143027030",
+    "created_at": "2025-10-19T17:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T18:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979961655858729182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "452072245",
+          "start": 0,
+          "username": "lxfater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979961655858729182",
+    "in_reply_to_user_id": "452072245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979889663143027030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxfater 封装这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1979889663143027030",
+        "created_at": "2025-10-19T17:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T18:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979961655858729182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "452072245",
+              "start": 0,
+              "username": "lxfater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979961655858729182",
+        "in_reply_to_user_id": "452072245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979889663143027030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxfater 封装这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "452072245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "JavaScript",
+              "id": "898659750950207489",
+              "name": "JavaScript"
+            }
+          }
+        ],
+        "conversation_id": "1979889663143027030",
+        "created_at": "2025-10-19T12:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979889663143027030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979889663143027030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一切都是“套壳”：\n\nNext.js 是 React 的套壳\nReact 是 JavaScript 的套壳\nJavaScript 是 C++ 的套壳\nC++ 是汇编语言的套壳\n汇编语言是 0 和 1 的套壳\n0 和 1 是电压的套壳\n电压是电子的套壳\n电子是量子场的套壳\n量子场是数学的套壳\n数学是逻辑的套壳\n逻辑是思想的套壳\n思想是神经元的套壳\n神经元是生物学的套壳\n生物学是化学的套壳\n化学是物理的套壳\n物理是规律的套壳\n规律是模式的套壳\n模式是感知的套壳\n感知是意识的套壳\n意识是“未知”的套壳"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 15562,
+          "like_count": 113,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "一切都是“套壳”：\n\nNext.js 是 React 的套壳\nReact 是 JavaScript 的套壳\nJavaScript 是 C++ 的套壳\nC++ 是汇编语言的套壳\n汇编语言是 0 和 1 的套壳\n0 和 1 是电压的套壳\n电压是电子的套壳\n电子是量子场的套壳\n量子场是数学的套壳\n数学是逻辑的套壳\n逻辑是思想的套壳\n思想是神经元的套壳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 368,
+          "like_count": 6015,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 2291
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-01T11:26:00.000Z",
+        "description": "独立创业者，AI 一人公司，帮助普通人更好地构建自己的产品，并且将其销售出去。\n我的录屏软件  https://t.co/S9MMiRj5Xj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "demoget.com",
+                "end": 71,
+                "expanded_url": "http://www.demoget.com",
+                "start": 48,
+                "url": "https://t.co/S9MMiRj5Xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxfater.com",
+                "end": 23,
+                "expanded_url": "https://www.lxfater.com",
+                "start": 0,
+                "url": "https://t.co/lajBhdRKYi"
+              }
+            ]
+          }
+        },
+        "id": "452072245",
+        "location": "我的所有信息-》》",
+        "name": "铁锤人",
+        "pinned_tweet_id": "1934177207607542044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723719195995807744/9JIAjVJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47307,
+          "following_count": 1086,
+          "like_count": 5125,
+          "listed_count": 549,
+          "media_count": 947,
+          "tweet_count": 9350
+        },
+        "url": "https://t.co/lajBhdRKYi",
+        "username": "lxfater",
+        "verified": true
+      }
+    ]
+  }
+}

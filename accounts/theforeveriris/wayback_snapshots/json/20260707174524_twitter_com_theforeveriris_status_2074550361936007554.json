@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2074467768184041866",
+    "created_at": "2026-07-07T17:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074550361936007554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1515153921836478467",
+          "start": 0,
+          "username": "kamisato_ataki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074550361936007554",
+    "in_reply_to_user_id": "1515153921836478467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074467768184041866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamisato_ataki 笑我一雷霆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074467763436019713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn9cJmaYAEZ9ht.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2074467768184041866",
+        "created_at": "2026-07-07T17:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074550361936007554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1515153921836478467",
+              "start": 0,
+              "username": "kamisato_ataki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074550361936007554",
+        "in_reply_to_user_id": "1515153921836478467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074467768184041866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamisato_ataki 笑我一雷霆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074467763436019713"
+          ]
+        },
+        "author_id": "1515153921836478467",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074467768184041866",
+        "created_at": "2026-07-07T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074467768184041866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGox5t5zey",
+              "end": 44,
+              "expanded_url": "https://x.com/kamisato_ataki/status/2074467768184041866/photo/1",
+              "media_key": "3_2074467763436019713",
+              "start": 21,
+              "url": "https://t.co/BGox5t5zey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074467768184041866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Ubuntu 做这个页面的时候自己笑了没 https://t.co/BGox5t5zey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 446,
+          "like_count": 17079,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 3805
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T02:23:56.000Z",
+        "description": "学生/神秘泛性恋MTX/数码爱好者/photograph/anime/穷鬼/常年发送废话条/友跨/不喜欢鉴政/音游/ISFP/X绝不赞营业中/OSU!player/tg:@kamisato_GAN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "kamisato_GAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/32856987",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/32856987",
+                "start": 0,
+                "url": "https://t.co/oi24eu4blh"
+              }
+            ]
+          }
+        },
+        "id": "1515153921836478467",
+        "location": "大湾区",
+        "name": "taki",
+        "pinned_tweet_id": "1896048698729410943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016186272255967232/27sxIYaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1249,
+          "like_count": 8466,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/oi24eu4blh",
+        "username": "kamisato_ataki",
+        "verified": false
+      }
+    ]
+  }
+}

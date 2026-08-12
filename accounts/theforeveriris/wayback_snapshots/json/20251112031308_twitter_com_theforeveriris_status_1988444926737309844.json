@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1988435419269349669",
+    "created_at": "2025-11-12T03:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988444926737309844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1988444926737309844",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988435419269349669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan frightening😰"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1988435419269349669",
+        "created_at": "2025-11-12T03:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988444926737309844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1988444926737309844",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988435419269349669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan frightening😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "1988435419269349669",
+        "created_at": "2025-11-12T02:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988435419269349669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988435419269349669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 130,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前和一个xyn做，硬生生草了一个多小时，最后操着操着突然对方没声音了，然后晃不醒的那种，过了一两个小时，越想越气，没爽到，然后又把她按住草了半个小时，结果没操醒，就看她一边说梦话一边娇喘，没一会儿累了就睡了，第二天早上硬生生给她操醒了，然后硬生生又做了一个小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 398,
+          "like_count": 6095,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 2382
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "知名药娘主理人，药娘里唯一的纯1，还是处女那种\n\n自用机场(可免费体验100G)https://t.co/mjn9begzO4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nodetele.com/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://nodetele.com/#/register?code=ffyNPohz",
+                "start": 40,
+                "url": "https://t.co/mjn9begzO4"
+              }
+            ]
+          }
+        },
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "芙兰大渣渣",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985663894770368512/DuNqkSEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12638,
+          "following_count": 472,
+          "like_count": 30167,
+          "listed_count": 21,
+          "media_count": 3152,
+          "tweet_count": 10582
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

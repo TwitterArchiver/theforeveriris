@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2012249536719131103",
+    "created_at": "2026-01-17T09:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012460636144636001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1370752963338145793",
+          "start": 0,
+          "username": "miyashitatama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012460636144636001",
+    "in_reply_to_user_id": "1370752963338145793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012249536719131103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyashitatama 這一款確實好吃，就是學校水房的水溫度太低了，有時候泡不開，得悶挺長時間，沒泡開的時候吃起來像塑料皮（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2012249529752670208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zySTRa0AA3hsF.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2012249536719131103",
+        "created_at": "2026-01-17T09:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012460636144636001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1370752963338145793",
+              "start": 0,
+              "username": "miyashitatama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012460636144636001",
+        "in_reply_to_user_id": "1370752963338145793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012249536719131103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyashitatama 這一款確實好吃，就是學校水房的水溫度太低了，有時候泡不開，得悶挺長時間，沒泡開的時候吃起來像塑料皮（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012249529752670208"
+          ]
+        },
+        "author_id": "1370752963338145793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012249536719131103",
+        "created_at": "2026-01-16T19:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T20:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012249536719131103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXBhoQ6PfD",
+              "end": 70,
+              "expanded_url": "https://x.com/miyashitatama/status/2012249536719131103/photo/1",
+              "media_key": "3_2012249529752670208",
+              "start": 47,
+              "url": "https://t.co/hXBhoQ6PfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012249536719131103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 624,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正统荷兰人向大家推荐这款速食烩面，味道很正，不油腻，泡开还有木耳，宽面皮很嫩，量足热量还低。 https://t.co/hXBhoQ6PfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 359,
+          "like_count": 6614,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 2362
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-13T15:06:08.000Z",
+        "description": "𝕀𝕟𝕥𝕖𝕣𝕟𝕖𝕥 𝕐𝕒𝕞𝕖𝕣𝕠",
+        "id": "1370752963338145793",
+        "name": "宮下魂",
+        "pinned_tweet_id": "1672547200080158720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536750048779948033/Prcb8Ntz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 239,
+          "like_count": 19,
+          "listed_count": 9,
+          "media_count": 75,
+          "tweet_count": 125
+        },
+        "username": "miyashitatama",
+        "verified": false
+      }
+    ]
+  }
+}

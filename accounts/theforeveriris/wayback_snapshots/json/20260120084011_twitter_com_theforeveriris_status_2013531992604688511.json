@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2013526346350100584",
+    "created_at": "2026-01-20T08:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T09:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013531992604688511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Amiartisan/sta…",
+          "end": 31,
+          "expanded_url": "https://x.com/Amiartisan/status/2013467894311723079?t=Fh0hU4KHm8aJ8JUWDh6-Tg&s=19",
+          "start": 8,
+          "url": "https://t.co/DbyyrKnXhT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013531992604688511",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013467894311723079",
+        "type": "quoted"
+      },
+      {
+        "id": "2013531917249921356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF https://t.co/DbyyrKnXhT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013467869762215936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_FGXBfW4AAI2td.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013467869770559488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_FGXBhWMAAdpQR.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013526346350100584",
+        "created_at": "2026-01-20T08:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013531992604688511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Amiartisan/sta…",
+              "end": 31,
+              "expanded_url": "https://x.com/Amiartisan/status/2013467894311723079?t=Fh0hU4KHm8aJ8JUWDh6-Tg&s=19",
+              "start": 8,
+              "url": "https://t.co/DbyyrKnXhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013531992604688511",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013467894311723079",
+            "type": "quoted"
+          },
+          {
+            "id": "2013531917249921356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF https://t.co/DbyyrKnXhT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013467869762215936",
+            "3_2013467869770559488"
+          ]
+        },
+        "author_id": "1679858508467159041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012742583701667997",
+        "created_at": "2026-01-20T04:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013467894311723079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2rdcH9Pp4",
+              "end": 38,
+              "expanded_url": "https://x.com/Amiartisan/status/2013467894311723079/photo/1",
+              "media_key": "3_2013467869762215936",
+              "start": 15,
+              "url": "https://t.co/P2rdcH9Pp4"
+            },
+            {
+              "display_url": "pic.x.com/P2rdcH9Pp4",
+              "end": 38,
+              "expanded_url": "https://x.com/Amiartisan/status/2013467894311723079/photo/1",
+              "media_key": "3_2013467869770559488",
+              "start": 15,
+              "url": "https://t.co/P2rdcH9Pp4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013467894311723079",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 682,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012742583701667997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 https://t.co/P2rdcH9Pp4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2013526346350100584",
+        "created_at": "2026-01-20T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013531917249921356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013531917249921356",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013526346350100584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 這幾張圖的作者都是夕子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 373,
+          "like_count": 6854,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2348
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/欢迎扩列(记得私信)喵~/🚪52？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgcDlZ"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968042296778752/utd9W8jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 189,
+          "like_count": 1892,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/N9WRdgcDlZ",
+        "username": "HFLMTF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "MtF🏳️‍⚧️/含糖中🍥/烤/mai/mzk推/计算机/Mac/Linux/Smartisan大好き/试着去成为这个世界美好的那部分吧",
+        "id": "1679858508467159041",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008059582577610754/kTzYRN0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 79,
+          "like_count": 1168,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 379
+        },
+        "username": "Amiartisan",
+        "verified": false
+      }
+    ]
+  }
+}

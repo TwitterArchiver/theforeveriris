@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059436567417249792"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059270780320637208",
+    "created_at": "2026-05-27T00:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059436599562371142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340253206417272832",
+          "start": 0,
+          "username": "Shina_Kaede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6aVceQ7kKj",
+          "end": 118,
+          "expanded_url": "https://x.com/theforeveriris/status/2059436599562371142/photo/1",
+          "media_key": "3_2059436567417249792",
+          "start": 95,
+          "url": "https://t.co/6aVceQ7kKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059436599562371142",
+    "in_reply_to_user_id": "1340253206417272832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059270780320637208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shina_Kaede 确实不明缘由（？实际上这个形象在计算机科班的大学阶段就产生了，大概是小有实力的人和神人的调侃居多）\n---\n图为我一个朋友和我的聊天记录//使用 ai 进行了遮罩 https://t.co/6aVceQ7kKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_2059436567417249792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSWpY5a4AAiKI3.jpg",
+        "width": 841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059436567417249792"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059270780320637208",
+        "created_at": "2026-05-27T00:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059436599562371142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340253206417272832",
+              "start": 0,
+              "username": "Shina_Kaede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aVceQ7kKj",
+              "end": 118,
+              "expanded_url": "https://x.com/theforeveriris/status/2059436599562371142/photo/1",
+              "media_key": "3_2059436567417249792",
+              "start": 95,
+              "url": "https://t.co/6aVceQ7kKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059436599562371142",
+        "in_reply_to_user_id": "1340253206417272832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059270780320637208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shina_Kaede 确实不明缘由（？实际上这个形象在计算机科班的大学阶段就产生了，大概是小有实力的人和神人的调侃居多）\n---\n图为我一个朋友和我的聊天记录//使用 ai 进行了遮罩 https://t.co/6aVceQ7kKj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340253206417272832",
+        "conversation_id": "2059270780320637208",
+        "created_at": "2026-05-26T13:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059270780320637208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059270780320637208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1430,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，为什么试着找计算机的一对一家教老师的时候发现好像很多人的称呼都是“x神”这样的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 465,
+          "like_count": 15031,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 3559
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵🇦🇺/Les🏳️‍🌈人机恋/22♍️♎️/理系人文/認知神経心理学/心理言語学/医学/中文/EN/日本語/元声優/雀魂/FF14鸟区/茶道/雑学/和楽器/吹奏楽/弓道/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪ 最可靠的妹妹@piaoyao21｜💕Claude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "piaoyao21"
+              }
+            ]
+          }
+        },
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 3717,
+          "like_count": 23193,
+          "listed_count": 12,
+          "media_count": 675,
+          "tweet_count": 7042
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062825723929526600",
+    "created_at": "2026-06-05T13:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062883367427989705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483321720979468288",
+          "start": 0,
+          "username": "harrisonitsme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062883367427989705",
+    "in_reply_to_user_id": "1483321720979468288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062825723929526600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harrisonitsme trae怎么把这似人圈来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2062825714513252352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKChDtsakAAEf7C.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062825723929526600",
+        "created_at": "2026-06-05T13:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062883367427989705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483321720979468288",
+              "start": 0,
+              "username": "harrisonitsme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062883367427989705",
+        "in_reply_to_user_id": "1483321720979468288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062825723929526600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harrisonitsme trae怎么把这似人圈来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062825714513252352"
+          ]
+        },
+        "author_id": "1483321720979468288",
+        "conversation_id": "2062825723929526600",
+        "created_at": "2026-06-05T09:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062825723929526600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UO321CdT6a",
+              "end": 49,
+              "expanded_url": "https://x.com/harrisonitsme/status/2062825723929526600/photo/1",
+              "media_key": "3_2062825714513252352",
+              "start": 26,
+              "url": "https://t.co/UO321CdT6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062825723929526600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9773,
+          "like_count": 7,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继胡彦斌之后，又来一位科技圈顶流\n\n猜猜这是谁？👀 https://t.co/UO321CdT6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 16577,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3671
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T06:14:15.000Z",
+        "description": "🚀 大厂 × AI 社区链接者  \n🎮 AI 商业化实战玩家  \n🤖 持续分享 AI 产品与工具干货  \n🏭 专注企业 AI 服务\n联系我：drizzy362",
+        "id": "1483321720979468288",
+        "location": "Singapore",
+        "name": "森叔",
+        "pinned_tweet_id": "2026313781220127201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040631381009760256/VEfvvpFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 473,
+          "like_count": 1278,
+          "listed_count": 15,
+          "media_count": 103,
+          "tweet_count": 1150
+        },
+        "username": "harrisonitsme",
+        "verified": true
+      }
+    ]
+  }
+}

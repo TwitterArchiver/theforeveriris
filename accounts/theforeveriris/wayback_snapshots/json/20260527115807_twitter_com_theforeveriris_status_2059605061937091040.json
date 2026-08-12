@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059278007936942484",
+    "created_at": "2026-05-27T11:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059605061937091040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550811468009963521",
+          "start": 0,
+          "username": "zhi_cheng233"
+        },
+        {
+          "end": 25,
+          "id": "1818587199841222656",
+          "start": 14,
+          "username": "yidabuilds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059605061937091040",
+    "in_reply_to_user_id": "1550811468009963521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059504352264380621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_cheng233 @yidabuilds oc 没有 omo 不如不用，omo bug 太多不如不用（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059278007936942484",
+        "created_at": "2026-05-27T11:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059605061937091040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            },
+            {
+              "end": 25,
+              "id": "1818587199841222656",
+              "start": 14,
+              "username": "yidabuilds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059605061937091040",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059504352264380621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 @yidabuilds oc 没有 omo 不如不用，omo bug 太多不如不用（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550811468009963521",
+        "conversation_id": "2059278007936942484",
+        "created_at": "2026-05-27T05:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059504352264380621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 27,
+              "id": "1818587199841222656",
+              "start": 16,
+              "username": "yidabuilds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059504352264380621",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059487457213841803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris @yidabuilds oc怎么了🤔👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 465,
+          "like_count": 15074,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 3563
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/后端开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 122,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 99,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8Fl1lo"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 珠海 IP归属:CLOUDFLARE",
+        "name": "志成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 872,
+          "like_count": 7907,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/t9zy8Fl1lo",
+        "username": "zhi_cheng233",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T09:59:19.000Z",
+        "description": "NUS Data Science / Base 新加坡/ 跨境电商/\nAI企业服务/ GEO/ SEO \n30+出海站🌐 / 10天万粉 / 当前进度 60w/200w\n公开记录全过程：怎么做的、赚了多少、踩了什么坑 📊\n合作：私信",
+        "id": "1818587199841222656",
+        "location": "Singapore",
+        "name": "百年 AI×出海",
+        "pinned_tweet_id": "2050948963973677096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050988744568877056/PKNjDeYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14575,
+          "following_count": 358,
+          "like_count": 9700,
+          "listed_count": 101,
+          "media_count": 126,
+          "tweet_count": 3669
+        },
+        "username": "yidabuilds",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2076297901735813136",
+    "created_at": "2026-07-12T15:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076325016376062422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076325016376062422",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076297901735813136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 骗你的国区照样有。哇这个我真会/评论区这么多人都是什么神人/这么难绷我得转发，结果就是什么人都就去看看，流量密码属于是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2076297901735813136",
+        "created_at": "2026-07-12T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076325016376062422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076325016376062422",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076297901735813136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 骗你的国区照样有。哇这个我真会/评论区这么多人都是什么神人/这么难绷我得转发，结果就是什么人都就去看看，流量密码属于是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2076297901735813136",
+        "created_at": "2026-07-12T13:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076297901735813136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onlyskypace/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/onlyskypace/status/2076225106611683563",
+              "start": 42,
+              "url": "https://t.co/3SLldkdQla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076297901735813136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4367,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076225106611683563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外区怎么这么多弱智题...\n还要说啥\"不用笔和纸就解出来是不可能的!\"\n有点难绷. https://t.co/3SLldkdQla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 451,
+          "like_count": 17510,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 3891
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 243,
+          "like_count": 10238,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2616
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

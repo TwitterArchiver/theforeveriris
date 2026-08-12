@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059847115271242005",
+    "created_at": "2026-05-28T14:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060007597651218439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400633114984992773",
+          "start": 0,
+          "username": "kotarou1014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060007597651218439",
+    "in_reply_to_user_id": "1400633114984992773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059847115271242005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotarou1014 并不是机翻的问题，只是很多国人理解「拍片」的第一反应是拍摄成人影片而不是正常的拍摄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059847115271242005",
+        "created_at": "2026-05-28T14:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060007597651218439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400633114984992773",
+              "start": 0,
+              "username": "kotarou1014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060007597651218439",
+        "in_reply_to_user_id": "1400633114984992773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059847115271242005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotarou1014 并不是机翻的问题，只是很多国人理解「拍片」的第一反应是拍摄成人影片而不是正常的拍摄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400633114984992773",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2059847115271242005",
+        "created_at": "2026-05-28T03:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059847115271242005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059847115271242005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 27803,
+          "like_count": 318,
+          "quote_count": 2,
+          "reply_count": 82,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "中国に撮影行きたいよ〜〜〜〜アークナイツの友達欲しい😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 458,
+          "like_count": 15405,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 3582
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T01:59:15.000Z",
+        "description": "如月あろ 🇯🇵coser 160cm  エンドフィールドクリエイター｜お仕事のご依頼はDMで🙇‍♂️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kotarou1014.booth.pm",
+                "end": 23,
+                "expanded_url": "https://kotarou1014.booth.pm",
+                "start": 0,
+                "url": "https://t.co/k67FZX1pav"
+              }
+            ]
+          }
+        },
+        "id": "1400633114984992773",
+        "location": "Endfield Industries Creators ",
+        "name": "如月あろ",
+        "pinned_tweet_id": "2054522182441844903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912306349490200576/STM1Tbz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5900,
+          "following_count": 990,
+          "like_count": 51815,
+          "listed_count": 60,
+          "media_count": 674,
+          "tweet_count": 51561
+        },
+        "url": "https://t.co/k67FZX1pav",
+        "username": "kotarou1014",
+        "verified": true
+      }
+    ]
+  }
+}

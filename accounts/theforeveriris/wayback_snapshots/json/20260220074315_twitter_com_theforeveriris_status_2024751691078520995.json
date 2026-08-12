@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2024696627030872198",
+    "created_at": "2026-02-20T07:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T08:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024751691078520995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729996152676786176",
+          "start": 0,
+          "username": "immortal_00994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024751691078520995",
+    "in_reply_to_user_id": "1729996152676786176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024696627030872198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@immortal_00994 我天天 vibe 可快乐了，想到什么做什么，做不出来就扔一边哪天看到就继续做（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2024696627030872198",
+        "created_at": "2026-02-20T07:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T08:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024751691078520995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729996152676786176",
+              "start": 0,
+              "username": "immortal_00994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024751691078520995",
+        "in_reply_to_user_id": "1729996152676786176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024696627030872198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@immortal_00994 我天天 vibe 可快乐了，想到什么做什么，做不出来就扔一边哪天看到就继续做（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729996152676786176",
+        "conversation_id": "2024696627030872198",
+        "created_at": "2026-02-20T04:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T05:02:11.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024696054856470975",
+          "2024696129137627533",
+          "2024696627030872198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024696627030872198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3030,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真羡慕推特上这些AI bros\n\n一天到晚都在vibe coding\n\n我现在压根想不到有什么好玩有趣/能赚钱的项目\n\n能让我有vibe coding的冲动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 429,
+          "like_count": 11150,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 2843
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T22:50:10.000Z",
+        "description": "INTP INTJ / Studying in 🇩🇪 / Master of Maths / Leftist / Maths & Physics / CS & AI / History / Polyglot 🇨🇳 🇬🇧 🇩🇪 🇫🇷 🇰🇷 / 智驾感知算法",
+        "id": "1729996152676786176",
+        "location": "Germany",
+        "name": "Karl e/acc🇨🇳🇩🇪",
+        "pinned_tweet_id": "1930307424835223942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419073992429569/Jid6M3Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 7492,
+          "like_count": 57449,
+          "listed_count": 13,
+          "media_count": 98,
+          "tweet_count": 4550
+        },
+        "username": "immortal_00994",
+        "verified": false
+      }
+    ]
+  }
+}

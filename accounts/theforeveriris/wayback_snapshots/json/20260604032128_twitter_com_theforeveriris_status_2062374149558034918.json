@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062029772750983473",
+    "created_at": "2026-06-04T03:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062374149558034918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "86058205",
+          "start": 0,
+          "username": "rootport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062374149558034918",
+    "in_reply_to_user_id": "86058205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062029772750983473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rootport 我见过对 ai 的理解只有豆包（字节跳动开发的移动端生成式人工智能 app）的老登让我们工作的时候多用 ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062029772750983473",
+        "created_at": "2026-06-04T03:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062374149558034918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "86058205",
+              "start": 0,
+              "username": "rootport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062374149558034918",
+        "in_reply_to_user_id": "86058205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062029772750983473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rootport 我见过对 ai 的理解只有豆包（字节跳动开发的移动端生成式人工智能 app）的老登让我们工作的时候多用 ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "86058205",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2062029772750983473",
+        "created_at": "2026-06-03T04:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062029772750983473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "思想強め"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062029772750983473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 77015,
+          "like_count": 310,
+          "quote_count": 16,
+          "reply_count": 15,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPTやGeminiで少し遊んだことがあるくらいで、自分のパソコンにPythonをインストールしたこともないのに「生成AIに詳しい」だなんて片腹痛い。#思想強め"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 460,
+          "like_count": 16185,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 3651
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-29T12:47:28.000Z",
+        "description": "作家・マンガ原作者／好きな言葉は「群盲撫象」／TIME誌「世界で最も影響力のあるAI業界の100人(2023年)」／📝 https://t.co/DdxiaGD5N8／🛠️ https://t.co/WGZli72ZDQ／📬 https://t.co/DMkZeFxmcq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rootport.hateblo.jp",
+                "end": 83,
+                "expanded_url": "https://rootport.hateblo.jp/",
+                "start": 60,
+                "url": "https://t.co/DdxiaGD5N8"
+              },
+              {
+                "display_url": "github.com/Rootport-AI",
+                "end": 110,
+                "expanded_url": "https://github.com/Rootport-AI",
+                "start": 87,
+                "url": "https://t.co/WGZli72ZDQ"
+              },
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 136,
+                "expanded_url": "http://marshmallow-qa.com",
+                "start": 113,
+                "url": "https://t.co/DMkZeFxmcq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCp6RK…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCp6RKigxmwqWmhg-ephCaJw",
+                "start": 0,
+                "url": "https://t.co/MWYuxwJZml"
+              }
+            ]
+          }
+        },
+        "id": "86058205",
+        "location": "ランゲルハンス島",
+        "name": "Rootport🔥",
+        "pinned_tweet_id": "1780246054254129303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620386185528094720/JiirxbEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51044,
+          "following_count": 432,
+          "like_count": 306538,
+          "listed_count": 971,
+          "media_count": 9207,
+          "tweet_count": 151749
+        },
+        "url": "https://t.co/MWYuxwJZml",
+        "username": "rootport",
+        "verified": true
+      }
+    ]
+  }
+}

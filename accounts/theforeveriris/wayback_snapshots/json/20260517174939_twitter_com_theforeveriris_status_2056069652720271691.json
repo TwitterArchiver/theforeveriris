@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2056061379862548507",
+    "created_at": "2026-05-17T17:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056069652720271691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638033729523429376",
+          "start": 0,
+          "username": "tmde53826826498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056069652720271691",
+    "in_reply_to_user_id": "1638033729523429376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056061379862548507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tmde53826826498 甲醛的化學式是 HCHO，去掉碳之後剩下 H₂O，就是水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056061379862548507",
+        "created_at": "2026-05-17T17:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056069652720271691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638033729523429376",
+              "start": 0,
+              "username": "tmde53826826498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056069652720271691",
+        "in_reply_to_user_id": "1638033729523429376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056061379862548507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tmde53826826498 甲醛的化學式是 HCHO，去掉碳之後剩下 H₂O，就是水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638033729523429376",
+        "conversation_id": "2056061379862548507",
+        "created_at": "2026-05-17T17:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056061379862548507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056061379862548507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脫碳甲醛是三小啊\n幹這是什麼梗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 455,
+          "like_count": 14129,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3439
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T04:24:30.000Z",
+        "description": "紀錄自己的情緒和興趣\n朝著五年內貸款買房前進 \n\n#戶外探索 #植物 #古董撿漏 #銀幣銀條 #金幣金塊 #無人機",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 25,
+                "tag": "戶外探索"
+              },
+              {
+                "end": 34,
+                "start": 31,
+                "tag": "植物"
+              },
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "古董撿漏"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "銀幣銀條"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "金幣金塊"
+              },
+              {
+                "end": 57,
+                "start": 53,
+                "tag": "無人機"
+              }
+            ]
+          }
+        },
+        "id": "1638033729523429376",
+        "location": "New Taipei City, Taiwan",
+        "name": "植物詐騙師的田野民族誌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049134677362126848/qWmzcwKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 117,
+          "like_count": 10336,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 1203
+        },
+        "username": "tmde53826826498",
+        "verified": false
+      }
+    ]
+  }
+}

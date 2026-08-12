@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992876246636929024",
+        "3_1992876290580602880"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992876301619986694",
+    "created_at": "2025-11-24T08:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T09:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992876301619986694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2o16r7rPWx",
+          "end": 47,
+          "expanded_url": "https://x.com/theforeveriris/status/1992876301619986694/photo/1",
+          "media_key": "3_1992876246636929024",
+          "start": 24,
+          "url": "https://t.co/2o16r7rPWx"
+        },
+        {
+          "display_url": "pic.x.com/2o16r7rPWx",
+          "end": 47,
+          "expanded_url": "https://x.com/theforeveriris/status/1992876301619986694/photo/1",
+          "media_key": "3_1992876290580602880",
+          "start": 24,
+          "url": "https://t.co/2o16r7rPWx"
+        },
+        {
+          "display_url": "x.com/huahuojiang_/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/huahuojiang_/status/1992595834563944788",
+          "start": 48,
+          "url": "https://t.co/EF2SuZ0Tc5"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1992876301619986694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992595834563944788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浪漫的半神從天而降，帶來了她的鞋子和晝神的羈絆 https://t.co/2o16r7rPWx https://t.co/EF2SuZ0Tc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_1992876246636929024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6geYzoboAAF46S.jpg",
+        "width": 2048
+      },
+      {
+        "height": 880,
+        "media_key": "3_1992876290580602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gebXVa4AA_5NM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 720,
+        "media_key": "3_1992595832051515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cfWh5awAAq17n.jpg",
+        "width": 1600
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992876246636929024",
+            "3_1992876290580602880"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992876301619986694",
+        "created_at": "2025-11-24T08:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992876301619986694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2o16r7rPWx",
+              "end": 47,
+              "expanded_url": "https://x.com/theforeveriris/status/1992876301619986694/photo/1",
+              "media_key": "3_1992876246636929024",
+              "start": 24,
+              "url": "https://t.co/2o16r7rPWx"
+            },
+            {
+              "display_url": "pic.x.com/2o16r7rPWx",
+              "end": 47,
+              "expanded_url": "https://x.com/theforeveriris/status/1992876301619986694/photo/1",
+              "media_key": "3_1992876290580602880",
+              "start": 24,
+              "url": "https://t.co/2o16r7rPWx"
+            },
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/1992595834563944788",
+              "start": 48,
+              "url": "https://t.co/EF2SuZ0Tc5"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1992876301619986694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992595834563944788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浪漫的半神從天而降，帶來了她的鞋子和晝神的羈絆 https://t.co/2o16r7rPWx https://t.co/EF2SuZ0Tc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992595832051515392"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1992595834563944788",
+        "created_at": "2025-11-23T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992595834563944788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsoUShHUIX",
+              "end": 26,
+              "expanded_url": "https://x.com/huahuojiang_/status/1992595834563944788/photo/1",
+              "media_key": "3_1992595832051515392",
+              "start": 3,
+              "url": "https://t.co/MsoUShHUIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992595834563944788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰？ https://t.co/MsoUShHUIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 396,
+          "like_count": 6002,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 2160
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1991154110759121103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6795,
+          "following_count": 3652,
+          "like_count": 97006,
+          "listed_count": 19,
+          "media_count": 6099,
+          "tweet_count": 86232
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

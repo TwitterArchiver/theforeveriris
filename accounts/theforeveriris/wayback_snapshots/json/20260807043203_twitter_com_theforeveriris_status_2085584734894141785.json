@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085379326988714329",
+    "created_at": "2026-08-07T04:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085584734894141785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550811468009963521",
+          "start": 0,
+          "username": "zhi_cheng233"
+        },
+        {
+          "end": 23,
+          "id": "1493016356182056961",
+          "start": 14,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085584734894141785",
+    "in_reply_to_user_id": "1550811468009963521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085580943528718512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_cheng233 @Mintink3 别想，可能只是病好了（）不是家人不让吃或者✝️了/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-07T04:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085584734894141785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            },
+            {
+              "end": 23,
+              "id": "1493016356182056961",
+              "start": 14,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085584734894141785",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085580943528718512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 @Mintink3 别想，可能只是病好了（）不是家人不让吃或者✝️了/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550811468009963521",
+        "conversation_id": "2085379326988714329",
+        "created_at": "2026-08-07T04:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085580943528718512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085580943528718512",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379326988714329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 我有个不好的猜想😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 459,
+          "like_count": 19304,
+          "listed_count": 6,
+          "media_count": 417,
+          "tweet_count": 4212
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "🚪88-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/全栈开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 125,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 102,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 IP归属:CLOUDFLARE",
+        "name": "志成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 920,
+          "like_count": 8831,
+          "listed_count": 5,
+          "media_count": 559,
+          "tweet_count": 3930
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "od 抑郁症 重度焦虑 重度睡眠障碍09/166cm/40kg 餐券女休学做夜场 欢迎互fo 有人找我聊天吗",
+        "id": "1493016356182056961",
+        "location": "Singapore",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2079832396061618484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 845,
+          "like_count": 6395,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": false
+      }
+    ]
+  }
+}

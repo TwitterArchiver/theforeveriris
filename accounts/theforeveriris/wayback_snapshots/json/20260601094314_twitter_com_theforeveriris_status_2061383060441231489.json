@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2061262262552424741",
+    "created_at": "2026-06-01T09:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061383060441231489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1468458312",
+          "start": 0,
+          "username": "Hp2ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061383060441231489",
+    "in_reply_to_user_id": "1468458312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061262262552424741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hp2ai 盲猜号码国别号库 npm 下来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2061262255845720064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsTGcSawAAfMEB.jpg",
+        "width": 641
+      },
+      {
+        "height": 647,
+        "media_key": "3_2061262255841497088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsTGcRaUAAab1J.jpg",
+        "width": 525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2061262262552424741",
+        "created_at": "2026-06-01T09:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061383060441231489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1468458312",
+              "start": 0,
+              "username": "Hp2ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061383060441231489",
+        "in_reply_to_user_id": "1468458312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061262262552424741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hp2ai 盲猜号码国别号库 npm 下来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061262255845720064",
+            "3_2061262255841497088"
+          ]
+        },
+        "author_id": "1468458312",
+        "conversation_id": "2061262262552424741",
+        "created_at": "2026-06-01T01:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061262262552424741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QdU0Y3F0Q3",
+              "end": 77,
+              "expanded_url": "https://x.com/Hp2ai/status/2061262262552424741/photo/1",
+              "media_key": "3_2061262255845720064",
+              "start": 54,
+              "url": "https://t.co/QdU0Y3F0Q3"
+            },
+            {
+              "display_url": "pic.x.com/QdU0Y3F0Q3",
+              "end": 77,
+              "expanded_url": "https://x.com/Hp2ai/status/2061262262552424741/photo/1",
+              "media_key": "3_2061262255841497088",
+              "start": 54,
+              "url": "https://t.co/QdU0Y3F0Q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061262262552424741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 39734,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Codex接码居然看到中国+86！\n\n难道国内市场要打开了？\n\n目前号码是无效的！\n\n难道是为国内准备的？ https://t.co/QdU0Y3F0Q3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 458,
+          "like_count": 15754,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 3610
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-29T23:27:33.000Z",
+        "description": "啥都想了解一点，港美股开户  全球银行卡💳\n全球电话卡\n🚀一起成长，一起闯关",
+        "id": "1468458312",
+        "location": "Fujian xiamen",
+        "name": "Hpp2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042908617641463809/dTGZoq5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 552,
+          "like_count": 536,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 1768
+        },
+        "username": "Hp2ai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2083473367030743260",
+    "created_at": "2026-08-01T10:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083505767202591203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656917093672169473",
+          "start": 0,
+          "username": "yun39704"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083505767202591203",
+    "in_reply_to_user_id": "1656917093672169473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083473367030743260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun39704 正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2083473367030743260",
+        "created_at": "2026-08-01T10:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083505767202591203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656917093672169473",
+              "start": 0,
+              "username": "yun39704"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083505767202591203",
+        "in_reply_to_user_id": "1656917093672169473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083473367030743260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun39704 正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656917093672169473",
+        "conversation_id": "2083473367030743260",
+        "created_at": "2026-08-01T08:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083473367030743260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083473367030743260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩游戏对朋友有很强的独占欲是正常的吗，就是对方跟其他群友玩我会一边想为什么不跟我玩，一边又觉得人家也有自己的社交圈、也要经营自己的大号，没道理一直陪我过家家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 450,
+          "like_count": 18288,
+          "listed_count": 6,
+          "media_count": 382,
+          "tweet_count": 4024
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T07:00:13.000Z",
+        "description": "幸福是拥有苹果的时候只想着苹果\n纯绿，和国内社媒无差，欢迎互fo呀，想和女孩们聊天\n世界上的另一个我@glannon977只过互关\n防止这个号被封，转生在@Glannonovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "glannon977"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Glannonovo"
+              }
+            ]
+          }
+        },
+        "id": "1656917093672169473",
+        "location": "没有门槛私信看心情回，男的发裸照祝唧唧断掉",
+        "name": "困成僵尸一觉睡到3026年",
+        "pinned_tweet_id": "2082845349212008844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054947795896070144/QmV-mZjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 370,
+          "like_count": 21678,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2849
+        },
+        "url": "",
+        "username": "yun39704",
+        "verified": false
+      }
+    ]
+  }
+}

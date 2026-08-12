@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "1997419701459427593",
+    "created_at": "2025-12-07T15:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997687858967220688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1801192636725727232",
+          "start": 0,
+          "username": "AChan77585"
+        },
+        {
+          "end": 23,
+          "id": "1621552410048237569",
+          "start": 12,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997687858967220688",
+    "in_reply_to_user_id": "1801192636725727232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997532747829768458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AChan77585 @amecandy_x 思諾思當成正常安眠藥就行（雖然它不是設計為安眠藥的/如果我沒有記錯），濫用價值不大，助眠效果因人而異，致幻性存疑（因為我有朋友吃它不僅沒睡著還異常亢奮，但沒有明顯的譫妄或幻覺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "1997419701459427593",
+        "created_at": "2025-12-07T15:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997687858967220688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1801192636725727232",
+              "start": 0,
+              "username": "AChan77585"
+            },
+            {
+              "end": 23,
+              "id": "1621552410048237569",
+              "start": 12,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997687858967220688",
+        "in_reply_to_user_id": "1801192636725727232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997532747829768458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AChan77585 @amecandy_x 思諾思當成正常安眠藥就行（雖然它不是設計為安眠藥的/如果我沒有記錯），濫用價值不大，助眠效果因人而異，致幻性存疑（因為我有朋友吃它不僅沒睡著還異常亢奮，但沒有明顯的譫妄或幻覺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801192636725727232",
+        "conversation_id": "1997419701459427593",
+        "created_at": "2025-12-07T05:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997532747829768458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 27,
+              "id": "1621552410048237569",
+              "start": 16,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997532747829768458",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997531354632949769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris @amecandy_x 思诺思仿佛吸毒  有幻觉  还会乱讲话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "All gilded pomp the sense confound,\nA waste soul, within me found.\nWhere echoes of void splendours fall,\nAnd starless night doth cover the all.",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "1977074458054873285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 393,
+          "like_count": 6169,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2207
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T09:59:36.000Z",
+        "description": "",
+        "id": "1801192636725727232",
+        "name": "Anthony Chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801192691834736640/85PN1Gt5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 45,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 122
+        },
+        "username": "AChan77585",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/CS/Fullstack/LLM Apps/Leftist/Blogger      #odtwt💊#drugtwt💉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 71,
+                "tag": "odtwt"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4853,
+          "following_count": 1696,
+          "like_count": 22779,
+          "listed_count": 13,
+          "media_count": 896,
+          "tweet_count": 7697
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

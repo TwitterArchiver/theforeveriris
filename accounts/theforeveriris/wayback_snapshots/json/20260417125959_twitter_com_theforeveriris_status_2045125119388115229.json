@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2045086797240443084",
+    "created_at": "2026-04-17T12:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045125119388115229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL 2.5.35 APK download for Android. NGL is a social Q&A app that collects anonymous messages and starts fun conversations with friends using a shareable link.",
+          "display_url": "apkpure.com/p/com.nglreact…",
+          "end": 39,
+          "expanded_url": "https://apkpure.com/p/com.nglreactnative",
+          "start": 16,
+          "status": 200,
+          "title": "NGL APK for Android Download",
+          "unwound_url": "https://apkpure.com/p/com.nglreactnative",
+          "url": "https://t.co/XnHvVg7kts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045125119388115229",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045086797240443084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaYiGongHeQiu https://t.co/XnHvVg7kts\n你试试用 apkpure 呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2045086797240443084",
+        "created_at": "2026-04-17T12:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045125119388115229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL 2.5.35 APK download for Android. NGL is a social Q&A app that collects anonymous messages and starts fun conversations with friends using a shareable link.",
+              "display_url": "apkpure.com/p/com.nglreact…",
+              "end": 39,
+              "expanded_url": "https://apkpure.com/p/com.nglreactnative",
+              "start": 16,
+              "status": 200,
+              "title": "NGL APK for Android Download",
+              "unwound_url": "https://apkpure.com/p/com.nglreactnative",
+              "url": "https://t.co/XnHvVg7kts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045125119388115229",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045086797240443084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaYiGongHeQiu https://t.co/XnHvVg7kts\n你试试用 apkpure 呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          }
+        ],
+        "conversation_id": "2045086797240443084",
+        "created_at": "2026-04-17T10:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045086797240443084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045086797240443084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妳们的匿名问答都是怎么弄的🥺\n我知道是NGL但我用不了Google Play所以下载不了也用不了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 452,
+          "like_count": 13556,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 3185
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "サブ垢@XiaYGHQiu ｜持证含糖MtF｜College student in Accountancy｜linguaphile (zh, en, eo, etc.)｜bipolar｜同类回fo｜欢迎和我聊天喵🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.mysxl.cn",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.mysxl.cn",
+                "start": 0,
+                "url": "https://t.co/s94hBVliY8"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "location": "山東省煙臺市萊山區",
+        "name": "🦐虾球🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024404971329056768/rYyGwh02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 438,
+          "like_count": 20912,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 3219
+        },
+        "url": "https://t.co/s94hBVliY8",
+        "username": "XiaYiGongHeQiu",
+        "verified": false
+      }
+    ]
+  }
+}

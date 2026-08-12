@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2085695644833055089",
+    "created_at": "2026-08-07T13:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085720006252478545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486017329662423044",
+          "start": 0,
+          "username": "mylifcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085720006252478545",
+    "in_reply_to_user_id": "1486017329662423044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085695644833055089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylifcc 对，今天下午6点多，所有 fork repos 都被openkimippt 作者发邮件提醒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_2085695569520119808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHhEeraUAAleXH.jpg",
+        "width": 2604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2085695644833055089",
+        "created_at": "2026-08-07T13:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085720006252478545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486017329662423044",
+              "start": 0,
+              "username": "mylifcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085720006252478545",
+        "in_reply_to_user_id": "1486017329662423044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085695644833055089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylifcc 对，今天下午6点多，所有 fork repos 都被openkimippt 作者发邮件提醒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085695569520119808"
+          ]
+        },
+        "author_id": "1486017329662423044",
+        "conversation_id": "2085695644833055089",
+        "created_at": "2026-08-07T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085695644833055089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kCOvcdyin",
+              "end": 47,
+              "expanded_url": "https://x.com/mylifcc/status/2085695644833055089/photo/1",
+              "media_key": "3_2085695569520119808",
+              "start": 24,
+              "url": "https://t.co/3kCOvcdyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085695644833055089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2534,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这也太迅速了吧，openkimippt这就没了 https://t.co/3kCOvcdyin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 461,
+          "like_count": 19373,
+          "listed_count": 6,
+          "media_count": 425,
+          "tweet_count": 4231
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xkagnA"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5159,
+          "following_count": 258,
+          "like_count": 5526,
+          "listed_count": 53,
+          "media_count": 826,
+          "tweet_count": 10132
+        },
+        "url": "https://t.co/ufi5xkagnA",
+        "username": "mylifcc",
+        "verified": true
+      }
+    ]
+  }
+}

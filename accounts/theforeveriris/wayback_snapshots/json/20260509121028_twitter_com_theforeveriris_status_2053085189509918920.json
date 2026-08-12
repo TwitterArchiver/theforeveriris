@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2053004427855036768",
+    "created_at": "2026-05-09T12:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053085189509918920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685336588023443456",
+          "start": 0,
+          "username": "wwwgoubuli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053085189509918920",
+    "in_reply_to_user_id": "1685336588023443456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053004427855036768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwwgoubuli 感觉教学意义大于实际意义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1228,
+        "media_key": "3_2053004346301071360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH28k1-bwAAx9eK.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2053004427855036768",
+        "created_at": "2026-05-09T12:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053085189509918920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685336588023443456",
+              "start": 0,
+              "username": "wwwgoubuli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053085189509918920",
+        "in_reply_to_user_id": "1685336588023443456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053004427855036768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwgoubuli 感觉教学意义大于实际意义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053004346301071360"
+          ]
+        },
+        "author_id": "1685336588023443456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053004427855036768",
+        "created_at": "2026-05-09T06:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053004427855036768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/45XG7m1SpZ",
+              "end": 81,
+              "expanded_url": "https://x.com/wwwgoubuli/status/2053004427855036768/photo/1",
+              "media_key": "3_2053004346301071360",
+              "start": 58,
+              "url": "https://t.co/45XG7m1SpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053004427855036768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1361,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天就看了下 remix 的这个官网，如图的这个用法，我只能表示理解，但怎么看还是有点违背直觉的脱裤子放屁的感觉… https://t.co/45XG7m1SpZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 451,
+          "like_count": 14048,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 3374
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T17:09:14.000Z",
+        "description": "Work as a freelancer.\n\nBuilding: https://t.co/xdetzxCZDS，yet another agent client.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "windflow.app",
+                "end": 56,
+                "expanded_url": "http://windflow.app",
+                "start": 33,
+                "url": "https://t.co/xdetzxCZDS"
+              }
+            ]
+          }
+        },
+        "id": "1685336588023443456",
+        "name": "wwwgoubuli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787651643766374400/FLcuJpIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10513,
+          "following_count": 1191,
+          "like_count": 9326,
+          "listed_count": 130,
+          "media_count": 264,
+          "tweet_count": 6413
+        },
+        "username": "wwwgoubuli",
+        "verified": true
+      }
+    ]
+  }
+}

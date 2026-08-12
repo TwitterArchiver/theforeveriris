@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2049600360021467399",
+    "created_at": "2026-04-30T01:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049661105073688731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998006140286935041",
+          "start": 0,
+          "username": "QingQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049661105073688731",
+    "in_reply_to_user_id": "1998006140286935041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049600360021467399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingQ77 又是图片 PPT 这一套？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 785,
+        "media_key": "3_2049494647240785920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFEheHaAAAIrIU.jpg",
+        "width": 1508
+      },
+      {
+        "height": 762,
+        "media_key": "3_2049494710470008832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFElJqbYAAqUun.jpg",
+        "width": 1494
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2049600360021467399",
+        "created_at": "2026-04-30T01:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049661105073688731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998006140286935041",
+              "start": 0,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049661105073688731",
+        "in_reply_to_user_id": "1998006140286935041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049600360021467399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingQ77 又是图片 PPT 这一套？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049494647240785920",
+            "3_2049494710470008832"
+          ]
+        },
+        "author_id": "1998006140286935041",
+        "conversation_id": "2049600360021467399",
+        "created_at": "2026-04-29T21:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049600360021467399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "PPT image-first skill for Codex CLI. Contribute to NyxTides/ppt-image-first development by creating an account on GitHub.",
+              "display_url": "github.com/NyxTides/ppt-i…",
+              "end": 125,
+              "expanded_url": "https://github.com/NyxTides/ppt-image-first",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2048540008793923584/vkxvOkTZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048540008793923584/vkxvOkTZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "GitHub - NyxTides/ppt-image-first: PPT image-first skill for Codex CLI",
+              "unwound_url": "https://github.com/NyxTides/ppt-image-first",
+              "url": "https://t.co/VSx0DDbeUm"
+            },
+            {
+              "display_url": "pic.x.com/17yANaBjxU",
+              "end": 149,
+              "expanded_url": "https://x.com/QingQ77/status/2049600360021467399/photo/1",
+              "media_key": "3_2049494647240785920",
+              "start": 126,
+              "url": "https://t.co/17yANaBjxU"
+            },
+            {
+              "display_url": "pic.x.com/17yANaBjxU",
+              "end": 149,
+              "expanded_url": "https://x.com/QingQ77/status/2049600360021467399/photo/1",
+              "media_key": "3_2049494710470008832",
+              "start": 126,
+              "url": "https://t.co/17yANaBjxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049600360021467399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 3187,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一个 conversation-first、image-first 的 PPT 工作流 skill，用来把一个模糊的 PPT 需求，逐步推进成：内容基底、风格预览、定稿规划，以及后续可执行的生成流程。\n\nhttps://t.co/VSx0DDbeUm https://t.co/17yANaBjxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 451,
+          "like_count": 13777,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3267
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨分享一些有用好玩的 GitHub 项目",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13740,
+          "following_count": 635,
+          "like_count": 1487,
+          "listed_count": 121,
+          "media_count": 1493,
+          "tweet_count": 2688
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}

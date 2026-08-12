@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059982298272125019",
+    "created_at": "2026-05-29T01:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060166125137301947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977344825965039616",
+          "start": 0,
+          "username": "Ama_UV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060166125137301947",
+    "in_reply_to_user_id": "1977344825965039616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059982298272125019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ama_UV3 被你发现了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059982298272125019",
+        "created_at": "2026-05-29T01:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060166125137301947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977344825965039616",
+              "start": 0,
+              "username": "Ama_UV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060166125137301947",
+        "in_reply_to_user_id": "1977344825965039616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059982298272125019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ama_UV3 被你发现了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977344825965039616",
+        "conversation_id": "2059982298272125019",
+        "created_at": "2026-05-28T12:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059982298272125019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059982298272125019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3831,
+          "like_count": 98,
+          "quote_count": 10,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "身長が190cm以下の人はゲイ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 460,
+          "like_count": 15554,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3593
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:05:28.000Z",
+        "description": "こう見えて実はアニメ好き\nちょっとずつフォロバします",
+        "id": "1977344825965039616",
+        "location": "フォロワー1万人目標‼️",
+        "name": "あま！",
+        "pinned_tweet_id": "2058494009652519077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493857516695552/J9jYumGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4089,
+          "following_count": 934,
+          "like_count": 4866,
+          "listed_count": 9,
+          "media_count": 30,
+          "tweet_count": 935
+        },
+        "username": "Ama_UV3",
+        "verified": false
+      }
+    ]
+  }
+}

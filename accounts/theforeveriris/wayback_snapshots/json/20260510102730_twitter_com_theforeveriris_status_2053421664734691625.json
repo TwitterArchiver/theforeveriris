@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2053379276775522539",
+    "created_at": "2026-05-10T10:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053421664734691625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "296593919",
+          "start": 0,
+          "username": "vikingmute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053421664734691625",
+    "in_reply_to_user_id": "296593919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053379276775522539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vikingmute zed 可视化的主题编辑很棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2053379258387722240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8RjmVa8AASGm8.jpg",
+        "width": 2932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2053379276775522539",
+        "created_at": "2026-05-10T10:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053421664734691625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "296593919",
+              "start": 0,
+              "username": "vikingmute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053421664734691625",
+        "in_reply_to_user_id": "296593919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053379276775522539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vikingmute zed 可视化的主题编辑很棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053379258387722240"
+          ]
+        },
+        "author_id": "296593919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "2053379276775522539",
+        "created_at": "2026-05-10T07:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053379276775522539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Build and customize themes for Zed.",
+              "display_url": "zed.dev/theme-builder",
+              "end": 39,
+              "expanded_url": "https://zed.dev/theme-builder",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2053177757232922624/6ePQWa_m?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053177757232922624/6ePQWa_m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Theme Builder",
+              "unwound_url": "https://zed.dev/theme-builder",
+              "url": "https://t.co/0ZlEIPKDTk"
+            },
+            {
+              "display_url": "pic.x.com/DLPHDgLIuN",
+              "end": 173,
+              "expanded_url": "https://x.com/vikingmute/status/2053379276775522539/photo/1",
+              "media_key": "3_2053379258387722240",
+              "start": 150,
+              "url": "https://t.co/DLPHDgLIuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053379276775522539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 5757,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "zed 这个主题编辑器好漂亮啊，https://t.co/0ZlEIPKDTk  可以快速编辑和了解 Zed 主题的设计思路。\n\n还是很喜欢整个 zed 的设计风格的，复古克制又漂亮，算是，用的字体是  IBM Plex Serif Var 和  iA Writer Quattro S 也很好看。 https://t.co/DLPHDgLIuN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 451,
+          "like_count": 14052,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 3378
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 47,
+                "expanded_url": "http://tinyship.cn",
+                "start": 24,
+                "url": "https://t.co/o0BI6W8DRb"
+              },
+              {
+                "display_url": "easycv.cn",
+                "end": 120,
+                "expanded_url": "http://easycv.cn",
+                "start": 97,
+                "url": "https://t.co/xMu5JFIGnr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66146,
+          "following_count": 279,
+          "like_count": 1231,
+          "listed_count": 712,
+          "media_count": 1647,
+          "tweet_count": 3342
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

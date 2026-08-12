@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2025997928242811253",
+    "created_at": "2026-02-24T06:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026182399961575555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353836358901501952",
+          "start": 0,
+          "username": "AnthropicAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026182399961575555",
+    "in_reply_to_user_id": "1353836358901501952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025997928242811253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnthropicAI 更是立场大于事实的糕手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2025997928242811253",
+        "created_at": "2026-02-24T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026182399961575555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353836358901501952",
+              "start": 0,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026182399961575555",
+        "in_reply_to_user_id": "1353836358901501952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025997928242811253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnthropicAI 更是立场大于事实的糕手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353836358901501952",
+        "conversation_id": "2025997928242811253",
+        "created_at": "2026-02-23T18:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025997928242811253"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "DeepSeek",
+              "probability": 0.8277,
+              "start": 72,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Moonshot AI",
+              "probability": 0.7141,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "MiniMax",
+              "probability": 0.9463,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 210,
+              "normalized_text": "Claude",
+              "probability": 0.7121,
+              "start": 205,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025997928242811253",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10271,
+          "impression_count": 17653789,
+          "like_count": 44635,
+          "quote_count": 6309,
+          "reply_count": 5625,
+          "retweet_count": 5056
+        },
+        "reply_settings": "everyone",
+        "text": "We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\n\nThese labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾Iris-de-lux 🍥",
+        "pinned_tweet_id": "2013176054761017424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 436,
+          "like_count": 11320,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2901
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "name": "Anthropic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880875,
+          "following_count": 35,
+          "like_count": 1548,
+          "listed_count": 9720,
+          "media_count": 573,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true
+      }
+    ]
+  }
+}

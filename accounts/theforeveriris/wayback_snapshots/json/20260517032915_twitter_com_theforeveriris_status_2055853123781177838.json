@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055853101954064384"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2055700673128522095",
+    "created_at": "2026-05-17T03:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055853123781177838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1789837129247531008",
+          "start": 0,
+          "username": "Shirasu8964228"
+        },
+        {
+          "end": 30,
+          "id": "1622066090074607616",
+          "start": 16,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mI7ygajMqs",
+          "end": 64,
+          "expanded_url": "https://x.com/theforeveriris/status/2055853123781177838/photo/1",
+          "media_key": "3_2055853101954064384",
+          "start": 41,
+          "url": "https://t.co/mI7ygajMqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055853123781177838",
+    "in_reply_to_user_id": "1789837129247531008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055700673128522095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirasu8964228 @hoshinofujivy 完完全全的强盗逻辑 https://t.co/mI7ygajMqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055853101954064384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfbgPxbYAAGcrq.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055700669894643712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdQ3iGaUAAcKMk.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055700668082757632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdQ3bWbIAAAqU8.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055853101954064384"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2055700673128522095",
+        "created_at": "2026-05-17T03:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055853123781177838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1789837129247531008",
+              "start": 0,
+              "username": "Shirasu8964228"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mI7ygajMqs",
+              "end": 64,
+              "expanded_url": "https://x.com/theforeveriris/status/2055853123781177838/photo/1",
+              "media_key": "3_2055853101954064384",
+              "start": 41,
+              "url": "https://t.co/mI7ygajMqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055853123781177838",
+        "in_reply_to_user_id": "1789837129247531008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055700673128522095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirasu8964228 @hoshinofujivy 完完全全的强盗逻辑 https://t.co/mI7ygajMqs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055700669894643712",
+            "3_2055700668082757632"
+          ]
+        },
+        "author_id": "1789837129247531008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055700673128522095",
+        "created_at": "2026-05-16T17:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055700673128522095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1622066090074607616",
+              "start": 50,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r551rRzVFI",
+              "end": 171,
+              "expanded_url": "https://x.com/Shirasu8964228/status/2055700673128522095/photo/1",
+              "media_key": "3_2055700669894643712",
+              "start": 148,
+              "url": "https://t.co/r551rRzVFI"
+            },
+            {
+              "display_url": "pic.x.com/r551rRzVFI",
+              "end": 171,
+              "expanded_url": "https://x.com/Shirasu8964228/status/2055700673128522095/photo/1",
+              "media_key": "3_2055700668082757632",
+              "start": 148,
+              "url": "https://t.co/r551rRzVFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055700673128522095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "從星野藤/真理藤的遭遇來看，在中國，根本就版權意識，以前就聽說過中國盜版猖獗，今天，我們看到在真理藤@hoshinofujivy 做出梗圖被中共大外宣盜圖使用不算，還反過來霸凌真理藤，她的朋友均遭受惡意謾罵和威脅，我只能說不尊重創作者和霸凌他人是一種非常惡劣的行為，在此，本人奶茶在此發聲--- https://t.co/r551rRzVFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 454,
+          "like_count": 14111,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 3426
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T01:58:49.000Z",
+        "description": "中非與伊斯蘭原始人的主人，不時更新一些畫作\n貓貓（❤️）：@honxine8964\n♥：@ProcyonCoke731\n@Yamawuchimisaki\n莉奈妹妹：@RinaSato01\n液態貓貓：@saya8964cat\n閨蜜：@Je1nFaur_l\n好朋友：@Eris37298  @MasaoYamato001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "honxine8964"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "ProcyonCoke731"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Yamawuchimisaki"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "RinaSato01"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "saya8964cat"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Je1nFaur_l"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Eris37298"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "MasaoYamato001"
+              }
+            ]
+          }
+        },
+        "id": "1789837129247531008",
+        "location": "大日本帝國台北州",
+        "name": "✠✝️🇦🇹Sato Hiromichi🇯🇵🌸🧋（茉莉奶茶）",
+        "pinned_tweet_id": "2055507013711585635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052811427753443328/csUc7qTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4768,
+          "following_count": 3342,
+          "like_count": 101474,
+          "listed_count": 32,
+          "media_count": 5083,
+          "tweet_count": 34668
+        },
+        "username": "Shirasu8964228",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10891,
+          "following_count": 4302,
+          "like_count": 46146,
+          "listed_count": 35,
+          "media_count": 2278,
+          "tweet_count": 13967
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

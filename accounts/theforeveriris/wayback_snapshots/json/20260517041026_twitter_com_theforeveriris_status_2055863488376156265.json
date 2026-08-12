@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2055677364718457007",
+    "created_at": "2026-05-17T04:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055863488376156265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819276723290095616",
+          "start": 0,
+          "username": "Natsuki_803nz"
+        },
+        {
+          "end": 26,
+          "id": "2052320876889006082",
+          "start": 15,
+          "username": "Luanessnew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055863488376156265",
+    "in_reply_to_user_id": "1819276723290095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055863273053155452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuki_803nz @Luanessnew 呃啊有没有关系比较好以及知道你情况的同学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2055677364718457007",
+        "created_at": "2026-05-17T04:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055863488376156265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819276723290095616",
+              "start": 0,
+              "username": "Natsuki_803nz"
+            },
+            {
+              "end": 26,
+              "id": "2052320876889006082",
+              "start": 15,
+              "username": "Luanessnew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055863488376156265",
+        "in_reply_to_user_id": "1819276723290095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055863273053155452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuki_803nz @Luanessnew 呃啊有没有关系比较好以及知道你情况的同学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819276723290095616",
+        "conversation_id": "2055677364718457007",
+        "created_at": "2026-05-17T04:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055863273053155452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 27,
+              "id": "2052320876889006082",
+              "start": 16,
+              "username": "Luanessnew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055863273053155452",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055861566411780115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris @Luanessnew 不住校，校对面租房，然后家里人在那"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 454,
+          "like_count": 14122,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 3431
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T07:39:26.000Z",
+        "description": "高一｜炸柜断糖｜周六晚上复活，消息回复可能不及时｜177cm/58kg｜百合｜交通迷｜无聊｜想被抱抱…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Natsuki_803",
+                "end": 23,
+                "expanded_url": "https://t.me/Natsuki_803",
+                "start": 0,
+                "url": "https://t.co/AYea4soCXv"
+              }
+            ]
+          }
+        },
+        "id": "1819276723290095616",
+        "location": "Internet",
+        "name": "夏希🍥",
+        "pinned_tweet_id": "2055677364718457007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040744519550001153/-nZHCknj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 209,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/AYea4soCXv",
+        "username": "Natsuki_803nz",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:34:30.000Z",
+        "description": "kiss❤️，186/130，hhh\n魔怔小药娘，常住大连",
+        "id": "2052320876889006082",
+        "name": "Luan🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052321350237229057/dAwztcLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "Luanessnew",
+        "verified": false
+      }
+    ]
+  }
+}

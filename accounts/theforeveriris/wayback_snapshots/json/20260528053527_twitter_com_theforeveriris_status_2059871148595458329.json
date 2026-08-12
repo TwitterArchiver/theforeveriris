@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2059620751385473060",
+    "created_at": "2026-05-28T05:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059871148595458329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956148179470299136",
+          "start": 0,
+          "username": "Daniel65599Jack"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059871148595458329",
+    "in_reply_to_user_id": "1956148179470299136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059620751385473060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daniel65599Jack 防火墙还是挡不住大多数人的。但是推特之前的推荐算法好像有问题，它会把时间线上的帖子限定在一定的区域之内。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2059620751385473060",
+        "created_at": "2026-05-28T05:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059871148595458329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956148179470299136",
+              "start": 0,
+              "username": "Daniel65599Jack"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059871148595458329",
+        "in_reply_to_user_id": "1956148179470299136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059620751385473060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daniel65599Jack 防火墙还是挡不住大多数人的。但是推特之前的推荐算法好像有问题，它会把时间线上的帖子限定在一定的区域之内。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956148179470299136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059620751385473060",
+        "created_at": "2026-05-27T13:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059620751385473060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rei102rei/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Rei102rei/status/2059147325260628350",
+              "start": 138,
+              "url": "https://t.co/fEOx14UkG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059620751385473060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10201,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059147325260628350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ようやくTwitterでも美味しそうな中華飯が\nいっぱい見れてこれは好\nアジア勢の飯勝負の主力なのに\nいっつもファイアウォールに引きこもってるから\nこっちは主将抜きで戦ってんねんで\nなのでこうやっていっぱい来てくれているのを見ると\n「外は怖くないよ！一緒に遊ぼう！」って気分 https://t.co/fEOx14UkG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 459,
+          "like_count": 15365,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 3577
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T00:17:39.000Z",
+        "description": "折角この世に生まれたので出来るだけ生きる、猫を吸いながら駄弁っています",
+        "id": "1956148179470299136",
+        "name": "Jack Daniel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982787308530155520/A5oLoZsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 911,
+          "like_count": 55833,
+          "listed_count": 5,
+          "media_count": 347,
+          "tweet_count": 10101
+        },
+        "username": "Daniel65599Jack",
+        "verified": false
+      }
+    ]
+  }
+}

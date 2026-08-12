@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2058758686110040207",
+    "created_at": "2026-05-25T17:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058965079169831135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874066660274917376",
+          "start": 0,
+          "username": "ditian1012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058965079169831135",
+    "in_reply_to_user_id": "1874066660274917376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058758686110040207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ditian1012 在药店买补吗？我有个朋友也是这样被打电话给家长了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2058758686110040207",
+        "created_at": "2026-05-25T17:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058965079169831135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874066660274917376",
+              "start": 0,
+              "username": "ditian1012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058965079169831135",
+        "in_reply_to_user_id": "1874066660274917376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058758686110040207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ditian1012 在药店买补吗？我有个朋友也是这样被打电话给家长了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874066660274917376",
+        "conversation_id": "2058758686110040207",
+        "created_at": "2026-05-25T03:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058758686110040207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058758686110040207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜了…前天晚上和我表弟说了，然后昨天我爸就被派出所打电话，说我买违禁品，手机还被网警监视…现在烦死了，昨晚我爸跟我谈了，今天我妈又要和我谈…唉，糟心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 463,
+          "like_count": 14738,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 3538
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T12:14:58.000Z",
+        "description": "08/无证含糖/对心理和哲学有些了解的学习笨蛋/讨厌孤独＋社恐/人活着也是活着，还不如按自己想要的方式活下去",
+        "id": "1874066660274917376",
+        "location": "江苏",
+        "name": "七濑双绪♡🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034762325966880768/o1cfbhnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 42
+        },
+        "username": "ditian1012",
+        "verified": false
+      }
+    ]
+  }
+}

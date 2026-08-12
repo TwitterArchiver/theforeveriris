@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052229249835343873"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2052195783269847283",
+    "created_at": "2026-05-07T03:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052229252221939795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "27200079",
+          "start": 0,
+          "username": "icatme"
+        },
+        {
+          "end": 20,
+          "id": "786479809647869952",
+          "start": 8,
+          "username": "skywind3000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YPqVu7KeTL",
+          "end": 114,
+          "expanded_url": "https://x.com/theforeveriris/status/2052229252221939795/photo/1",
+          "media_key": "3_2052229249835343873",
+          "start": 91,
+          "url": "https://t.co/YPqVu7KeTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052229252221939795",
+    "in_reply_to_user_id": "27200079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052228033235538256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icatme @skywind3000 复杂的 rules 可以以文件形式多层嵌套。就目前复杂项目的协同 vibecoding 我想不到除了本地文件系统实现记忆控制之外的其他方法 https://t.co/YPqVu7KeTL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2052229249835343873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr7oSoaIAEOG-m.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052229249835343873"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2052195783269847283",
+        "created_at": "2026-05-07T03:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052229252221939795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "27200079",
+              "start": 0,
+              "username": "icatme"
+            },
+            {
+              "end": 20,
+              "id": "786479809647869952",
+              "start": 8,
+              "username": "skywind3000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPqVu7KeTL",
+              "end": 114,
+              "expanded_url": "https://x.com/theforeveriris/status/2052229252221939795/photo/1",
+              "media_key": "3_2052229249835343873",
+              "start": 91,
+              "url": "https://t.co/YPqVu7KeTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052229252221939795",
+        "in_reply_to_user_id": "27200079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052228033235538256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icatme @skywind3000 复杂的 rules 可以以文件形式多层嵌套。就目前复杂项目的协同 vibecoding 我想不到除了本地文件系统实现记忆控制之外的其他方法 https://t.co/YPqVu7KeTL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "27200079",
+        "conversation_id": "2052195783269847283",
+        "created_at": "2026-05-07T03:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052228033235538256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "theforeveriris"
+            },
+            {
+              "end": 28,
+              "id": "786479809647869952",
+              "start": 16,
+              "username": "skywind3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052228033235538256",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052221341655527611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theforeveriris @skywind3000 都塞规则,那规则就会塞满摘要,按这样来,时间长了规则这个部分就会非常臃肿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 450,
+          "like_count": 14025,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 3365
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-28T08:30:59.000Z",
+        "description": "退役码农 | 假装是个Maker | 卖点早餐钱的外贸业者 | 心理学门外汉 | 不孝子的不靠谱老爹",
+        "id": "27200079",
+        "location": "Zhejiang",
+        "name": "icat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/262562577/photo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 461,
+          "like_count": 68439,
+          "listed_count": 12,
+          "media_count": 718,
+          "tweet_count": 18723
+        },
+        "url": "",
+        "username": "icatme",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27525,
+          "following_count": 341,
+          "like_count": 8020,
+          "listed_count": 218,
+          "media_count": 1224,
+          "tweet_count": 9327
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

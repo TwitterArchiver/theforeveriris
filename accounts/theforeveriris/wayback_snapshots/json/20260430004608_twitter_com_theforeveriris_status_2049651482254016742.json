@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2049645320683085948",
+    "created_at": "2026-04-30T00:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T01:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049651482254016742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529730274992738304",
+          "start": 0,
+          "username": "dinah_zhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049651482254016742",
+    "in_reply_to_user_id": "1529730274992738304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049645320683085948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dinah_zhang 唯有等待，说不定以后就有针对上下文和有效记忆的 git 了（）我现在做大型项目完全就是牺牲 token 写大量文档：元信息、需求、架构、设计、约束、任务、上下文、知识才能勉强做到跨会话/设备的时候 coding 的连贯性\n-----\n同蹲 gitnexus 的评价/ 通过仓库生成知识图谱是否是对上下文管理的妥协（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2049645320683085948",
+        "created_at": "2026-04-30T00:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049651482254016742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529730274992738304",
+              "start": 0,
+              "username": "dinah_zhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049651482254016742",
+        "in_reply_to_user_id": "1529730274992738304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049645320683085948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dinah_zhang 唯有等待，说不定以后就有针对上下文和有效记忆的 git 了（）我现在做大型项目完全就是牺牲 token 写大量文档：元信息、需求、架构、设计、约束、任务、上下文、知识才能勉强做到跨会话/设备的时候 coding 的连贯性\n-----\n同蹲 gitnexus 的评价/ 通过仓库生成知识图谱是否是对上下文管理的妥协（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529730274992738304",
+        "conversation_id": "2049645320683085948",
+        "created_at": "2026-04-30T00:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049645320683085948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MilittleZ/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/MilittleZ/status/2049630941124202604",
+              "start": 67,
+              "url": "https://t.co/nNOgG5Klkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049645320683085948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049630941124202604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蹲一首锐评（没仔细看，我不觉得 issue, pr 是核心的 knowledge context，怎么规范记录和 llm 的上下文呢 https://t.co/nNOgG5Klkq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048089087362662401/MjIUBj4Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 451,
+          "like_count": 13764,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 3261
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T07:45:08.000Z",
+        "description": "Vibe DevRel  |  CNCF Ambassador @CNCFAmbassadors,DevRel @OceanBaseDB, Ambassador @chaos_mesh, KCD Beijing organizer\nBuilding build",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "CNCFAmbassadors"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "OceanBaseDB"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "chaos_mesh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhanghuidinah",
+                "end": 23,
+                "expanded_url": "https://github.com/zhanghuidinah",
+                "start": 0,
+                "url": "https://t.co/Qf9IZ4Hfnr"
+              }
+            ]
+          }
+        },
+        "id": "1529730274992738304",
+        "name": "Dinah",
+        "pinned_tweet_id": "2048372634384216422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049507373354786816/0nlQMat__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 1402,
+          "like_count": 22354,
+          "listed_count": 14,
+          "media_count": 314,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/Qf9IZ4Hfnr",
+        "username": "dinah_zhang",
+        "verified": true
+      }
+    ]
+  }
+}

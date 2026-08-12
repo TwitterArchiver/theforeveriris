@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063212021580251136"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2062944649816445377",
+    "created_at": "2026-06-06T10:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T11:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063212035647947177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454360653",
+          "start": 0,
+          "username": "1greencat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mzt2ojeT41",
+          "end": 65,
+          "expanded_url": "https://x.com/theforeveriris/status/2063212035647947177/photo/1",
+          "media_key": "3_2063212021580251136",
+          "start": 42,
+          "url": "https://t.co/mzt2ojeT41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063212035647947177",
+    "in_reply_to_user_id": "1454360653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062944649816445377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1greencat 计算器要啥 skill，有云端环境跑 python 不就好了 https://t.co/mzt2ojeT41"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2063212021580251136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIAZvqbQAATn0U.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063212021580251136"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2062944649816445377",
+        "created_at": "2026-06-06T10:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063212035647947177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454360653",
+              "start": 0,
+              "username": "1greencat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzt2ojeT41",
+              "end": 65,
+              "expanded_url": "https://x.com/theforeveriris/status/2063212035647947177/photo/1",
+              "media_key": "3_2063212021580251136",
+              "start": 42,
+              "url": "https://t.co/mzt2ojeT41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063212035647947177",
+        "in_reply_to_user_id": "1454360653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062944649816445377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1greencat 计算器要啥 skill，有云端环境跑 python 不就好了 https://t.co/mzt2ojeT41"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454360653",
+        "conversation_id": "2062944649816445377",
+        "created_at": "2026-06-05T17:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062944649816445377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/YongQuan/status/2062818205811290491",
+              "start": 94,
+              "url": "https://t.co/2apHg6Jf1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062944649816445377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2670,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062818205811290491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议这些大模型内置科学计算器mcp/skill，我上次让AI给我算利率，问了4个AI给了4个答案，这玩意很那算吗我服了😂\n最后一看，每个AI都是在不同的步骤算错了一个数，最后导致结果不对 https://t.co/2apHg6Jf1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059601325470674945/kiGmw6Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 463,
+          "like_count": 16572,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3675
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-24T14:15:27.000Z",
+        "description": "不是所有的平板都是韩小寒",
+        "id": "1454360653",
+        "name": "一只绿喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1080051674855571456/AJ0OUWtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8374,
+          "following_count": 479,
+          "like_count": 35298,
+          "listed_count": 37,
+          "media_count": 1562,
+          "tweet_count": 24517
+        },
+        "username": "1greencat",
+        "verified": false
+      }
+    ]
+  }
+}

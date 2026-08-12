@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2055657133840969763",
+    "created_at": "2026-05-16T19:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055731045845352668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1474067098263441436",
+          "start": 0,
+          "username": "kimjongun_1145"
+        },
+        {
+          "end": 28,
+          "id": "1870313420807163904",
+          "start": 16,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20557…",
+          "end": 89,
+          "expanded_url": "https://x.com/i/status/2055730401285681272",
+          "start": 66,
+          "url": "https://t.co/Z1QONpWcZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055731045845352668",
+    "in_reply_to_user_id": "1474067098263441436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055730401285681272",
+        "type": "quoted"
+      },
+      {
+        "id": "2055668205046386877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kimjongun_1145 @IzayoiMarin 我们认定在 ai 生成内容时付出了智力劳动就判定为符合著作权的独创性条件 https://t.co/Z1QONpWcZl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2055657133840969763",
+        "created_at": "2026-05-16T19:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055731045845352668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1474067098263441436",
+              "start": 0,
+              "username": "kimjongun_1145"
+            },
+            {
+              "end": 28,
+              "id": "1870313420807163904",
+              "start": 16,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20557…",
+              "end": 89,
+              "expanded_url": "https://x.com/i/status/2055730401285681272",
+              "start": 66,
+              "url": "https://t.co/Z1QONpWcZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055731045845352668",
+        "in_reply_to_user_id": "1474067098263441436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055730401285681272",
+            "type": "quoted"
+          },
+          {
+            "id": "2055668205046386877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kimjongun_1145 @IzayoiMarin 我们认定在 ai 生成内容时付出了智力劳动就判定为符合著作权的独创性条件 https://t.co/Z1QONpWcZl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2055730401285681272",
+        "created_at": "2026-05-16T19:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055730401285681272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jueshengshenla…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Jueshengshenlan/status/2055700651808788906",
+              "start": 146,
+              "url": "https://t.co/rQUz3yLka5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055730401285681272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055700651808788906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《中华人民共和国著作权法》第三条规定：“本法所称的作品，是指文学、艺术和科学领域内具有独创性并能以一定形式表现的智力成果。由详细提示词生成的 ai 作品明显具有独创性。\n国内“春风送来温柔了温柔”案（北京互联网法院 2023 京0491民初11279号民事判决书）的判决也证明了我所言非虚。 https://t.co/rQUz3yLka5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474067098263441436",
+        "conversation_id": "2055657133840969763",
+        "created_at": "2026-05-16T15:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055668205046386877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055668205046386877",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055657133840969763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 好傻逼，虽然说AI这东西确实设计法律漏洞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 453,
+          "like_count": 14083,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 3415
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T17:19:28.000Z",
+        "description": "人間五十年、下天の内をくらぶれば、夢幻のごとくなり。一度生を得て、滅せぬ者のあるべきか。",
+        "id": "1474067098263441436",
+        "name": "鈴虫【哀悼中】",
+        "pinned_tweet_id": "2053512793006248141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055648046038605824/YSRn3EyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 609,
+          "like_count": 2763,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 6294
+        },
+        "username": "kimjongun_1145",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Izayoi Marin（十六夜真凛） | 白夜行（びゃくやこう）|   09高二🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  互fo留言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 71,
+                "username": "aoim33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "十六夜 まりん",
+        "pinned_tweet_id": "2055676120771571760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055692511381774337/2eblltBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 2248,
+          "like_count": 42654,
+          "listed_count": 7,
+          "media_count": 2299,
+          "tweet_count": 21070
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2056907162589573556",
+    "created_at": "2026-05-20T01:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056909772079931410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011073315763601416",
+          "start": 0,
+          "username": "kilock_1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056909772079931410",
+    "in_reply_to_user_id": "2011073315763601416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056907162589573556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kilock_1208 确实，我也无法理解这种测试是怎么反应人的智力水平的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056907153353719809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuaKHObwAECbVL.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2056907162589573556",
+        "created_at": "2026-05-20T01:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056909772079931410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011073315763601416",
+              "start": 0,
+              "username": "kilock_1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056909772079931410",
+        "in_reply_to_user_id": "2011073315763601416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056907162589573556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilock_1208 确实，我也无法理解这种测试是怎么反应人的智力水平的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056907153353719809"
+          ]
+        },
+        "author_id": "2011073315763601416",
+        "conversation_id": "2056907162589573556",
+        "created_at": "2026-05-20T01:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056907162589573556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "你处于匿名状态! 我们将收集匿名的智力测试数据作统计。我们不会收集任何个人识别信息(PII)，也不会追踪你的位置。",
+              "display_url": "test.mensa.no/Home/Test/zh-CN",
+              "end": 46,
+              "expanded_url": "http://test.mensa.no/Home/Test/zh-CN",
+              "start": 23,
+              "status": 200,
+              "title": "智力测验 由挪威门萨分会制作 - Mensa Norway",
+              "unwound_url": "http://test.mensa.no/Home/Test/zh-CN",
+              "url": "https://t.co/hMJmc8rAE9"
+            },
+            {
+              "display_url": "pic.x.com/R7ACykSkaZ",
+              "end": 70,
+              "expanded_url": "https://x.com/kilock_1208/status/2056907162589573556/photo/1",
+              "media_key": "3_2056907153353719809",
+              "start": 47,
+              "url": "https://t.co/R7ACykSkaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056907162589573556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以这个测试有啥意义，注意力和图像想象能力吗？https://t.co/hMJmc8rAE9 https://t.co/R7ACykSkaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "location": "theforeveriris@proton.me",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2020543718688956543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055140423199522816/4T6KmvbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 477,
+          "like_count": 14383,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 3500
+        },
+        "username": "theforeveriris",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "蒟蒻OIer | 全干开发者 | intp | 宝 @qqqqqf_  | Arkloop的TelegramGroup :https://t.co/gW3NA9111V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 84,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 61,
+                "url": "https://t.co/gW3NA9111V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "location": "The World",
+        "name": "kilock🍥",
+        "pinned_tweet_id": "2037502430506795154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054035995654488064/NJV_p8vX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 725,
+          "like_count": 4884,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1229
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true
+      }
+    ]
+  }
+}

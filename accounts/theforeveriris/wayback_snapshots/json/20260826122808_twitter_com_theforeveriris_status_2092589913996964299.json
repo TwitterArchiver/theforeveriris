@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2092498171029291068",
+    "created_at": "2026-08-26T12:28:08.000Z",
+    "display_text_range": [
+      10,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092589913996964299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092589913996964299",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092498171029291068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 老中经典看不懂性别取向和浪漫取向，也分不清性别取向和浪漫取向"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2092498163391426560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoL_joacAABAmR.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2092498171029291068",
+        "created_at": "2026-08-26T12:28:08.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092589913996964299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092589913996964299",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092498171029291068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 老中经典看不懂性别取向和浪漫取向，也分不清性别取向和浪漫取向"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092498163391426560"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "2092498171029291068",
+        "created_at": "2026-08-26T06:23:35.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092498171029291068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JfbYSqevhs",
+              "end": 49,
+              "expanded_url": "https://x.com/AcboxLiu/status/2092498171029291068/photo/1",
+              "media_key": "3_2092498163391426560",
+              "start": 26,
+              "url": "https://t.co/JfbYSqevhs"
+            },
+            {
+              "display_url": "x.com/servasyy_ai/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/servasyy_ai/status/2092395252451844398",
+              "start": 50,
+              "url": "https://t.co/EPiXA75G3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092498171029291068",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092498163391426560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 38373,
+          "like_count": 273,
+          "quote_count": 7,
+          "reply_count": 41,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092395252451844398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已无言，请评论区某些说“男的”“女装大佬”的人自重 https://t.co/JfbYSqevhs https://t.co/EPiXA75G3H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2092589913996964299",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 475,
+          "like_count": 20255,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有大猫和两只小猫\n/ https://t.co/hUTrNH9tjK\n/ Co-founder of https://t.co/gLiVpv7NbV https://t.co/PSLnUgtUxO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 47,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 24,
+                "url": "https://t.co/hUTrNH9tjK"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 87,
+                "expanded_url": "http://memoh.ai",
+                "start": 64,
+                "url": "https://t.co/gLiVpv7NbV"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 111,
+                "expanded_url": "http://felinic.ai",
+                "start": 88,
+                "url": "https://t.co/PSLnUgtUxO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ac.box",
+                "end": 23,
+                "expanded_url": "https://ac.box",
+                "start": 0,
+                "url": "https://t.co/UNw6tpSBMs"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "is_identity_verified": false,
+        "location": "上海/深圳",
+        "most_recent_tweet_id": "2092562387744530881",
+        "name": "📦Acbox",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601893417549967360/1764649898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12635,
+          "following_count": 2746,
+          "like_count": 3566,
+          "listed_count": 64,
+          "media_count": 340,
+          "tweet_count": 4922
+        },
+        "url": "https://t.co/UNw6tpSBMs",
+        "username": "AcboxLiu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

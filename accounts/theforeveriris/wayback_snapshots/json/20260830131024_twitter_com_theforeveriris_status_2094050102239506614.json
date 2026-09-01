@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2093919479323570225",
+    "created_at": "2026-08-30T13:10:24.000Z",
+    "display_text_range": [
+      52,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094050102239506614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953005200501030916",
+          "start": 0,
+          "username": "Jerry1899436"
+        },
+        {
+          "end": 25,
+          "id": "1955258083355312128",
+          "start": 14,
+          "username": "MaoQi29798"
+        },
+        {
+          "end": 35,
+          "id": "2092527938923315200",
+          "start": 26,
+          "username": "Ppppxasu"
+        },
+        {
+          "end": 51,
+          "id": "232764451",
+          "start": 36,
+          "username": "bryanjofersion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094050102239506614",
+    "in_reply_to_user_id": "1953005200501030916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094049345544876046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerry1899436 @MaoQi29798 @Ppppxasu @bryanjofersion 并非没名额，只是不想排教室和监考，实际上你报了势必会排到，老师逗你玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2093919479323570225",
+        "created_at": "2026-08-30T13:10:24.000Z",
+        "display_text_range": [
+          52,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094050102239506614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953005200501030916",
+              "start": 0,
+              "username": "Jerry1899436"
+            },
+            {
+              "end": 25,
+              "id": "1955258083355312128",
+              "start": 14,
+              "username": "MaoQi29798"
+            },
+            {
+              "end": 35,
+              "id": "2092527938923315200",
+              "start": 26,
+              "username": "Ppppxasu"
+            },
+            {
+              "end": 51,
+              "id": "232764451",
+              "start": 36,
+              "username": "bryanjofersion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094050102239506614",
+        "in_reply_to_user_id": "1953005200501030916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094049345544876046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerry1899436 @MaoQi29798 @Ppppxasu @bryanjofersion 并非没名额，只是不想排教室和监考，实际上你报了势必会排到，老师逗你玩的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953005200501030916",
+        "conversation_id": "2093919479323570225",
+        "created_at": "2026-08-30T13:07:24.000Z",
+        "display_text_range": [
+          38,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094049345544876046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955258083355312128",
+              "start": 0,
+              "username": "MaoQi29798"
+            },
+            {
+              "end": 21,
+              "id": "2092527938923315200",
+              "start": 12,
+              "username": "Ppppxasu"
+            },
+            {
+              "end": 37,
+              "id": "232764451",
+              "start": 22,
+              "username": "bryanjofersion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094049345544876046",
+        "in_reply_to_user_id": "1955258083355312128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094033740473541012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoQi29798 @Ppppxasu @bryanjofersion 大一好像大部分高校都没名额，甚至通知这种，不过你这么说也是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2094050102239506614",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 474,
+          "like_count": 20590,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-06T08:08:31.000Z",
+        "description": "",
+        "id": "1953005200501030916",
+        "is_identity_verified": false,
+        "location": "American Canyon, CA",
+        "most_recent_tweet_id": "2094049577137484243",
+        "name": "Jerry",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953005404197421056/3Him69TO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 65,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "Jerry1899436",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-12T13:20:43.000Z",
+        "description": "上海大学研0",
+        "id": "1955258083355312128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094033740473541012",
+        "name": "气猫",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094034077250887680/WOj-dd-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "MaoQi29798",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T08:22:34.000Z",
+        "description": "",
+        "id": "2092527938923315200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093950767392817417",
+        "name": "Pppp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092528408353968129/UO9xZlLN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 46,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Ppppxasu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-01T06:38:22.000Z",
+        "description": "",
+        "id": "232764451",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093974750238273825",
+        "name": "bryanjofersion",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 395,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 13082
+        },
+        "url": "",
+        "username": "bryanjofersion",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

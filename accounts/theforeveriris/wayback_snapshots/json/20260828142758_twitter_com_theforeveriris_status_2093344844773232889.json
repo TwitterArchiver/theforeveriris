@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2093232096529760349",
+    "created_at": "2026-08-28T14:27:58.000Z",
+    "display_text_range": [
+      9,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093344844773232889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2092750120584704465",
+          "start": 35,
+          "url": "https://t.co/d7KN0sBPfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093344844773232889",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092750120584704465",
+        "type": "quoted"
+      },
+      {
+        "id": "2093232096529760349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 我昨天搜索看到时候好像还没有接入 AI 评论（？） https://t.co/d7KN0sBPfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2093232088984240128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQynfphawAAzLRd.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1120,
+        "media_key": "3_2092750118315577344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrxJQ3bUAANd_z.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2093232096529760349",
+        "created_at": "2026-08-28T14:27:58.000Z",
+        "display_text_range": [
+          9,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093344844773232889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2092750120584704465",
+              "start": 35,
+              "url": "https://t.co/d7KN0sBPfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093344844773232889",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092750120584704465",
+            "type": "quoted"
+          },
+          {
+            "id": "2093232096529760349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 我昨天搜索看到时候好像还没有接入 AI 评论（？） https://t.co/d7KN0sBPfd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093232088984240128"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "conversation_id": "2093232096529760349",
+        "created_at": "2026-08-28T06:59:56.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093232096529760349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygS4NqGABM",
+              "end": 73,
+              "expanded_url": "https://x.com/qqqqqf_/status/2093232096529760349/photo/1",
+              "media_key": "3_2093232088984240128",
+              "start": 50,
+              "url": "https://t.co/ygS4NqGABM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093232096529760349",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093232088984240128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7434,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这群色情 bot 真牛逼啊\n不仅冒用我的头像和名字还发评论，还拿了 9 个赞\n大家注意一下别被骗了 https://t.co/ygS4NqGABM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092750118315577344"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2092750120584704465",
+        "created_at": "2026-08-26T23:04:44.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092750120584704465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xm8hPZFqxm",
+              "end": 49,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2092750120584704465/photo/1",
+              "media_key": "3_2092750118315577344",
+              "start": 26,
+              "url": "https://t.co/Xm8hPZFqxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092750120584704465",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092750118315577344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1211,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "现在去搜索栏搜索「网红模特经济」就能看到大家的分身 https://t.co/Xm8hPZFqxm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2093344844773232889",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 475,
+          "like_count": 20355,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer\nBuilding  https://t.co/Q5DJkrjgFa \n博客:https://t.co/YPfuXnDF2c  \nTelegramGroup :https://t.co/GiCrumiqio",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 53,
+                "expanded_url": "http://Arkloop.io",
+                "start": 30,
+                "url": "https://t.co/Q5DJkrjgFa"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 81,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 58,
+                "url": "https://t.co/YPfuXnDF2c"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 122,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 99,
+                "url": "https://t.co/GiCrumiqio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmcVI"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2093232096529760349",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 1047,
+          "like_count": 22732,
+          "listed_count": 7,
+          "media_count": 388,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/jrg4ChmcVI",
+        "username": "qqqqqf_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/什么都不会/向往自由/#推友情況通報/原创meme/香香软软 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 36,
+                "username": "zhwevea"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "鹭岛",
+        "most_recent_tweet_id": "2093336812207136775",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2092116629694058989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8829,
+          "following_count": 1281,
+          "like_count": 221432,
+          "listed_count": 6,
+          "media_count": 1270,
+          "tweet_count": 9266
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

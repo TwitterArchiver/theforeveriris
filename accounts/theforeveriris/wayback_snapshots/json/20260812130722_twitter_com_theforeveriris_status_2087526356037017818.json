@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087526345949749248"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2087482953387638842",
+    "created_at": "2026-08-12T13:07:22.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087526356037017818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XevhBB7QC0",
+          "end": 39,
+          "expanded_url": "https://x.com/theforeveriris/status/2087526356037017818/photo/1",
+          "media_key": "3_2087526345949749248",
+          "start": 16,
+          "url": "https://t.co/XevhBB7QC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087526356037017818",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087526345949749248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087482953387638842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 忌结婚宜安葬 https://t.co/XevhBB7QC0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2591,
+        "media_key": "3_2087526345949749248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhiJsWaoAAgLc3.jpg",
+        "width": 1843
+      },
+      {
+        "height": 1577,
+        "media_key": "3_2087482946370625536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg6rgUbYAAJ0kR.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087526345949749248"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2087482953387638842",
+        "created_at": "2026-08-12T13:07:22.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087526356037017818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XevhBB7QC0",
+              "end": 39,
+              "expanded_url": "https://x.com/theforeveriris/status/2087526356037017818/photo/1",
+              "media_key": "3_2087526345949749248",
+              "start": 16,
+              "url": "https://t.co/XevhBB7QC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087526356037017818",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087526345949749248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087482953387638842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 忌结婚宜安葬 https://t.co/XevhBB7QC0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087482946370625536"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087482953387638842",
+        "created_at": "2026-08-12T10:14:54.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087482953387638842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooESzldmzk",
+              "end": 32,
+              "expanded_url": "https://x.com/gdioiui/status/2087482953387638842/photo/1",
+              "media_key": "3_2087482946370625536",
+              "start": 9,
+              "url": "https://t.co/ooESzldmzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087482953387638842",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087482946370625536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 136,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是不是太阴间了 https://t.co/ooESzldmzk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2087526356037017818",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 477,
+          "like_count": 19223,
+          "listed_count": 6,
+          "media_count": 13,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2087525887743033366",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 485,
+          "like_count": 4995,
+          "listed_count": 5,
+          "media_count": 1765,
+          "tweet_count": 8886
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

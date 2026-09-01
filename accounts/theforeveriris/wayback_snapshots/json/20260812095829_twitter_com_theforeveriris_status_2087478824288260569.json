@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2087461316302868989",
+    "created_at": "2026-08-12T09:58:29.000Z",
+    "display_text_range": [
+      14,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087478824288260569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697913281816432640",
+          "start": 0,
+          "username": "kiligulyanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087478824288260569",
+    "in_reply_to_user_id": "1697913281816432640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087461316302868989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiligulyanov 是的！塔兹米就是踏自明啊，瞳给人带来光明，赤瞳就是持明，村雨正对应崇祯皇帝在 4 月自缢在春天羽化飞升，叫做春羽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2087461316302868989",
+        "created_at": "2026-08-12T09:58:29.000Z",
+        "display_text_range": [
+          14,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087478824288260569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087478824288260569",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087461316302868989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov 是的！塔兹米就是踏自明啊，瞳给人带来光明，赤瞳就是持明，村雨正对应崇祯皇帝在 4 月自缢在春天羽化飞升，叫做春羽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697913281816432640",
+        "conversation_id": "2087461316302868989",
+        "created_at": "2026-08-12T08:48:55.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087461316302868989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087461316302868989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 144,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "理性讨论斩赤红之瞳是不是一部悼明之作"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2087478824288260569",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 476,
+          "like_count": 19145,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "id": "1697913281816432640",
+        "is_identity_verified": false,
+        "location": "梦境的地方",
+        "most_recent_tweet_id": "2087470592434032778",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697913281816432640/1734420223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 1440,
+          "like_count": 28556,
+          "listed_count": 11,
+          "media_count": 1620,
+          "tweet_count": 10965
+        },
+        "url": "",
+        "username": "kiligulyanov",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

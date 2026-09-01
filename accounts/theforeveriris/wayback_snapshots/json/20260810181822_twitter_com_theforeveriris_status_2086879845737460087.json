@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2086679411903115722",
+    "created_at": "2026-08-10T18:18:22.000Z",
+    "display_text_range": [
+      9,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086879845737460087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086879845737460087",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086679411903115722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 我很早之前就在用 π，原因是定制自由，适合我这种爱折腾的人，第二嘛我手机上时不时还跑一下 termux，这种残缺的环境里实测没有其他 harness 比得过π稳定。\n---\n现在更多人用一方面是 fomo，就和以前捣鼓博客或笔记软件是一样的；一方面就是当成时尚单品去玩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2086679411903115722",
+        "created_at": "2026-08-10T18:18:22.000Z",
+        "display_text_range": [
+          9,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086879845737460087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086879845737460087",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086679411903115722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 我很早之前就在用 π，原因是定制自由，适合我这种爱折腾的人，第二嘛我手机上时不时还跑一下 termux，这种残缺的环境里实测没有其他 harness 比得过π稳定。\n---\n现在更多人用一方面是 fomo，就和以前捣鼓博客或笔记软件是一样的；一方面就是当成时尚单品去玩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818257539886460928",
+        "conversation_id": "2086679411903115722",
+        "created_at": "2026-08-10T05:01:55.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086679411903115722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086679411903115722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 97345,
+          "like_count": 239,
+          "quote_count": 3,
+          "reply_count": 112,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "pi 已经要在 harness 圈成圣了\n我不理解大家为何如此痴迷这个框架\n以及为什么读的下去 AI 写出来的文本"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2086879845737460087",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 473,
+          "like_count": 18847,
+          "listed_count": 6,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer @memoh_ai\nBuilding  https://t.co/Q5DJkrjOuI / https://t.co/Z8CwRk435m\n博客:https://t.co/YPfuXnEcRK  \nTelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "memoh_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 63,
+                "expanded_url": "http://Arkloop.io",
+                "start": 40,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "Memoh.ai",
+                "end": 89,
+                "expanded_url": "http://Memoh.ai",
+                "start": 66,
+                "url": "https://t.co/Z8CwRk435m"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 116,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 93,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 157,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 134,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2086717952834105653",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 1020,
+          "like_count": 22040,
+          "listed_count": 6,
+          "media_count": 371,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

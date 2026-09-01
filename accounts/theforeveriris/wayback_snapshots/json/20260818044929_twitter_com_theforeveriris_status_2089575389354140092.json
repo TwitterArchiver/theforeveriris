@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089575375139741696"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      }
+    ],
+    "conversation_id": "2089389172847190273",
+    "created_at": "2026-08-18T04:49:29.000Z",
+    "display_text_range": [
+      11,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089575389354140092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1917261838485708802",
+          "start": 0,
+          "username": "qiujiudev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZr9hsIBm6",
+          "end": 117,
+          "expanded_url": "https://x.com/theforeveriris/status/2089575389354140092/photo/1",
+          "media_key": "3_2089575375139741696",
+          "start": 94,
+          "url": "https://t.co/XZr9hsIBm6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089575389354140092",
+    "in_reply_to_user_id": "1917261838485708802",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089575375139741696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089389172847190273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiujiudev 其实不用做成浏览器插件这么复杂，获取 cookie 冒充网页客户端，向X自己的GraphQL 内部接口发带固定 query ID的请求，拿到JSON 再规范化就可以 https://t.co/XZr9hsIBm6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2511,
+        "media_key": "3_2089575375139741696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-pu46boAAUcfC.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2089389166241144832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8AYGtaYAAe1_Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089575375139741696"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          }
+        ],
+        "conversation_id": "2089389172847190273",
+        "created_at": "2026-08-18T04:49:29.000Z",
+        "display_text_range": [
+          11,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089575389354140092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1917261838485708802",
+              "start": 0,
+              "username": "qiujiudev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZr9hsIBm6",
+              "end": 117,
+              "expanded_url": "https://x.com/theforeveriris/status/2089575389354140092/photo/1",
+              "media_key": "3_2089575375139741696",
+              "start": 94,
+              "url": "https://t.co/XZr9hsIBm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089575389354140092",
+        "in_reply_to_user_id": "1917261838485708802",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089575375139741696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089389172847190273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiujiudev 其实不用做成浏览器插件这么复杂，获取 cookie 冒充网页客户端，向X自己的GraphQL 内部接口发带固定 query ID的请求，拿到JSON 再规范化就可以 https://t.co/XZr9hsIBm6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089389166241144832"
+          ]
+        },
+        "author_id": "1917261838485708802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2089389172847190273",
+        "created_at": "2026-08-17T16:29:32.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089389172847190273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。. Contribute to qiujiu-dev/XAvatarWall development by creating an account on GitHub.",
+              "display_url": "github.com/qiujiu-dev/XAv…",
+              "end": 175,
+              "expanded_url": "https://github.com/qiujiu-dev/XAvatarWall",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088935611617124352/2xGEIW3H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 152,
+              "status": 200,
+              "title": "GitHub - qiujiu-dev/XAvatarWall: X(Twitter) 粉丝头像采集与头像墙生成工具，用于制作粉丝里程碑纪念图片。",
+              "unwound_url": "https://github.com/qiujiu-dev/XAvatarWall",
+              "url": "https://t.co/ceK0lJidOu"
+            },
+            {
+              "display_url": "pic.x.com/BSVAEYpKND",
+              "end": 199,
+              "expanded_url": "https://x.com/qiujiudev/status/2089389172847190273/photo/1",
+              "media_key": "3_2089389166241144832",
+              "start": 176,
+              "url": "https://t.co/BSVAEYpKND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089389172847190273",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089389166241144832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1503,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "XAvatarWall 新版本来了 \n多平台适配 只有手机也能生成！\n以前需要 Python、篡改猴脚本，还要手动导出 JSON。\n现在只需要输入你的 X 用户名，浏览器插件就会自动采集粉丝头像，生成一张粉丝纪念头像墙\n一键完成，无需 API，无需代码。 \n适合记录粉丝里程喵 \nGitHub：给我星星！https://t.co/ceK0lJidOu https://t.co/BSVAEYpKND"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2089575389354140092",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 476,
+          "like_count": 19745,
+          "listed_count": 6,
+          "media_count": 20,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T16:57:06.000Z",
+        "description": "你好啊，我是秋玖，一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！TG:https://t.co/v5O8gYnjm0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 101,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 78,
+                "url": "https://t.co/v5O8gYnjm0"
+              }
+            ]
+          }
+        },
+        "id": "1917261838485708802",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089565337692090638",
+        "name": "秋玖",
+        "pinned_tweet_id": "2089403510664343750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917261838485708802/1784106973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086924198023401472/BvTDiyir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 567,
+          "like_count": 3388,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "qiujiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

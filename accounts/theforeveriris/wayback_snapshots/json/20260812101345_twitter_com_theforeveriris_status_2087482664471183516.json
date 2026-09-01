@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087482656292577280"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2087482664471183516",
+    "created_at": "2026-08-12T10:13:45.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T11:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087482664471183516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "tokenflux.dev/register?aff=9…",
+          "end": 115,
+          "expanded_url": "https://tokenflux.dev/register?aff=998U3F3URZE2",
+          "start": 92,
+          "status": 200,
+          "title": "词元流动 - AI API Gateway",
+          "unwound_url": "https://tokenflux.dev/register?aff=998U3F3URZE2",
+          "url": "https://t.co/9vFt9ryHYN"
+        },
+        {
+          "display_url": "pic.x.com/zkx3SunRor",
+          "end": 139,
+          "expanded_url": "https://x.com/theforeveriris/status/2087482664471183516/photo/1",
+          "media_key": "3_2087482656292577280",
+          "start": 116,
+          "url": "https://t.co/zkx3SunRor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087482664471183516",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087482656292577280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": true,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推荐次元流动的 claude-cursor，甚至可以免费使用 fable，十分美味。查询参数 aff 为 iris 邀请码，介意的可以自行移除（无付费合作，flag 为避免违规或限流 https://t.co/9vFt9ryHYN https://t.co/zkx3SunRor"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2087482656292577280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg6ansboAArX9h.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087482656292577280"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2087482664471183516",
+        "created_at": "2026-08-12T10:13:45.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087482664471183516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tokenflux.dev/register?aff=9…",
+              "end": 115,
+              "expanded_url": "https://tokenflux.dev/register?aff=998U3F3URZE2",
+              "start": 92,
+              "status": 200,
+              "title": "词元流动 - AI API Gateway",
+              "unwound_url": "https://tokenflux.dev/register?aff=998U3F3URZE2",
+              "url": "https://t.co/9vFt9ryHYN"
+            },
+            {
+              "display_url": "pic.x.com/zkx3SunRor",
+              "end": 139,
+              "expanded_url": "https://x.com/theforeveriris/status/2087482664471183516/photo/1",
+              "media_key": "3_2087482656292577280",
+              "start": 116,
+              "url": "https://t.co/zkx3SunRor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087482664471183516",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087482656292577280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": true,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推荐次元流动的 claude-cursor，甚至可以免费使用 fable，十分美味。查询参数 aff 为 iris 邀请码，介意的可以自行移除（无付费合作，flag 为避免违规或限流 https://t.co/9vFt9ryHYN https://t.co/zkx3SunRor"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2087482664471183516",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 476,
+          "like_count": 19146,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2088912718384513351",
+    "created_at": "2026-08-16T14:44:49.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089000434140930111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827985418438279168",
+          "start": 0,
+          "username": "kawa_chise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089000434140930111",
+    "in_reply_to_user_id": "1827985418438279168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088912718384513351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa_chise 这下认识了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2088912716295725056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1PDEWaYAAaSLz.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2088912718384513351",
+        "created_at": "2026-08-16T14:44:49.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089000434140930111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827985418438279168",
+              "start": 0,
+              "username": "kawa_chise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089000434140930111",
+        "in_reply_to_user_id": "1827985418438279168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088912718384513351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa_chise 这下认识了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088912716295725056"
+          ]
+        },
+        "author_id": "1827985418438279168",
+        "conversation_id": "2088912718384513351",
+        "created_at": "2026-08-16T08:56:16.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088912718384513351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LzVMgMzLfx",
+              "end": 34,
+              "expanded_url": "https://x.com/kawa_chise/status/2088912718384513351/photo/1",
+              "media_key": "3_2088912716295725056",
+              "start": 11,
+              "url": "https://t.co/LzVMgMzLfx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088912718384513351",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088912716295725056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃更换为旧头像（ https://t.co/LzVMgMzLfx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2089000434140930111",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 476,
+          "like_count": 19480,
+          "listed_count": 6,
+          "media_count": 19,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T08:24:30.000Z",
+        "description": "@Chise_awa 转生（）\n成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Chise_awa"
+              }
+            ]
+          }
+        },
+        "id": "1827985418438279168",
+        "is_identity_verified": false,
+        "location": " Address",
+        "most_recent_tweet_id": "2088977015731105874",
+        "name": "千千千世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827985418438279168/1785661864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088912519838769152/eJr_8AfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 442,
+          "like_count": 8576,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "kawa_chise",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

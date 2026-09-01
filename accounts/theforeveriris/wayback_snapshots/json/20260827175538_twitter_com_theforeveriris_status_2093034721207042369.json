@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093034710205374464"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "conversation_id": "2092877973602828703",
+    "created_at": "2026-08-27T17:55:38.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093034721207042369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3jn6iNAT1X",
+          "end": 46,
+          "expanded_url": "https://x.com/theforeveriris/status/2093034721207042369/photo/1",
+          "media_key": "3_2093034710205374464",
+          "start": 23,
+          "url": "https://t.co/3jn6iNAT1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093034721207042369",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093034710205374464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092877973602828703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ k3 太贵啦，而且用量好少 https://t.co/3jn6iNAT1X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2093034710205374464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvz-sRaoAAnYqH.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093034710205374464"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "2092877973602828703",
+        "created_at": "2026-08-27T17:55:38.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093034721207042369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jn6iNAT1X",
+              "end": 46,
+              "expanded_url": "https://x.com/theforeveriris/status/2093034721207042369/photo/1",
+              "media_key": "3_2093034710205374464",
+              "start": 23,
+              "url": "https://t.co/3jn6iNAT1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093034721207042369",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093034710205374464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092877973602828703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ k3 太贵啦，而且用量好少 https://t.co/3jn6iNAT1X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818257539886460928",
+        "conversation_id": "2092877973602828703",
+        "created_at": "2026-08-27T07:32:47.000Z",
+        "display_text_range": [
+          0,
+          184
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092877973602828703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092877973602828703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 27926,
+          "like_count": 209,
+          "quote_count": 3,
+          "reply_count": 69,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "kimi k3 和 glm5.3 是我认为国模真正开始“能用”的时期\n上个时代，k2.7+glm5.2，我只能作为 claude 和 GPT 用尽时候的下位替代，甚至如果只有他们俩的 token 我都不太想用\n但是 k3 扭转了这一点\n我现在 100%任务都是由 k3 完成的\n他没有比 Claude 做的更差，甚至更好\n我非常推荐大家多使用 k3(only max)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2093034721207042369",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 475,
+          "like_count": 20306,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer\nBuilding  https://t.co/Q5DJkrjgFa \n博客:https://t.co/YPfuXnDF2c  \nTelegramGroup :https://t.co/GiCrumiqio",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 53,
+                "expanded_url": "http://Arkloop.io",
+                "start": 30,
+                "url": "https://t.co/Q5DJkrjgFa"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 81,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 58,
+                "url": "https://t.co/YPfuXnDF2c"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 122,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 99,
+                "url": "https://t.co/GiCrumiqio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmcVI"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2093014710245552410",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 1047,
+          "like_count": 22706,
+          "listed_count": 7,
+          "media_count": 387,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/jrg4ChmcVI",
+        "username": "qqqqqf_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

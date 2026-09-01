@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2091798106094629128",
+    "created_at": "2026-08-25T02:23:38.000Z",
+    "display_text_range": [
+      26,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092075399492796431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072144695065792512",
+          "start": 0,
+          "username": "sunyidingiskami"
+        },
+        {
+          "end": 25,
+          "id": "1690570637499154432",
+          "start": 17,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092075399492796431",
+    "in_reply_to_user_id": "2072144695065792512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091950285589823915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunyidingiskami @zhwevea 辛苦...额总之辛苦了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2091950277490561024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgZsZma0AAAeCi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2091798106094629128",
+        "created_at": "2026-08-25T02:23:38.000Z",
+        "display_text_range": [
+          26,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092075399492796431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072144695065792512",
+              "start": 0,
+              "username": "sunyidingiskami"
+            },
+            {
+              "end": 25,
+              "id": "1690570637499154432",
+              "start": 17,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092075399492796431",
+        "in_reply_to_user_id": "2072144695065792512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091950285589823915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunyidingiskami @zhwevea 辛苦...额总之辛苦了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091950277490561024"
+          ]
+        },
+        "author_id": "2072144695065792512",
+        "conversation_id": "2091798106094629128",
+        "created_at": "2026-08-24T18:06:29.000Z",
+        "display_text_range": [
+          9,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091950285589823915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzm8ejpTxp",
+              "end": 180,
+              "expanded_url": "https://x.com/sunyidingiskami/status/2091950285589823915/photo/1",
+              "media_key": "3_2091950277490561024",
+              "start": 157,
+              "url": "https://t.co/yzm8ejpTxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091950285589823915",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091950277490561024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091798106094629128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea re0第三季刚出的时候我就在用这个头像了，觉得雷古勒斯挺抽象的，正好我喜欢搞抽象，再加上发现x上雷古勒斯这个id好像还没人用\n可是最近某个皓哥突然火了，整的一群人追着我喊辛苦了😇我除了vx全平台都是这个头像这个ID，最严重的时候每天醒来打开手机，b站、QQ频道、x、油管什么的新消息全是辛苦了😇 https://t.co/yzm8ejpTxp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2092075399492796431",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 475,
+          "like_count": 20087,
+          "listed_count": 6,
+          "media_count": 25,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-01T02:28:57.000Z",
+        "description": "中国人です。\n日本文化や二次元が大好きです。\n政治的な話題には興味がないです。",
+        "id": "2072144695065792512",
+        "is_identity_verified": false,
+        "location": "中国大陆",
+        "most_recent_tweet_id": "2091950285589823915",
+        "name": "Regulus Corneas🇨🇳🇯🇵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072145742265987072/PSOPFXiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 72,
+          "like_count": 4510,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "sunyidingiskami",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2092060679419396280",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1769647058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7831,
+          "following_count": 430,
+          "like_count": 33571,
+          "listed_count": 23,
+          "media_count": 2793,
+          "tweet_count": 21503
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

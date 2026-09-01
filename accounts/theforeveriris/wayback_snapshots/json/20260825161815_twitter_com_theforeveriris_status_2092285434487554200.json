@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2092232243167060053",
+    "created_at": "2026-08-25T16:18:15.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092285434487554200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092285434487554200",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092232243167060053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 不得不提全局 emoji 图标了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2092232243167060053",
+        "created_at": "2026-08-25T16:18:15.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092285434487554200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092285434487554200",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092232243167060053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 不得不提全局 emoji 图标了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2092232243167060053",
+        "created_at": "2026-08-25T12:46:53.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092232243167060053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092232243167060053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唉，我真的好讨厌那种，整个软件都用 AI 全自动完成，然后人工看也不看一眼，也不打磨一下的那种，这已经不能用瑕疵来形容了，简直就是破烂货。\n1. 图标没有留白，看着比其他 App 大一圈。\n2. 图标没有圆角，就是一个正方形的方块。\n3. 界面没办法用好看或者简洁来形容了，界面只能用复杂来形容，card 一层一层套，一堆数据指标。\n4. 细节一看惨不忍睹，各种瑕疵，一眼就能看得出来的问题。就比如说柱状图，结果 4 个角的样式全部是圆角，这能看吗？还有切换到功能的界面，上面一半是空白的，错位错一半；夜间模式背景是黑的，字体也是黑的，这谁看得清啊？整个界面就跟一个纯黑壁纸一样。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4390,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "唉，我真的好讨厌那种，整个软件都用 AI 全自动完成，然后人工看也不看一眼，也不打磨一下的那种，这已经不能用瑕疵来形容了，简直就是破烂货。\n1. 图标没有留白，看着比其他 App 大一圈。\n2. 图标没有圆角，就是一个正方形的方块。\n3. 界面没办法用好看或者简洁来形容了，界面只能用复杂来形容，card"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2092285434487554200",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 475,
+          "like_count": 20130,
+          "listed_count": 6,
+          "media_count": 26,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。LOL游戏主播。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi2",
+                "start": 0,
+                "url": "https://t.co/pDPmLWjxRk"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092282866692505979",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1876613242887282688/1780369791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11087,
+          "following_count": 126,
+          "like_count": 16385,
+          "listed_count": 30,
+          "media_count": 373,
+          "tweet_count": 4655
+        },
+        "url": "https://t.co/pDPmLWjxRk",
+        "username": "liujiayi1111",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

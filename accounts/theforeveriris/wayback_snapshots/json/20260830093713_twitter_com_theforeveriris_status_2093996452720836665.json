@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093996445225598977"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2093983085742432624",
+    "created_at": "2026-08-30T09:37:13.000Z",
+    "display_text_range": [
+      16,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093996452720836665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Hs3nJU89x",
+          "end": 125,
+          "expanded_url": "https://x.com/theforeveriris/status/2093996452720836665/photo/1",
+          "media_key": "3_2093996445225598977",
+          "start": 102,
+          "url": "https://t.co/0Hs3nJU89x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093996452720836665",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093996445225598977"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093983085742432624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 可能是这样的。类似于 Reddit， 在哔哩哔哩当你把语言切换为其他语种时，不仅 UI 上的文字会发生改变的，所有视频的标题、简介以及评论会被全部 AI 翻译为对应的语言 https://t.co/0Hs3nJU89x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_2093996445225598977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9erCaaQAEbVvJ.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2124,
+        "media_key": "3_2093983075172818944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9SgzFbIAAQcA3.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093996445225598977"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2093983085742432624",
+        "created_at": "2026-08-30T09:37:13.000Z",
+        "display_text_range": [
+          16,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093996452720836665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Hs3nJU89x",
+              "end": 125,
+              "expanded_url": "https://x.com/theforeveriris/status/2093996452720836665/photo/1",
+              "media_key": "3_2093996445225598977",
+              "start": 102,
+              "url": "https://t.co/0Hs3nJU89x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093996452720836665",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093996445225598977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093983085742432624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 可能是这样的。类似于 Reddit， 在哔哩哔哩当你把语言切换为其他语种时，不仅 UI 上的文字会发生改变的，所有视频的标题、简介以及评论会被全部 AI 翻译为对应的语言 https://t.co/0Hs3nJU89x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093983075172818944"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2093983085742432624",
+        "created_at": "2026-08-30T08:44:06.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093983085742432624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USroeHM45j",
+              "end": 49,
+              "expanded_url": "https://x.com/Rococo90933671/status/2093983085742432624/photo/1",
+              "media_key": "3_2093983075172818944",
+              "start": 26,
+              "url": "https://t.co/USroeHM45j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093983085742432624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093983075172818944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到好几次印度人了，难道B站的国际化程度又加深了吗 https://t.co/USroeHM45j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2093996452720836665",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 473,
+          "like_count": 20550,
+          "listed_count": 6,
+          "media_count": 33,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2093990446393643246",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14054,
+          "following_count": 3271,
+          "like_count": 49769,
+          "listed_count": 42,
+          "media_count": 5284,
+          "tweet_count": 26302
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

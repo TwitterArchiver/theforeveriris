@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2094834230639448437",
+    "created_at": "2026-09-02T05:37:38.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095023322157453771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "367212879",
+          "start": 0,
+          "username": "biggor888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095023322157453771",
+    "in_reply_to_user_id": "367212879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094834230639448437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biggor888 依旧纯蛆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 514,
+        "media_key": "3_2094834204357939200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJYnCYX0AAEJ1W.jpg",
+        "width": 1228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2094834230639448437",
+        "created_at": "2026-09-02T05:37:38.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095023322157453771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "367212879",
+              "start": 0,
+              "username": "biggor888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095023322157453771",
+        "in_reply_to_user_id": "367212879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094834230639448437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biggor888 依旧纯蛆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094834204357939200"
+          ]
+        },
+        "author_id": "367212879",
+        "conversation_id": "2094834230639448437",
+        "created_at": "2026-09-01T17:06:15.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T18:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094834230639448437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJzbLmjK41",
+              "end": 57,
+              "expanded_url": "https://x.com/biggor888/status/2094834230639448437/photo/1",
+              "media_key": "3_2094834204357939200",
+              "start": 34,
+              "url": "https://t.co/pJzbLmjK41"
+            },
+            {
+              "display_url": "x.com/biggor888/stat…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/biggor888/status/2094833164111781929",
+              "start": 58,
+              "url": "https://t.co/aHJIUjirQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094834230639448437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094834204357939200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 20997,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094833164111781929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AMD 免费的 API 是好东西啊，速度快，比英伟达免费的好多了。 https://t.co/pJzbLmjK41 https://t.co/aHJIUjirQu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2095023322157453771",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 476,
+          "like_count": 20817,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-09-03T15:46:25.000Z",
+        "description": "❤️ I enjoy freedom in a broad sense.\n\n资源分享 https://t.co/KPMOsOBGHZ\n\n我开发的快速查电报ID：https://t.co/yuFoRiOqMe\n\n我开发的 Intel Mac 风扇控制软件 https://t.co/D5GKPuYeHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "afffun.com",
+                "end": 66,
+                "expanded_url": "https://afffun.com",
+                "start": 43,
+                "url": "https://t.co/KPMOsOBGHZ"
+              },
+              {
+                "display_url": "telegram.me/greatgorbot",
+                "end": 103,
+                "expanded_url": "https://telegram.me/greatgorbot",
+                "start": 80,
+                "url": "https://t.co/yuFoRiOqMe"
+              },
+              {
+                "display_url": "github.com/john88188/macf…",
+                "end": 150,
+                "expanded_url": "http://github.com/john88188/macfans",
+                "start": 127,
+                "url": "https://t.co/D5GKPuYeHd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afffun.com",
+                "end": 23,
+                "expanded_url": "https://afffun.com",
+                "start": 0,
+                "url": "https://t.co/KPMOsOBGHZ"
+              }
+            ]
+          }
+        },
+        "id": "367212879",
+        "is_identity_verified": false,
+        "location": "Freedom",
+        "most_recent_tweet_id": "2094982929512530028",
+        "name": "Samgor",
+        "pinned_tweet_id": "2082461187514806284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/367212879/1577979595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033078437020389376/ARz5NsEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6647,
+          "following_count": 724,
+          "like_count": 6995,
+          "listed_count": 49,
+          "media_count": 2957,
+          "tweet_count": 22679
+        },
+        "url": "https://t.co/KPMOsOBGHZ",
+        "username": "biggor888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

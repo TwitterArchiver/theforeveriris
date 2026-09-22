@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2096903771066622291",
+    "created_at": "2026-09-07T15:49:34.000Z",
+    "display_text_range": [
+      22,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096989261191119073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891003047582785536",
+          "start": 0,
+          "username": "Jack1179655"
+        },
+        {
+          "end": 21,
+          "id": "1666599054917218305",
+          "start": 13,
+          "username": "BitPuPu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096989261191119073",
+    "in_reply_to_user_id": "1891003047582785536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096914361931444260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack1179655 @BitPuPu 开源社区不同发行版罢了，和你说的这些有啥关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2096903771066622291",
+        "created_at": "2026-09-07T15:49:34.000Z",
+        "display_text_range": [
+          22,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096989261191119073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891003047582785536",
+              "start": 0,
+              "username": "Jack1179655"
+            },
+            {
+              "end": 21,
+              "id": "1666599054917218305",
+              "start": 13,
+              "username": "BitPuPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096989261191119073",
+        "in_reply_to_user_id": "1891003047582785536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096914361931444260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack1179655 @BitPuPu 开源社区不同发行版罢了，和你说的这些有啥关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891003047582785536",
+        "conversation_id": "2096903771066622291",
+        "created_at": "2026-09-07T10:51:57.000Z",
+        "display_text_range": [
+          9,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096914361931444260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "BitPuPu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096914361931444260",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096903771066622291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BitPuPu 这啥迷惑命名，感觉跟App商店里一堆“极速版”“纯净版”一个套路，装机量上去就开始摆烂做版本矩阵了是吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2096989261191119073",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 475,
+          "like_count": 21091,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-16T05:54:18.000Z",
+        "description": "坚信自己的思维在归零与暴富的裂缝中野蛮生长，不信命，只信逻辑与概率。",
+        "id": "1891003047582785536",
+        "is_identity_verified": false,
+        "location": "有关必回",
+        "most_recent_tweet_id": "2096988278348026258",
+        "name": "Jack",
+        "pinned_tweet_id": "2081235032119685373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891003047582785536/1756702029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891003217053724672/ngMM-4Ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 783,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 2704
+        },
+        "url": "",
+        "username": "Jack1179655",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "美股玩家｜BTC持有者｜加密投资｜\nAI研究｜金融艺术家｜韭菜预备役｜\n\n   💧结构解释市场，你解释你自己。\nStructure explains the market. You explain yourself. 💧",
+        "id": "1666599054917218305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096972745955578254",
+        "name": "铺二爷BitPuPu",
+        "pinned_tweet_id": "1997115118061342946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1666599054917218305/1761408278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982112236437999619/giUcjl95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20586,
+          "following_count": 5294,
+          "like_count": 75160,
+          "listed_count": 30,
+          "media_count": 257,
+          "tweet_count": 13227
+        },
+        "url": "",
+        "username": "BitPuPu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2100162453195956287",
+    "created_at": "2026-09-17T09:47:35.000Z",
+    "display_text_range": [
+      28,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100522041191604525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427037300303695872",
+          "start": 0,
+          "username": "foughtgoodfight"
+        },
+        {
+          "end": 27,
+          "id": "1506637610352984065",
+          "start": 17,
+          "username": "JarrettYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100522041191604525",
+    "in_reply_to_user_id": "1427037300303695872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100354481443807729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foughtgoodfight @JarrettYe 你这个描述有歧义啊，最重要的维度限制消失了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2100162453195956287",
+        "created_at": "2026-09-17T09:47:35.000Z",
+        "display_text_range": [
+          28,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100522041191604525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427037300303695872",
+              "start": 0,
+              "username": "foughtgoodfight"
+            },
+            {
+              "end": 27,
+              "id": "1506637610352984065",
+              "start": 17,
+              "username": "JarrettYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100522041191604525",
+        "in_reply_to_user_id": "1427037300303695872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100354481443807729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foughtgoodfight @JarrettYe 你这个描述有歧义啊，最重要的维度限制消失了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427037300303695872",
+        "conversation_id": "2100162453195956287",
+        "created_at": "2026-09-16T22:41:45.000Z",
+        "display_text_range": [
+          11,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100354481443807729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506637610352984065",
+              "start": 0,
+              "username": "JarrettYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100354481443807729",
+        "in_reply_to_user_id": "1506637610352984065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2271,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100162453195956287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JarrettYe 你这个问题的中文本身就制造理解障碍，应该这样写：有 n 个点，每个点只能在自己的范围里移动。怎么安排它们的位置，才能让最靠近的两个相邻点也尽量离得远"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2100522041191604525",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 477,
+          "like_count": 21210,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-15T22:39:50.000Z",
+        "description": "",
+        "id": "1427037300303695872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100354481443807729",
+        "name": "Chart Trader",
+        "pinned_tweet_id": "1719423746166149583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1427037300303695872/1636621191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977046212986781696/9be_252u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4727,
+          "following_count": 480,
+          "like_count": 7290,
+          "listed_count": 11,
+          "media_count": 538,
+          "tweet_count": 6477
+        },
+        "url": "",
+        "username": "foughtgoodfight",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-23T14:23:05.000Z",
+        "description": "Die-hard fan of spaced repetition. Creator of FSRS. \nInfluencer on ZhiHu with 145k+ followers. \nResearch Engineer at MaiMemo Inc. \nFounder of Thoughts Memo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-m-sherlock.github.io",
+                "end": 23,
+                "expanded_url": "https://l-m-sherlock.github.io",
+                "start": 0,
+                "url": "https://t.co/VQgi3Ir9oX"
+              }
+            ]
+          }
+        },
+        "id": "1506637610352984065",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2100519795313828255",
+        "name": "Jarrett Ye",
+        "pinned_tweet_id": "2092810604893577680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506637610352984065/1758647676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569996533449523200/kDUdelDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8220,
+          "following_count": 449,
+          "like_count": 26232,
+          "listed_count": 50,
+          "media_count": 622,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/VQgi3Ir9oX",
+        "username": "JarrettYe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

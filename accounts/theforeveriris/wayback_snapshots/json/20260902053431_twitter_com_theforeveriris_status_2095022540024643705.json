@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2094818755708944784",
+    "created_at": "2026-09-02T05:34:31.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T06:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095022540024643705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095022540024643705",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094818755708944784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@aoim33 mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_2094818748926693376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJKjaaakAAdqd6.jpg",
+        "width": 1043
+      },
+      {
+        "height": 902,
+        "media_key": "3_2094818748805115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJKjZ9bcAA49NX.jpg",
+        "width": 894
+      },
+      {
+        "height": 1126,
+        "media_key": "3_2094818748809297920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJKjZ-bQAAjsuk.jpg",
+        "width": 1038
+      },
+      {
+        "height": 1594,
+        "media_key": "3_2094818748909907968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJKjaWacAAI9VV.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2094818755708944784",
+        "created_at": "2026-09-02T05:34:31.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095022540024643705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095022540024643705",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094818755708944784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@aoim33 mj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094818748926693376",
+            "3_2094818748805115904",
+            "3_2094818748809297920",
+            "3_2094818748909907968"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094818755708944784",
+        "created_at": "2026-09-01T16:04:45.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094818755708944784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0EqxBfTKs2",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2094818755708944784/photo/1",
+              "media_key": "3_2094818748926693376",
+              "start": 12,
+              "url": "https://t.co/0EqxBfTKs2"
+            },
+            {
+              "display_url": "pic.x.com/0EqxBfTKs2",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2094818755708944784/photo/1",
+              "media_key": "3_2094818748805115904",
+              "start": 12,
+              "url": "https://t.co/0EqxBfTKs2"
+            },
+            {
+              "display_url": "pic.x.com/0EqxBfTKs2",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2094818755708944784/photo/1",
+              "media_key": "3_2094818748809297920",
+              "start": 12,
+              "url": "https://t.co/0EqxBfTKs2"
+            },
+            {
+              "display_url": "pic.x.com/0EqxBfTKs2",
+              "end": 35,
+              "expanded_url": "https://x.com/aoim33/status/2094818755708944784/photo/1",
+              "media_key": "3_2094818748909907968",
+              "start": 12,
+              "url": "https://t.co/0EqxBfTKs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094818755708944784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094818748926693376"
+          },
+          {
+            "media_key": "3_2094818748805115904"
+          },
+          {
+            "media_key": "3_2094818748809297920"
+          },
+          {
+            "media_key": "3_2094818748909907968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1695,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "大学就是要好好学习的！ https://t.co/0EqxBfTKs2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2095022540024643705",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 476,
+          "like_count": 20808,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "🧊 / 打音游但不混圈 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课 / tg 频道 ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ibUg3"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "is_identity_verified": true,
+        "location": "杭州 / 温州 / 上海",
+        "most_recent_tweet_id": "2095004135011824039",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902568136450424832/1779067947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6981,
+          "following_count": 3266,
+          "like_count": 62437,
+          "listed_count": 23,
+          "media_count": 4072,
+          "tweet_count": 15955
+        },
+        "url": "https://t.co/cIk53ibUg3",
+        "username": "aoim33",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

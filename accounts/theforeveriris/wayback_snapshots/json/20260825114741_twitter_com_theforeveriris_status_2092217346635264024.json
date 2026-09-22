@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2092030191719612924",
+    "created_at": "2026-08-25T11:47:41.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092217346635264024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092217346635264024",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092030191719612924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 万一玩家玩的是研发模式呢（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2091927037179310082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgEjosbsAIVocn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2092030191719612924",
+        "created_at": "2026-08-25T11:47:41.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092217346635264024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092217346635264024",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092030191719612924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 万一玩家玩的是研发模式呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091927037179310082"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2092030191719612924",
+        "created_at": "2026-08-24T23:24:00.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092030191719612924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSTz04kPRo",
+              "end": 50,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2092030191719612924/photo/1",
+              "media_key": "3_2091927037179310082",
+              "start": 27,
+              "url": "https://t.co/FSTz04kPRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092030191719612924",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091927037179310082"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5911,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不懂就问，窗外的天上为什么突然出现了这个奇怪的红泡泡 https://t.co/FSTz04kPRo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2092217346635264024",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 475,
+          "like_count": 20109,
+          "listed_count": 6,
+          "media_count": 26,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2092212897468322129",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 1925,
+          "like_count": 3425,
+          "listed_count": 2,
+          "media_count": 1356,
+          "tweet_count": 8856
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

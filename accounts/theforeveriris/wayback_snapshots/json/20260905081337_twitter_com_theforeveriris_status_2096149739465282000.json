@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096149708742012928",
+        "3_2096149719001305088"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096149739465282000",
+    "created_at": "2026-09-05T08:13:37.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096149739465282000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIiNUUpzrP",
+          "end": 56,
+          "expanded_url": "https://x.com/theforeveriris/status/2096149739465282000/photo/1",
+          "media_key": "3_2096149708742012928",
+          "start": 33,
+          "url": "https://t.co/kIiNUUpzrP"
+        },
+        {
+          "display_url": "pic.x.com/kIiNUUpzrP",
+          "end": 56,
+          "expanded_url": "https://x.com/theforeveriris/status/2096149739465282000/photo/1",
+          "media_key": "3_2096149719001305088",
+          "start": 33,
+          "url": "https://t.co/kIiNUUpzrP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096149739465282000",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096149708742012928"
+      },
+      {
+        "media_key": "3_2096149719001305088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鱼你还没有明白吗，你根本没有赢他的机会，这分明就是老叟戏顽童（） https://t.co/kIiNUUpzrP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2096149708742012928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcFDeGbMAAY55n.jpg",
+        "width": 2800
+      },
+      {
+        "height": 1260,
+        "media_key": "3_2096149719001305088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcFEEUbkAA5geX.jpg",
+        "width": 2800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096149708742012928",
+            "3_2096149719001305088"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096149739465282000",
+        "created_at": "2026-09-05T08:13:37.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096149739465282000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIiNUUpzrP",
+              "end": 56,
+              "expanded_url": "https://x.com/theforeveriris/status/2096149739465282000/photo/1",
+              "media_key": "3_2096149708742012928",
+              "start": 33,
+              "url": "https://t.co/kIiNUUpzrP"
+            },
+            {
+              "display_url": "pic.x.com/kIiNUUpzrP",
+              "end": 56,
+              "expanded_url": "https://x.com/theforeveriris/status/2096149739465282000/photo/1",
+              "media_key": "3_2096149719001305088",
+              "start": 33,
+              "url": "https://t.co/kIiNUUpzrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096149739465282000",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096149708742012928"
+          },
+          {
+            "media_key": "3_2096149719001305088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱼你还没有明白吗，你根本没有赢他的机会，这分明就是老叟戏顽童（） https://t.co/kIiNUUpzrP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2096149739465282000",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 475,
+          "like_count": 21037,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

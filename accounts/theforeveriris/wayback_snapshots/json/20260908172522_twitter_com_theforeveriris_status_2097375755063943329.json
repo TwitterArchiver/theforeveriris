@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2097322173719511408",
+    "created_at": "2026-09-08T17:25:22.000Z",
+    "display_text_range": [
+      17,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097375755063943329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581738468547301376",
+          "start": 0,
+          "username": "ProbiusOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097375755063943329",
+    "in_reply_to_user_id": "1581738468547301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097322173719511408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProbiusOfficial 为什么现在流行用 HTML 做设计文档了，既不高效也不一定直观或者美观，还会费更多 token，我还是更愿意使用、阅读 markdown"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1214,
+        "media_key": "3_2097321775189405696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsvCt3bMAAD2-K.jpg",
+        "width": 2557
+      },
+      {
+        "height": 1228,
+        "media_key": "3_2097321820592680960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsvFXAaMAAOjwz.jpg",
+        "width": 2559
+      },
+      {
+        "height": 1516,
+        "media_key": "3_2097321852473679872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsvHNxboAAACVw.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2097322173719511408",
+        "created_at": "2026-09-08T17:25:22.000Z",
+        "display_text_range": [
+          17,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097375755063943329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581738468547301376",
+              "start": 0,
+              "username": "ProbiusOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097375755063943329",
+        "in_reply_to_user_id": "1581738468547301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097322173719511408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProbiusOfficial 为什么现在流行用 HTML 做设计文档了，既不高效也不一定直观或者美观，还会费更多 token，我还是更愿意使用、阅读 markdown"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097321775189405696",
+            "3_2097321820592680960",
+            "3_2097321852473679872"
+          ]
+        },
+        "author_id": "1581738468547301376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097322173719511408",
+        "created_at": "2026-09-08T13:52:27.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097322173719511408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pnBB4tOCq7",
+              "end": 88,
+              "expanded_url": "https://x.com/ProbiusOfficial/status/2097322173719511408/photo/1",
+              "media_key": "3_2097321775189405696",
+              "start": 65,
+              "url": "https://t.co/pnBB4tOCq7"
+            },
+            {
+              "display_url": "pic.x.com/pnBB4tOCq7",
+              "end": 88,
+              "expanded_url": "https://x.com/ProbiusOfficial/status/2097322173719511408/photo/1",
+              "media_key": "3_2097321820592680960",
+              "start": 65,
+              "url": "https://t.co/pnBB4tOCq7"
+            },
+            {
+              "display_url": "pic.x.com/pnBB4tOCq7",
+              "end": 88,
+              "expanded_url": "https://x.com/ProbiusOfficial/status/2097322173719511408/photo/1",
+              "media_key": "3_2097321852473679872",
+              "start": 65,
+              "url": "https://t.co/pnBB4tOCq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097322173719511408",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097321775189405696"
+          },
+          {
+            "media_key": "3_2097321820592680960"
+          },
+          {
+            "media_key": "3_2097321852473679872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1225,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同一份产品设计文档x \nhy4 gml5.3-flash deepseek-v4.1-flash-expires-on-0910 https://t.co/pnBB4tOCq7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2097375755063943329",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 476,
+          "like_count": 21104,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-16T20:07:43.000Z",
+        "description": "founder of @cyclens_tech | CTF教程 - HelloCTF: https://t.co/qIGhtUfXk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cyclens_tech"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hello-ctf.com",
+                "end": 68,
+                "expanded_url": "https://hello-ctf.com/",
+                "start": 45,
+                "url": "https://t.co/qIGhtUfXk2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ProbiusOfficial",
+                "end": 23,
+                "expanded_url": "https://github.com/ProbiusOfficial",
+                "start": 0,
+                "url": "https://t.co/E9lZZ7BIjH"
+              }
+            ]
+          }
+        },
+        "id": "1581738468547301376",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097358385301848200",
+        "name": "探姬 | Hello-CTF 🚩",
+        "pinned_tweet_id": "2030395405083763109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581738468547301376/1784695414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998788213247541248/eoyKSlKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9849,
+          "following_count": 512,
+          "like_count": 15333,
+          "listed_count": 47,
+          "media_count": 2131,
+          "tweet_count": 13609
+        },
+        "url": "https://t.co/E9lZZ7BIjH",
+        "username": "ProbiusOfficial",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

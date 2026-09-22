@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2100767717515247667",
+    "created_at": "2026-09-18T07:44:24.000Z",
+    "display_text_range": [
+      9,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100853430483042710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1486017329662423044",
+          "start": 0,
+          "username": "mylifcc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100853430483042710",
+    "in_reply_to_user_id": "1486017329662423044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100767717515247667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylifcc 感觉智能程度堪比年初 DeepSeek r 系列左右（？），完全的 emoji 高手和圆角爱好者，按照传闻可能是轮到了不太妙的 model（？）以及 opencode 祖传甚至更糟的断连，体验非常差"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2100766464798261248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdr-CpagAAFneZ.jpg",
+        "width": 2554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2100767717515247667",
+        "created_at": "2026-09-18T07:44:24.000Z",
+        "display_text_range": [
+          9,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100853430483042710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1486017329662423044",
+              "start": 0,
+              "username": "mylifcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100853430483042710",
+        "in_reply_to_user_id": "1486017329662423044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100767717515247667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylifcc 感觉智能程度堪比年初 DeepSeek r 系列左右（？），完全的 emoji 高手和圆角爱好者，按照传闻可能是轮到了不太妙的 model（？）以及 opencode 祖传甚至更糟的断连，体验非常差"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100766464798261248"
+          ]
+        },
+        "author_id": "1486017329662423044",
+        "conversation_id": "2100767717515247667",
+        "created_at": "2026-09-18T02:03:48.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100767717515247667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bXT1Qlwna",
+              "end": 151,
+              "expanded_url": "https://x.com/mylifcc/status/2100767717515247667/photo/1",
+              "media_key": "3_2100766464798261248",
+              "start": 128,
+              "url": "https://t.co/6bXT1Qlwna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100767717515247667",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100766464798261248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9228,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "信Union Alpha 还是信我是秦始皇？\n\nUnion Alpha自称是Pareto 26.9(26年9月)，不是一颗单独训练的大模型，而是一套“一次调用、背后多模型比稿、最后只给你一份答案”的服务\n\n这模型自称免费1周，现在1天就停了，什么垃圾玩意 https://t.co/6bXT1Qlwna"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2100853430483042710",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 478,
+          "like_count": 21270,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-25T16:45:32.000Z",
+        "description": "每天用 AI 写代码的工程师\nClaude Code ｜ Codex深度用户  ｜Agentic engineering\n在这里分享 AI 工具实测和开发者工作流，持续构建中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/majiayu000",
+                "end": 23,
+                "expanded_url": "https://github.com/majiayu000",
+                "start": 0,
+                "url": "https://t.co/ufi5xk9Iy2"
+              }
+            ]
+          }
+        },
+        "id": "1486017329662423044",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100851285348220944",
+        "name": "lifcc",
+        "pinned_tweet_id": "2053385535658533072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1486017329662423044/1778929715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034239213487681536/2gjQXlXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9209,
+          "following_count": 289,
+          "like_count": 6420,
+          "listed_count": 73,
+          "media_count": 1313,
+          "tweet_count": 14909
+        },
+        "url": "https://t.co/ufi5xk9Iy2",
+        "username": "mylifcc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

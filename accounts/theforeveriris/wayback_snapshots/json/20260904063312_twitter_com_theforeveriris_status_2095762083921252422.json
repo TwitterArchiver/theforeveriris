@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2095684990717870393",
+    "created_at": "2026-09-04T06:33:12.000Z",
+    "display_text_range": [
+      23,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T07:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095762083921252422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1024287283120234496",
+          "start": 0,
+          "username": "terry1chao"
+        },
+        {
+          "end": 22,
+          "id": "1426015810472972298",
+          "start": 12,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095762083921252422",
+    "in_reply_to_user_id": "1024287283120234496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095754094321574264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@terry1chao @CyronANNO 怎么就难如登天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2095684990717870393",
+        "created_at": "2026-09-04T06:33:12.000Z",
+        "display_text_range": [
+          23,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095762083921252422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1024287283120234496",
+              "start": 0,
+              "username": "terry1chao"
+            },
+            {
+              "end": 22,
+              "id": "1426015810472972298",
+              "start": 12,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095762083921252422",
+        "in_reply_to_user_id": "1024287283120234496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095754094321574264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@terry1chao @CyronANNO 怎么就难如登天了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1024287283120234496",
+        "conversation_id": "2095684990717870393",
+        "created_at": "2026-09-04T06:01:27.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095754094321574264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095754094321574264",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095684990717870393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyronANNO vscode配c++环境难如登天"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2095762083921252422",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 475,
+          "like_count": 20988,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-31T13:34:53.000Z",
+        "description": "He/Him",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/terry-chao",
+                "end": 23,
+                "expanded_url": "https://github.com/terry-chao",
+                "start": 0,
+                "url": "https://t.co/7fUtYtCce3"
+              }
+            ]
+          }
+        },
+        "id": "1024287283120234496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095754094321574264",
+        "name": "Terry 👨🏻‍💻",
+        "pinned_tweet_id": "1728694815938990278",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1024287283120234496/1539151203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775029894554218496/F_zCNhB9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 645,
+          "like_count": 2099,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/7fUtYtCce3",
+        "username": "terry1chao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ |\nDM⇒フォロバ | サブ @cyron_anno | CN EN JP KR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "is_identity_verified": false,
+        "location": "Soochow",
+        "most_recent_tweet_id": "2095761213103772142",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426015810472972298/1774928998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078180183266504704/nIRBXx5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 911,
+          "like_count": 219152,
+          "listed_count": 0,
+          "media_count": 5783,
+          "tweet_count": 23291
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

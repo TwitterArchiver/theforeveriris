@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090025228030345216",
+        "3_2090025267997880320"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090025411166286011",
+    "created_at": "2026-08-19T10:37:43.000Z",
+    "display_text_range": [
+      0,
+      189
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090025411166286011"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "推友情况通报"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2083872895659634688",
+          "start": 8,
+          "username": "LingYu0612"
+        },
+        {
+          "end": 35,
+          "id": "2063957681984225280",
+          "start": 25,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 55,
+          "id": "2033160782687731712",
+          "start": 41,
+          "username": "Shioochic_Xyn"
+        },
+        {
+          "end": 81,
+          "id": "1992506703678705664",
+          "start": 65,
+          "username": "jingqngyng64121"
+        },
+        {
+          "end": 100,
+          "id": "1947508861063335939",
+          "start": 91,
+          "username": "vvyyjbkb"
+        },
+        {
+          "end": 115,
+          "id": "1883207896768651264",
+          "start": 106,
+          "username": "clem0216"
+        },
+        {
+          "end": 136,
+          "id": "1857802986837172224",
+          "start": 122,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 156,
+          "id": "1605538501705043968",
+          "start": 141,
+          "username": "yangyan_huntun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8JFBucsr4J",
+          "end": 213,
+          "expanded_url": "https://x.com/theforeveriris/status/2090025411166286011/photo/1",
+          "media_key": "3_2090025228030345216",
+          "start": 190,
+          "url": "https://t.co/8JFBucsr4J"
+        },
+        {
+          "display_url": "pic.x.com/8JFBucsr4J",
+          "end": 213,
+          "expanded_url": "https://x.com/theforeveriris/status/2090025411166286011/photo/1",
+          "media_key": "3_2090025267997880320",
+          "start": 190,
+          "url": "https://t.co/8JFBucsr4J"
+        },
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 237,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2089993740362690585",
+          "start": 214,
+          "url": "https://t.co/uNb7YQYB0J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090025411166286011",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090025228030345216"
+      },
+      {
+        "media_key": "3_2090025267997880320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089993740362690585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#推友情况通报\n@LingYu0612  冷羽秋\n@YuwenMewo  唐毓文\n@Shioochic_Xyn  汐落 shio\n@jingqngyng64121 kawaii✝️\n@vvyyjbkb 凌喵喵🍥\n@clem0216 波奇酱🍥.\n@LingJiaXin233 凌嘉欣\n@yangyan_huntun 羊言\n全部遭遇冻结（且时间集中在今天上午8点以后，下午5点以前） https://t.co/8JFBucsr4J https://t.co/uNb7YQYB0J"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [LingYu0612].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "LingYu0612",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "LingYu0612"
+    },
+    {
+      "detail": "User has been suspended: [YuwenMewo].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "YuwenMewo",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "YuwenMewo"
+    },
+    {
+      "detail": "User has been suspended: [Shioochic_Xyn].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Shioochic_Xyn",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Shioochic_Xyn"
+    },
+    {
+      "detail": "User has been suspended: [jingqngyng64121].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "jingqngyng64121",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "jingqngyng64121"
+    },
+    {
+      "detail": "User has been suspended: [vvyyjbkb].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "vvyyjbkb",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "vvyyjbkb"
+    },
+    {
+      "detail": "User has been suspended: [clem0216].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "clem0216",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "clem0216"
+    },
+    {
+      "detail": "User has been suspended: [LingJiaXin233].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "LingJiaXin233",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "LingJiaXin233"
+    },
+    {
+      "detail": "User has been suspended: [yangyan_huntun].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "yangyan_huntun",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "yangyan_huntun"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2673,
+        "media_key": "3_2090025228030345216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFC3xhagAAQzWy.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2667,
+        "media_key": "3_2090025267997880320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFC6GaasAAXibA.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090025228030345216",
+            "3_2090025267997880320"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090025411166286011",
+        "created_at": "2026-08-19T10:37:43.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090025411166286011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情况通报"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2083872895659634688",
+              "start": 8,
+              "username": "LingYu0612"
+            },
+            {
+              "end": 35,
+              "id": "2063957681984225280",
+              "start": 25,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 55,
+              "id": "2033160782687731712",
+              "start": 41,
+              "username": "Shioochic_Xyn"
+            },
+            {
+              "end": 81,
+              "id": "1992506703678705664",
+              "start": 65,
+              "username": "jingqngyng64121"
+            },
+            {
+              "end": 100,
+              "id": "1947508861063335939",
+              "start": 91,
+              "username": "vvyyjbkb"
+            },
+            {
+              "end": 115,
+              "id": "1883207896768651264",
+              "start": 106,
+              "username": "clem0216"
+            },
+            {
+              "end": 136,
+              "id": "1857802986837172224",
+              "start": 122,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 156,
+              "id": "1605538501705043968",
+              "start": 141,
+              "username": "yangyan_huntun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JFBucsr4J",
+              "end": 213,
+              "expanded_url": "https://x.com/theforeveriris/status/2090025411166286011/photo/1",
+              "media_key": "3_2090025228030345216",
+              "start": 190,
+              "url": "https://t.co/8JFBucsr4J"
+            },
+            {
+              "display_url": "pic.x.com/8JFBucsr4J",
+              "end": 213,
+              "expanded_url": "https://x.com/theforeveriris/status/2090025411166286011/photo/1",
+              "media_key": "3_2090025267997880320",
+              "start": 190,
+              "url": "https://t.co/8JFBucsr4J"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2089993740362690585",
+              "start": 214,
+              "url": "https://t.co/uNb7YQYB0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090025411166286011",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090025228030345216"
+          },
+          {
+            "media_key": "3_2090025267997880320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089993740362690585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#推友情况通报\n@LingYu0612  冷羽秋\n@YuwenMewo  唐毓文\n@Shioochic_Xyn  汐落 shio\n@jingqngyng64121 kawaii✝️\n@vvyyjbkb 凌喵喵🍥\n@clem0216 波奇酱🍥.\n@LingJiaXin233 凌嘉欣\n@yangyan_huntun 羊言\n全部遭遇冻结（且时间集中在今天上午8点以后，下午5点以前） https://t.co/8JFBucsr4J https://t.co/uNb7YQYB0J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2089993740362690585",
+        "created_at": "2026-08-19T08:31:52.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089993740362690585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089993740362690585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 302,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我说某个人疯了。\n我接下来要发10个通报😇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2090025411166286011",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 471,
+          "like_count": 19854,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "location": "XMN/Amoy",
+        "most_recent_tweet_id": "2090018198045540615",
+        "name": "🩷Akiramenai💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8747,
+          "following_count": 1249,
+          "like_count": 216108,
+          "listed_count": 6,
+          "media_count": 1205,
+          "tweet_count": 8962
+        },
+        "url": "",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096864393216872448"
+      ]
+    },
+    "author_id": "1721714145480114176",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096864401869672805",
+    "created_at": "2026-09-07T07:33:25.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096864401869672805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3GETONAxZ",
+          "end": 37,
+          "expanded_url": "https://x.com/theforeveriris/status/2096864401869672805/photo/1",
+          "media_key": "3_2096864393216872448",
+          "start": 14,
+          "url": "https://t.co/K3GETONAxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096864401869672805",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096864393216872448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们必须想象铜傀儡是幸福的 https://t.co/K3GETONAxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1009,
+        "media_key": "3_2096864393216872448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmPDlPbUAAVrbt.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096864393216872448"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096864401869672805",
+        "created_at": "2026-09-07T07:33:25.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096864401869672805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3GETONAxZ",
+              "end": 37,
+              "expanded_url": "https://x.com/theforeveriris/status/2096864401869672805/photo/1",
+              "media_key": "3_2096864393216872448",
+              "start": 14,
+              "url": "https://t.co/K3GETONAxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096864401869672805",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096864393216872448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们必须想象铜傀儡是幸福的 https://t.co/K3GETONAxZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2096864401869672805",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 475,
+          "like_count": 21092,
+          "listed_count": 6,
+          "media_count": 48,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

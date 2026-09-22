@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2094482557845066158",
+    "created_at": "2026-08-31T21:24:54.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T22:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094536933955580401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094536933955580401",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094482557845066158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@MinusZeroQwQ 网上不是有现成的工具能用吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2640,
+        "media_key": "3_2094482535615234048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREYxOObAAAu8Ow.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2094482544431681536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREYxvEbUAAsrWo.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2094482557845066158",
+        "created_at": "2026-08-31T21:24:54.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T22:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094536933955580401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094536933955580401",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094482557845066158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@MinusZeroQwQ 网上不是有现成的工具能用吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094482535615234048",
+            "3_2094482544431681536"
+          ]
+        },
+        "author_id": "1363090571397451778",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2094482557845066158",
+        "created_at": "2026-08-31T17:48:50.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094482557845066158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tT3hPWEtuu",
+              "end": 117,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2094482557845066158/photo/1",
+              "media_key": "3_2094482535615234048",
+              "start": 94,
+              "url": "https://t.co/tT3hPWEtuu"
+            },
+            {
+              "display_url": "pic.x.com/tT3hPWEtuu",
+              "end": 117,
+              "expanded_url": "https://x.com/MinusZeroQwQ/status/2094482557845066158/photo/1",
+              "media_key": "3_2094482544431681536",
+              "start": 94,
+              "url": "https://t.co/tT3hPWEtuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094482557845066158",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094482535615234048"
+          },
+          {
+            "media_key": "3_2094482544431681536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1904,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "好吧 单纯是为了一顿自助餐的大学生优惠，花了一晚上时间半古法编程（因为尝试用AI抄被拒了）的抄了一个单文件html的学信档案，然后干脆又写了个ksu模块在本地起了个httpd服务来托管（ https://t.co/tT3hPWEtuu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2094536933955580401",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 476,
+          "like_count": 20728,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "如梦般美好的真实，我们还会继续奔赴。| 04MTX🏳️‍⚧️ | 搞中文vocaloid的 | 一般路过阴暗b，这里平时大概会发一些日常 | 大概可能会有NSFW? | 大概偶尔会发一些业余无线电，以及请不要因为无线电关注我 | 如果你认出来我的其他平台账号也请不要说破哦 |\n@WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 139,
+                "username": "WSGM233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuluoxk.moe",
+                "end": 23,
+                "expanded_url": "https://yuluoxk.moe/",
+                "start": 0,
+                "url": "https://t.co/M2DKsZREnv"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094489111403094359",
+        "name": "Yuluoxk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363090571397451778/1721829480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063082928545185792/F8UWRhvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 387,
+          "like_count": 13506,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 1528
+        },
+        "url": "https://t.co/M2DKsZREnv",
+        "username": "MinusZeroQwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

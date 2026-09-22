@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1721714145480114176",
+    "conversation_id": "2100112185473237417",
+    "created_at": "2026-09-16T12:22:58.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100198757841469631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2093710985827848193",
+          "start": 0,
+          "username": "yamazakiisuzu_N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100198757841469631",
+    "in_reply_to_user_id": "2093710985827848193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100112185473237417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamazakiisuzu_N 还是低估笔电男大压抑程度了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721714145480114176",
+        "conversation_id": "2100112185473237417",
+        "created_at": "2026-09-16T12:22:58.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100198757841469631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2093710985827848193",
+              "start": 0,
+              "username": "yamazakiisuzu_N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100198757841469631",
+        "in_reply_to_user_id": "2093710985827848193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100112185473237417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamazakiisuzu_N 还是低估笔电男大压抑程度了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093710985827848193",
+        "conversation_id": "2100112185473237417",
+        "created_at": "2026-09-16T06:38:57.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100112185473237417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QiZou29378/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/QiZou29378/status/2099937593337286871",
+              "start": 32,
+              "url": "https://t.co/HNizIdIFcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100112185473237417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4771,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099937593337286871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝一直觉得这种问题跟顺直男觉得自己会被男同舍友给配了一样……🐱 https://t.co/HNizIdIFcd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2100198757841469631",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093201487149289472/3SbHw4eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 478,
+          "like_count": 21196,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T14:43:57.000Z",
+        "description": "啊…啊…啊…啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！",
+        "id": "2093710985827848193",
+        "is_identity_verified": false,
+        "location": "梦里",
+        "most_recent_tweet_id": "2100195433108971566",
+        "name": "✞山崎いすず✞",
+        "pinned_tweet_id": "2096583896247026032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093710985827848193/1788162518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093711492566904832/TvwoUe1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 130,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "yamazakiisuzu_N",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
